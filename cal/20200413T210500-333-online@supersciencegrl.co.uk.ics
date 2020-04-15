@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200415T190000
+DTEND;TZID=Europe/London:20200415T200000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Covid19: A groundwork for therapeutic agents and vaccines
+UID:20200413T210500-333-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Covid19: A groundwork for therapeutic agents and vaccines (web
+ inar)\n\nPlease visit https://www.acs.org/content/acs/en/acs-webinars/drug
+ -discovery/covid-19.html?sc=200415_tdd_webinar_drugdisc_em_eb_medi for mor
+ e information. Note: you may need to register separately for this event. \
+ n\nThis webinar is run by ACS MEDI. \n\nThis is an auto-generated placehol
+ der event created by Nessa Carson at https://supersciencegrl.co.uk. Please
+  check with ACS MEDI for any registration links\, passwords\, or possible 
+ changes to the event. I do not hold any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

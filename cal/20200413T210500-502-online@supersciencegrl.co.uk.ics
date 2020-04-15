@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART:20200422T233000Z
+DTEND:20200422T014500Z
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:New developments in the Covid19 outbreak
+UID:20200413T210500-502-online@supersciencegrl.co.uk
+TZID:UTC
+DESCRIPTION:New developments in the Covid19 outbreak (webinar)\n\nPlease v
+ isit https://www.nyas.org/events/2020/what-you-need-to-know-about-the-new-
+ coronavirus-covid-19/ for more information. Note: you may need to register
+  separately for this event. \n\nThis webinar is run by New York Academy of
+  Sciences. \n\nThis is an auto-generated placeholder event created by Ness
+ a Carson at https://supersciencegrl.co.uk. Please check with New York Acad
+ emy of Sciences for any registration links\, passwords\, or possible chang
+ es to the event. I do not hold any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

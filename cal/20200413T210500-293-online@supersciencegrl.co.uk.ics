@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200414T190000
+DTEND;TZID=Europe/London:20200414T200000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:ANOVA, Regression, &amp; Partition Trees
+UID:20200413T210500-293-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:ANOVA\, Regression\, &amp; Partition Trees (webinar)\n\nPlease
+  visit https://www.jmp.com/en_us/events/live-webinars/academic/anova-14apr
+ 2020.html for more information. Note: you may need to register separately 
+ for this event. \n\nThis webinar is run by JMP. \n\nThis is an auto-genera
+ ted placeholder event created by Nessa Carson at https://supersciencegrl.c
+ o.uk. Please check with JMP for any registration links\, passwords\, or po
+ ssible changes to the event. I do not hold any responsibility for this web
+ inar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200409T160000
+DTEND;TZID=Europe/London:20200409T170000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:James Claverley - Practical actions for improving the workplace environment for LGBT+ people working in the physical sciences
+UID:20200413T210500-225-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:James Claverley - Practical actions for improving the workplac
+ e environment for LGBT+ people working in the physical sciences
+Bryony Hoc
+ kin - Photocatalysis: a bright future for greener chemical synthesis? (web
+ inar)\n\nPlease visit https://twitter.com/TheSTEMvillage/status/1246477518
+ 342885376 for more information. Note: you may need to register separately 
+ for this event. \n\nThis webinar is run by STEM Village. \n\nThis is an au
+ to-generated placeholder event created by Nessa Carson at https://supersci
+ encegrl.co.uk. Please check with STEM Village for any registration links\,
+  passwords\, or possible changes to the event. I do not hold any responsib
+ ility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

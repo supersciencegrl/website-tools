@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200412T145800
+DTSTART;TZID=Europe/London:20200414T095000
+DTEND;TZID=Europe/London:20200414T105000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:ViPerCon: Virtual Perovskite Conference
+UID:20200412T145800-141-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:ViPerCon: Virtual Perovskite Conference (£\, conference)\n\nPl
+ ease visit https://salibalab.wordpress.com/virtual-perovskite-conference/ 
+ for more information. Note: you may need to register separately for this e
+ vent. \n\nThis conference is run by Michael Saliba lab. \n\nThis is an aut
+ o-generated placeholder event created by Nessa Carson at https://superscie
+ ncegrl.co.uk. Please check with Michael Saliba lab for any registration li
+ nks\, passwords\, or possible changes to the event. I do not hold any resp
+ onsibility for this conference. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200617T160000
+DTEND;TZID=Europe/London:20200617T170000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:TBC
+UID:20200413T210500-832-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:TBC (webinar)\n\nPlease visit https://zoom.us/webinar/register
+ /5815863537172/WN_1R4aBGfXQ-KuEtUzMdfwBg for more information. Note: you m
+ ay need to register separately for this event. \n\nThis webinar is run by 
+ RSC Main Group. \n\nThis is an auto-generated placeholder event created by
+  Nessa Carson at https://supersciencegrl.co.uk. Please check with RSC Main
+  Group for any registration links\, passwords\, or possible changes to the
+  event. I do not hold any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

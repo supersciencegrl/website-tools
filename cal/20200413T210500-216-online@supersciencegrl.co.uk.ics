@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200408T170000
+DTEND;TZID=Europe/London:20200408T180000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Kami Hull - Transition Metal-Catalysed Amination
+UID:20200413T210500-216-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Kami Hull - Transition Metal-Catalysed Amination
+Matthew Franc
+ is - Site-specific protein modification using enzymatic oxidative coupling
+  reactions (webinar)\n\nPlease visit https://www.organicdivision.org/doc-v
+ irtual-symposium-series/ for more information. Note: you may need to regis
+ ter separately for this event. \n\nThis webinar is run by ACS DOC Virtual 
+ Symposium. \n\nThis is an auto-generated placeholder event created by Ness
+ a Carson at https://supersciencegrl.co.uk. Please check with ACS DOC Virtu
+ al Symposium for any registration links\, passwords\, or possible changes 
+ to the event. I do not hold any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

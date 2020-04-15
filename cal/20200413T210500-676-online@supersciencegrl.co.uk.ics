@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200513T140000
+DTEND;TZID=Europe/London:20200513T150000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Jackie Hunter &ndash; The use of BenevolentAI's platform to identify and validate novel targets for neurological diseases
+UID:20200413T210500-676-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Jackie Hunter &ndash; The use of BenevolentAI's platform to id
+ entify and validate novel targets for neurological diseases (webinar)\n\nP
+ lease visit https://www.oxfordglobal.co.uk/pharmatec-series/webinars/ for 
+ more information. Note: you may need to register separately for this event
+ . \n\nThis webinar is run by Oxford Global. \n\nThis is an auto-generated 
+ placeholder event created by Nessa Carson at https://supersciencegrl.co.uk
+ . Please check with Oxford Global for any registration links\, passwords\,
+  or possible changes to the event. I do not hold any responsibility for th
+ is webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

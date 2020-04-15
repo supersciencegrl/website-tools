@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200426T180000
+DTEND;TZID=Europe/London:20200426T190000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Global Inorganic Discussion Weekend
+UID:20200413T210500-534-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Global Inorganic Discussion Weekend
+Ian Tonks &ndash; TBC
+Dann
+ y Broere &ndash; TBC (webinar)\n\nPlease visit https://www.cheminst.ca/con
+ ferences/gidw/ for more information. Note: you may need to register separa
+ tely for this event. \n\nThis webinar is run by Marcus Drover &amp; Saurab
+ h Chitnis. \n\nThis is an auto-generated placeholder event created by Ness
+ a Carson at https://supersciencegrl.co.uk. Please check with Marcus Drover
+  &amp; Saurabh Chitnis for any registration links\, passwords\, or possibl
+ e changes to the event. I do not hold any responsibility for this webinar.
+  
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200803T100000
+DTEND;TZID=Europe/London:20200803T110000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:The Growing Textile Waste Problem
+UID:20200413T210500-890-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:The Growing Textile Waste Problem (webinar)\n\nPlease visit ht
+ tps://www.rsc.org/events/detail/43111/the-growing-textile-waste-problem fo
+ r more information. Note: you may need to register separately for this eve
+ nt. \n\nThis webinar is run by RSC. \n\nThis is an auto-generated placehol
+ der event created by Nessa Carson at https://supersciencegrl.co.uk. Please
+  check with RSC for any registration links\, passwords\, or possible chang
+ es to the event. I do not hold any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

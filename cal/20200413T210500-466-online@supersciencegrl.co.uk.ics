@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART:20200421T230000Z
+DTEND:20200421T013000Z
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Transition to research independence: funding and grant-writing
+UID:20200413T210500-466-online@supersciencegrl.co.uk
+TZID:UTC
+DESCRIPTION:Transition to research independence: funding and grant-writing
+  (£\, webinar)\n\nPlease visit https://www.nyas.org/events/2020/transition
+ -to-research-independence-funding-and-grantsmanship-2020/ for more informa
+ tion. Note: you may need to register separately for this event. \n\nThis w
+ ebinar is run by Science Alliance &amp; New York Academy of Sciences. \n\n
+ This is an auto-generated placeholder event created by Nessa Carson at htt
+ ps://supersciencegrl.co.uk. Please check with Science Alliance &amp; New Y
+ ork Academy of Sciences for any registration links\, passwords\, or possib
+ le changes to the event. I do not hold any responsibility for this webinar
+ . 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

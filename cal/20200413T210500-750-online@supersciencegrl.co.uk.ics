@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200526T163000
+DTEND;TZID=Europe/London:20200526T174500
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Olivier Elemento &amp; Franziska Michor &ndash; Computational approaches to clinical medicine
+UID:20200413T210500-750-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Olivier Elemento &amp; Franziska Michor &ndash; Computational 
+ approaches to clinical medicine (£\, free for members\, webinar; mathemati
+ cs/data science)\n\nPlease visit https://www.nyas.org/events/2020/webinar-
+ computational-approaches-to-clinical-medicine/ for more information. Note:
+  you may need to register separately for this event. \n\nThis science is r
+ un by New York Academy of Sciences. \n\nThis is an auto-generated placehol
+ der event created by Nessa Carson at https://supersciencegrl.co.uk. Please
+  check with New York Academy of Sciences for any registration links\, pass
+ words\, or possible changes to the event. I do not hold any responsibility
+  for this science. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210100
+DTSTART;TZID=Europe/London:20200512T210000
+DTEND;TZID=Europe/London:20200512T220000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Abigail Doyle &ndash; Photocatalysis with Nickel
+UID:20200413T210100-666-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Abigail Doyle &ndash; Photocatalysis with Nickel
+Tomislav Rovi
+ s &ndash; TBC
+Alison Narayan &ndash; Biocatalysis and Complex Molecule Syn
+ thesis (webinar)\n\nPlease visit https://www.nsf-cchf.com/cchfvs/2020_05_c
+ chfvs18.html for more information. Note: you may need to register separate
+ ly for this event. \n\nThis webinar is run by NSF-CCHF. \n\nThis is an aut
+ o-generated placeholder event created by Nessa Carson at https://superscie
+ ncegrl.co.uk. Please check with NSF-CCHF for any registration links\, pass
+ words\, or possible changes to the event. I do not hold any responsibility
+  for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

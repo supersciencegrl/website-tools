@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200410T160000
+DTEND;TZID=Europe/London:20200410T170000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+SUMMARY:Thomas Schmidt &ndash; Sub-ms freezing and perdeuteration permits cryoprotectant&#8209;free Q&#8209;band DEER
+UID:20200413T210500-251-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Thomas Schmidt &ndash; Sub-ms freezing and perdeuteration perm
+ its cryoprotectant&#8209;free Q&#8209;band DEER (webinar)\n\nPlease visit 
+ https://twitter.com/ChirpDontTweet/status/1247811637031120896 for more inf
+ ormation. Note: you may need to register separately for this event. \n\nTh
+ is webinar is run by Virtual EPR meeting (Nino Wili). \n\nThis is an auto-
+ generated placeholder event created by Nessa Carson at https://superscienc
+ egrl.co.uk. Please check with Virtual EPR meeting (Nino Wili) for any regi
+ stration links\, passwords\, or possible changes to the event. I do not ho
+ ld any responsibility for this webinar. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

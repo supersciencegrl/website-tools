@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//supersciencegrl.co.uk/
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200413T210500
+DTSTART;TZID=Europe/London:20200518T000000
+DTEND;TZID=Europe/London:20200518T235900
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+RRULE:FREQ=DAILY;UNTIL=20200525T000000
+SUMMARY:Leaders Overcoming Gender Inequality In Chemistry
+UID:20200413T210500-693-online@supersciencegrl.co.uk
+TZID:Europe/London
+DESCRIPTION:Leaders Overcoming Gender Inequality In Chemistry (LOGIC 2020)
+  (conference)\n\nPlease visit http://cwicnetwork.com/logic-retreat/ for mo
+ re information. Note: you may need to register separately for this event. 
+ \n\nThis conference is run by Canadian Women in Chemistry. \n\nThis is an 
+ auto-generated placeholder event created by Nessa Carson at https://supers
+ ciencegrl.co.uk. Please check with Canadian Women in Chemistry for any reg
+ istration links\, passwords\, or possible changes to the event. I do not h
+ old any responsibility for this conference. 
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
