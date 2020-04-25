@@ -1,6 +1,6 @@
 __author__ = "Nessa Carson"
 __copyright__ = "Copyright 2020"
-__version__ = "1.0"
+__version__ = "1.1"
 __email__ = "methionine57@gmail.com"
 __status__ = "Production"
 
@@ -10,9 +10,9 @@ import os
 import time
 
 print(f'events-from-html.py v.{__version__}')
-# Last edited 2020-Apr-11 15:35
+# Last edited 2020-Apr-25 09:10
 
-mydir = 'C:\\Users\\Nessa\\Documents\\Work\\Website\\Current'
+mydir = 'C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'
 testdir = 'C:\\Users\\Nessa\\Documents\\Work\\Coding\\Website'
 os.chdir(mydir)
 
@@ -47,7 +47,7 @@ def findevent(html, startpos):
             if '<a class="fa-ics"' in line:
                 event['newevent'] = False
             else:
-                wholetime = line.split('<td class="columnb2">')[1]
+                wholetime = line.split('<td class="columnb2">')[1].replace('&#8209;', '-')
                 vstarttime = wholetime.split('&ndash;')[0].split('-')[0].split(' ')[0]
                 if '&ndash;' in wholetime:
                     vendtime = wholetime.split('&ndash;')[1].split(' ')[0]
@@ -79,6 +79,7 @@ def findevent(html, startpos):
                         event['description'] = ('').join(('').join(description).split('</a>'))
                         event['title'] = event['description'].split('</a>')[0].split('\n')[0].split(' (')[0]
                         break
+                event['eventtype'] = event['description'].split('(')[-1].replace('&nbsp;', ' ').replace(')', '')
         elif line.startswith('<td class="columnb4">'):
             if event['newevent']:
                 event['organizer'] = line.split('<td class="columnb4">')[1].split('</td>')[0]
@@ -109,8 +110,8 @@ def ics_from_event(event):
         icstext.append(f'RRULE:FREQ=DAILY;UNTIL={event["enddate"].strftime("%Y%m%dT000000")}') # Doesn't allow different times on different days
 
     # Add summary, UID, TZID
-    uid = f'{cdatetime.strftime("%Y%m%dT%H%M00")}-{event["linestart"] + 1}-online@supersciencegrl.co.uk'
-    eventtype = event['description'].split(' ')[-1].split('&nbsp;')[-1].replace('(', '').replace(')', '')
+    uid = f'{cdatetime.strftime("%Y%m%dT%H%M%S")}-{event["linestart"] + 1}-online@supersciencegrl.co.uk'
+    eventtype = event['eventtype']
 
     # Add description and tail
     descriptionhead = f'DESCRIPTION:{event["description"].replace("&nbsp;", " ").replace("<strong>", "").replace("</strong>", "")}'.replace(',', '\\,')
@@ -129,7 +130,7 @@ def ics_from_event(event):
 
 def gcal_from_event(event):
     text = event['title']
-    eventtype = event['description'].split(' ')[-1].split('&nbsp;')[-1].replace('(', '').replace(')', '')
+    eventtype = event['eventtype']
     detailshead = event['description'].replace('\n', '%0A').replace('&nbsp;', ' ').replace('<strong>', '').replace('</strong>', '')
     detailstail = descriptiontail.replace('\\n', '%0A').replace('%URL%', event['url']).replace('%EVENTTYPE%', eventtype).replace('%ORGANIZER%', event['organizer'])
     dates = f'{event["starttime"].strftime("%Y%m%dT%H%M00")}%2F{event["endtime"].strftime("%Y%m%dT%H%M00")}'
@@ -230,10 +231,10 @@ gcalhead = 'https://www.google.com/calendar/render?action=TEMPLATE'
 
 # html text to insert
 htmltemplate = [' <a class="fa-ics" href="https://supersciencegrl.co.uk/cal/%ICS%"><br><i class="far fa-calendar-alt"></i></a>', \
-'<a class="fa-gcal" href="%GCAL%" target="_blank">', \
+'<a class="fa-gcal" href="%GCAL%" target="_blank" rel="noopener">', \
 '<i class="far fa-calendar-alt"></i></a></td>']
 
 html_in = []
-with open('online.html', 'r') as fin:
+with open(os.path.join(mydir, 'online.html'), 'r') as fin:
     for line in fin:
         html_in.append(line)
