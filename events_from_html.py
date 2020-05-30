@@ -1,6 +1,6 @@
 __author__ = "Nessa Carson"
 __copyright__ = "Copyright 2020"
-__version__ = "1.1"
+__version__ = "1.4"
 __email__ = "methionine57@gmail.com"
 __status__ = "Production"
 
@@ -8,6 +8,7 @@ import datetime
 from dateutil import tz
 import os
 import time
+from shutil import copy2
 
 print(f'events-from-html.py v.{__version__}')
 # Last edited 2020-Apr-25 09:10
@@ -24,13 +25,22 @@ def check_html_is_list(html):
 
     return htmllist
 
+def gettimezone(time_line):
+    vtimezone = time_line.split('<td class="columnb2">')[1].split(' ')[1].split('</td>')[0]
+    if vtimezone == 'BST':
+        result = London
+    else:
+        result = tz.gettz() # Returns tzlocal
+
+    return result
+
 def findevent(html, startpos):
     htmllist = check_html_is_list(html)
 
     event = {}
     for n, line in [(n, longline.lstrip()) for n, longline in enumerate(htmllist)]:
         if line.startswith('<tr class="covidrow'):
-            event = {'linestart': n + startpos, 'enddate': False, 'newevent': True}
+            event = {'linestart': n + startpos, 'enddate': False, 'newevent': True, 'allday': False}
         # Event dates
         elif line.startswith('<td class="columnb1">'):
             wholedate = line.split('<td class="columnb1">')[1].split('</td>')[0].replace('&nbsp;', ' ')
@@ -46,6 +56,10 @@ def findevent(html, startpos):
         elif line.startswith('<td class="columnb2">'):
             if '<a class="fa-ics"' in line:
                 event['newevent'] = False
+            elif 'all day' in line.lower():
+                event['allday'] = True
+                event['starttime'] = datetime.datetime.strptime(date, '%a %d/%m/%Y')
+                event['timezone'] = gettimezone(line)
             else:
                 wholetime = line.split('<td class="columnb2">')[1].replace('&#8209;', '-')
                 vstarttime = wholetime.split('&ndash;')[0].split('-')[0].split(' ')[0]
@@ -55,12 +69,8 @@ def findevent(html, startpos):
                     vendtime = wholetime.split('-')[1].split(' ')[0]
                 else:
                     vendtime = None
-                vtimezone = line.split('<td class="columnb2">')[1].split(' ')[1].split('</td>')[0]
-
-                if vtimezone == 'BST':
-                    event['timezone'] = London
-                else:
-                    event['timezone'] = tz.gettz() # Returns tzlocal()
+                event['timezone'] = gettimezone(line)
+                
                 event['starttime'] = datetime.datetime.strptime(f'{date} {vstarttime}', '%a %d/%m/%Y %H:%M').replace(tzinfo = event['timezone'])
                 if vendtime:
                     event['endtime'] = datetime.datetime.strptime(f'{date} {vendtime}', '%a %d/%m/%Y %H:%M').replace(tzinfo = event['timezone'])
@@ -91,22 +101,30 @@ def findevent(html, startpos):
 
 def ics_from_event(event):
     icstext = vcalendarhead
+    tzid = 'UTC' # default value
 
     # Add date and time information
     cdatetime = datetime.datetime.now()
-    try:
-        if event['timezone']._filename == 'GB-Eire':
-            tzid = 'Europe/London'
-            dtstarttext = f'DTSTART;TZID={tzid}:{event["starttime"].strftime("%Y%m%dT%H%M00")}'
-            dtendtext = f'DTEND;TZID={tzid}:{event["endtime"].strftime("%Y%m%dT%H%M00")}'
-            icstext = icstext + vtimezone
-    except AttributeError: # Thrown for tzlocal()
-        tzid = 'UTC'
-        dtstarttext = f'DTSTART:{event["starttime"].strftime("%Y%m%dT%H%M00")}Z'
-        dtendtext = f'DTEND:{event["endtime"].strftime("%Y%m%dT%H%M00")}Z'
+    if event['allday']:
+        dtstarttext = f'DTSTART;VALUE=DATE:{event["starttime"].strftime("%Y%m%d")}'
+        if event['enddate']:
+            dtendtext = f'DTEND;VALUE=DATE:{event["enddate"].strftime("%Y%m%d")}'
+        else:
+            enddate = event['starttime'] + datetime.timedelta(days = 1) # Set enddate to 1 day later for single-day, all-day event per ics requirements
+            dtendtext = f'DTEND;VALUE=DATE:{enddate.strftime("%Y%m%d")}'
+    else:
+        try:
+            if event['timezone']._filename == 'GB-Eire':
+                tzid = 'Europe/London'
+                dtstarttext = f'DTSTART;TZID={tzid}:{event["starttime"].strftime("%Y%m%dT%H%M00")}'
+                dtendtext = f'DTEND;TZID={tzid}:{event["endtime"].strftime("%Y%m%dT%H%M00")}'
+                icstext = icstext + vtimezone
+        except AttributeError: # Thrown for tzlocal()
+            dtstarttext = f'DTSTART:{event["starttime"].strftime("%Y%m%dT%H%M00")}Z'
+            dtendtext = f'DTEND:{event["endtime"].strftime("%Y%m%dT%H%M00")}Z'
     icstext = icstext + ['BEGIN:VEVENT', f'DTSTAMP:{cdatetime.strftime("%Y%m%dT%H%M00")}', dtstarttext, dtendtext, \
                          'X-MICROSOFT-CDO-BUSYSTATUS:BUSY', 'X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY']
-    if event['enddate']:
+    if event['enddate'] and not event['allday']:
         icstext.append(f'RRULE:FREQ=DAILY;UNTIL={event["enddate"].strftime("%Y%m%dT000000")}') # Doesn't allow different times on different days
 
     # Add summary, UID, TZID
@@ -121,28 +139,43 @@ def ics_from_event(event):
     for index in range(0, len(description), 74):
         splitdescription.append(description[index:index+74])
     title = event['title'].replace('&ndash;', '–').replace('&mdash;', '—').replace('&amp;', '&')
-    icstext = icstext + [f'SUMMARY:{title}', f'UID:{uid}', f'TZID:{tzid}', ('\n ').join(splitdescription)] + vcalendartail
 
-    with open(os.path.join(mydir, 'cal', f'{uid}.ics'), 'w', newline='') as fout:
+    if tzid != 'UTC':
+        vcalendarmiddle = [f'SUMMARY:{title}', f'UID:{uid}', ('\n ').join(splitdescription)]
+    else:
+        vcalendarmiddle = [f'SUMMARY:{title}', f'UID:{uid}', f'TZID:{tzid}', ('\n ').join(splitdescription)]
+    if event['allday']:
+        icstext = icstext + vcalendarmiddle + vcalendaralldaytail
+    else:
+        icstext = icstext + vcalendarmiddle + vcalendartail
+
+    with open(os.path.join(mydir, 'cal', f'{uid}.ics'), 'w', newline='', encoding = 'utf-8') as fout:
         fout.writelines(line + '\n' for line in icstext)
 
     return f'{uid}.ics'
 
 def gcal_from_event(event):
-    text = event['title']
+    title = event['title']
     eventtype = event['eventtype']
     detailshead = event['description'].replace('\n', '%0A').replace('&nbsp;', ' ').replace('<strong>', '').replace('</strong>', '')
     detailstail = descriptiontail.replace('\\n', '%0A').replace('%URL%', event['url']).replace('%EVENTTYPE%', eventtype).replace('%ORGANIZER%', event['organizer'])
-    dates = f'{event["starttime"].strftime("%Y%m%dT%H%M00")}%2F{event["endtime"].strftime("%Y%m%dT%H%M00")}'
+    if event['allday']:
+        if event['enddate']:
+            dates = f'{event["starttime"].strftime("%Y%m%d")}/{event["enddate"].strftime("%Y%m%d")}'
+        else:
+            enddate = event['starttime'] + datetime.timedelta(days = 1) # Set enddate to 1 day later for single-day, all-day event per Google requirements
+            dates = f'{event["starttime"].strftime("%Y%m%d")}/{enddate.strftime("%Y%m%d")}'
+    else:
+        dates = f'{event["starttime"].strftime("%Y%m%dT%H%M00")}%2F{event["endtime"].strftime("%Y%m%dT%H%M00")}'
     try:
         if event['timezone']._filename == 'GB-Eire':
             gcaltail = 'ctz=Europe/London&sprop=website:supersciencegrl.co.uk'
     except AttributeError: # Thrown for tzlocal()
         gcaltail = 'sprop=website:supersciencegrl.co.uk'
-    gcalurl = ('&').join([gcalhead, f'text={text}', f'details={detailshead}{detailstail}', 'location=Online', f'dates={dates}', gcaltail])
-    if event['enddate']:
+    gcalurl = ('&').join([gcalhead, f'text={title}', f'details={detailshead}{detailstail}', 'location=Online', f'dates={dates}', gcaltail])
+    if event['enddate'] and not event['allday']:
         gcalurl = f'{gcalurl}&recur=RRULE:FREQ=DAILY;UNTIL={event["enddate"].strftime("%Y%m%dT000000")}' # Doesn't allow different times on different days
-    gcalurl = gcalurl.replace('&amp;', '%26').replace('#', '%23').replace('&%23', '&#').replace('&#163;', '£')
+    gcalurl = gcalurl.replace('&ndash;', '–').replace('&amp;', '%26').replace('#', '%23').replace('&%23', '&#').replace('&#163;', '£')
 
     return gcalurl
 
@@ -189,7 +222,9 @@ def updatehtml(html):
         elif not row.lstrip():
             html_out.append(row)
 
-    with open(os.path.join(testdir, 'online.html'), 'w') as fout:
+    # Copy original file to testdir in case of corruption
+    copy2(os.path.join(mydir, 'online.html'), os.path.join(testdir, 'online.html'))
+    with open(os.path.join(mydir, 'online.html'), 'w') as fout:
         fout.writelines(html_out)
     endtime = time.time()
     
@@ -204,6 +239,14 @@ def printsingleevent(html):
 examplehtml = '''								<tr class="covidrow">
 									<td class="columnb1">Fri 22/04/2020</td>
 									<td class="columnb2">15:00 BST</td>
+									<td class="columnb3"><a href="https://www.genscript.com/webinars/engineering-protease-activatable-adeno-associated-virus.html" target="_blank">
+									Susan Butler &ndash; Engineering protease-activatable adeno-associated virus (AAV) for targeted delivery through library design</a> (webinar)</td>
+									<td class="columnb4">GenScript</td>
+								</tr>'''
+
+examplehtml2 = '''								<tr class="covidrow">
+									<td class="columnb1">Fri 22/04/2020</td>
+									<td class="columnb2">All day</td>
 									<td class="columnb3"><a href="https://www.genscript.com/webinars/engineering-protease-activatable-adeno-associated-virus.html" target="_blank">
 									Susan Butler &ndash; Engineering protease-activatable adeno-associated virus (AAV) for targeted delivery through library design</a> (webinar)</td>
 									<td class="columnb4">GenScript</td>
@@ -225,14 +268,15 @@ vtimezone = ['BEGIN:VTIMEZONE', 'TZID:Europe/London', 'TZURL:http://tzurl.org/zo
              'END:DAYLIGHT', 'BEGIN:STANDARD', 'TZOFFSETFROM:+0100', 'TZOFFSETTO:+0000', 'TZNAME:GMT', 'DTSTART:19701025T020000', \
              'RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU', 'END:STANDARD', 'END:VTIMEZONE']
 vcalendartail = ['LOCATION:Online', 'BEGIN:VALARM', 'TRIGGER:-PT10M', 'ACTION:DISPLAY', 'DESCRIPTION:Reminder', 'END:VALARM', 'END:VEVENT', 'END:VCALENDAR']
+vcalendaralldaytail = ['LOCATION:Online', 'BEGIN:VALARM', 'TRIGGER:-PT12H', 'ACTION:DISPLAY', 'DESCRIPTION:Reminder', 'END:VALARM', 'END:VEVENT', 'END:VCALENDAR']
 
 # GCal standard strings
 gcalhead = 'https://www.google.com/calendar/render?action=TEMPLATE'
 
 # html text to insert
-htmltemplate = [' <a class="fa-ics" href="https://supersciencegrl.co.uk/cal/%ICS%"><br><i class="far fa-calendar-alt"></i></a>', \
+htmltemplate = [' <a class="fa-ics" href="https://supersciencegrl.co.uk/cal/%ICS%"><br><i class="far fa-calendar-alt" title="Save to Outlook"></i></a>', \
 '<a class="fa-gcal" href="%GCAL%" target="_blank" rel="noopener">', \
-'<i class="far fa-calendar-alt"></i></a></td>']
+'<i class="far fa-calendar-alt" title="Save to Google Calendar"></i></a></td>']
 
 html_in = []
 with open(os.path.join(mydir, 'online.html'), 'r') as fin:
