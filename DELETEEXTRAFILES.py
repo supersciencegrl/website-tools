@@ -12,8 +12,11 @@ os.chdir(mydir)
 
 # WATCH OUT: DELETES ALL FILES IN LIST
 def WARNINGdeletefiles():
+    i = 0
     for e in extraneous:
         os.remove(e)
+        i += 1
+    print(f'{i} files removed. ')
 
 all_ics = []
 with open(os.path.join(mydir, 'online.html'), 'r') as fin:
