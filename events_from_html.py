@@ -13,8 +13,13 @@ from shutil import copy2
 print(f'events-from-html.py v.{__version__}')
 # Last edited 2020-Apr-25 09:10
 
-mydir = 'C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'
-testdir = 'C:\\Users\\Nessa\\Documents\\Work\\Coding\\Website'
+if os.path.isdir('C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'):
+    mydir = 'C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'
+    testdir = 'C:\\Users\\Nessa\\Documents\\Work\\Coding\\Website'
+else:
+    mydir = 'C:\\Users\\S1024501\\OneDrive - Syngenta\\Documents\\GitHub\\supersciencegrl.github.io'
+    testdir = 'C:\\Users\\S1024501\\OneDrive - Syngenta\\Documents\\GitHub\\website-tools'
+
 os.chdir(mydir)
 
 def check_html_is_list(html):
