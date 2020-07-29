@@ -1,8 +1,6 @@
 # My selections
 gitignore/
-Conference_List.xlsx
-output.xlsx
-Syngenta_conferencelist.xlsx
+*.xlsx
 
 # Windows image file caches
 Thumbs.db
