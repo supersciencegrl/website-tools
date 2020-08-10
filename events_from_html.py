@@ -15,7 +15,7 @@ print(f'events-from-html.py v.{__version__}')
 
 if os.path.isdir('C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'):
     mydir = 'C:\\Users\\Nessa\\Documents\\GitHub\\supersciencegrl.github.io'
-    testdir = 'C:\\Users\\Nessa\\Documents\\Work\\Coding\\Website'
+    testdir = 'C:\\Users\\Nessa\\Documents\\GitHub\\website-tools'
 else:
     mydir = 'C:\\Users\\S1024501\\OneDrive - Syngenta\\Documents\\GitHub\\supersciencegrl.github.io'
     testdir = 'C:\\Users\\S1024501\\OneDrive - Syngenta\\Documents\\GitHub\\website-tools'
