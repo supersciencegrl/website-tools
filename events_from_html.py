@@ -43,7 +43,7 @@ def findevent(html, startpos):
     htmllist = check_html_is_list(html)
 
     event = {}
-    for n, line in [(n, longline.lstrip()) for n, longline in enumerate(htmllist)]:
+    for n, line in [(m, longline.lstrip()) for m, longline in enumerate(htmllist)]:
         if line.startswith('<tr class="covidrow'):
             event = {'linestart': n + startpos, 'enddate': False, 'newevent': True, 'allday': False}
         # Event dates
@@ -68,10 +68,8 @@ def findevent(html, startpos):
             else:
                 wholetime = line.split('<td class="columnb2">')[1].replace('&#8209;', '-')
                 vstarttime = wholetime.split('&ndash;')[0].split('-')[0].split(' ')[0]
-                if '&ndash;' in wholetime:
-                    vendtime = wholetime.split('&ndash;')[1].split(' ')[0]
-                elif '-' in wholetime:
-                    vendtime = wholetime.split('-')[1].split(' ')[0]
+                if any(('&ndash;' in wholetime, '-' in wholetime)):
+                    vendtime = wholetime.split('&ndash;')[-1].split('-')[-1].split(' ')[0]
                 else:
                     vendtime = None
                 event['timezone'] = gettimezone(line)
@@ -94,7 +92,7 @@ def findevent(html, startpos):
                         event['description'] = ('').join(('').join(description).split('</a>'))
                         event['title'] = event['description'].split('</a>')[0].split('\n')[0].split(' (')[0]
                         break
-                event['eventtype'] = event['description'].split('(')[-1].replace('&nbsp;', ' ').replace(')', '')
+                event['eventtype'] = event['description'].split('(')[-1].split(',').replace('&nbsp;', ' ').replace(')', '')
         elif line.startswith('<td class="columnb4">'):
             if event['newevent']:
                 event['organizer'] = line.split('<td class="columnb4">')[1].split('</td>')[0]
@@ -220,7 +218,7 @@ def updatehtml(html):
             eventhtml = newhtml(event, htmllist)
 
             html_out = html_out + eventhtml
-        if row.lstrip().startswith('</tbody>'):
+        elif row.lstrip().startswith('</tbody>'):
             lasteventfound = True
         if not firsteventfound or lasteventfound:
             html_out.append(row)
