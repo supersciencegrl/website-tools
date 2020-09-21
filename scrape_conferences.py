@@ -13,6 +13,7 @@ import string
 
 import openpyxl
 from openpyxl.styles import Alignment, Font
+import PySimpleGUI as sg
 
 def getevent(position):
     for n, line in enumerate(page[position:]):
@@ -30,23 +31,29 @@ def captureline(line):
 
 def decodethemes(themelist):
     replacelist = [('agro', 'agrochemistry'), ('anal', 'analytical'), ('chembio', 'chem bio'), ('comp', 'computational/data'), ('edu', 'education'), ('inorg', 'inorganic/materials'), ('medchem', 'med chem'), ('policy', 'law/policy'), ('pharm', 'pharma/regulatory')]
-    names = [r[0] for r in replacelist]
-    newthemelist = []
+    otherslist = ['automation', 'careers', 'diversity', 'process', 'synthesis']
 
-    for theme in themelist:
-        if theme in names:
-            newthemelist.append(replacelist[names.index(theme)][1])
-            if theme == 'chembio':
-                newthemelist.append('med chem')
-            if theme in ['medchem', 'process']:
-                newthemelist.append('synthesis')
-        else:
-            newthemelist.append(theme)
+    if 'all' in themelist:
+        outputlist = sorted([r[1] for r in replacelist] + otherslist)
+    else:
+        names = [r[0] for r in replacelist]
+        newthemelist = []
 
-    outputlist = [i for n, i in enumerate(newthemelist) if i not in newthemelist[:n]]
-    outputlist.sort()
+        for theme in themelist:
+            if theme in names:
+                newthemelist.append(replacelist[names.index(theme)][1])
+                if theme == 'chembio':
+                    newthemelist.append('med chem')
+                if theme in ['medchem', 'process']:
+                    newthemelist.append('synthesis')
+            else:
+                newthemelist.append(theme)
+
+        outputlist = [i for n, i in enumerate(newthemelist) if i not in newthemelist[:n]]
+        outputlist.sort()
 
     themes = (', ').join(outputlist)
+
     return themes
 
 def decoderegion(region):
@@ -63,15 +70,96 @@ def decoderegion(region):
 
     return output
 
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.environ.get('_MEIPASS2', os.path.abspath('.'))
+    newpath = os.path.join(base_path, relative_path)
+
+    return newpath
+
+def getfile(message, **kwargs):
+
+    if 'defaultvalue' in kwargs:
+        defaultvalue = kwargs['defaultvalue']
+    else:
+        defaultvalue = ''
+
+    layout = [  [sg.Text(message)],
+                [sg.InputText('_', key = 'inputfile'), sg.FileBrowse(initial_folder = mydir, file_types = (('xlsx files', '*.xlsx'),))],
+                [sg.Button('Add to file', key = 'addfile', bind_return_key = True), sg.Button('Create new file', key = 'nofile')]
+                ]
+
+    window = sg.Window('Syngenta Conference List v.1.0', layout, return_keyboard_events = True, icon = resource_path('syngenta_logo.ico'))
+    window.Finalize()
+    window['inputfile'].update(defaultvalue)
+    window.TKroot.focus_force()
+    window.Element('inputfile').SetFocus()
+
+    while True:
+        try:
+            event, values = window.Read()
+            if event == 'addfile':
+                inputfile = values['inputfile']
+                break
+            elif event == 'nofile':
+                inputfile = None
+                break
+            elif event == sg.WIN_CLOSED:
+                window.close()
+                break
+        except KeyboardInterrupt:
+                window.close()
+    window.close()
+
+    return inputfile # Throws exception if window had been closed unexpectedly
+
+def showreport():
+    if len(outputfile) >= 30:
+        textsize = (60, None)
+    else:
+        textsize = (None, None)
+    
+    layout = [  [sg.Text(f'{len(outlist)} files added to {outputfile}.', size = textsize)],
+                [sg.Button('OK', bind_return_key = True), sg.Button('Open file', key = 'openfile')]
+                ]
+
+    window = sg.Window('Successful!', layout, return_keyboard_events = True, icon = resource_path('syngenta_logo.ico'))
+    window.Finalize()
+
+    while True:
+        try:
+            event, values = window.Read()
+            if event == 'openfile':
+                openfile = True
+                break
+            elif event == 'OK':
+                openfile = False
+                break
+            elif event == sg.WIN_CLOSED:
+                window.close()
+                break
+        except KeyboardInterrupt:
+            break
+    window.close()
+
+    if openfile:
+        openoutput()
+
 def openoutput():
     os.system(f'start excel "{outputfile}"')
 
-url = 'http://supersciencegrl.co.uk/conferences'
+mydir = os.getcwd()
+sg.theme('Green')
 
+# Scrape from the web
+url = 'http://supersciencegrl.co.uk/conferences'
 try:
     with urllib.request.urlopen(url) as response:
         htmlr = response.readlines()
 except urllib.error.HTTPError as error:
+    sg.Popup(f'{error.code}\n{error.read}')
     print(error.code, error.read)
 
 page = []
@@ -151,18 +239,35 @@ for event in lod:
     eventlist.append(event['region'])
     outlist.append(eventlist)
 
-# Find possible inputfile to append sheet
-inputfile = None
+# Find default inputfile to append sheet
 xlsxlist = glob.glob('**.xls*')
 shortlist = glob.glob('**onference**.xls*')
+if 'Conference_List.xlsx' in shortlist:
+    shortlist.remove('Conference_List.xlsx')
 if not shortlist:
     potentiallist = xlsxlist
 else:
     potentiallist = shortlist
-if len(potentiallist) == 1:
-    possinput = input(f'Do you want to add conferences to {potentiallist[0]}? \n(Existing scraped worksheets will be overwritten.) ')
-    if possinput.lower() in 'yestrue1':
-        inputfile = potentiallist[0]
+
+# Narrow down exact inputfile
+fileknown = False
+try:
+    defaultvalue = os.path.join(mydir, potentiallist[0])
+except IndexError:
+    defaultvalue = ''
+while not fileknown:
+    inputfile = getfile(f'Do you want to add {len(outlist)} conferences to an .xlsx file?\n(Existing scraped worksheets will be overwritten.) ', defaultvalue = defaultvalue)
+    if inputfile is not None:
+        if os.path.isfile(inputfile):
+            fileknown = True
+        else:
+            sg.Popup(f'{inputfile} not found.', title = 'File not found')
+            defaultvalue = inputfile
+            inputfile = inputfile.replace('/', '\\')
+            if '\\' in inputfile:
+                mydir = ('\\').join(inputfile.split('\\')[:-1])
+    else:
+        fileknown = True
 
 if inputfile:
     if inputfile.endswith('.xlsm'):
@@ -208,5 +313,39 @@ ws.freeze_panes = 'A2'
 wb.active.views.sheetView[0].tabSelected = False
 wb.active = ws
 
+def getfile(message, **kwargs):
+
+    if 'defaultvalue' in kwargs:
+        defaultvalue = kwargs['defaultvalue']
+    else:
+        defaultvalue = ''
+
+    layout = [  [sg.Text(message)],
+                [sg.InputText('_', key = 'inputfile'), sg.FileBrowse(initial_folder = mydir, file_types = (('xlsx files', '*.xlsx'),))],
+                [sg.Button('Add to file', key = 'addfile', bind_return_key = True), sg.Button('Create new file', key = 'nofile')]
+                ]
+
+    window = sg.Window('Syngenta Conference List v.1.0', layout, return_keyboard_events = True)
+    window.Finalize()
+    window['inputfile'].update(defaultvalue)
+    window.TKroot.focus_force()
+    window.Element('inputfile').SetFocus()
+
+    while True:
+        try:
+            event, values = window.Read()
+            if event == 'addfile':
+                inputfile = values['inputfile']
+                break
+            elif event == 'nofile':
+                inputfile = None
+                break
+            elif event == sg.WIN_CLOSED:
+                window.close()
+                break
+        except KeyboardInterrupt:
+                window.close()
+    window.close()
+
 wb.save(outputfile)
-# Then ask in GUI if user wishes to open it
+showreport()
