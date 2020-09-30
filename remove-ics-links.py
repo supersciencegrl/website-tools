@@ -4,8 +4,6 @@ __version__ = "1.0"
 __email__ = "methionine57@gmail.com"
 __status__ = "Production"
 
-import datetime
-from dateutil import tz
 import os
 import time
 from shutil import copy2
