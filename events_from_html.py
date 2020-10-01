@@ -92,7 +92,7 @@ def findevent(html, startpos):
                         event['description'] = ('').join(('').join(description).split('</a>'))
                         event['title'] = event['description'].split('</a>')[0].split('\n')[0].split(' (')[0]
                         break
-                event['eventtype'] = event['description'].split('(')[-1].split(',').replace('&nbsp;', ' ').replace(')', '')
+                event['eventtype'] = event['description'].split('(')[-1].split(',')[-1].replace('&nbsp;', ' ').replace(')', '')
         elif line.startswith('<td class="columnb4">'):
             if event['newevent']:
                 event['organizer'] = line.split('<td class="columnb4">')[1].split('</td>')[0]
