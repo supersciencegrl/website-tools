@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['scrape_conferences.py'],
-             pathex=['C:\\Users\\S1024501\\OneDrive - Syngenta\\Documents\\GitHub\\website-tools'],
+             pathex=['C:\\Working\\GitHub\\website-tools'],
              binaries=[],
              datas=[('syngenta_logo.ico', '.')],
              hiddenimports=[],
