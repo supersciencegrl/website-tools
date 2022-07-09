@@ -12,6 +12,7 @@ I kept a list of online chemistry events (webinars, conferences, etc; list archi
 - _DELETEEXTRAFILES.py_ &ndash; Removes any .ics downloadable calendar files if their time is set to the past
 
 ### <span style="color: darkgreen">Website management scripts</span>
+- _GordonConferences.py_ &ndash; Web scraper to extract html from Gordon Conference webpages to the Conference Database
 - _update-batch.py_ &ndash; Script to update all website html files in batch, eg: to change the website template
 
 ### <span style="color: darkgreen">Sass</span>
