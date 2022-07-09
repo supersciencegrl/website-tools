@@ -10,15 +10,13 @@ import requests
 Debug = False
 
 def run():
-    url = ''
-    while not url:
+    while True:
         if Debug:
             url = r'https://www.grc.org/additive-manufacturing-of-soft-materials-conference/2022/' # Test
         else:
             url = input('url: ')
 
         get_html(url)
-        url = ''
 
 def get_html(url):
     r = requests.get(url)
