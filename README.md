@@ -8,6 +8,7 @@ This user-friendly GUI tool (_ScrapeConferences.exe_) was built to read and down
 ### <span style="color: darkgreen">Website management scripts</span>
 - _GordonConferences.py_ &ndash; Web scraper to extract html from Gordon Conference webpages to the Conference Database
 - _ScientificUpdate.py_ &ndash; Web scraper to extract html from Scientific Update webpages to the Conference Database
+- _link-checker.py_ &ndash; Script to check whether any links have been duplicated on a page
 - _update-batch.py_ &ndash; Script to update all website html files in batch, eg: to change the website template
 
 ### <span style="color: darkgreen">Online webinar list</span>
