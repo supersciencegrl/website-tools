@@ -14,7 +14,7 @@ Debug = False
 def run():
     while True:
         if Debug:
-            url = r'https://www.grc.org/additive-manufacturing-of-soft-materials-conference/2022/' # Test
+            url = r'https://grc.org/additive-manufacturing-of-soft-materials-conference/2022/' # Test
         else:
             url = input('url: ')
 
@@ -39,8 +39,11 @@ def get_html(url):
     return page
 
 def formatUrl(url):
-    if 'www.' not in url:
-        return r"https://www.grc.org/" + url
+    if 'http' not in url and 'grc.org' not in url and 'www' not in url:
+        if url.startswith("/"):
+            return r"https://grc.org" + url
+        else:
+            return r"https://grc.org/" + url
 
     elif '://' not in url:
         return f'https://{url}'
@@ -160,7 +163,7 @@ def scrape_page(page, url, print_output=True):
 def meetingsFromPage():
     ''' Save the html as GordonConferences.html '''
 
-    main_url = 'https://www.grc.org/find-a-conference/'
+    main_url = 'https://grc.org/find-a-conference/'
     print(main_url)
     print('\nSave each page of html from the Find A Conference page separately.')
     _ = input('Press Enter when complete...')
@@ -172,12 +175,24 @@ def meetingsFromPage():
     else:
         return None
 
+    # Check which links are already known
+    knownConferences = get_html(r"https://supersciencegrl.co.uk/conferences")
+    knownSoup = BeautifulSoup(knownConferences, 'html.parser')
+    links = []
+    if knownSoup:
+        links = [a['href'] for a in knownSoup.find_all('a')]
+
     meetingDivs = soup.find_all('div', class_='meetingThumb')
     meetings = []
     for meeting in meetingDivs:
         url = meeting.find('a', class_='quickView')['href']
         if url=='{{pageurl}}':
             break
+
+        # Check meeting not already in database
+        url = formatUrl(url)
+        if url in links:
+            continue
         
         mydict = {}
         print(url)
@@ -190,30 +205,21 @@ def meetingsFromPage():
     return meetings
 
 def checkMeetings(meetings: dict):
-    # Check which links are already known
-    knownConferences = get_html(r"https://supersciencegrl.co.uk/conferences")
-    knownSoup = BeautifulSoup(knownConferences, 'html.parser')
-    links = []
-    if knownSoup:
-        links = [a['href'] for a in knownSoup.find_all('a')]
+    ''' Collaborative function to check semi-manually through the meetings from meetingsFromPage() '''
     
     for meeting in meetings:
         # Move onto next meeting if this one has passed
         end_date = datetime.strptime(meeting['event']['end_date'], '%d %b %Y')
         if end_date < datetime.today():
             continue
-
-        # Check meeting not already in database
-        url = formatUrl(meeting['event']['url'])
-        if url in links:
-            continue
         
         print(meeting['event']['title'] + '\n')
         accept = input('Accept? (Y/N) ')
-        if accept.lower() in 'yestrue1':
+        if accept and accept.lower() in 'yestrue1':
             print('\n')
-            print(meeting['html_out'])
-            pyperclip.copy(('\n').join(meeting['html_out']))
+            result = ('\n').join(meeting['html_out'])
+            print(result)
+            pyperclip.copy(result)
 
 def getCurrentTabs():
     ''' This returns all grc.org urls currently open.
