@@ -18,14 +18,18 @@ def run():
         else:
             url = input('url: ')
 
+        url = formatUrl(url)
+
         page = get_html(url)
         if page:
-            scrape_page(page, url)
+            event = scrape_page(page, url)
         else:
             print('Not found. ')
         print('\n')
 
 def get_html(url):
+    url = formatUrl(url)
+    
     r = requests.get(url)
     if r.status_code == 200:
         page = r.content # r.content contains byte objects, unlike r.text
@@ -34,7 +38,17 @@ def get_html(url):
 
     return page
 
-def scrape_page(page, url):
+def formatUrl(url):
+    if 'www.' not in url:
+        return r"https://www.grc.org/" + url
+
+    elif '://' not in url:
+        return f'https://{url}'
+
+    else:
+        return url
+
+def scrape_page(page, url, print_output=True):
     event = {'url': url}
     soup = BeautifulSoup(page, 'html.parser')
 
@@ -135,10 +149,71 @@ def scrape_page(page, url):
                     f'<td class="column6">{event["priceString"]}</td>')
     html_out.append('\t' * 12 + '</tr>')
 
-    # Print output html and copy to Windows clipboard
-    for h in html_out:
-        print(h)
-    pyperclip.copy(('\n').join(html_out))
+    if print_output:
+        # Print output html and copy to Windows clipboard
+        for h in html_out:
+            print(h)
+        pyperclip.copy(('\n').join(html_out))
+
+    return event, html_out
+
+def meetingsFromPage():
+    ''' Save the html as GordonConferences.html '''
+
+    main_url = 'https://www.grc.org/find-a-conference/'
+    print(main_url)
+    print('\nSave each page of html from the Find A Conference page separately.')
+    _ = input('Press Enter when complete...')
+    
+    with open('GordonConferences.html', 'r', encoding='utf-8') as fin:
+        html = fin.read()
+    if html:
+        soup = BeautifulSoup(html, 'html.parser')
+    else:
+        return None
+
+    meetingDivs = soup.find_all('div', class_='meetingThumb')
+    meetings = []
+    for meeting in meetingDivs:
+        url = meeting.find('a', class_='quickView')['href']
+        if url=='{{pageurl}}':
+            break
+        
+        mydict = {}
+        print(url)
+        mydict['url'] = formatUrl(url)
+        meetings.append(mydict)
+
+        page = get_html(mydict['url'])
+        mydict['event'], mydict['html_out'] = scrape_page(page, url, print_output=False)
+
+    return meetings
+
+def checkMeetings(meetings: dict):
+    # Check which links are already known
+    knownConferences = get_html(r"https://supersciencegrl.co.uk/conferences")
+    knownSoup = BeautifulSoup(knownConferences, 'html.parser')
+    links = []
+    if knownSoup:
+        links = [a['href'] for a in knownSoup.find_all('a')]
+    
+    for meeting in meetings:
+        # Move onto next meeting if this one has passed
+        end_date = datetime.strptime(meeting['event']['end_date'], '%d %b %Y')
+        if end_date < datetime.today():
+            continue
+
+        # Check meeting not already in database
+        url = formatUrl(meeting['event']['url'])
+        if url in links:
+            continue
+        
+        print(meeting['event']['title'] + '\n')
+        accept = input('Accept? (Y/N) ')
+        if accept.lower() in 'yestrue1':
+            print('\n')
+            print(meeting['html_out'])
+            pyperclip.copy(('\n').join(meeting['html_out']))
 
 def getCurrentTabs():
     ''' This returns all grc.org urls currently open.
