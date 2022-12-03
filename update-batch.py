@@ -43,6 +43,7 @@ newlength = len(newhtml)
 
 #''' Note: BeautifulSoup etc does not maintain indentation '''
 pageschanged = 0
+pagesnotchanged = []
 for page in pages:
     with open(page, 'r+', encoding='utf8') as fin:
         html = fin.readlines()
@@ -53,8 +54,12 @@ for page in pages:
         if idxlist:
             print(f'{page}:\t{len(idxlist)} instances of old html replaced.')
             pageschanged += 1
+        else:
+            pagesnotchanged.append(page)
 
         fin.seek(0)
         fin.writelines(html)
 
 print(f'\n{pageschanged} pages changed.')
+pagesnotchanged_string = ('\n').join(pagesnotchanged)
+print(f'Pages not changed ({len(pagesnotchanged)}):\n', pagesnotchanged_string)
