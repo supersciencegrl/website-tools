@@ -2,19 +2,77 @@
 
 import glob
 
-def checksublist(mylist, snippet):
-    listlength = len(mylist)
-    snippetlength = len(snippet)
-    idxlist = [i for i in range(listlength-snippetlength+1) if snippet == mylist[i:i+snippetlength]]
+def checkSublist(mylist, snippet):
+    """
+    Returns a list of indices where the `snippet` is found in the `mylist`.
 
-    return idxlist
+    Args:
+    - mylist (list): The list to search in.
+    - snippet (str): The substring to search for.
 
-def inputToHtml(myinput):
-    mylist = myinput.split('\\n')
-    editedlist = [i+'\n' for i in mylist]
+    Returns:
+    - idxList (list): The list of indices where the `snippet` is found in the `mylist`.
+    """
+    
+    listLength = len(mylist)
+    snippetLength = len(snippet)
+    idxList = [i for i in range(listLength-snippetLength+1) if snippet == mylist[i:i+snippetLength]]
 
-    return editedlist
+    return idxList
 
+def inputToHtml(my_input):
+    """
+    Formats the input into an list of HTML lines, with newlines at the end of each line.
+
+    Args:
+    - my_input (str): The input string.
+
+    Returns:
+    - edited_list (list): The formatted HTML list.
+    """
+    
+    mylist = my_input.split('\\n')
+    edited_list = [f'{i}\n' for i in mylist]
+
+    return edited_list
+
+def run(pages, oldhtml, newhtml):
+    """
+    Replaces all instances of `oldhtml` with `newhtml` in the `pages` list of files.
+    Prints a report of the changes made and the files that were not changed.
+    Note: BeautifulSoup etc does not maintain indentation by default
+
+    Args:
+    - pages (list): A list of file paths to update.
+    - oldhtml (str): The old HTML code to replace.
+    - newhtml (str): The new HTML code to replace with.
+    """
+    
+    pages_changed = 0
+    pages_not_changed = []
+    for page in pages:
+        with open(page, 'r+', encoding='utf8') as fin:
+            html = fin.readlines()
+
+            idx_list = checkSublist(html, oldhtml)
+            old_length = len(oldhtml)
+            for idx in idx_list[::-1]:
+                html[idx:idx+old_length] = newhtml
+            if idx_list:
+                print(f'{page}:\t{len(idx_list)} instances of old html replaced.')
+                pages_changed += 1
+            else:
+                pages_not_changed.append(page)
+
+            fin.seek(0)
+            fin.writelines(html)
+            fin.truncate() # Allows shorter file when overwriting
+
+    print(f'\n{pages_changed} pages changed.')
+    pages_not_changed_string = ('\n').join(pages_not_changed)
+    print(f'Pages not changed ({len(pages_not_changed)}):\n', pages_not_changed_string)
+
+# Set list of desired pages to change
 pages = glob.glob('**/*.html', recursive=True)
 exclusions = ['googlec9a765a08c18ee51.html', 'pinterest-fc74e.html']
 for exc in exclusions:
@@ -22,10 +80,14 @@ for exc in exclusions:
     _ = pages.pop(idx)
 
 print('WARNING: Recommend git push before editing for easy reversion to original.\n')
-oldhtml = input('Old html (include \\t; replace newlines with \'\\n\'): ')
+oldhtml = ''
+while not oldhtml:
+    oldhtml = input('Old html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
 oldhtml = inputToHtml(oldhtml)
 
-newhtml = input('New html (include \\t; replace newlines with \'\\n\'): ')
+newhtml = ''
+while not newhtml:
+    newhtml = input('New html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
 newhtml = inputToHtml(newhtml)
 
 # Example html
@@ -38,28 +100,4 @@ newhtml = inputToHtml(newhtml)
 #           '\t<meta property="og:image:width" content="1080px">\n',
 #           '\t<meta property="og:image:height" content="749px">\n']
 
-oldlength = len(oldhtml)
-newlength = len(newhtml)
-
-#''' Note: BeautifulSoup etc does not maintain indentation '''
-pageschanged = 0
-pagesnotchanged = []
-for page in pages:
-    with open(page, 'r+', encoding='utf8') as fin:
-        html = fin.readlines()
-
-        idxlist = checksublist(html, oldhtml)
-        for idx in idxlist[::-1]:
-            html[idx:idx+oldlength] = newhtml
-        if idxlist:
-            print(f'{page}:\t{len(idxlist)} instances of old html replaced.')
-            pageschanged += 1
-        else:
-            pagesnotchanged.append(page)
-
-        fin.seek(0)
-        fin.writelines(html)
-
-print(f'\n{pageschanged} pages changed.')
-pagesnotchanged_string = ('\n').join(pagesnotchanged)
-print(f'Pages not changed ({len(pagesnotchanged)}):\n', pagesnotchanged_string)
+run(pages, oldhtml, newhtml)
