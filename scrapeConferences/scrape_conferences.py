@@ -232,7 +232,12 @@ def getDataAndInputFile():
 
         # Extra fields
         eventlist.append(event['themes'])
-        eventlist.append(event['region'])
+        try:
+            eventlist.append(event['region'])
+        except KeyError:
+            print(event)
+            raise
+        
         outlist.append(eventlist)
 
     # Find default inputfile to append sheet
