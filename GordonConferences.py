@@ -103,17 +103,19 @@ def scrape_page(page, url, print_output=True):
         print('Fees are not yet available for this conference. ')
         return None
     
-    priceList = []
+    price_list = []
     for p in prices:
         if 'Conferee' in p.previous:
             try:
                 thisPrice = round(float(p.text.replace('$', '').replace(',', '')), 0)
-                priceList.append(thisPrice)
+                price_list.append(thisPrice)
             except ValueError:
                 pass
     try:
-        event['min_price'] = str(int(min(priceList)))
-        event['max_price'] = str(int(max(priceList)))
+        min_price = int(min(price_list))
+        event['min_price'] = f'{min_price:,d}'
+        max_price = int(max(price_list))
+        event['max_price'] = f'{max_price:,d}'
     except ValueError:
         event['min_price'] = ''
         event['max_price'] = ''

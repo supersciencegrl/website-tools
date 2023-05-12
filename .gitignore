@@ -2,6 +2,7 @@
 gitignore/
 *.xlsx
 YTScript.txt
+proxy.*
 
 # Windows image file caches
 Thumbs.db
