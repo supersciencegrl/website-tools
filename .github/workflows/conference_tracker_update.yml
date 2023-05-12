@@ -36,12 +36,9 @@ jobs:
     - name: Commit files
       run: |
         echo ${{ github.ref }}
-        # git add .
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "ci: Automated update $(date)" -a | exit 0
-        # git commit -m "ci: Automated update $(date)" -a
-        # git show --name-only HEAD
+        git commit -m "ci: Automated update $(date)" | exit 0
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
