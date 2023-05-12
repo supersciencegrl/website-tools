@@ -5,6 +5,7 @@ __status__ = "Development"
 
 from datetime import datetime
 import json
+from pathlib import Path
 import string
 
 from bs4 import BeautifulSoup
@@ -203,7 +204,7 @@ def set_proxy():
     global proxies
 
     proxy_file = Path('proxy.dat')
-    if os.path.isfile(proxy_file):
+    if proxy_file.exists():
         proxy = True
     else:
         proxy = False
