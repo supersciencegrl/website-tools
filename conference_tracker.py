@@ -201,11 +201,15 @@ def set_proxy():
     """
     
     global proxies
-    
-    proxy = True
+
+    proxy_file = Path('proxy.dat')
+    if os.path.isfile(proxy_file):
+        proxy = True
+    else:
+        proxy = False
     proxies = {}
     if proxy:
-        with open('proxy.dat', 'rt') as fin:
+        with open(proxy_file, 'rt') as fin:
             proxy_url = fin.readline()
         proxies = {'http': proxy_url,
                    'https': proxy_url
