@@ -3,7 +3,7 @@
 A repo of tools for automatically interacting with <a href="https://supersciencegrl.co.uk">SuperScienceGrl.co.uk</a> &ndash; for which the source code can be found in the <a href="https://github.com/supersciencegrl/supersciencegrl.github.io">SuperScienceGrl.github.io</a> repo. 
 
 ### <span style="color: darkgreen">Conference Tracker</span>
-Tool to convert the <a href="https://supersciencegrl.co.uk/conferences">Conference Database</a> to a JSON output (_conferences.json_). ~~Runs daily via GitHub Actions.~~
+Tool to convert the <a href="https://supersciencegrl.co.uk/conferences">Conference Database</a> to a JSON output (_conferences.json_). Runs daily via GitHub Actions.
 
 ### <span style="color: darkgreen">Website management scripts</span>
 - _GordonConferences.py_ &ndash; Web scraper to extract html from Gordon Conference webpages to the Conference Database
