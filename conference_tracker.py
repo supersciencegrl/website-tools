@@ -11,6 +11,17 @@ from bs4 import BeautifulSoup
 import requests
 
 def decode_themes(theme_list: list) -> list:
+    """
+    Decode a list of theme codes into their corresponding theme names.
+
+    Args:
+        theme_list (list): A list of theme codes.
+
+    Returns:
+        list: A list of theme names.
+
+    """
+    
     theme_names = {
         'agro': 'agrochemistry',
         'anal': 'analytical',
@@ -45,6 +56,17 @@ def decode_themes(theme_list: list) -> list:
     return output_list
 
 def decode_region(region: str) -> str:
+    """
+    Decode a region code into its corresponding region name.
+
+    Args:
+        region (str): A region code.
+
+    Returns:
+        str: The corresponding region name.
+
+    """
+    
     region_short_names = {
         # contintents
         'NA': 'North America',
@@ -73,6 +95,14 @@ def decode_region(region: str) -> str:
     return output
 
 def scrape_conference_list():
+    """
+    Scrape a list of conferences from the Conference Database.
+
+    Returns:
+        list: A list of conference details extracted from the webpage.
+
+    """
+    
     url = 'http://supersciencegrl.co.uk/conferences'
     r = requests.get(url, proxies=proxies)
     r.raise_for_status() # raise HTTPError if status code is not 2xx Success
@@ -83,6 +113,18 @@ def scrape_conference_list():
     return conferences
 
 def conference_html_to_dict(conference):
+    """
+    Convert conference HTML data to a dictionary.
+
+    Args:
+        conference: The conference HTML data.
+
+    Returns:
+        dict: A dictionary containing conference details.
+        None: Conference is either postponed or cancelled. 
+
+    """
+    
     if 'cancelled' in conference['class'] or 'postponed' in conference['class']:
         return None
 
@@ -136,7 +178,7 @@ def conference_html_to_dict(conference):
     # Calculate max fee for sorting
     smaller_fee, sep, max_fee = my_dict['non_member_fee'].rpartition('–')
     if ' / ' in max_fee:
-        for currency in ['£', '€', '$']:
+        for currency in ['£', '€', '$']: # In order of preferences
             if currency in max_fee:
                 if smaller_fee:
                     smaller_fee = [section for section in smaller_fee.split(' / ') if currency in section][0]
@@ -151,6 +193,13 @@ def conference_html_to_dict(conference):
     return my_dict
 
 def set_proxy():
+    """
+    Set up a proxy for HTTP and HTTPS requests.
+
+    The function reads the proxy URL from a file named 'proxy.dat' and sets the global 'proxies' variable.
+
+    """
+    
     global proxies
     
     proxy = True
@@ -162,13 +211,15 @@ def set_proxy():
                    'https': proxy_url
                    }
 
-# For debugging
-def find_conference_by_title(substring):
-    for conference in conferences:
-        if substring in conference.find('td', class_='column1').text:
-            return conference
-
 def get_conferences() -> list[dict]:
+    """
+    Get a list of conference details.
+
+    Returns:
+        list[dict]: A list of dictionaries containing conference details.
+
+    """
+    
     conferences = scrape_conference_list()
     all_conferences = [] # list(dict)
     for conference in conferences:
@@ -191,6 +242,15 @@ def get_conferences() -> list[dict]:
     return all_conferences
 
 def export_to_json(lod: list[dict], output_file='conferences.json'):
+    """
+    Export a list of dictionaries to a JSON file.
+
+    Args:
+        lod (list[dict]): The list of dictionaries to be exported.
+        output_file (str, optional): The name of the output JSON file. Defaults to 'conferences.json'.
+
+    """
+    
     json_export = json.dumps(lod)
     with open(output_file, 'w', encoding='utf8') as fout:
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)

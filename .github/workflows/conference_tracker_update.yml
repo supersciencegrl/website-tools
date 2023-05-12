@@ -1,0 +1,50 @@
+# Written by Khoi Van
+
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Update Conference Tracker JSON
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '* 19 * * *'
+  push:
+    branches: [ main ]
+      
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements-conference_tracker.txt
+    - name: Run conference_tracker.py
+      run: |
+        python conference_tracker.py
+    - name: Git security
+      run: |
+        git config --global --add safe.directory /github/workspace
+    - name: Commit files
+      run: |
+        echo ${{ github.ref }}
+        # git add .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "ci: Automated update $(date)" -a | exit 0
+        # git commit -m "ci: Automated update $(date)" -a
+        # git show --name-only HEAD
+    - name: Push changes
+#       if: github.ref == 'refs/heads/master'
+      uses: ad-m/github-push-action@master
+#       uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
