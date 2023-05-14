@@ -2,177 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advanced fluorescence imaging techniques (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/mic23-02/",
-        "start_date": "07 May 2023",
-        "end date": "12 May 2023",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€1,100",
-        "non_member_fee": "€1,100",
-        "max_fee": "€1,100",
-        "uid": "advancedfluorescence07May2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Secrets of Batch Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20230508/",
-        "start_date": "08 May 2023",
-        "end date": "12 May 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,999",
-        "non_member_fee": "£1,999",
-        "max_fee": "£1,999",
-        "uid": "secretsofbatchproces08May2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BioProcess Intl Europe",
-        "url": "https://informaconnect.com/bpieurope/",
-        "start_date": "09 May 2023",
-        "end date": "12 May 2023",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "£2,661–3,266",
-        "non_member_fee": "£2,661–3,266",
-        "max_fee": "£3,266",
-        "uid": "bioprocessintleurope09May2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "2023 Alchemistry Workshop on Free Energy Methods in Drug Design",
-        "url": "http://www.alchemistry.org/wiki/2023_Workshop_on_Free_Energy_Methods_in_Drug_Design",
-        "start_date": "10 May 2023",
-        "end date": "12 May 2023",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$100",
-        "non_member_fee": "$100",
-        "max_fee": "$100",
-        "uid": "2023alchemistryworks10May2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Quantum Computing Applications in Chemical and Biochemical Engineering Workshop",
-        "url": "https://www.aiche.org/sbe/conferences/quantum-computing-applications-chemical-and-biochemical-engineering-workshop/2023",
-        "start_date": "10 May 2023",
-        "end date": "12 May 2023",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "€795",
-        "non_member_fee": "€795",
-        "max_fee": "€795",
-        "uid": "quantumcomputingappl10May2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Conference for emerging Black academics in STEM",
-        "url": "https://mobile.twitter.com/15thenning/status/1640791986759421954",
-        "start_date": "12 May 2023",
-        "end_date": null,
-        "locations": [
-            "Pasadena, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "conferenceforemergin12May2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Environmental toxic tort: Current perspectives & recent cases",
-        "url": "https://www.rsc.org/events/detail/43455/toxic-tort-in-the-uk-current-perspectives-and-recent-cases-date-tbc",
-        "start_date": "12 May 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "environmentaltoxicto12May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "careers"
         ],
         "regions": [
@@ -215,6 +44,29 @@
         "non_member_fee": "$255–330",
         "max_fee": "$330",
         "uid": "gordonresearchsemina13May2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SFC Europe 2023",
+        "url": "https://www.greenchemistrygroup.org/current-conference/sfc-europe-2023",
+        "start_date": "14 May 2023",
+        "end date": "16 May 2023",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "sfceurope202314May2023_0"
     },
     {
         "themes": [
@@ -2207,6 +2059,31 @@
         "non_member_fee": "€500",
         "max_fee": "€500",
         "uid": "4thintlconferenceonp05Jun2023_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scientific Update: Molecule to Medicine (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/molecule-to-medicine/",
+        "start_date": "05 Jun 2023",
+        "end date": "13 Jun 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£1,699",
+        "non_member_fee": "£1,699",
+        "max_fee": "£1,699",
+        "uid": "scientificupdatemole05Jun2023_0"
     },
     {
         "themes": [
@@ -5561,6 +5438,28 @@
     },
     {
         "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London LGBTQ+ STEM Conference",
+        "url": "https://www.eventbrite.co.uk/e/london-lgbtq-stem-conference-2023-tickets-594923390877",
+        "start_date": "29 Jun 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "londonlgbtqstemconfe29Jun2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "synthesis"
@@ -5953,6 +5852,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Foundation of Process Analytical Chemistry IFPAC-2023",
+        "url": "https://ifpacglobal.org/",
+        "start_date": "04 Jul 2023",
+        "end date": "07 Jul 2023",
+        "locations": [
+            "North Bethesda, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "member_fee": "$2,675",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "intlfoundationofproc04Jul2023_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -6005,7 +5930,7 @@
         ],
         "title": "Scientific Update: Organofluorine chemistry (training course)",
         "url": "https://www.scientificupdate.com/training_courses/organofluorine-chemistry-synthesis-applications-sources-and-sustainability/",
-        "start_date": "02 Jul 2023",
+        "start_date": "05 Jul 2023",
         "end date": "07 Jul 2023",
         "locations": [
             "Online"
@@ -6016,7 +5941,7 @@
         "member_fee": "£1,699",
         "non_member_fee": "£1,699",
         "max_fee": "£1,699",
-        "uid": "scientificupdateorga02Jul2023_0"
+        "uid": "scientificupdateorga05Jul2023_0"
     },
     {
         "themes": [
@@ -6040,6 +5965,29 @@
         "non_member_fee": "£491–545",
         "max_fee": "£545",
         "uid": "onhelixnewhorizonsfo06Jul2023_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "6th Machine Learning & AI in Bio(Chemical) Engineering Conference",
+        "url": "https://www.mabc-cambridge.ai/",
+        "start_date": "06 Jul 2023",
+        "end date": "07 Jul 2023",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£65",
+        "non_member_fee": "£65",
+        "max_fee": "£65",
+        "uid": "6thmachinelearningai06Jul2023_0"
     },
     {
         "themes": [
@@ -6831,6 +6779,28 @@
         "non_member_fee": "£350",
         "max_fee": "£350",
         "uid": "5thercgranteesconfer11Jul2023_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "RSC CChem Conference",
+        "url": "https://www.rsc.org/events/detail/76463/cchemconference-2023",
+        "start_date": "12 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "rsccchemconference12Jul2023_0"
     },
     {
         "themes": [
@@ -10684,6 +10654,30 @@
         "non_member_fee": "€690",
         "max_fee": "€690",
         "uid": "4thintlconferenceone20Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Molecules4Life",
+        "url": "https://molecules4life-2023.events.chemistry.pt/",
+        "start_date": "20 Sep 2023",
+        "end date": "22 Sep 2023",
+        "locations": [
+            "Vila Real, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "€200",
+        "non_member_fee": "€240",
+        "max_fee": "€240",
+        "uid": "molecules4life20Sep2023_0"
     },
     {
         "themes": [
