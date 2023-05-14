@@ -2,52 +2,6 @@
     {
         "themes": [
             "analytical",
-            "careers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Emerging Analytical Professionals 2023",
-        "url": "https://www.analyticalsciencenetwork.co.uk/ourevents",
-        "start_date": "12 May 2023",
-        "end date": "14 May 2023",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "emerginganalyticalpr12May2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Seminar: Self-Assembly & Supramolecular Chemistry",
-        "url": "https://grc.org/self-assembly-and-supramolecular-chemistry-grs-conference/2023/",
-        "start_date": "13 May 2023",
-        "end date": "14 May 2023",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$255–330",
-        "non_member_fee": "$255–330",
-        "max_fee": "$330",
-        "uid": "gordonresearchsemina13May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "environment/fuels"
         ],
         "regions": [
@@ -559,6 +513,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "33rdscifinechemicals19May2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Highlighting Organic Chemistry in the Czech Republic",
+        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-the-czech-republic-tickets-634996781467",
+        "start_date": "19 May 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "highlightingorganicc19May2023_0"
     },
     {
         "themes": [
