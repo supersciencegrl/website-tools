@@ -177,7 +177,10 @@ def conference_html_to_dict(conference):
     else:
         my_dict['non_member_fee'] = column6.text
     # Calculate max fee for sorting
-    smaller_fee, sep, max_fee = my_dict['non_member_fee'].rpartition('–')
+    if all([char.isalpha() for char in my_dict['non_member_fee']]): # eg: 'Unkn'
+        smaller_fee, sep, max_fee = my_dict['member_fee'].rpartition('–')
+    else:
+        smaller_fee, sep, max_fee = my_dict['non_member_fee'].rpartition('–')
     if ' / ' in max_fee:
         for currency in ['£', '€', '$']: # In order of preferences
             if currency in max_fee:
