@@ -297,12 +297,15 @@
         "start_date": "16 May 2023",
         "end_date": "18 May 2023",
         "locations": [
-            "Boston, MA",
+            "Boston, MA, USA",
             "Online"
         ],
         "countries": [
-            "MA",
+            "USA",
             "Online"
+        ],
+        "US_state": [
+            "MA"
         ],
         "member_fee": "$2,149–3,148",
         "non_member_fee": "$2,149–3,148",
