@@ -155,7 +155,7 @@ def conference_html_to_dict(conference):
         my_dict['end_date'] = None
     else:
         #my_dict['end_date'] = datetime.strptime(end_date, '%d %b %Y') # Do not use datetime - not JSON serializable
-        my_dict['end date'] = end_date
+        my_dict['end_date'] = end_date
 
     column4 = conference.find('td', class_='column4')
     locations = column4.text.split('/')
