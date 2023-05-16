@@ -71,31 +71,6 @@
     },
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Chemical Biology Symposium",
-        "url": "https://www.rsc.org/events/detail/74837/chemical-biology-symposium-2023",
-        "start_date": "15 May 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£26–63",
-        "non_member_fee": "£37–74",
-        "max_fee": "£74",
-        "uid": "chemicalbiologysympo15May2023_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "med chem"
         ],
