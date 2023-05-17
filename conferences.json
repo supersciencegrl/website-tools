@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SFC Europe 2023",
-        "url": "https://www.greenchemistrygroup.org/current-conference/sfc-europe-2023",
-        "start_date": "14 May 2023",
-        "end_date": "16 May 2023",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "sfceurope202314May2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "materials/polymers"
@@ -68,52 +45,6 @@
         "non_member_fee": "$1150–1,580",
         "max_fee": "$1,580",
         "uid": "gordonresearchconfer14May2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Helmholtz Drug Discovery Conference HDDC 2023",
-        "url": "https://www.helmholtz-hzi.de/en/news-events/events/view/event/info/hddc-2023-1/",
-        "start_date": "15 May 2023",
-        "end_date": "16 May 2023",
-        "locations": [
-            "Braunschweig, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€150",
-        "non_member_fee": "€150",
-        "max_fee": "€150",
-        "uid": "intlhelmholtzdrugdis15May2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "21st Annual Cardiff Chemistry Conference",
-        "url": "https://www.rsc.org/events/detail/76509/21st-annual-cardiff-chemistry-conference",
-        "start_date": "15 May 2023",
-        "end_date": "16 May 2023",
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "21stannualcardiffche15May2023_0"
     },
     {
         "themes": [
@@ -205,30 +136,6 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "weheraeusseminaracce15May2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "10th Chemical nanoscience symposium CNSN-X 2023",
-        "url": "https://conferences.ncl.ac.uk/chemnanosymposium10/",
-        "start_date": "16 May 2023",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "10thchemicalnanoscie16May2023_0"
     },
     {
         "themes": [
@@ -1546,7 +1453,7 @@
             "Scotland",
             "Online"
         ],
-        "title": "#EnvChem2023\n #EnvChem2023: Chemistry of the Whole Environment",
+        "title": "#EnvChem2023: Chemistry of the Whole Environment",
         "url": "https://www.rsc.org/events/detail/75546/envchem2023-chemistry-of-the-whole-environment",
         "start_date": "01 Jun 2023",
         "end_date": "02 Jun 2023",
@@ -1561,7 +1468,7 @@
         "member_fee": "£65–200",
         "non_member_fee": "£80–235",
         "max_fee": "£235",
-        "uid": "envchem2023\nenvchem201Jun2023_0"
+        "uid": "envchem2023chemistry01Jun2023_0"
     },
     {
         "themes": [
@@ -1589,6 +1496,33 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "stelmobradypostdocto02Jun2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "SoCal Organometallics Meeting",
+        "url": "https://scom.chem.ucsb.edu/",
+        "start_date": "03 Jun 2023",
+        "end_date": null,
+        "locations": [
+            "Riverside, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "socalorganometallics03Jun2023_0"
     },
     {
         "themes": [
@@ -11693,7 +11627,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "#BeilsteinPiSystems2023\n Beilstein Organic Chemistry Symposium 2023: π-Conjugated Molecules and Materials",
+        "title": "Beilstein Organic Chemistry Symposium 2023: π-Conjugated Molecules and Materials",
         "url": "https://www.beilstein-institut.de/en/symposia/pisystems/",
         "start_date": "07 Nov 2023",
         "end_date": "09 Nov 2023",
@@ -11706,7 +11640,7 @@
         "member_fee": "€200",
         "non_member_fee": "€200",
         "max_fee": "€200",
-        "uid": "beilsteinpisystems2007Nov2023_0"
+        "uid": "beilsteinorganicchem07Nov2023_0"
     },
     {
         "themes": [
