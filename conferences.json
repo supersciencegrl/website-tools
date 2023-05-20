@@ -1,160 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Self-Assembly & Supramolecular Chemistry",
-        "url": "https://grc.org/self-assembly-and-supramolecular-chemistry-conference/2023/",
-        "start_date": "14 May 2023",
-        "end_date": "19 May 2023",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$1150–1,580",
-        "non_member_fee": "$1150–1,580",
-        "max_fee": "$1,580",
-        "uid": "gordonresearchconfer14May2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "careers",
-            "catalysis",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "2023 Corteva Chemistry Symposium (students/postdocs)",
-        "url": "https://corteva.recsolu.com/app/collect/event/8-CQf27l7fsq0IyR0_A7EQ",
-        "start_date": "17 May 2023",
-        "end_date": "19 May 2023",
-        "locations": [
-            "Indianapolis, IN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IN"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "2023cortevachemistry17May2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "11th Young Researcher Conference (students)",
-        "url": "https://twitter.com/gutierrez_lab/status/1633496565418426371",
-        "start_date": "17 May 2023",
-        "end_date": "19 May 2023",
-        "locations": [
-            "College Station, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "11thyoungresearcherc17May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England",
-            "Online"
-        ],
-        "title": "33rd SCI Fine Chemicals Group Postgraduate Symposium",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2023/33rd-fine-chemicals-group-postgraduate-symposium",
-        "start_date": "19 May 2023",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "33rdscifinechemicals19May2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Highlighting Organic Chemistry in the Czech Republic",
-        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-the-czech-republic-tickets-634996781467",
-        "start_date": "19 May 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "highlightingorganicc19May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "Recent advances in surface analysis",
-        "url": "https://www.soci.org/events/materials-ecc/2023/recent-advances-in-surface-analysis",
-        "start_date": "19 May 2023",
-        "end_date": null,
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£25",
-        "non_member_fee": "£25",
-        "max_fee": "£25",
-        "uid": "recentadvancesinsurf19May2023_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -430,6 +276,31 @@
         "non_member_fee": "£200",
         "max_fee": "£200",
         "uid": "microscopydataanalys22May2023_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs, Automation, & Technology",
+        "url": "https://www.amg-world.co.uk/smart-labs-automation-technology/",
+        "start_date": "23 May 2023",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$795",
+        "non_member_fee": "$795",
+        "max_fee": "$795",
+        "uid": "futurelabsautomation23May2023_0"
     },
     {
         "themes": [
@@ -1704,6 +1575,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "rsclondonsoutheastor06Jun2023_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Bruker Dimesion XR Icon NanoScale Characterization Workshop",
+        "url": "https://mbns.bruker.com/acton/fs/blocks/showLandingPage/a/9063/p/p-0360/t/page/fm/4",
+        "start_date": "06 Jun 2023",
+        "end_date": null,
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "brukerdimesionxricon06Jun2023_0"
     },
     {
         "themes": [
@@ -8835,6 +8728,31 @@
         "non_member_fee": "—",
         "max_fee": "—",
         "uid": "15theuropeansciencee28Aug2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "2nd French-Polish Chemistry Congress",
+        "url": "https://frpochco.web.amu.edu.pl/",
+        "start_date": "28 Aug 2023",
+        "end_date": "31 Aug 2023",
+        "locations": [
+            "Montpellier, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€200",
+        "non_member_fee": "€200",
+        "max_fee": "€200",
+        "uid": "2ndfrenchpolishchemi28Aug2023_0"
     },
     {
         "themes": [
