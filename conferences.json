@@ -1,50 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "European Symposium on Biological & Organic Chemistry",
-        "url": "https://www.esboc.org.uk/",
-        "start_date": "19 May 2023",
-        "end_date": "21 May 2023",
-        "locations": [
-            "Gregynog, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£500",
-        "non_member_fee": "£500",
-        "max_fee": "£500",
-        "uid": "europeansymposiumonb19May2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Sedimentology of plastics: State of the art and future directions",
-        "url": "https://royalsociety.org/science-events-and-lectures/2023/03/sedimentology-plastics/",
-        "start_date": "20 May 2023",
-        "end_date": "21 May 2023",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "sedimentologyofplast20May2023_0"
-    },
-    {
-        "themes": [
             "med chem",
             "synthesis"
         ],
