@@ -1,341 +1,5 @@
 [
     {
-        "themes": [
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "9th European Workshop in Drug Synthesis EWDSy",
-        "url": "http://www.congressi.unisi.it/ewdsy/",
-        "start_date": "21 May 2023",
-        "end_date": "24 May 2023",
-        "locations": [
-            "Siena, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€700",
-        "non_member_fee": "€700",
-        "max_fee": "€700",
-        "uid": "9theuropeanworkshopi21May2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Chemical & Process Engineering ICheaP16",
-        "url": "https://www.aidic.it/icheap16/",
-        "start_date": "21 May 2023",
-        "end_date": "24 May 2023",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€750",
-        "non_member_fee": "€750",
-        "max_fee": "€750",
-        "uid": "intlconferenceonchem21May2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "InterPore23: Intl Conference on Porous Media & short courses",
-        "url": "https://events.interpore.org/event/41/",
-        "start_date": "21 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "Edinburgh, Scotland"
-        ],
-        "countries": [
-            "Scotland"
-        ],
-        "member_fee": "€620–770",
-        "non_member_fee": "€730–970",
-        "max_fee": "€970",
-        "uid": "interpore23intlconfe21May2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Water, water everywhere – is it still safe to drink? Pollution impact on H2O quality",
-        "url": "https://www.rsc.org/events/detail/76200/water-water-everywhere-is-it-still-safe-to-drink-the-pollution-impact-on-water-quality",
-        "start_date": "22 May 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "waterwatereverywhere22May2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
-        "start_date": "22 May 2023",
-        "end_date": "23 May 2023",
-        "locations": [
-            "Brussels, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "€1,899",
-        "non_member_fee": "€1,899",
-        "max_fee": "€1,899",
-        "uid": "chemicalprocesssafet22May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Open, reproducible hardware for microscopy",
-        "url": "https://royalsociety.org/science-events-and-lectures/2023/05/microscopy-hardware/",
-        "start_date": "22 May 2023",
-        "end_date": "23 May 2023",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "openreproduciblehard22May2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "7th Green & Sustainable Chemistry Conference",
-        "url": "https://www.elsevier.com/events/conferences/green-and-sustainable-chemistry-conference",
-        "start_date": "22 May 2023",
-        "end_date": "24 May 2023",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€650–760",
-        "non_member_fee": "€650–760",
-        "max_fee": "€760",
-        "uid": "7thgreensustainablec22May2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Proximity-inducing pharmacology: Targeted protein degradation and beyond",
-        "url": "https://www.irbbarcelona.org/en/events/proximity-inducing-pharmacology-targeted-protein-degradation-and-beyond",
-        "start_date": "22 May 2023",
-        "end_date": "24 May 2023",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "proximityinducingpha22May2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS Europe 2023 Conference & Exhibition",
-        "url": "https://www.slas.org/events-calendar/slas-europe-2023-conference-and-exhibition/",
-        "start_date": "22 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "Brussels, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "€100–985",
-        "non_member_fee": "€100–1,125",
-        "max_fee": "€1,125",
-        "uid": "societyforlaboratory22May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Microscopy data analysis: Machine learning & the BioImage Archive (training course)",
-        "url": "https://www.ebi.ac.uk/training/events/microscopy-data-analysis-0/",
-        "start_date": "22 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£200",
-        "non_member_fee": "£200",
-        "max_fee": "£200",
-        "uid": "microscopydataanalys22May2023_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs, Automation, & Technology",
-        "url": "https://www.amg-world.co.uk/smart-labs-automation-technology/",
-        "start_date": "23 May 2023",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$795",
-        "non_member_fee": "$795",
-        "max_fee": "$795",
-        "uid": "futurelabsautomation23May2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "REPowerEU: Financial opportunities for research & innovation",
-        "url": "https://research-innovation-community.ec.europa.eu/events/5C8vdR0EOrBg3zEFSDMdqT/overview",
-        "start_date": "23 May 2023",
-        "end_date": null,
-        "locations": [
-            "Brussels, Belgium",
-            "Online"
-        ],
-        "countries": [
-            "Belgium",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "repowereufinancialop23May2023_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "3rd BMCS Synthesis in Drug Discovery & Development SDDD23",
-        "url": "https://www.rscbmcs.org/events/sddd23/",
-        "start_date": "23 May 2023",
-        "end_date": "24 May 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£50",
-        "non_member_fee": "£80",
-        "max_fee": "£80",
-        "uid": "3rdbmcssynthesisindr23May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "North America",
-            "South America"
-        ],
-        "title": "2nd Commonwealth Chemistry Congress",
-        "url": "https://commonwealthchemistry.org/event/2-ccc/",
-        "start_date": "23 May 2023",
-        "end_date": "25 May 2023",
-        "locations": [
-            "St Augustine, Trinidad & Tobago"
-        ],
-        "countries": [
-            "Trinidad & Tobago"
-        ],
-        "member_fee": "Nomination",
-        "non_member_fee": "Nomination",
-        "max_fee": "Nomination",
-        "uid": "2ndcommonwealthchemi23May2023_0"
-    },
-    {
         "themes": [],
         "regions": [
             "Eastern Europe"
@@ -354,238 +18,6 @@
         "non_member_fee": "€35–180",
         "max_fee": "€180",
         "uid": "13thintlconferenceon23May2023_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Start-up sustainably",
-        "url": "https://www.soci.org/events/science-and-enterprise-group/2023/startup-sustainably",
-        "start_date": "24 May 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£30",
-        "non_member_fee": "£45",
-        "max_fee": "£45",
-        "uid": "startupsustainably24May2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Emerging separations technologies",
-        "url": "https://www.rsc.org/events/detail/76489/emerging-separations-technologies",
-        "start_date": "24 May 2023",
-        "end_date": "25 May 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "emergingseparationst24May2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Flow Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/flow-chemistry-and-masterclass/",
-        "start_date": "24 May 2023",
-        "end_date": "25 May 2023",
-        "locations": [
-            "Graz, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "€2,299–3,098",
-        "non_member_fee": "€2,299–3,098",
-        "max_fee": "€3,098",
-        "uid": "flowchemistrytrainin24May2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Expoquímica Online 2023",
-        "url": "https://sqm.org.mx/expoquimica-online-2023/",
-        "start_date": "24 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "expoquímicaonline20224May2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Keele Inorganic Symposium 2023",
-        "url": "https://www.rsc.org/events/detail/76053/keele-inorganic-symposium-2023",
-        "start_date": "25 May 2023",
-        "end_date": null,
-        "locations": [
-            "Keele, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "keeleinorganicsympos25May2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Opportunities and Challenges in C-H Activation",
-        "url": "https://uni-goettingen.zoom.us/webinar/register/WN_sFQzA3-kR6euSNGpiXZR5w#/registration",
-        "start_date": "25 May 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "opportunitiesandchal25May2023_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Auditing to pharmaceutical standards (training course)",
-        "url": "https://www.rssl.com/training-consultancy/training/course/auditing-to-pharmaceutical-standards/AUDITIXPLk",
-        "start_date": "25 May 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£780",
-        "non_member_fee": "£780",
-        "max_fee": "£780",
-        "uid": "auditingtopharmaceut25May2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Flow Chemistry Europe 2023",
-        "url": "https://flowchemistryeurope.com/",
-        "start_date": "25 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "Hinxton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£900",
-        "non_member_fee": "£1,200",
-        "max_fee": "£1,200",
-        "uid": "flowchemistryeurope225May2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Formulation & Delivery UK",
-        "url": "https://www.oxfordglobal.co.uk/formulation-delivery-series-uk/",
-        "start_date": "25 May 2023",
-        "end_date": "26 May 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "formulationdeliveryu25May2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "A celebration of women in chemistry",
-        "url": "https://twitter.com/CiaranSeath/status/1622312173476384769",
-        "start_date": "26 May 2023",
-        "end_date": null,
-        "locations": [
-            "Jupiter, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "acelebrationofwomeni26May2023_0"
     },
     {
         "themes": [
@@ -823,6 +255,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "inclusionandadvancem30May2023_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Digital action at higher education institutions as a catalyst for social change in the COVID-19 crisis HEIDI",
+        "url": "https://www.eventbrite.co.uk/e/ucl-heidi-final-event-tickets-630985423387",
+        "start_date": "30 May 2023",
+        "end_date": "31 May 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "digitalactionathighe30May2023_0"
     },
     {
         "themes": [
@@ -2941,6 +2395,30 @@
         "non_member_fee": "€740",
         "max_fee": "€740",
         "uid": "intlsymposiumonfunct17Jun2023_0"
+    },
+    {
+        "themes": [
+            "diversity",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "2nd Erlangen Women in Science Symposium",
+        "url": "https://www.w4w.nat.fau.eu/womeninscience_2nd-erlangen-symposium/",
+        "start_date": "18 Jun 2023",
+        "end_date": "20 Jun 2023",
+        "locations": [
+            "Erlangen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "2nderlangenwomeninsc18Jun2023_0"
     },
     {
         "themes": [
@@ -5227,6 +4705,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#SCIPosterComp\n UK National Undergraduate Online Poster Competition 2023",
+        "url": "https://istry.co.uk/postercompetition/SCIPoster2023/",
+        "start_date": "03 Jul 2023",
+        "end_date": "14 Jul 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "scipostercomp\nuknati03Jul2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "inorganic/nano",
@@ -5343,6 +4843,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "royalsocietysummersc04Jul2023_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "French Industrial Chemistry Symposium FICS 2023",
+        "url": "https://ficsgrandest23.sciencesconf.org/",
+        "start_date": "05 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€30",
+        "non_member_fee": "€60",
+        "max_fee": "€60",
+        "uid": "frenchindustrialchem05Jul2023_0"
     },
     {
         "themes": [
@@ -6363,6 +5888,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "RSC Organic Chemistry Ireland Meeting 2023",
+        "url": "https://www.rsc.org/events/detail/76353/rsc-organic-chemistry-ireland-meeting-2023",
+        "start_date": "05 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscorganicchemistryi05Jul2023_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -6806,6 +6356,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "ukcatalysishubsummer17Jun2023_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Organic Geochemistry Society meeting BOGS 2023",
+        "url": "https://antsie.webspace.durham.ac.uk/bogs2023/",
+        "start_date": "17 Jul 2023",
+        "end_date": "18 Jul 2023",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£80",
+        "non_member_fee": "£80",
+        "max_fee": "£80",
+        "uid": "britishorganicgeoche17Jul2023_0"
     },
     {
         "themes": [
@@ -8514,6 +8088,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Variety in Chemistry Education/Physics Higher Education Conference ViCEPHEC23",
+        "url": "https://vicephec23.wordpress.com/",
+        "start_date": "24 Aug 2023",
+        "end_date": "25 Aug 2023",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "varietyinchemistryed24Aug2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "catalysis",
             "chem bio",
@@ -9136,6 +8732,28 @@
         "non_member_fee": "£495–990",
         "max_fee": "£990",
         "uid": "gregynogsynthesiswor06Sep2023_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Recent Appointees in Polymer Science RAPS 2023",
+        "url": "https://www.raps.org.uk/raps-meetings",
+        "start_date": "06 Sep 2023",
+        "end_date": "08 Sep 2023",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£80",
+        "non_member_fee": "£80",
+        "max_fee": "£80",
+        "uid": "recentappointeesinpo06Sep2023_0"
     },
     {
         "themes": [
@@ -10307,6 +9925,30 @@
         "non_member_fee": "€895",
         "max_fee": "€895",
         "uid": "intlcongressonpartic26Sep2023_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Processing Trade Fair for Powder, Bulk Solids, Fluids, Liquids POWTECH",
+        "url": "https://www.powtech.de/en",
+        "start_date": "26 Sep 2023",
+        "end_date": "28 Sep 2023",
+        "locations": [
+            "Nuremberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€52–57",
+        "non_member_fee": "€52–57",
+        "max_fee": "€57",
+        "uid": "intlprocessingtradef26Sep2023_0"
     },
     {
         "themes": [
