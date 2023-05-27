@@ -108,6 +108,32 @@
     },
     {
         "themes": [
+            "automation",
+            "catalysis",
+            "law/policy",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl School of Process Chemistry (Advanced Edition) ISPROCHEM 2023",
+        "url": "http://www.isprochem.unimi.it/",
+        "start_date": "28 May 2023",
+        "end_date": "31 May 2023",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€850",
+        "non_member_fee": "€1,000",
+        "max_fee": "€1,000",
+        "uid": "intlschoolofprocessc28May2023_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano"
@@ -4483,6 +4509,37 @@
     {
         "themes": [
             "analytical",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "GSK 2023 Science @ Scale Symposium",
+        "url": "https://survey.gsk.com/TakeSurvey.aspx?SurveyID=I2K13o95H",
+        "start_date": "01 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "gsk2023sciencescales01Jul2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers",
@@ -4505,6 +4562,29 @@
         "non_member_fee": "AUD800",
         "max_fee": "AUD800",
         "uid": "biennialconferenceon02Jul2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "9th Conference of the Federation of the European Zeolite Associations FEZA 2023",
+        "url": "https://www.feza2023.org/en/",
+        "start_date": "02 Jul 2023",
+        "end_date": "06 Jul 2023",
+        "locations": [
+            "Portorož-Portorose, Slovenia"
+        ],
+        "countries": [
+            "Slovenia"
+        ],
+        "member_fee": "€800",
+        "non_member_fee": "€800",
+        "max_fee": "€800",
+        "uid": "9thconferenceofthefe02Jul2023_0"
     },
     {
         "themes": [
@@ -9815,6 +9895,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Horizons symposium: Electronic & energy materials",
+        "url": "https://www.rsc.org/events/detail/76534/horizons-symposium-electronic-and-energy-materials",
+        "start_date": "25 Sep 2023",
+        "end_date": "26 Sep 2023",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "horizonssymposiumele25Sep2023_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -10698,6 +10802,32 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "US National Diversity in STEM Conference",
+        "url": "https://www.sacnas.org/conference",
+        "start_date": "26 Oct 2023",
+        "end_date": "28 Oct 2023",
+        "locations": [
+            "Portland, OR, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OR"
+        ],
+        "member_fee": "$625",
+        "non_member_fee": "$725",
+        "max_fee": "$725",
+        "uid": "usnationaldiversityi26Oct2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -11012,6 +11142,47 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Chemist in Industry",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2023/chemist-in-industry",
+        "start_date": "15 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Abingdon, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemistinindustry15Nov2023_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -11291,6 +11462,29 @@
         "non_member_fee": "€285",
         "max_fee": "€285",
         "uid": "astrazenecaeuropeana05Dec2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "29th SCI Annual Review Meeting: Organic Synthesis – New technologies & applications",
+        "url": "https://www.soci.org/events/young-chemists-panel/2023/29th-sci-annual-review-meeting--organic-synthesis-new-technologies-and-applications",
+        "start_date": "06 Dec 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£125",
+        "non_member_fee": "£175",
+        "max_fee": "£175",
+        "uid": "29thsciannualreviewm06Dec2023_0"
     },
     {
         "themes": [
