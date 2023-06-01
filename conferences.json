@@ -1,73 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "46th Annual Meeting of the Brazilian Society of Chemistry / Reunião Anual da SBQ 46RASBQ",
-        "url": "http://www.sbq.org.br/46ra/",
-        "start_date": "28 May 2023",
-        "end_date": "31 May 2023",
-        "locations": [
-            "Águas de Lindoia, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "member_fee": "$54 / BRL164–365",
-        "non_member_fee": "$131 / BRL452–677",
-        "max_fee": "$ / BRL677",
-        "uid": "46thannualmeetingoft28May2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "law/policy",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl School of Process Chemistry (Advanced Edition) ISPROCHEM 2023",
-        "url": "http://www.isprochem.unimi.it/",
-        "start_date": "28 May 2023",
-        "end_date": "31 May 2023",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€850",
-        "non_member_fee": "€1,000",
-        "max_fee": "€1,000",
-        "uid": "intlschoolofprocessc28May2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano"
@@ -189,54 +122,6 @@
         "non_member_fee": "€590",
         "max_fee": "€590",
         "uid": "materialsresearchsoc29May2023_0"
-    },
-    {
-        "themes": [
-            "diversity",
-            "law/policy"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Inclusion and Advancement of LGBTQ+ People in STEM Fields",
-        "url": "https://isgmh.northwestern.edu/events/symposium.html",
-        "start_date": "30 May 2023",
-        "end_date": null,
-        "locations": [
-            "Washington, DC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "inclusionandadvancem30May2023_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Digital action at higher education institutions as a catalyst for social change in the COVID-19 crisis HEIDI",
-        "url": "https://www.eventbrite.co.uk/e/ucl-heidi-final-event-tickets-630985423387",
-        "start_date": "30 May 2023",
-        "end_date": "31 May 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "digitalactionathighe30May2023_0"
     },
     {
         "themes": [
