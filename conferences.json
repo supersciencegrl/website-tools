@@ -125,30 +125,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Frontiers in Polymer Science",
-        "url": "https://www.elsevier.com/events/conferences/frontiers-in-polymer-science",
-        "start_date": "30 May 2023",
-        "end_date": "01 Jun 2023",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "€713–881",
-        "non_member_fee": "€713–881",
-        "max_fee": "€881",
-        "uid": "frontiersinpolymersc30May2023_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data"
         ],
