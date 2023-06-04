@@ -1,61 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "Peer-led team learning intl society conference (education)",
-        "url": "https://pltlis.org/eleventh-annual-pltlis-conference/#1677787349680-8ec1d11a-01c4",
-        "start_date": "31 May 2023",
-        "end_date": "03 Jun 2023",
-        "locations": [
-            "Houston, TX, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "$25–325",
-        "non_member_fee": "$25–325",
-        "max_fee": "$325",
-        "uid": "peerledteamlearningi31May2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "SoCal Organometallics Meeting",
-        "url": "https://scom.chem.ucsb.edu/",
-        "start_date": "03 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Riverside, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "socalorganometallics03Jun2023_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "inorganic/nano"
         ],
