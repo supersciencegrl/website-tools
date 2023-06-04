@@ -664,31 +664,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "ConTech Pharma",
-        "url": "https://www.contech.live/contech-pharma-2023",
-        "start_date": "21 Apr 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£145–345",
-        "non_member_fee": "£145–345",
-        "max_fee": "£345",
-        "uid": "contechpharma21Apr2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "formulation/particle science",
             "pharma industry"

@@ -1,6 +1,6 @@
 __author__ = "Nessa Carson"
 __copyright__ = "Copyright 2023"
-__version__ = "0.0"
+__version__ = "0.1"
 __status__ = "Development"
 
 from datetime import datetime
@@ -118,7 +118,7 @@ def conference_html_to_dict(conference):
     Convert conference HTML data to a dictionary.
 
     Args:
-        conference: The conference HTML data.
+        conference (bs4.element.Tag): The conference HTML data.
 
     Returns:
         dict: A dictionary containing conference details.
@@ -233,19 +233,20 @@ def get_conferences() -> list[dict]:
     for conference in conferences:
         if conference:
             conference_dict = conference_html_to_dict(conference)
-            # Create UID
-            remove_spaces_punctuation = str.maketrans('', '', string.punctuation + ' ')
-            short_title = conference_dict['title'].translate(remove_spaces_punctuation).lower()
-            #short_date = datetime.strftime(conference_dict['start_date'], '%d%m%y')
-            short_date = conference_dict['start_date'].replace(' ', '')
-            iterator = 0
-            uid = f'{short_title[:20]}{short_date}_{iterator}'
-            while uid in all_conferences: # Ensure UID is unique
-                previous_iterator_length = len(str(iterator))
-                iterator += 1
-                uid = uid[:-previous_iterator_length] + str(iterator)
-            conference_dict['uid'] = uid
-            all_conferences.append(conference_dict)
+            if conference_dict:
+                # Create UID
+                remove_spaces_punctuation = str.maketrans('', '', string.punctuation + ' ')
+                short_title = conference_dict['title'].translate(remove_spaces_punctuation).lower()
+                #short_date = datetime.strftime(conference_dict['start_date'], '%d%m%y')
+                short_date = conference_dict['start_date'].replace(' ', '')
+                iterator = 0
+                uid = f'{short_title[:20]}{short_date}_{iterator}'
+                while uid in all_conferences: # Ensure UID is unique
+                    previous_iterator_length = len(str(iterator))
+                    iterator += 1
+                    uid = uid[:-previous_iterator_length] + str(iterator)
+                conference_dict['uid'] = uid
+                all_conferences.append(conference_dict)
 
     return all_conferences
 
