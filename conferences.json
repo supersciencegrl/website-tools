@@ -1,108 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Environmental Nanotechnology",
-        "url": "https://grc.org/environmental-nanotechnology-grs-conference/2023/",
-        "start_date": "03 Jun 2023",
-        "end_date": "04 Jun 2023",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "$185–315",
-        "non_member_fee": "$185–315",
-        "max_fee": "$315",
-        "uid": "gordonresearchsemina03Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Seminar: Physics & Chemistry of Microfluidics",
-        "url": "https://grc.org/physics-and-chemistry-of-microfluidics-grs-conference/2023/",
-        "start_date": "03 Jun 2023",
-        "end_date": "04 Jun 2023",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "$190–325",
-        "non_member_fee": "$190–325",
-        "max_fee": "$325",
-        "uid": "gordonresearchsemina03Jun2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Polymers",
-        "url": "https://grc.org/polymers-grs-conference/2023/",
-        "start_date": "03 Jun 2023",
-        "end_date": "04 Jun 2023",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$170–230",
-        "non_member_fee": "$170–230",
-        "max_fee": "$230",
-        "uid": "gordonresearchsemina03Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Lasers in Micro, Nano & Bio Systems",
-        "url": "https://grc.org/lasers-in-micro-nano-and-bio-systems-grs-conference/2023/",
-        "start_date": "03 Jun 2023",
-        "end_date": "04 Jun 2023",
-        "locations": [
-            "West Dover, VT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VT"
-        ],
-        "member_fee": "$200–330",
-        "non_member_fee": "$200–330",
-        "max_fee": "$330",
-        "uid": "gordonresearchsemina03Jun2023_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -475,51 +373,6 @@
         "non_member_fee": "£1,699",
         "max_fee": "£1,699",
         "uid": "scientificupdatemole05Jun2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC London & South East Organic Division Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/76510/organic-chemistry-community-london-and-south-east-regional-meeting",
-        "start_date": "06 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Hatfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rsclondonsoutheastor06Jun2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Bruker Dimesion XR Icon NanoScale Characterization Workshop",
-        "url": "https://mbns.bruker.com/acton/fs/blocks/showLandingPage/a/9063/p/p-0360/t/page/fm/4",
-        "start_date": "06 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "brukerdimesionxricon06Jun2023_0"
     },
     {
         "themes": [
@@ -4370,7 +4223,7 @@
         "regions": [
             "Online"
         ],
-        "title": "#SCIPosterComp\n UK National Undergraduate Online Poster Competition 2023",
+        "title": "UK National Undergraduate Online Poster Competition 2023",
         "url": "https://istry.co.uk/postercompetition/SCIPoster2023/",
         "start_date": "03 Jul 2023",
         "end_date": "14 Jul 2023",
@@ -4383,7 +4236,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "scipostercomp\nuknati03Jul2023_0"
+        "uid": "uknationalundergradu03Jul2023_0"
     },
     {
         "themes": [
@@ -8500,7 +8353,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Lab Supply Hanovertrade fair)",
+        "title": "Lab Supply Hanover (trade fair)",
         "url": "https://www.lab-supply.info/besuchen/hannover",
         "start_date": "06 Sep 2023",
         "end_date": null,
