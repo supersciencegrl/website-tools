@@ -26,91 +26,6 @@
     },
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "ACS Middle Atlantic Regional Meeting MARM",
-        "url": "http://marm2023.org/",
-        "start_date": "09 Jun 2023",
-        "end_date": "10 Jun 2023",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "member_fee": "$0–105",
-        "non_member_fee": "$105",
-        "max_fee": "$105",
-        "uid": "acsmiddleatlanticreg09Jun2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "58th Meeting of the Serbian Chemical Society",
-        "url": "http://www.chem.bg.ac.rs/shd58/index.html",
-        "start_date": "09 Jun 2023",
-        "end_date": "10 Jun 2023",
-        "locations": [
-            "Belgrade, Serbia"
-        ],
-        "countries": [
-            "Serbia"
-        ],
-        "member_fee": "RSD7,000",
-        "non_member_fee": "RSD10,000",
-        "max_fee": "RSD10,000",
-        "uid": "58thmeetingoftheserb09Jun2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "synthesis"
         ],
@@ -8320,6 +8235,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Chemical Biology & Bioorganic Group CBBG Community Meeting",
+        "url": "https://www.rsc.org/events/detail/76067/chemical-biology-and-bioorganic-group-cbbg-community-meeting",
+        "start_date": "11 Sep 2023",
+        "end_date": "12 Sep 2023",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rscchemicalbiologybi11Sep2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "pharma industry"
@@ -11115,7 +11054,7 @@
         "regions": [
             "Online"
         ],
-        "title": "Route cause analysis & CAPA (training course)",
+        "title": "'Route' cause analysis & CAPA (training course)",
         "url": "https://www.rssl.com/training-consultancy/training/course/root-cause-analysis-capa/FAILURDXXz",
         "start_date": "07 Dec 2023",
         "end_date": "08 Dec 2023",
