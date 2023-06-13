@@ -1,56 +1,6 @@
 [
     {
         "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scientific Update: Molecule to Medicine (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/molecule-to-medicine/",
-        "start_date": "05 Jun 2023",
-        "end_date": "13 Jun 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,699",
-        "non_member_fee": "£1,699",
-        "max_fee": "£1,699",
-        "uid": "scientificupdatemole05Jun2023_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "ACSMEDI-EFMC Medicinal Chemistry Frontiers 2023",
-        "url": "https://www.medchemfrontiers.org/",
-        "start_date": "10 Jun 2023",
-        "end_date": "13 Jun 2023",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$600–995",
-        "non_member_fee": "$600–995",
-        "max_fee": "$995",
-        "uid": "acsmediefmcmedicinal10Jun2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "physical/phys org"
         ],
@@ -300,28 +250,6 @@
     },
     {
         "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS Patenting in life sciences & chemistry",
-        "url": "https://meetings.ls2.ch/patenting-2023",
-        "start_date": "12 Jun 2023",
-        "end_date": "13 Jun 2023",
-        "locations": [
-            "Murten, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF400–425",
-        "non_member_fee": "CHF400–425",
-        "max_fee": "CHF425",
-        "uid": "scspatentinginlifesc12Jun2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "physical/phys org",
@@ -368,54 +296,6 @@
         "non_member_fee": "£825",
         "max_fee": "£825",
         "uid": "emblsummerschoolinbi12Jun2023_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "Science & the Senedd/Gwyddoniaeth a'r Senedd",
-        "url": "https://www.rsc.org/events/detail/76347/science-and-the-senedd-gwyddoniaeth-a-r-senedd-2023",
-        "start_date": "13 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "sciencetheseneddgwyd13Jun2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Is separation science in the UK on life support?",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfx850dGWQVuA1XKqer8l3ldBpEngz8KxC2sjFbJ2E2wx8d7A/viewform",
-        "start_date": "13 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "isseparationsciencei13Jun2023_0"
     },
     {
         "themes": [
@@ -2545,6 +2425,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "thenh3economymakingb26Jun2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Surface Chemistry for Antimicrobial Resistance: Innovations and Challenges",
+        "url": "https://www.eventbrite.co.uk/e/surface-chemistry-for-antimicrobial-resistance-innovations-and-challenges-tickets-643647746737",
+        "start_date": "26 Jun 2023",
+        "end_date": null,
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "surfacechemistryfora26Jun2023_0"
     },
     {
         "themes": [
