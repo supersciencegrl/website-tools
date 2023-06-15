@@ -2,102 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "14th Intl Conference on Biology & Synchrotron Radiation",
-        "url": "https://www.bsr14.com/",
-        "start_date": "11 Jun 2023",
-        "end_date": "14 Jun 2023",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "SEK1,500–5,000",
-        "non_member_fee": "SEK1,500–5,000",
-        "max_fee": "SEK5,000",
-        "uid": "14thintlconferenceon11Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "European Intl Society for the Study of Xenobiotics ISSX & Drug Metabolism Discussion Group DMDG Meeting",
-        "url": "https://issx2023.org/issx-dmdg/invitation-to-attend",
-        "start_date": "11 Jun 2023",
-        "end_date": "14 Jun 2023",
-        "locations": [
-            "Hatfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "€936",
-        "non_member_fee": "€1,236",
-        "max_fee": "€1,236",
-        "uid": "europeanintlsocietyf11Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Symposia on Applied Bioinorganic Chemistry ISABC",
-        "url": "https://isabc2023.com/",
-        "start_date": "11 Jun 2023",
-        "end_date": "14 Jun 2023",
-        "locations": [
-            "Ioannina, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "€375",
-        "non_member_fee": "€375",
-        "max_fee": "€375",
-        "uid": "intlsymposiaonapplie11Jun2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "12th Intl Colloids Conference",
-        "url": "https://www.elsevier.com/events/conferences/international-colloids-conference",
-        "start_date": "11 Jun 2023",
-        "end_date": "14 Jun 2023",
-        "locations": [
-            "Luxembourg, Luxembourg"
-        ],
-        "countries": [
-            "Luxembourg"
-        ],
-        "member_fee": "€895",
-        "non_member_fee": "€895",
-        "max_fee": "€895",
-        "uid": "12thintlcolloidsconf11Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "synthesis"
         ],
         "regions": [
@@ -299,30 +203,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Gene Therapy Development & Manufacturing 2023",
-        "url": "https://www.oxfordglobal.co.uk/gene-therapy/",
-        "start_date": "13 Jun 2023",
-        "end_date": "14 Jun 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "genetherapydevelopme13Jun2023_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "process/engineering",
             "synthesis"
@@ -442,30 +322,6 @@
         "non_member_fee": "£665",
         "max_fee": "£665",
         "uid": "3rdanglonordicmedici13Jun2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "1st Swiss Symposium on Materials Chemistry",
-        "url": "https://matchem23.scg.ch/",
-        "start_date": "14 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Dübendorf, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF50",
-        "non_member_fee": "CHF100",
-        "max_fee": "CHF100",
-        "uid": "1stswisssymposiumonm14Jun2023_0"
     },
     {
         "themes": [
@@ -4455,6 +4311,47 @@
         "non_member_fee": "$460–975",
         "max_fee": "$975",
         "uid": "scientificcomputingw10Jul2023_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Emerging Technologies Competition final",
+        "url": "https://www.rsc.org/competitions/emerging-technologies/finalists-2023/",
+        "start_date": "11 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscemergingtechnolog11Jul2023_0"
     },
     {
         "themes": [
