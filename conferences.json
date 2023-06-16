@@ -154,32 +154,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "physical/phys org",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Annual Congress of the European Association for Cancer Research EACR 2023",
-        "url": "https://www.eacr2023.org/",
-        "start_date": "12 Jun 2023",
-        "end_date": "15 Jun 2023",
-        "locations": [
-            "Torino, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€100–495",
-        "non_member_fee": "€100–925",
-        "max_fee": "€925",
-        "uid": "annualcongressofthee12Jun2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -200,104 +174,6 @@
         "non_member_fee": "£825",
         "max_fee": "£825",
         "uid": "emblsummerschoolinbi12Jun2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "2023 AIChE Process Development Symposium",
-        "url": "https://www.aiche.org/conferences/process-development-symposium/2023",
-        "start_date": "13 Jun 2023",
-        "end_date": "15 Jun 2023",
-        "locations": [
-            "Vancouver, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "$695",
-        "non_member_fee": "$895",
-        "max_fee": "$895",
-        "uid": "2023aicheprocessdeve13Jun2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA",
-            "Online"
-        ],
-        "title": "27th Green Chemistry & Engineering Conference GC&E",
-        "url": "https://www.gcande.org/",
-        "start_date": "13 Jun 2023",
-        "end_date": "15 Jun 2023",
-        "locations": [
-            "Long Beach, CA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$79–359",
-        "non_member_fee": "$209–449",
-        "max_fee": "$449",
-        "uid": "27thgreenchemistryen13Jun2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Eastern Europe",
-            "Online"
-        ],
-        "title": "2nd Conference of the Researcher Mental Health Laboratory ReMO 2023",
-        "url": "https://projects.tib.eu/remo",
-        "start_date": "13 Jun 2023",
-        "end_date": "15 Jun 2023",
-        "locations": [
-            "Budapest, Hungary",
-            "Online"
-        ],
-        "countries": [
-            "Hungary",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "2ndconferenceofthere13Jun2023_0"
     },
     {
         "themes": [
@@ -322,29 +198,6 @@
         "non_member_fee": "£665",
         "max_fee": "£665",
         "uid": "3rdanglonordicmedici13Jun2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Carbon Black Summit",
-        "url": "https://www.wplgroup.com/aci/event/carbon-black-summit/",
-        "start_date": "14 Jun 2023",
-        "end_date": "15 Jun 2023",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "£495–1,895",
-        "non_member_fee": "£495–1,895",
-        "max_fee": "£1,895",
-        "uid": "europeancarbonblacks14Jun2023_0"
     },
     {
         "themes": [
@@ -437,31 +290,6 @@
         "non_member_fee": "$125–250",
         "max_fee": "$250",
         "uid": "acsnortheasternregio14Jun2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "diversity",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Empowering Women in Organic Chemistry EWOC Europe",
-        "url": "https://www.scientificupdate.com/conference_events/empowering-women-in-organic-chemistry/",
-        "start_date": "15 Jun 2023",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£75",
-        "non_member_fee": "£75",
-        "max_fee": "£75",
-        "uid": "empoweringwomeninorg15Jun2023_0"
     },
     {
         "themes": [
