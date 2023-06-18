@@ -1,185 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Artificial Molecular Switches & Motors",
-        "url": "https://grc.org/artificial-molecular-switches-and-motors-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$200–260",
-        "non_member_fee": "$200–260",
-        "max_fee": "$260",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Computational Aspects of Biomolecular NMR",
-        "url": "https://grc.org/computational-aspects-of-biomolecular-nmr-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "West Dover, VT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VT"
-        ],
-        "member_fee": "$200–330",
-        "non_member_fee": "$200–330",
-        "max_fee": "$330",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Crystal Growth & Assembly",
-        "url": "https://grc.org/crystal-growth-and-assembly-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$190–280",
-        "non_member_fee": "$190–280",
-        "max_fee": "$280",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Catchment Science: Interactions of Hydrology, Biology & Geochemistry",
-        "url": "https://grc.org/catchment-science-interactions-of-hydrology-biology-and-geochemistry-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$195–255",
-        "non_member_fee": "$195–255",
-        "max_fee": "$255",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Mycotoxins & Phycotoxins",
-        "url": "https://grc.org/mycotoxins-and-phycotoxins-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$190–275",
-        "non_member_fee": "$190–275",
-        "max_fee": "$275",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Nucleic Acids",
-        "url": "https://grc.org/nucleic-acids-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "$185–315",
-        "non_member_fee": "$185–315",
-        "max_fee": "$315",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Seminar: Mechanisms of Membrane Transport",
-        "url": "https://grc.org/mechanisms-of-membrane-transport-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$255–330",
-        "non_member_fee": "$255–330",
-        "max_fee": "$330",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -6584,6 +6405,29 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Sodium-Ion Technology Research Innovations and Key Enhancements (STRIKE) Symposium",
+        "url": "https://conferences.swansea-union.co.uk/event/sodium-ion-technology-research-innovations-and-key-enhancements-strike-symposium/85486",
+        "start_date": "30 Aug 2023",
+        "end_date": "01 Sep 2023",
+        "locations": [
+            "Swansea, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£250",
+        "non_member_fee": "£250",
+        "max_fee": "£250",
+        "uid": "sodiumiontechnologyr30Aug2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -8313,6 +8157,34 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "CE in the biotech & pharma industries: Practical applications for the analysis of proteins, nucleotides, & small molecules",
+        "url": "https://www.casss.org/ce-pharm",
+        "start_date": "24 Sep 2023",
+        "end_date": "27 Sep 2023",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "$915–2,770",
+        "non_member_fee": "$915–2,770",
+        "max_fee": "$2,770",
+        "uid": "ceinthebiotechpharma24Sep2023_0"
+    },
+    {
+        "themes": [
             "inorganic/nano"
         ],
         "regions": [
@@ -8545,6 +8417,31 @@
     },
     {
         "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Immersive Technology Oil & Gas",
+        "url": "https://www.oilandgasautomationandtechnology.com/immersive-technologies-in-oil-gas-in-person/",
+        "start_date": "27 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Houston, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "$595",
+        "non_member_fee": "$595",
+        "max_fee": "$595",
+        "uid": "immersivetechnologyo27Sep2023_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -8564,6 +8461,33 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "mdanalysisusergroupm27Sep2023_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Lab Facilities Summit West",
+        "url": "https://www.amg-world.co.uk/lab-facilities-west/",
+        "start_date": "28 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "$595–795",
+        "non_member_fee": "$595–795",
+        "max_fee": "$795",
+        "uid": "labfacilitiessummitw28Sep2023_0"
     },
     {
         "themes": [
@@ -9669,6 +9593,47 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "1st Aristotle Conference on Chemistry: Advances & Challenges in Chemistry",
+        "url": "https://acc2023.chem.auth.gr/",
+        "start_date": "12 Nov 2023",
+        "end_date": "15 Nov 2023",
+        "locations": [
+            "Thessaloniki, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "member_fee": "€80–250",
+        "non_member_fee": "€80–250",
+        "max_fee": "€250",
+        "uid": "1staristotleconferen12Nov2023_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano"
@@ -9690,6 +9655,33 @@
         "non_member_fee": "€1,560–2,590",
         "max_fee": "€2,590",
         "uid": "globalscienceconfere13Nov2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Future Labs Automation & Technology West",
+        "url": "https://www.amg-world.co.uk/future-labs-automation-technology-west/",
+        "start_date": "14 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "$595–795",
+        "non_member_fee": "$595–795",
+        "max_fee": "$795",
+        "uid": "futurelabsautomation14Nov2023_0"
     },
     {
         "themes": [
@@ -10331,6 +10323,33 @@
         "non_member_fee": "€299–649",
         "max_fee": "€649",
         "uid": "pharmscienceresearch26Feb2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Lab Facilities Summit",
+        "url": "https://www.amg-world.co.uk/lab-facilities/",
+        "start_date": "28 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$795",
+        "non_member_fee": "$795",
+        "max_fee": "$795",
+        "uid": "labfacilitiessummit28Sep2023_0"
     },
     {
         "themes": [
