@@ -4900,6 +4900,51 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Rocky Mountain Regional Meeting RMRM 2023",
+        "url": "https://web.cvent.com/event/bdb7952c-dd7b-4a28-8123-66b10db888fd/summary",
+        "start_date": "15 Sep 2023",
+        "end_date": "17 Sep 2023",
+        "locations": [
+            "Laramie, WY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WY"
+        ],
+        "member_fee": "$0–215",
+        "non_member_fee": "$215",
+        "max_fee": "$215",
+        "uid": "rockymountainregiona15Sep2023_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -6627,6 +6672,31 @@
     },
     {
         "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "2023 AIChE Annual Meeting",
+        "url": "https://web.cvent.com/event/bdb7952c-dd7b-4a28-8123-66b10db888fd/summary",
+        "start_date": "05 Nov 2023",
+        "end_date": "10 Nov 2023",
+        "locations": [
+            "Orlando, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "$105–699",
+        "non_member_fee": "$105–699",
+        "max_fee": "$699",
+        "uid": "2023aicheannualmeeti05Nov2023_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -6981,6 +7051,32 @@
         "non_member_fee": "$595–795",
         "max_fee": "$795",
         "uid": "futurelabsautomation14Nov2023_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Embracing digital disruption for optimized downstream chemical, petrochemical & refining operations",
+        "url": "https://www.oilandgasautomationandtechnology.com/downstream/",
+        "start_date": "14 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Houston, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "$595–1,595",
+        "non_member_fee": "$595–1,595",
+        "max_fee": "$1,595",
+        "uid": "embracingdigitaldisr14Nov2023_0"
     },
     {
         "themes": [
