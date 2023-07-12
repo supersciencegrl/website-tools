@@ -27,6 +27,7 @@ def decode_themes(theme_list: list) -> list:
         'agro': 'agrochemistry',
         'anal': 'analytical',
         'automation': 'automation',
+        'business': 'business',
         'careers': 'careers',
         'catalysis': 'catalysis',
         'chembio': 'chem bio',
