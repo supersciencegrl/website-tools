@@ -23,55 +23,6 @@
     },
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "47th Federation of European Biochemical Societies FEBS Congress",
-        "url": "https://2023.febscongress.org/",
-        "start_date": "08 Jul 2023",
-        "end_date": "12 Jul 2023",
-        "locations": [
-            "Tours, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€365–915",
-        "non_member_fee": "€365–915",
-        "max_fee": "€915",
-        "uid": "47thfederationofeuro08Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Intl Conference on Carbonaceous Particles in the Atmosphere ICCPA",
-        "url": "https://iccpa.lbl.gov/",
-        "start_date": "09 Jul 2023",
-        "end_date": "12 Jul 2023",
-        "locations": [
-            "Berkeley, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "€525",
-        "non_member_fee": "€525",
-        "max_fee": "€525",
-        "uid": "intlconferenceoncarb09Jul2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "materials/polymers",
             "synthesis"
@@ -417,52 +368,6 @@
         "non_member_fee": "$765–1,230",
         "max_fee": "$1,230",
         "uid": "gordonresearchconfer09Jul2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "10th European Silicon Days",
-        "url": "https://10esd.sciencesconf.org/",
-        "start_date": "10 Jul 2023",
-        "end_date": "12 Jul 2023",
-        "locations": [
-            "Montpellier, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€400",
-        "non_member_fee": "€400",
-        "max_fee": "€400",
-        "uid": "10theuropeansilicond10Jul2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Crystal structure prediction in materials discovery",
-        "url": "https://www.cecam.org/workshop-details/1246",
-        "start_date": "10 Jul 2023",
-        "end_date": "12 Jul 2023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "crystalstructurepred10Jul2023_0"
     },
     {
         "themes": [
@@ -5201,6 +5106,30 @@
         "non_member_fee": "€370",
         "max_fee": "€370",
         "uid": "germancanadianmateri18Sep2023_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "RSC Heterocyclic & Synthesis Group Postgraduate Symposium",
+        "url": "https://www.rsc.org/events/detail/76989/37th-postgraduate-symposium-heterocyclic-and-synthesis-group",
+        "start_date": "19 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Saffron Walden, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£20–35",
+        "non_member_fee": "£20–35",
+        "max_fee": "£35",
+        "uid": "rscheterocyclicsynth19Sep2023_0"
     },
     {
         "themes": [
