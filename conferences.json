@@ -466,6 +466,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "process/engineering"
         ],
@@ -2533,6 +2534,28 @@
     },
     {
         "themes": [
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "2023 Molten salts & ionic liquids discussion group MSILDG Summer Research Meeting",
+        "url": "https://www.rsc.org/events/detail/76650/2023-msildg-summer-research-meeting",
+        "start_date": "08 Aug 2023",
+        "end_date": "10 Aug 2023",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£50–320",
+        "non_member_fee": "£50–350",
+        "max_fee": "£350",
+        "uid": "2023moltensaltsionic08Aug2023_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -3388,6 +3411,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Photophysics & photochemistry group early career meeting 2023",
+        "url": "https://www.rsc.org/events/detail/76891/rsc-photophysics-and-photochemistry-group-early-career-meeting-2023",
+        "start_date": "31 Aug 2023",
+        "end_date": "01 Sep 2023",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rscphotophysicsphoto31Aug2023_0"
+    },
+    {
+        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -3703,6 +3750,7 @@
     },
     {
         "themes": [
+            "business",
             "careers",
             "education"
         ],
@@ -3727,6 +3775,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "chem bio",
             "synthesis"
         ],
@@ -3893,6 +3942,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "JASIS: Japan Analytical Scientific Instruments Show",
+        "url": "https://www.jasis.jp/en/",
+        "start_date": "06 Sep 2023",
+        "end_date": "08 Sep 2023",
+        "locations": [
+            "Chiba, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "jasisjapananalytical06Sep2023_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -3960,6 +4032,30 @@
         "non_member_fee": "€240",
         "max_fee": "€240",
         "uid": "efmcymcsyoungmedicin07Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "RSC Tokyo International Conference 2023: Data processing & the use of smartphones for analytical chemistry",
+        "url": "https://www.rsc.org/events/detail/76730/rsc-tokyo-international-conference-2023-data-processing-and-the-use-of-smartphones-for-analytical-chemistry",
+        "start_date": "07 Sep 2023",
+        "end_date": "08 Sep 2023",
+        "locations": [
+            "Chiba, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rsctokyointernationa07Sep2023_0"
     },
     {
         "themes": [
@@ -4422,6 +4518,7 @@
     },
     {
         "themes": [
+            "business",
             "careers",
             "process/engineering",
             "safety"
@@ -4446,6 +4543,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data"
         ],
         "regions": [
@@ -4519,6 +4617,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "chem bio",
             "synthesis"
         ],
@@ -5466,6 +5565,7 @@
     {
         "themes": [
             "automation",
+            "business",
             "computational/data"
         ],
         "regions": [
@@ -5511,6 +5611,7 @@
     },
     {
         "themes": [
+            "business",
             "environment/fuels",
             "formulation/particle science",
             "process/engineering"
@@ -5536,6 +5637,7 @@
     {
         "themes": [
             "automation",
+            "business",
             "chem bio",
             "computational/data",
             "pharma industry",
@@ -5608,6 +5710,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "environment/fuels",
             "pharma industry"
@@ -5636,6 +5739,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "chem bio",
             "synthesis"
         ],
@@ -5854,6 +5958,7 @@
     },
     {
         "themes": [
+            "business",
             "chem bio",
             "computational/data"
         ],
@@ -6163,6 +6268,52 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Radionuclide production in the UK",
+        "url": "https://www.rsc.org/events/detail/76382/radionuclide-production-in-the-uk",
+        "start_date": "18 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£100",
+        "non_member_fee": "£120",
+        "max_fee": "£120",
+        "uid": "radionuclideproducti18Oct2023_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "British X-ray crystallographers",
+        "url": "https://www.rsc.org/events/detail/76719/british-x-ray-crystallographers",
+        "start_date": "18 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "britishxraycrystallo18Oct2023_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -6329,6 +6480,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "process/engineering"
         ],
@@ -6353,6 +6505,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "formulation/particle science",
             "pharma industry",
             "synthesis"
@@ -6378,6 +6531,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "chem bio",
             "synthesis"
         ],
@@ -6401,6 +6555,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "process/engineering"
         ],
@@ -6527,6 +6682,7 @@
         "themes": [
             "analytical",
             "automation",
+            "business",
             "computational/data",
             "synthesis"
         ],
@@ -6547,6 +6703,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "labinnovations2023tr01Nov2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Carbohydrate Group Winter Meeting",
+        "url": "https://www.rsc.org/events/detail/76918/rsc-carbohydrate-group-winter-meeting",
+        "start_date": "01 Nov 2023",
+        "end_date": "02 Nov 2023",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rsccarbohydrategroup01Nov2023_0"
     },
     {
         "themes": [
@@ -6746,6 +6925,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "computational/data",
             "law/policy",
             "pharma industry",
@@ -6817,6 +6997,7 @@
     },
     {
         "themes": [
+            "business",
             "environment/fuels",
             "process/engineering"
         ],
@@ -6932,6 +7113,7 @@
     },
     {
         "themes": [
+            "business",
             "catalysis",
             "environment/fuels",
             "inorganic/nano"
@@ -6983,6 +7165,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "process/engineering"
         ],
@@ -7032,6 +7215,7 @@
     },
     {
         "themes": [
+            "business",
             "computational/data",
             "law/policy",
             "pharma industry"
@@ -7127,6 +7311,7 @@
     {
         "themes": [
             "analytical",
+            "business",
             "chem bio",
             "synthesis"
         ],
@@ -7170,6 +7355,29 @@
         "non_member_fee": "€975",
         "max_fee": "€975",
         "uid": "efmcintlsymposiumonc16Nov2023_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Environmental toxic tort: Current perspectives & recent cases",
+        "url": "https://www.rsc.org/events/detail/43455/environmental-toxic-tort-current-perspectives-and-recent-cases",
+        "start_date": "20 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "environmentaltoxicto20Nov2023_0"
     },
     {
         "themes": [
@@ -7334,6 +7542,7 @@
     },
     {
         "themes": [
+            "business",
             "environment/fuels"
         ],
         "regions": [
@@ -7361,6 +7570,7 @@
         "themes": [
             "analytical",
             "automation",
+            "business",
             "chem bio",
             "computational/data",
             "pharma industry"
@@ -7410,6 +7620,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Hot topics: Targetting RNA 2023",
+        "url": "https://www.rscbmcs.org/events/hottopicsrna23/",
+        "start_date": "30 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£35",
+        "non_member_fee": "£65",
+        "max_fee": "£65",
+        "uid": "hottopicstargettingr30Nov2023_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -7438,6 +7672,7 @@
     },
     {
         "themes": [
+            "business",
             "pharma industry",
             "process/engineering"
         ],
@@ -7601,6 +7836,7 @@
     },
     {
         "themes": [
+            "business",
             "pharma industry",
             "safety"
         ],
@@ -7621,6 +7857,28 @@
         "non_member_fee": "£1,115",
         "max_fee": "£1,115",
         "uid": "routecauseanalysisca07Dec2023_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in the formulation of amorphous solid dispersions 2023",
+        "url": "https://www.rsc.org/events/detail/76688/innovations-in-the-formulation-of-amorphous-solid-dispersions-2023",
+        "start_date": "08 Dec 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "innovationsintheform08Dec2023_0"
     },
     {
         "themes": [
@@ -7649,6 +7907,7 @@
         "themes": [
             "analytical",
             "automation",
+            "business",
             "computational/data",
             "pharma industry"
         ],
@@ -7873,6 +8132,7 @@
     {
         "themes": [
             "automation",
+            "business",
             "chem bio",
             "med chem",
             "pharma industry"
