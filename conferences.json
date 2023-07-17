@@ -1,159 +1,6 @@
 [
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Scientific Computing with Python SciPy",
-        "url": "https://www.scipy2023.scipy.org/",
-        "start_date": "10 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "Austin, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "$460–975",
-        "non_member_fee": "$460–975",
-        "max_fee": "$975",
-        "uid": "scientificcomputingw10Jul2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Computer Aided Drug Design",
-        "url": "https://grc.org/computer-aided-drug-design-grs-conference/2023/",
-        "start_date": "15 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "West Dover, VT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VT"
-        ],
-        "member_fee": "$200–330",
-        "non_member_fee": "$200–330",
-        "max_fee": "$330",
-        "uid": "gordonresearchsemina15Jul2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Enzymes, Coenzymes & Metabolic Pathways",
-        "url": "https://grc.org/enzymes-coenzymes-and-metabolic-pathways-grs-conference/2023/",
-        "start_date": "15 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "Waterville Valley, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$200–320",
-        "non_member_fee": "$200–320",
-        "max_fee": "$320",
-        "uid": "gordonresearchsemina15Jul2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Seminar: Cannabinoid Function in the CNS",
-        "url": "https://grc.org/cannabinoid-function-in-the-cns-grs-conference/2023/",
-        "start_date": "15 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "Castelldefels, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "$235–380",
-        "non_member_fee": "$235–380",
-        "max_fee": "$380",
-        "uid": "gordonresearchsemina15Jul2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Chemical Oceanography",
-        "url": "https://grc.org/chemical-oceanography-grs-conference/2023/",
-        "start_date": "15 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$190–280",
-        "non_member_fee": "$190–280",
-        "max_fee": "$280",
-        "uid": "gordonresearchsemina15Jul2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: High Temperature Corrosion",
-        "url": "https://grc.org/high-temperature-corrosion-grs-conference/2023/",
-        "start_date": "15 Jul 2023",
-        "end_date": "16 Jul 2023",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$200–260",
-        "non_member_fee": "$200–260",
-        "max_fee": "$260",
-        "uid": "gordonresearchsemina15Jul2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "materials/polymers"
@@ -918,6 +765,31 @@
         "non_member_fee": "$190–275",
         "max_fee": "$275",
         "uid": "gordonresearchsemina22Jul2023_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Microscopy & Microanalysis M&M2023",
+        "url": "https://www.microscopy.org/MandM/2023/",
+        "start_date": "23 Jul 2023",
+        "end_date": "27 Jul 2023",
+        "locations": [
+            "Minneapolis, MN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MN"
+        ],
+        "member_fee": "$270–1,138",
+        "non_member_fee": "$712–1,238",
+        "max_fee": "$1,238",
+        "uid": "microscopymicroanaly23Jul2023_0"
     },
     {
         "themes": [
@@ -5258,6 +5130,29 @@
     },
     {
         "themes": [
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Sygnature Discovery Medicinal Chemistry Workshop (final year PhD's & postdocs)",
+        "url": "https://info.sygnaturediscovery.com/interactive-workshops-june23",
+        "start_date": "01 Oct 2023",
+        "end_date": "02 Oct 2023",
+        "locations": [
+            "Alderley Edge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "sygnaturediscoveryme01Oct2023_0"
+    },
+    {
+        "themes": [
             "careers",
             "diversity",
             "education"
@@ -6077,6 +5972,30 @@
         "non_member_fee": "£780",
         "max_fee": "£780",
         "uid": "dataintegrityelectro24Oct2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Benchling Benchtalk Europe: Moving science forward, together",
+        "url": "https://benchtalk.benchling.com/emea",
+        "start_date": "24 Oct 2023",
+        "end_date": "25 Oct 2023",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "benchlingbenchtalkeu24Oct2023_0"
     },
     {
         "themes": [
