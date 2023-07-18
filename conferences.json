@@ -3403,6 +3403,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Paraza Pharma Symposium on Organic Chemistry (students & postdocs)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd83yIsbPuEDXXFbNMWva2PqMeuanVapxSkcaUgcve5DokjvQ/viewform",
+        "start_date": "08 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Montréal, QC, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "parazapharmasymposiu08Sep2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "physical/phys org"
@@ -6347,6 +6370,29 @@
         "non_member_fee": "$105–699",
         "max_fee": "$699",
         "uid": "2023aicheannualmeeti05Nov2023_0"
+    },
+    {
+        "themes": [
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Chemistry Week (outreach)",
+        "url": "https://www.rsc.org/policy-evidence-campaigns/outreach/get-involved/",
+        "start_date": "05 Nov 2023",
+        "end_date": "11 Nov 2023",
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemistryweekoutreac05Nov2023_0"
     },
     {
         "themes": [
