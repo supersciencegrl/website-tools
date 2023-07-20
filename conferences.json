@@ -295,128 +295,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK Catalysis Hub Summer Conference",
-        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-summer-conference-2023-tickets-541186301797",
-        "start_date": "17 Jul 2023",
-        "end_date": "18 Jul 2023",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "ukcatalysishubsummer17Jul2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Organic Geochemistry Society meeting BOGS 2023",
-        "url": "https://antsie.webspace.durham.ac.uk/bogs2023/",
-        "start_date": "17 Jul 2023",
-        "end_date": "18 Jul 2023",
-        "locations": [
-            "Durham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£80",
-        "non_member_fee": "£80",
-        "max_fee": "£80",
-        "uid": "britishorganicgeoche17Jul2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Carbohydrates",
-        "url": "https://grc.org/carbohydrates-grs-conference/2023/",
-        "start_date": "17 Jun 2023",
-        "end_date": "18 Jun 2023",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$200–265",
-        "non_member_fee": "$200–265",
-        "max_fee": "$265",
-        "uid": "gordonresearchsemina17Jun2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK Colloids 2023",
-        "url": "https://www.soci.org/events/uk-colloids-2023-international-colloid-and-surface-science-symposium",
-        "start_date": "17 Jul 2023",
-        "end_date": "19 Jul 2023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£263–510",
-        "non_member_fee": "£263–610",
-        "max_fee": "£610",
-        "uid": "ukcolloids202317Jul2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Conference on Artificial Photosynthesis & Green Catalysis",
-        "url": "https://capgc2023.epfl.ch/",
-        "start_date": "17 Jul 2023",
-        "end_date": "19 Jul 2023",
-        "locations": [
-            "Lausanne, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF350",
-        "non_member_fee": "CHF350",
-        "max_fee": "CHF350",
-        "uid": "conferenceonartifici17Jul2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -440,30 +318,6 @@
         "non_member_fee": "€575",
         "max_fee": "€575",
         "uid": "10thintlconferenceon17Jul2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Early-Career Researcher Macrocyclic & Supramolecular Chemistry ECR MASC 2023",
-        "url": "https://mascgroup.co.uk/ecr-masc-meeting-2023/",
-        "start_date": "18 Jul 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£25",
-        "non_member_fee": "£25",
-        "max_fee": "£25",
-        "uid": "earlycareerresearche18Jul2023_0"
     },
     {
         "themes": [
@@ -540,29 +394,6 @@
         "non_member_fee": "€650",
         "max_fee": "€650",
         "uid": "25thintlsymposiumona18Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "NDFI4Chem NMR Task Force Meeting",
-        "url": "https://www.nfdi4chem.de/index.php/event/nmr-task-force-meeting/",
-        "start_date": "19 Jul 2023",
-        "end_date": null,
-        "locations": [
-            "Jena, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "ndfi4chemnmrtaskforc19Jul2023_0"
     },
     {
         "themes": [
@@ -1052,6 +883,29 @@
         "non_member_fee": "€300–400",
         "max_fee": "€400",
         "uid": "intlsymposiumoncarbe25Jul2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Chemspeed Open Day: Automation & Digitalisation Solutions",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeajLUKuE0EIG7AWOl9mwnLkqwKvk6WGKM57IOhVibAJYeMjw/viewform",
+        "start_date": "27 Jul 2023",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemspeedopendayauto27Jul2023_0"
     },
     {
         "themes": [
@@ -2608,6 +2462,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "2D Materials: Physics of van der Waals [hetero]structures (summer school)",
+        "url": "https://2dmp.tu-dresden.de/events/summer-school-2023/",
+        "start_date": "28 Aug 2023",
+        "end_date": "31 Aug 2023",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "2dmaterialsphysicsof28Aug2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -2752,6 +2629,29 @@
         "non_member_fee": "CHF200",
         "max_fee": "CHF200",
         "uid": "swissautomation202331Aug2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Virtual Workshop on Single Atom Catalysis",
+        "url": "https://www.uantwerpen.be/en/research-groups/orsy/prof--maes-group/sacs-symposium/",
+        "start_date": "31 Aug 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "virtualworkshoponsin31Aug2023_0"
     },
     {
         "themes": [
@@ -4693,6 +4593,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Alderley Park Suppliers' Fair",
+        "url": "https://www.eventbrite.co.uk/e/alderley-park-suppliers-fair-autumn-2023-exhibitor-stand-tickets-666731761647?aff=oddtdtcreator",
+        "start_date": "20 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Alderley Park, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "alderleyparksupplier20Sep2023_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -5050,6 +4974,29 @@
         "non_member_fee": "CHF0–55",
         "max_fee": "CHF55",
         "uid": "ilmac2023conferencet26Sep2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Life Sciences Imaging Mega Webinar",
+        "url": "https://www.20visioneers15.com/imaging",
+        "start_date": "27 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "lifesciencesimagingm27Sep2023_0"
     },
     {
         "themes": [
@@ -5444,6 +5391,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "New Modalities Mega Webinar",
+        "url": "https://www.20visioneers15.com/webinars",
+        "start_date": "05 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "newmodalitiesmegaweb05Oct2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -5608,6 +5579,29 @@
         "non_member_fee": "€400",
         "max_fee": "€400",
         "uid": "intlsemiconductorcon11Oct2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "11th Pan-European Science Conference on QbD & PAT",
+        "url": "https://eupat.eufeps.org/",
+        "start_date": "11 Oct 2023",
+        "end_date": "13 Oct 2023",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£550",
+        "non_member_fee": "£610",
+        "max_fee": "£610",
+        "uid": "11thpaneuropeanscien11Oct2023_0"
     },
     {
         "themes": [
@@ -7685,7 +7679,7 @@
         ],
         "title": "Lab Facilities Summit",
         "url": "https://www.amg-world.co.uk/lab-facilities/",
-        "start_date": "28 Sep 2023",
+        "start_date": "19 Mar 2024",
         "end_date": null,
         "locations": [
             "Boston, MA, USA"
@@ -7699,7 +7693,30 @@
         "member_fee": "$795",
         "non_member_fee": "$795",
         "max_fee": "$795",
-        "uid": "labfacilitiessummit28Sep2023_0"
+        "uid": "labfacilitiessummit19Mar2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Girona Seminar: Institute of Computational Chemistry & Catalysis",
+        "url": "https://gironaseminar.org/",
+        "start_date": "28 May 2024",
+        "end_date": "31 May 2024",
+        "locations": [
+            "Girona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€325–495",
+        "non_member_fee": "€325–495",
+        "max_fee": "€495",
+        "uid": "gironaseminarinstitu28May2024_0"
     },
     {
         "themes": [
