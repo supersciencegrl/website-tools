@@ -1,338 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Chemistry Olympiad 2023",
-        "url": "https://www.icho2023.ch/",
-        "start_date": "16 Jul 2023",
-        "end_date": "25 Jul 2023",
-        "locations": [
-            "Hönggerberg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "intlchemistryolympia16Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Microscopy & Microanalysis M&M2023",
-        "url": "https://www.microscopy.org/MandM/2023/",
-        "start_date": "23 Jul 2023",
-        "end_date": "27 Jul 2023",
-        "locations": [
-            "Minneapolis, MN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MN"
-        ],
-        "member_fee": "$270–1,138",
-        "non_member_fee": "$712–1,238",
-        "max_fee": "$1,238",
-        "uid": "microscopymicroanaly23Jul2023_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "ChemEd 2023",
-        "url": "https://chemed.uoguelph.ca/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Guelph, ON, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD420",
-        "non_member_fee": "CAD420",
-        "max_fee": "CAD420",
-        "uid": "chemed202323Jul2023_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "23rd Intl Symposium on Fluorine Chemistry ISFC & 9th Intl Symposium on Fluorous Technologies ISoFT",
-        "url": "https://isfc2023.org/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Québec City, QC, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD950",
-        "non_member_fee": "CAD950",
-        "max_fee": "CAD950",
-        "uid": "23rdintlsymposiumonf23Jul2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Dynamics at Surfaces",
-        "url": "https://grc.org/dynamics-at-surfaces-conference/2023/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$755–1,030",
-        "non_member_fee": "$755–1,030",
-        "max_fee": "$1,030",
-        "uid": "gordonresearchconfer23Jul2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Carbohydrate-Active Enzymes for Glycan Conversions",
-        "url": "https://grc.org/carbohydrate-active-enzymes-for-glycan-conversions-conference/2023/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$750–950",
-        "non_member_fee": "$750–950",
-        "max_fee": "$950",
-        "uid": "gordonresearchconfer23Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Quantum Sensing",
-        "url": "https://grc.org/quantum-sensing-conference/2023/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$1,150–1,580",
-        "non_member_fee": "$1,150–1,580",
-        "max_fee": "$1,580",
-        "uid": "gordonresearchconfer23Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: X-Ray Science",
-        "url": "https://grc.org/x-ray-science-conference/2023/",
-        "start_date": "23 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$735–1,180",
-        "non_member_fee": "$735–1,180",
-        "max_fee": "$1,180",
-        "uid": "gordonresearchconfer23Jul2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "18th Intl Summer School on Crystal Growth",
-        "url": "https://isscg-18.unipr.it/",
-        "start_date": "23 Jul 2023",
-        "end_date": "29 Jul 2023",
-        "locations": [
-            "Parma, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€850",
-        "non_member_fee": "€950",
-        "max_fee": "€950",
-        "uid": "18thintlsummerschool23Jul2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "27th Intl Symposium: Synthesis in organic chemistry \"Oxbridge Synthesis\"",
-        "url": "https://www.rsc.org/events/detail/43892/27th-international-symposium-synthesis-in-organic-chemistry",
-        "start_date": "24 Jul 2023",
-        "end_date": "27 Jul 2023",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£425",
-        "non_member_fee": "£525",
-        "max_fee": "£525",
-        "uid": "27thintlsymposiumsyn24Jul2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Intl Symposium on Organometallic Chemistry Directed Toward Organic Synthesis OMCOS XXI",
-        "url": "https://omcos21.ca/",
-        "start_date": "24 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Vancouver, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "$1,000",
-        "non_member_fee": "$1,000",
-        "max_fee": "$1,000",
-        "uid": "intlsymposiumonorgan24Jul2023_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "#CRS2023\n Controlled Release Society Meeting CRS2023",
-        "url": "https://www.eventscribe.net/2023/CRSAnnualMeeting/index.asp?launcher=1",
-        "start_date": "24 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Las Vegas, NV, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NV"
-        ],
-        "member_fee": "$470–1,148",
-        "non_member_fee": "$470–1,346",
-        "max_fee": "$1,346",
-        "uid": "crs2023\ncontrolledre24Jul2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Carbene & Nitrene Chemistry",
-        "url": "https://hims.uva.nl/events/international-symposium-on-carbene-and-nitrene-chemistry/international-symposium-on-carbene-and-nitrene-chemistry-2023.html?cb",
-        "start_date": "25 Jul 2023",
-        "end_date": "28 Jul 2023",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€300–400",
-        "non_member_fee": "€300–400",
-        "max_fee": "€400",
-        "uid": "intlsymposiumoncarbe25Jul2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemspeed Open Day: Automation & Digitalisation Solutions",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeajLUKuE0EIG7AWOl9mwnLkqwKvk6WGKM57IOhVibAJYeMjw/viewform",
-        "start_date": "27 Jul 2023",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemspeedopendayauto27Jul2023_0"
-    },
-    {
-        "themes": [
             "careers"
         ],
         "regions": [
@@ -5292,6 +4960,48 @@
             "synthesis"
         ],
         "regions": [
+            "Online"
+        ],
+        "title": "Revvity Signals NEXUS North America",
+        "url": "https://revvitysignals.com/nexus-2023-landing-page",
+        "start_date": "18 Oct 2023",
+        "end_date": "19 Oct 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "revvitysignalsnexusn18Oct2023_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
             "Midwest USA"
         ],
         "title": "ACS Joint Midwest & Great Lakes Regional Meeting",
@@ -5561,6 +5271,48 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "labsupplysindelfinge25Oct2023_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Revvity Signals NEXUS Europe",
+        "url": "https://revvitysignals.com/nexus-2023-landing-page",
+        "start_date": "25 Oct 2023",
+        "end_date": "26 Oct 2023",
+        "locations": [
+            "Darmstadt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "revvitysignalsnexuse25Oct2023_0"
     },
     {
         "themes": [
@@ -6249,6 +6001,30 @@
         "non_member_fee": "$595–1,595",
         "max_fee": "$1,595",
         "uid": "embracingdigitaldisr14Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Pfizer Chemistry Connect (students & postdocs)",
+        "url": "https://www.pfizerchemistryconnect.com/?linkId=221402117",
+        "start_date": "14 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "pfizerchemistryconne14Nov2023_0"
     },
     {
         "themes": [
