@@ -259,30 +259,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "2023 Centre for Innovation and Research on Carbon Utilization in Industrial Technologies (CIRCUIT) Summer School",
-        "url": "https://event.fourwaves.com/fd23d52d-223e-4619-a9b7-1e5121b1b73c/pages",
-        "start_date": "01 Aug 2023",
-        "end_date": "02 Aug 2023",
-        "locations": [
-            "Kingston, ON, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "2023centreforinnovat01Aug2023_0"
-    },
-    {
-        "themes": [
             "careers",
             "computational/data",
             "inorganic/nano",
@@ -3726,6 +3702,33 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "PharmaTech Integrates",
+        "url": "https://www.lifescienceintegrates.com/event/pharmatech-integrates-2023/",
+        "start_date": "21 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£295–395",
+        "non_member_fee": "£295–395",
+        "max_fee": "£395",
+        "uid": "pharmatechintegrates21Sep2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -6037,6 +6040,33 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "labsupplyleverkusent15Nov2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Pharma Integrates",
+        "url": "https://www.lifescienceintegrates.com/agenda/pharma-integrates-2023/",
+        "start_date": "16 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£295–395",
+        "non_member_fee": "£295–395",
+        "max_fee": "£395",
+        "uid": "pharmaintegrates16Nov2023_0"
     },
     {
         "themes": [
