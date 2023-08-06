@@ -1465,7 +1465,7 @@
             "Southern England",
             "Online"
         ],
-        "title": "6th Artificial Intelligence in Chemistry",
+        "title": "6th AI Artificial Intelligence in Chemistry",
         "url": "https://www.rscbmcs.org/events/aichem23/",
         "start_date": "04 Sep 2023",
         "end_date": "05 Sep 2023",
@@ -1480,7 +1480,7 @@
         "member_fee": "£225–340",
         "non_member_fee": "£272–410",
         "max_fee": "£410",
-        "uid": "6thartificialintelli04Sep2023_0"
+        "uid": "6thaiartificialintel04Sep2023_0"
     },
     {
         "themes": [
@@ -1958,6 +1958,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "ndfi4chemchemistryre07Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Schrödinger Atomic Layer Deposition (ALD) workshop",
+        "url": "https://events.bizzabo.com/520009 target=",
+        "start_date": "07 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Grenoble, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "schrödingeratomiclay07Sep2023_0"
     },
     {
         "themes": [
@@ -3350,6 +3375,31 @@
             "computational/data"
         ],
         "regions": [
+            "Eastern USA"
+        ],
+        "title": "BIOVIA Live! User group meeting",
+        "url": "https://events.3ds.com/biovia-live-2023",
+        "start_date": "20 Sep 2023",
+        "end_date": "21 Sep 2023",
+        "locations": [
+            "Iselin, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biovialiveusergroupm20Sep2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
             "Western Europe",
             "Online"
         ],
@@ -4270,6 +4320,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "BIOVIA Live! User group meeting",
+        "url": "https://events.3ds.com/biovia-live-2023",
+        "start_date": "10 Oct 2023",
+        "end_date": "11 Oct 2023",
+        "locations": [
+            "Waltham, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biovialiveusergroupm10Oct2023_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -4359,6 +4434,32 @@
         "non_member_fee": "£610",
         "max_fee": "£610",
         "uid": "11thpaneuropeanscien11Oct2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "SLAS Sample Management Symposium",
+        "url": "https://www.slas.org/events-calendar/slas-2023-sample-management-symposium/attend/register/",
+        "start_date": "12 Oct 2023",
+        "end_date": "13 Oct 2023",
+        "locations": [
+            "Washington, DC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DC"
+        ],
+        "member_fee": "$550–850",
+        "non_member_fee": "$700–950",
+        "max_fee": "$950",
+        "uid": "slassamplemanagement12Oct2023_0"
     },
     {
         "themes": [
@@ -4452,6 +4553,28 @@
         "non_member_fee": "£95",
         "max_fee": "£95",
         "uid": "fromthebraintotheban17Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "BIOVIA Live! User group meeting",
+        "url": "https://events.3ds.com/biovia-live-2023",
+        "start_date": "17 Oct 2023",
+        "end_date": "18 Oct 2023",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biovialiveusergroupm17Oct2023_0"
     },
     {
         "themes": [
@@ -5208,6 +5331,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Pacific Rim Conference on Ceramic & Glass Technology",
+        "url": "https://ceramics.org/event/15th-pacific-rim-conference-on-ceramic-and-glass-technology/",
+        "start_date": "05 Nov 2023",
+        "end_date": "10 Nov 2023",
+        "locations": [
+            "Shenzhen, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "$700",
+        "non_member_fee": "$700",
+        "max_fee": "$700",
+        "uid": "pacificrimconference05Nov2023_0"
+    },
+    {
+        "themes": [
             "education",
             "environment/fuels"
         ],
@@ -5785,6 +5931,51 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "#SWRM2023\n SWRM 2023 US Southwest Regional Meeting of the ACS",
+        "url": "https://swrm.org/home",
+        "start_date": "15 Nov 2023",
+        "end_date": "18 Nov 2023",
+        "locations": [
+            "Oklahoma City, OK, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "swrm2023\nswrm2023uss15Nov2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data",
@@ -6016,6 +6207,29 @@
         "non_member_fee": "€550–600",
         "max_fee": "€600",
         "uid": "nanophotonicsmicrona27Nov2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Digital Chemistry for Applied Catalysis",
+        "url": "https://www.rsc.org/events/detail/76908/digital-chemistry-for-applied-catalysis",
+        "start_date": "28 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "digitalchemistryfora28Nov2023_0"
     },
     {
         "themes": [
@@ -6323,7 +6537,7 @@
         "regions": [
             "Midlands"
         ],
-        "title": "RSC Biological & Medicinal Chemistry Sector Postgraduate Symposium",
+        "title": "RSC Biological & Medicinal Chemistry Sector BMCS Postgraduate Symposium",
         "url": "https://www.rscbmcs.org/events/psxvii/",
         "start_date": "07 Dec 2023",
         "end_date": null,
@@ -6361,6 +6575,32 @@
         "non_member_fee": "£1,115",
         "max_fee": "£1,115",
         "uid": "routecauseanalysisca07Dec2023_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "5th Annual Pharmacovigilance & Drug Safety Summit",
+        "url": "https://globalbsg.com/events/5th-annual-pharmacovigilance-drug-safety-summit/",
+        "start_date": "07 Dec 2023",
+        "end_date": "08 Dec 2023",
+        "locations": [
+            "Berlin, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,150–1,999",
+        "non_member_fee": "€1,150–1,999",
+        "max_fee": "€1,999",
+        "uid": "5thannualpharmacovig07Dec2023_0"
     },
     {
         "themes": [
@@ -6531,6 +6771,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Industrial crystallization: A how-to guide for chemists",
+        "url": "https://www.soci.org/events/young-chemists-panel/2024/industrial-crystallisation-a-how-to-guide-for-synthetic-chemists",
+        "start_date": "01 Feb 2024",
+        "end_date": null,
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£75",
+        "non_member_fee": "£100",
+        "max_fee": "£100",
+        "uid": "industrialcrystalliz01Feb2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry",
@@ -6563,6 +6826,76 @@
     {
         "themes": [
             "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Fragments 2024: RSC-BMCS Fragment-based drug discovery meeting",
+        "url": "https://www.rscbmcs.org/events/fragments24/",
+        "start_date": "04 Mar 2024",
+        "end_date": "05 Mar 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£200–360",
+        "non_member_fee": "£250–450",
+        "max_fee": "£450",
+        "uid": "fragments2024rscbmcs04Mar2024_0"
+    },
+    {
+        "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "The Florida Heterocyclic & Synthetic Chemistry Conference FloHet",
+        "url": "https://www.flohet.com/",
+        "start_date": "10 Mar 2024",
+        "end_date": "13 Mar 2024",
+        "locations": [
+            "Gainesville, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "$500",
+        "non_member_fee": "$500",
+        "max_fee": "$500",
+        "uid": "thefloridaheterocycl10Mar2024_0"
+    },
+    {
+        "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "8th RSC-BMCS Symposium on Mastering Medicinal Chemistry",
+        "url": "https://www.rscbmcs.org/events/mastermedchem24/",
+        "start_date": "15 Mar 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£130",
+        "non_member_fee": "£160",
+        "max_fee": "£160",
+        "uid": "8thrscbmcssymposiumo15Mar2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
             "environment/fuels",
             "pharma industry"
         ],
@@ -6589,6 +6922,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Astbury Conversation 2024: Illuminating life",
+        "url": "https://eu.eventscloud.com/website/11502/home/",
+        "start_date": "08 Apr 2024",
+        "end_date": "09 Apr 2024",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£130",
+        "non_member_fee": "£130",
+        "max_fee": "£130",
+        "uid": "astburyconversation208Apr2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data"
         ],
@@ -6609,6 +6964,30 @@
         "non_member_fee": "€325–495",
         "max_fee": "€495",
         "uid": "gironaseminarinstitu28May2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Future Labs Live",
+        "url": "https://www.terrapinn.com/conference/future-labs-live/",
+        "start_date": "26 Jun 2024",
+        "end_date": "27 Jun 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "futurelabslive26Jun2024_0"
     },
     {
         "themes": [
