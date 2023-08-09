@@ -26,53 +26,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Phytochemicals in Medicine & Food",
-        "url": "https://529324562.wixsite.com/7-ispmf",
-        "start_date": "02 Aug 2023",
-        "end_date": "07 Aug 2023",
-        "locations": [
-            "Beijing, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "€400",
-        "non_member_fee": "€400",
-        "max_fee": "€400",
-        "uid": "phytochemicalsinmedi02Aug2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Asia",
-            "Online"
-        ],
-        "title": "19th Intl Meeting on Chemical Sensors IMCS",
-        "url": "https://www.researching.cn/conference/imcs2023",
-        "start_date": "04 Aug 2023",
-        "end_date": "08 Aug 2023",
-        "locations": [
-            "Changchun, China",
-            "Online"
-        ],
-        "countries": [
-            "China",
-            "Online"
-        ],
-        "member_fee": "¥3,000 / €250–550",
-        "non_member_fee": "¥3,000 / €250–550",
-        "max_fee": "¥ / €550",
-        "uid": "19thintlmeetingonche04Aug2023_0"
-    },
-    {
-        "themes": [
             "med chem"
         ],
         "regions": [
@@ -255,6 +208,36 @@
         "non_member_fee": "$0–300",
         "max_fee": "$300",
         "uid": "virtualconferenceonc07Aug2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA",
+            "Online"
+        ],
+        "title": "Organometallics Boot Camp @ Scripps Research",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfa7MdHyvGCwgxrOxbogApchAswaOce_HWQDvPw5vmLv3shNg/viewform?pli=1",
+        "start_date": "07 Aug 2023",
+        "end_date": "18 Aug 2023",
+        "locations": [
+            "La Jolla, CA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "organometallicsbootc07Aug2023_0"
     },
     {
         "themes": [
@@ -1935,6 +1918,30 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "11th Intl Symposium on DNA-Encoded Chemical Libraries DELs",
+        "url": "https://www.delsymposium.org/",
+        "start_date": "07 Sep 2023",
+        "end_date": "08 Sep 2023",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "CHF300",
+        "non_member_fee": "CHF300",
+        "max_fee": "CHF300",
+        "uid": "11thintlsymposiumond07Sep2023_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "med chem"
@@ -3588,6 +3595,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Munich-Leiden Virtual ChemBio Talks",
+        "url": "https://events.bizzabo.com/485752/home",
+        "start_date": "26 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "munichleidenvirtualc26Sep2023_0"
+    },
+    {
+        "themes": [
             "pharma industry"
         ],
         "regions": [
@@ -4242,6 +4271,28 @@
         "non_member_fee": "£1,100",
         "max_fee": "£1,100",
         "uid": "pharmacokineticsindr09Oct2023_0"
+    },
+    {
+        "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "MedChem Campus 2023",
+        "url": "https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=11561&modus=",
+        "start_date": "10 Oct 2023",
+        "end_date": "11 Oct 2023",
+        "locations": [
+            "Tübingen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "medchemcampus202310Oct2023_0"
     },
     {
         "themes": [
@@ -5881,7 +5932,7 @@
         "regions": [
             "Southern USA"
         ],
-        "title": "#SWRM2023\n SWRM 2023 US Southwest Regional Meeting of the ACS",
+        "title": "SWRM 2023 US Southwest Regional Meeting of the ACS",
         "url": "https://swrm.org/home",
         "start_date": "15 Nov 2023",
         "end_date": "18 Nov 2023",
@@ -5897,7 +5948,7 @@
         "member_fee": "Unkn",
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
-        "uid": "swrm2023\nswrm2023uss15Nov2023_0"
+        "uid": "swrm2023ussouthwestr15Nov2023_0"
     },
     {
         "themes": [
@@ -6529,6 +6580,31 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "MedChem 2023: Emerging trends enabling drug discovery of the future",
+        "url": "https://www.delsymposium.org/",
+        "start_date": "08 Dec 2023",
+        "end_date": null,
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "€175",
+        "non_member_fee": "€230",
+        "max_fee": "€230",
+        "uid": "medchem2023emergingt08Dec2023_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -6648,6 +6724,50 @@
         "non_member_fee": "€600",
         "max_fee": "€600",
         "uid": "intlconferenceonnano15Jan2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCF Chemical Biology Symposium 2024",
+        "url": "https://scf-chembio2024.com/",
+        "start_date": "24 Jan 2024",
+        "end_date": "26 Jan 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€200",
+        "non_member_fee": "€400",
+        "max_fee": "€400",
+        "uid": "scfchemicalbiologysy24Jan2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "4th Alpine Winter Conference on Medicinal and Synthetic Chemistry",
+        "url": "https://www.alpinewinterconference.org/",
+        "start_date": "28 Jan 2024",
+        "end_date": "01 Feb 2024",
+        "locations": [
+            "St Anton, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "€1,050",
+        "non_member_fee": "€1,050",
+        "max_fee": "€1,050",
+        "uid": "4thalpinewinterconfe28Jan2024_0"
     },
     {
         "themes": [
