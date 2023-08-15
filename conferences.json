@@ -1,216 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "computational/data",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Intl Summer School in Quantum Technologies (postgrad students)",
-        "url": "https://www.gla.ac.uk/research/az/quantumtechnology/newsandevents/issqt2023/",
-        "start_date": "01 Aug 2023",
-        "end_date": "10 Aug 2023",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "intlsummerschoolinqu01Aug2023_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Medicinal Chemistry",
-        "url": "https://grc.org/medicinal-chemistry-conference/2023/",
-        "start_date": "06 Aug 2023",
-        "end_date": "11 Aug 2023",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$750–950",
-        "non_member_fee": "$750–950",
-        "max_fee": "$950",
-        "uid": "gordonresearchconfer06Aug2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nanoporous Materials & Their Applications",
-        "url": "https://grc.org/nanoporous-materials-and-their-applications-conference/2023/",
-        "start_date": "06 Aug 2023",
-        "end_date": "11 Aug 2023",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$750–950",
-        "non_member_fee": "$750–950",
-        "max_fee": "$950",
-        "uid": "gordonresearchconfer06Aug2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Quantum Control of Light & Matter",
-        "url": "https://grc.org/quantum-control-of-light-and-matter-conference/2023/",
-        "start_date": "06 Aug 2023",
-        "end_date": "11 Aug 2023",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$755–1,030",
-        "non_member_fee": "$755–1,030",
-        "max_fee": "$1,030",
-        "uid": "gordonresearchconfer06Aug2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Asia",
-            "Online"
-        ],
-        "title": "Intl Conference on Advanced Materials for Renewable Energy & Sensors Technology ICAMREST23",
-        "url": "https://conference.postresearch.org/",
-        "start_date": "07 Aug 2023",
-        "end_date": "09 Aug 2023",
-        "locations": [
-            "Kuala Lumpur, Malaysia",
-            "Online"
-        ],
-        "countries": [
-            "Malaysia",
-            "Online"
-        ],
-        "member_fee": "RM250–750 / $60–335",
-        "non_member_fee": "RM250–750 / $60–335",
-        "max_fee": "RM– / $335",
-        "uid": "intlconferenceonadva07Aug2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Statistical analysis of laboratory data (training course)",
-        "url": "https://institute.acs.org/statistical-analysis-of-laboratory-data-online.html",
-        "start_date": "07 Aug 2023",
-        "end_date": "10 Aug 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$1,695–1,895",
-        "non_member_fee": "$1,895",
-        "max_fee": "$1,895",
-        "uid": "statisticalanalysiso07Aug2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Virtual conference on chemistry & its applications",
-        "url": "https://sites.google.com/uom.ac.mu/vcca-2023/home?pli=1",
-        "start_date": "07 Aug 2023",
-        "end_date": "11 Aug 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$0–300",
-        "non_member_fee": "$0–300",
-        "max_fee": "$300",
-        "uid": "virtualconferenceonc07Aug2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -238,127 +28,6 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "organometallicsbootc07Aug2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "safety"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "2023 Latin America Battery Safety Summit",
-        "url": "https://ulse.org/events/2023-latin-america-battery-safety-summit",
-        "start_date": "08 Aug 2023",
-        "end_date": "09 Aug 2023",
-        "locations": [
-            "Mexico City, Mexico"
-        ],
-        "countries": [
-            "Mexico"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "2023latinamericabatt08Aug2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "2023 Molten salts & ionic liquids discussion group MSILDG Summer Research Meeting",
-        "url": "https://www.rsc.org/events/detail/76650/2023-msildg-summer-research-meeting",
-        "start_date": "08 Aug 2023",
-        "end_date": "10 Aug 2023",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£50–320",
-        "non_member_fee": "£50–350",
-        "max_fee": "£350",
-        "uid": "2023moltensaltsionic08Aug2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western USA",
-            "Online"
-        ],
-        "title": "InChI Working Group Meeting",
-        "url": "https://www-jmg.ch.cam.ac.uk/inchi/",
-        "start_date": "12 Aug 2023",
-        "end_date": null,
-        "locations": [
-            "San Francisco, CA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "inchiworkinggroupmee12Aug2023_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Seminar: Catecholamines",
-        "url": "https://grc.org/catecholamines-grs-conference/2023/",
-        "start_date": "12 Aug 2023",
-        "end_date": "13 Aug 2023",
-        "locations": [
-            "Castelldefels, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "$235–380",
-        "non_member_fee": "$235–380",
-        "max_fee": "$380",
-        "uid": "gordonresearchsemina12Aug2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Cellular & Molecular Mechanisms of Toxicity",
-        "url": "https://grc.org/cellular-and-molecular-mechanisms-of-toxicity-grs-conference/2023/",
-        "start_date": "12 Aug 2023",
-        "end_date": "13 Aug 2023",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$195–255",
-        "non_member_fee": "$195–255",
-        "max_fee": "$255",
-        "uid": "gordonresearchsemina12Aug2023_0"
     },
     {
         "themes": [
@@ -2228,6 +1897,59 @@
     {
         "themes": [
             "analytical",
+            "law/policy",
+            "med chem",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Endocrine Disruptors 2023 (regulatory implications)",
+        "url": "https://www.chem-academy.com/events/chemie/endocrine-disruptors",
+        "start_date": "11 Sep 2023",
+        "end_date": "12 Sep 2023",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€1,895",
+        "non_member_fee": "€1,895",
+        "max_fee": "€1,895",
+        "uid": "endocrinedisruptors211Sep2023_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Innovations in CLP & GHS (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/clp-ghs",
+        "start_date": "11 Sep 2023",
+        "end_date": "12 Sep 2023",
+        "locations": [
+            "Frankfurt, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "innovationsinclpghsg11Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio",
             "pharma industry"
         ],
@@ -3062,6 +2784,33 @@
     },
     {
         "themes": [
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Good Distribution Practice (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/gdp",
+        "start_date": "18 Sep 2023",
+        "end_date": "19 Sep 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "gooddistributionprac18Sep2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "physical/phys org"
@@ -3550,6 +3299,34 @@
     },
     {
         "themes": [
+            "computational/data",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Pharmacovigilance (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/pharmakovigilanz",
+        "start_date": "25 Sep 2023",
+        "end_date": "26 Sep 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "pharmacovigilanceger25Sep2023_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -3715,13 +3492,14 @@
             "business",
             "chem bio",
             "computational/data",
+            "environment/fuels",
             "pharma industry",
             "synthesis"
         ],
         "regions": [
             "Western Europe"
         ],
-        "title": "ILMAC 2023 conference & trade fair",
+        "title": "ILMAC 2023 conference & trade fair & Green Lab Symposium",
         "url": "https://scg.ch/component/page/ilmac23",
         "start_date": "26 Sep 2023",
         "end_date": "28 Sep 2023",
@@ -4176,6 +3954,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Sustainability Symposium 2023",
+        "url": "https://rsc.li/RSCSus-symposium",
+        "start_date": "06 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rscsustainabilitysym06Oct2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -4246,6 +4049,33 @@
         "non_member_fee": "$565–815",
         "max_fee": "$815",
         "uid": "244thelectrochemical08Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Clinical Research (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/klinische-forschung",
+        "start_date": "09 Oct 2023",
+        "end_date": "10 Oct 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "clinicalresearchgerm09Oct2023_0"
     },
     {
         "themes": [
@@ -4484,6 +4314,34 @@
         "non_member_fee": "CHF500",
         "max_fee": "CHF500",
         "uid": "40yearsofsurfacescie15Oct2023_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Quality Risk Management (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/quality-risk-management",
+        "start_date": "16 Oct 2023",
+        "end_date": "17 Oct 2023",
+        "locations": [
+            "Cologne, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,595–1,695",
+        "non_member_fee": "€1,595–1,695",
+        "max_fee": "€1,695",
+        "uid": "qualityriskmanagemen16Oct2023_0"
     },
     {
         "themes": [
@@ -4815,6 +4673,60 @@
         "non_member_fee": "€760",
         "max_fee": "€760",
         "uid": "intlconferenceonener22Oct2023_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "CLP Classification, Labelling, & Packaging (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/clp",
+        "start_date": "23 Oct 2023",
+        "end_date": "24 Oct 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,595–1,695",
+        "non_member_fee": "€1,595–1,695",
+        "max_fee": "€1,695",
+        "uid": "clpclassificationlab23Oct2023_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "REACH (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/reach",
+        "start_date": "23 Oct 2023",
+        "end_date": "24 Oct 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "reachgermanlanguage23Oct2023_0"
     },
     {
         "themes": [
@@ -5353,6 +5265,32 @@
     },
     {
         "themes": [
+            "law/policy",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Chemical regulation in non-EU (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/chemikalienregulierung",
+        "start_date": "06 Nov 2023",
+        "end_date": "07 Nov 2023",
+        "locations": [
+            "Berlin, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,595–1,695",
+        "non_member_fee": "€1,595–1,695",
+        "max_fee": "€1,695",
+        "uid": "chemicalregulationin06Nov2023_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -5658,6 +5596,61 @@
         "non_member_fee": "€80–250",
         "max_fee": "€250",
         "uid": "1staristotleconferen12Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Regulatory Toxicology (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/toxikologie",
+        "start_date": "13 Nov 2023",
+        "end_date": "14 Nov 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "regulatorytoxicology13Nov2023_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Biocidal Products (German language)",
+        "url": "https://www.chem-academy.com/events/chemie/biozid-produkte",
+        "start_date": "13 Nov 2023",
+        "end_date": "14 Nov 2023",
+        "locations": [
+            "Bonn, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€1,895–1,995",
+        "non_member_fee": "€1,895–1,995",
+        "max_fee": "€1,995",
+        "uid": "biocidalproductsgerm13Nov2023_0"
     },
     {
         "themes": [
@@ -6986,6 +6979,32 @@
         "non_member_fee": "£130",
         "max_fee": "£130",
         "uid": "astburyconversation208Apr2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Automating Chemical Laboratories (early-career faculty)",
+        "url": "https://rescorp.org/scialog/automating-chemical-laboratories",
+        "start_date": "11 Apr 2024",
+        "end_date": "14 Apr 2024",
+        "locations": [
+            "Tucson, AZ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "AZ"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "automatingchemicalla11Apr2024_0"
     },
     {
         "themes": [
