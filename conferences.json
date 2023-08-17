@@ -4484,6 +4484,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "MIBio: Stability of Biopharmaceuticals",
+        "url": "https://constableandsmith.com/events/mibio-2023",
+        "start_date": "18 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£210",
+        "non_member_fee": "£230",
+        "max_fee": "£230",
+        "uid": "mibiostabilityofbiop18Oct2023_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
