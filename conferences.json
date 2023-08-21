@@ -6181,6 +6181,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "catalysis",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "UK XFEL (X-ray Free Electron Laser) Catalysis Workshop",
+        "url": "https://www.eventbrite.com/e/uk-xfel-catalysis-workshop-tickets-661174399427",
+        "start_date": "27 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "ukxfelxrayfreeelectr27Nov2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "synthesis"
         ],
