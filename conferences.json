@@ -85,79 +85,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Proton reactions: From basic science to biomedical applications",
-        "url": "https://www.biophysics.org/2023tahoe-protonreaction/",
-        "start_date": "20 Aug 2023",
-        "end_date": "24 Aug 2023",
-        "locations": [
-            "Tahoe, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$1,600",
-        "non_member_fee": "$1,800",
-        "max_fee": "$1,800",
-        "uid": "protonreactionsfromb20Aug2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Safety in NH3 Plants & Related Facilities Symposium",
-        "url": "https://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2023",
-        "start_date": "20 Aug 2023",
-        "end_date": "24 Aug 2023",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "safetyinnh3plantsrel20Aug2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Near Infrared Spectroscopy NIR 2023",
-        "url": "https://www.nir2023.at/",
-        "start_date": "20 Aug 2023",
-        "end_date": "24 Aug 2023",
-        "locations": [
-            "Innsbruck, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "€350–810",
-        "non_member_fee": "€350–910",
-        "max_fee": "€910",
-        "uid": "intlconferenceonnear20Aug2023_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -178,57 +105,6 @@
         "non_member_fee": "AUD350–890",
         "max_fee": "AUD890",
         "uid": "23rdinternationalsoc20Aug2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Oslo Battery Days",
-        "url": "https://www.oslobatterydays.com/",
-        "start_date": "21 Aug 2023",
-        "end_date": "22 Aug 2023",
-        "locations": [
-            "Oslo, Norway"
-        ],
-        "countries": [
-            "Norway"
-        ],
-        "member_fee": "NOK5,000–9,500",
-        "non_member_fee": "NOK5,000–9,500",
-        "max_fee": "NOK9,500",
-        "uid": "oslobatterydays21Aug2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Materials Challenges in Alternative & Renewable Energy 2023 & Energy Harvesting Society Meeting",
-        "url": "https://ceramics.org/event/materials-challenges-in-alternative-renewable-energy-2023",
-        "start_date": "21 Aug 2023",
-        "end_date": "24 Aug 2023",
-        "locations": [
-            "Bellevue, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "member_fee": "$0–770",
-        "non_member_fee": "$620–920",
-        "max_fee": "$920",
-        "uid": "materialschallengesi21Aug2023_0"
     },
     {
         "themes": [
@@ -253,29 +129,6 @@
         "non_member_fee": "AUD990",
         "max_fee": "AUD990",
         "uid": "26thcongressgenerala22Aug2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Association of Women in Science AWIS Virtual Career Fair (US-focussed)",
-        "url": "https://app.brazenconnect.com/a/awis/e/jPpgw",
-        "start_date": "24 Aug 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "associationofwomenin24Aug2023_0"
     },
     {
         "themes": [
@@ -565,6 +418,29 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "2dmaterialsphysicsof28Aug2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Ageing Research & Drug Discovery Meeting",
+        "url": "https://agingpharma.org/",
+        "start_date": "28 Aug 2023",
+        "end_date": "01 Sep 2023",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "ageingresearchdrugdi28Aug2023_0"
     },
     {
         "themes": [
@@ -3279,6 +3155,36 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Discovery on Target",
+        "url": "https://www.discoveryontarget.com/#",
+        "start_date": "25 Sep 2023",
+        "end_date": "28 Sep 2023",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$1,799–2,999",
+        "non_member_fee": "$1,799–2,999",
+        "max_fee": "$2,999",
+        "uid": "discoveryontarget25Sep2023_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -4320,6 +4226,33 @@
     },
     {
         "themes": [
+            "business",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Partnership Opportunities in Drug Delivery PODD",
+        "url": "https://theconferenceforum.org/conferences/partners-in-drug-delivery/overview/",
+        "start_date": "16 Oct 2023",
+        "end_date": "17 Oct 2023",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$2,395",
+        "non_member_fee": "$2,395",
+        "max_fee": "$2,395",
+        "uid": "partnershipopportuni16Oct2023_0"
+    },
+    {
+        "themes": [
             "law/policy",
             "pharma industry",
             "process/engineering",
@@ -5040,6 +4973,32 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "SACNAS Postdoc Leadership Institute (US only)",
+        "url": "https://sacnas.site-ym.com/events/EventDetails.aspx?id=1766697&group=",
+        "start_date": "25 Oct 2023",
+        "end_date": "29 Oct 2023",
+        "locations": [
+            "Portland, OR, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OR"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "sacnaspostdocleaders25Oct2023_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -5140,6 +5099,28 @@
         "non_member_fee": "$725",
         "max_fee": "$725",
         "uid": "usnationaldiversityi26Oct2023_0"
+    },
+    {
+        "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Hit ID Symposium",
+        "url": "https://shop.monash.edu/hit-id-symposium-2023.html",
+        "start_date": "27 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "AUD30",
+        "non_member_fee": "AUD30",
+        "max_fee": "AUD30",
+        "uid": "hitidsymposium27Oct2023_0"
     },
     {
         "themes": [
