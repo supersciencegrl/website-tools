@@ -1,30 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "26th Congress & General Assembly of the Intl Union of Crystallography IUCr",
-        "url": "https://iucr2023.org/",
-        "start_date": "22 Aug 2023",
-        "end_date": "29 Aug 2023",
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "AUD990",
-        "non_member_fee": "AUD990",
-        "max_fee": "AUD990",
-        "uid": "26thcongressgenerala22Aug2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -427,6 +403,48 @@
         "non_member_fee": "CHF200",
         "max_fee": "CHF200",
         "uid": "swissautomation202331Aug2023_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "#OSF2023NL\n Netherlands National Open Science Festival",
+        "url": "https://opensciencefestival.nl/",
+        "start_date": "31 Aug 2023",
+        "end_date": null,
+        "locations": [
+            "Rotterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "osf2023nl\nnetherland31Aug2023_0"
     },
     {
         "themes": [
@@ -2406,6 +2424,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Merck HBCU Day (virtual; US-focussed)",
+        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
+        "start_date": "18 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "merckhbcudayvirtualu18Sep2023_0"
+    },
+    {
+        "themes": [
             "law/policy",
             "pharma industry",
             "process/engineering"
@@ -2580,6 +2624,35 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Merck HBCU Day (Elkton)",
+        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
+        "start_date": "19 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Elkton, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "merckhbcudayelkton19Sep2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "process/engineering"
@@ -2612,8 +2685,8 @@
         ],
         "title": "ArabLab Live 2023 (trade fair)",
         "url": "https://www.arablab.com/",
-        "start_date": "05 Oct 2023",
-        "end_date": "06 Oct 2023",
+        "start_date": "19 Sep 2023",
+        "end_date": "21 Sep 2023",
         "locations": [
             "Dubai, UAE"
         ],
@@ -2623,7 +2696,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "arablablive2023trade05Oct2023_0"
+        "uid": "arablablive2023trade19Sep2023_0"
     },
     {
         "themes": [
@@ -2671,6 +2744,35 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "ai4medchemsummerscho19Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Merck HBCU Day (West Point)",
+        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
+        "start_date": "20 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "West Point, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "merckhbcudaywestpoin20Sep2023_0"
     },
     {
         "themes": [
@@ -2844,6 +2946,35 @@
         "non_member_fee": "£295–395",
         "max_fee": "£395",
         "uid": "pharmatechintegrates21Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Merck HBCU Day (Durham)",
+        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
+        "start_date": "22 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Durham, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "merckhbcudaydurham22Sep2023_0"
     },
     {
         "themes": [
