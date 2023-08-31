@@ -4103,6 +4103,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Reaxys User Day",
+        "url": "https://www.elsevier.com/events/conferences/global-reaxys-user-day",
+        "start_date": "11 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "reaxysuserday11Oct2023_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "formulation/particle science",
             "pharma industry"
