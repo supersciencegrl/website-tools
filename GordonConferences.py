@@ -8,37 +8,21 @@ import pyperclip
 import pywinauto
 import requests
 
-''' Debug mode '''
-Debug = False
+def format_url(url):
+    """
+    Formats a given URL to ensure it is properly structured.
 
-def run():
-    while True:
-        if Debug:
-            url = r'https://grc.org/additive-manufacturing-of-soft-materials-conference/2022/' # Test
-        else:
-            url = input('url: ')
+    This function takes a URL as input and ensures it is properly formatted by performing the following actions:
+    - Adds 'https://' if the URL lacks a protocol.
+    - Appends 'grc.org' if the URL does not contain it.
+    - Ensures 'www' is not present in the URL.
 
-        url = formatUrl(url)
+    Args:
+        url (str): The input URL to be formatted.
 
-        page = get_html(url)
-        if page:
-            event = scrape_page(page, url)
-        else:
-            print('Not found. ')
-        print('\n')
-
-def get_html(url):
-    url = formatUrl(url)
-    
-    r = requests.get(url)
-    if r.status_code == 200:
-        page = r.content # r.content contains byte objects, unlike r.text
-    else:
-        return None
-
-    return page
-
-def formatUrl(url):
+    Returns:
+        str: The formatted URL.
+    """
     if 'http' not in url and 'grc.org' not in url and 'www' not in url:
         if url.startswith("/"):
             return r"https://grc.org" + url
@@ -50,6 +34,27 @@ def formatUrl(url):
 
     else:
         return url
+
+def get_html(url):
+    """
+    Fetches the HTML content of a web page given its URL.
+    
+    Args:
+        url (str): The URL of the web page to fetch.
+
+    Returns:
+        bytes: The HTML content of the web page as bytes.
+
+    Raises:
+        requests.exceptions.HTTPError: If the HTTP request encounters an error (e.g., 404 Not Found).
+    """
+    
+    url = format_url(url)
+    
+    r = requests.get(url)
+    r.raise_for_status()
+
+    return r.content # r.content contains byte objects, unlike r.text
 
 def scrape_page(page, url, print_output=True):
     event = {'url': url}
@@ -163,7 +168,22 @@ def scrape_page(page, url, print_output=True):
     return event, html_out
 
 def meetingsFromPage():
-    ''' Save the html as GordonConferences.html '''
+    """
+    Extracts meeting details from the Gordon Conference 'Find A Conference' page to HTML.
+
+    This function performs the following tasks:
+    - Prompts the user to save each page of HTML from the 'Find A Conference' page separately.
+    - Loads the saved HTML, extracts links to conferences, and checks if they are already known.
+    - Extracts meeting details for conferences not already in the database.
+
+    Returns:
+        list: A list of dictionaries, each containing meeting details and HTML representation.
+              Each dictionary represents a conference.
+
+    Note:
+        - This function relies on user input to save HTML pages manually.
+        - It uses the 'requests', 'requests-html', and 'BeautifulSoup' libraries for web scraping.
+    """
 
     main_url = 'https://grc.org/find-a-conference/'
     print(main_url)
@@ -178,27 +198,27 @@ def meetingsFromPage():
         return None
 
     # Check which links are already known
-    knownConferences = get_html(r"https://supersciencegrl.co.uk/conferences")
-    knownSoup = BeautifulSoup(knownConferences, 'html.parser')
+    known_conferences = get_html(r"https://supersciencegrl.co.uk/conferences")
+    known_soup = BeautifulSoup(known_conferences, 'html.parser')
     links = []
-    if knownSoup:
-        links = [a['href'] for a in knownSoup.find_all('a')]
+    if known_soup:
+        links = [a['href'] for a in known_soup.find_all('a')]
 
-    meetingDivs = soup.find_all('div', class_='meetingThumb')
+    meeting_divs = soup.find_all('div', class_='meetingThumb')
     meetings = []
-    for meeting in meetingDivs:
+    for meeting in meeting_divs:
         url = meeting.find('a', class_='quickView')['href']
         if url=='{{pageurl}}':
             break
 
         # Check meeting not already in database
-        url = formatUrl(url)
+        url = format_url(url)
         if url in links:
             continue
         
         mydict = {}
         print(url)
-        mydict['url'] = formatUrl(url)
+        mydict['url'] = format_url(url)
         meetings.append(mydict)
 
         page = get_html(mydict['url'])
@@ -206,8 +226,20 @@ def meetingsFromPage():
 
     return meetings
 
-def checkMeetings(meetings: dict):
-    ''' Collaborative function to check semi-manually through the meetings from meetingsFromPage() '''
+def check_meetings(meetings: dict):
+    """
+    Collaborative function to manually review and check through a list of meetings.
+
+    This function iterates through a list of meetings and allows a manual review of each meeting's details.
+    It checks whether the meeting has already passed, and if not, prompts for acceptance to view details.
+
+    Args:
+        meetings (list): A list of meeting dictionaries, each containing event details and HTML representation.
+
+    Note:
+        - This function relies on user input to determine whether to accept and view meeting details.
+        - It uses the 'pyperclip' library to copy meeting details to the clipboard for further use.
+    """
     
     for meeting in meetings:
         # Move onto next meeting if this one has passed
@@ -223,10 +255,47 @@ def checkMeetings(meetings: dict):
             print(result)
             pyperclip.copy(result)
 
+def run():
+    """
+    Interactive function to fetch and scrape event details from a web page.
+
+    This function provides an interactive interface to fetch and scrape event details from a web page.
+    It prompts the user to input a URL or uses a test URL if in debug mode.
+    It fetches the HTML content of the page, scrapes event details, and displays the result.
+
+    Note:
+        - In debug mode (when 'Debug' is set to True), a test URL is used automatically.
+        - The 'get_html' and 'scrape_page' functions are used to retrieve and process the web page.
+    """
+    while True:
+        if Debug:
+            url = r'https://grc.org/additive-manufacturing-of-soft-materials-conference/2022/' # Test
+        else:
+            url = input('url: ')
+
+        url = format_url(url)
+
+        page = get_html(url)
+        if page:
+            event = scrape_page(page, url)
+        else:
+            print('Not found. ')
+        print('\n')
+
 def getCurrentTabs():
-    ''' This returns all grc.org urls currently open.
-        Used to create a list of conferences that don't have fees yet for later scraping.
-        Note: this is slow and simulates clicking through all Chrome tabs '''
+    """
+    Retrieves URLs of currently open tabs in Google Chrome from the 'grc.org' domain.
+
+    This function simulates clicking through all open tabs in Google Chrome to find and collect URLs
+    that belong to 'grc.org' but are not related to the 'Find a Conference' page.
+
+    Returns:
+        list: A list of 'grc.org' URLs currently open in Chrome.
+
+    Note:
+        - This function uses simulated clicks and should not be used while moving the pointer.
+        - This function is slow. 
+    """
     ### WARNING ###
     ''' This uses simulated clicks: do NOT move the pointer while this function is running! '''
 
@@ -240,10 +309,14 @@ def getCurrentTabs():
             tab.click_input()
             tab_url_wrapper = cw.descendants(title='Address and search bar', control_type='Edit')[0]
             tab_url = tab_url_wrapper.get_value()
+            
             if tab_url.startswith('grc.org') and 'find-a-conference' not in tab_url:
                 grc_urls.append(tab_url)
                 print(tab_url)
 
     return grc_urls
+
+''' Debug mode '''
+Debug = False
 
 run()
