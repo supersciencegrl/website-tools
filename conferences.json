@@ -1,150 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "15th European Congress on Catalysis EuropaCat",
-        "url": "https://www.europacat2023.cz/",
-        "start_date": "27 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "CZK19,500 / €796",
-        "non_member_fee": "CZK19,500 / €796",
-        "max_fee": "€796",
-        "uid": "15theuropeancongress27Aug2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Ageing Research & Drug Discovery Meeting",
-        "url": "https://agingpharma.org/",
-        "start_date": "28 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "ageingresearchdrugdi28Aug2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Digitalization & automation in chemistry (summer school)",
-        "url": "https://capgc2023.epfl.ch/",
-        "start_date": "28 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Muttenz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF250–800",
-        "non_member_fee": "CHF250–800",
-        "max_fee": "CHF800",
-        "uid": "digitalizationautoma28Aug2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "6th Quantum Bioinorganic Chemistry Conference",
-        "url": "https://qbicvi.sciencesconf.org/index/closed",
-        "start_date": "29 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Warsaw, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "PLN2,000",
-        "non_member_fee": "PLN2,000",
-        "max_fee": "PLN2,000",
-        "uid": "6thquantumbioinorgan29Aug2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "Sodium-Ion Technology Research Innovations and Key Enhancements (STRIKE) Symposium",
-        "url": "https://conferences.swansea-union.co.uk/event/sodium-ion-technology-research-innovations-and-key-enhancements-strike-symposium/85486",
-        "start_date": "30 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Swansea, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£250",
-        "non_member_fee": "£250",
-        "max_fee": "£250",
-        "uid": "sodiumiontechnologyr30Aug2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Photophysics & photochemistry group early career meeting 2023",
-        "url": "https://www.rsc.org/events/detail/76891/rsc-photophysics-and-photochemistry-group-early-career-meeting-2023",
-        "start_date": "31 Aug 2023",
-        "end_date": "01 Sep 2023",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rscphotophysicsphoto31Aug2023_0"
-    },
-    {
-        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -1864,6 +1720,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "elrigadvancementsinc15Sep2023_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Open House",
+        "url": "https://www.rsc.org/events/detail/77174/open-house-london-2023",
+        "start_date": "16 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscopenhouse16Sep2023_0"
     },
     {
         "themes": [
@@ -6115,6 +5993,29 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "LGBTQ+ STEM Day: Community & Careers Conference",
+        "url": "https://www.eventbrite.co.uk/e/lgbtq-stem-day-community-careers-conference-2023-tickets-707090044357",
+        "start_date": "17 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "lgbtqstemdaycommunit17Nov2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy"
         ],
@@ -6183,6 +6084,28 @@
         "non_member_fee": "€2,530",
         "max_fee": "€2,530",
         "uid": "understandingpolymor21Nov2023_0"
+    },
+    {
+        "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Science & the Scottish Parliament 2023",
+        "url": "https://www.rsc.org/events/detail/77031/science-and-the-parliament-2023",
+        "start_date": "22 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "sciencethescottishpa22Nov2023_0"
     },
     {
         "themes": [
@@ -6470,6 +6393,28 @@
         "non_member_fee": "£65",
         "max_fee": "£65",
         "uid": "hottopicstargettingr30Nov2023_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Inclusion & Diversity Forum 2023",
+        "url": "https://www.rsc.org/events/detail/77112/",
+        "start_date": "30 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rscinclusiondiversit30Nov2023_0"
     },
     {
         "themes": [
