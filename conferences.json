@@ -76,56 +76,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England",
-            "Online"
-        ],
-        "title": "6th AI Artificial Intelligence in Chemistry",
-        "url": "https://www.rscbmcs.org/events/aichem23/",
-        "start_date": "04 Sep 2023",
-        "end_date": "05 Sep 2023",
-        "locations": [
-            "Cambridge, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£225–340",
-        "non_member_fee": "£272–410",
-        "max_fee": "£410",
-        "uid": "6thaiartificialintel04Sep2023_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Peptide Therapeutics Forum 2023",
-        "url": "https://ptf23.scg.ch/",
-        "start_date": "04 Sep 2023",
-        "end_date": "05 Sep 2023",
-        "locations": [
-            "Basel, Switzerland",
-            "Online"
-        ],
-        "countries": [
-            "Switzerland",
-            "Online"
-        ],
-        "member_fee": "CHF50–150",
-        "non_member_fee": "CHF50–200",
-        "max_fee": "CHF200",
-        "uid": "peptidetherapeuticsf04Sep2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -244,31 +194,6 @@
         "non_member_fee": "€475–535",
         "max_fee": "€535",
         "uid": "xxvconferenceonorgan04Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Circular Chemical Economy Summer School 2023",
-        "url": "https://www.eventbrite.co.uk/e/circular-chemical-economy-summer-school-2023-tickets-577046600917?aff=oddtdtcreator",
-        "start_date": "05 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "£50",
-        "max_fee": "£50",
-        "uid": "circularchemicalecon05Sep2023_0"
     },
     {
         "themes": [
@@ -3792,6 +3717,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "NFDI4Chem Ontologies4Chem (workshop)",
+        "url": "https://www.nfdi4chem.de/event/2-workshop-ontologies4chem/",
+        "start_date": "11 Oct 2023",
+        "end_date": "12 Oct 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "nfdi4chemontologies411Oct2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano"
         ],
@@ -5075,6 +5022,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "NFDI4Chem Editors4Chem",
+        "url": "https://www.nfdi4chem.de/event/2nd-editors4chem-workshop/",
+        "start_date": "11 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "nfdi4chemeditors4che11Oct2023_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -5456,6 +5425,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "NFDI4Chem Research data management & ELN workshop",
+        "url": "https://www.nfdi4chem.de/event/2nd-editors4chem-workshop/",
+        "start_date": "08 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Hanover, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "nfdi4chemresearchdat08Nov2023_0"
+    },
+    {
+        "themes": [
             "business",
             "environment/fuels",
             "process/engineering"
@@ -5465,7 +5456,7 @@
         ],
         "title": "The Greener Manufacturing Show (trade fair)",
         "url": "https://www.greener-manufacturing.com/greener-manufacturing.com",
-        "start_date": "06 Nov 2023",
+        "start_date": "08 Nov 2023",
         "end_date": "09 Nov 2023",
         "locations": [
             "Cologne, Germany"
@@ -5476,7 +5467,7 @@
         "member_fee": "€0–1,950",
         "non_member_fee": "€0–1,950",
         "max_fee": "€1,950",
-        "uid": "thegreenermanufactur06Nov2023_0"
+        "uid": "thegreenermanufactur08Nov2023_0"
     },
     {
         "themes": [
@@ -6106,28 +6097,6 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "sciencethescottishpa22Nov2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "NDFI4Chem Data Infrastructure Consortium Meeting 4.0",
-        "url": "https://www.nfdi4chem.de/index.php/event/nfdi4chem-consortium-meeting-4-0/",
-        "start_date": "22 Nov 2023",
-        "end_date": "23 Nov 2023",
-        "locations": [
-            "Jena, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "ndfi4chemdatainfrast22Nov2023_0"
     },
     {
         "themes": [
