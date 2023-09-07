@@ -76,58 +76,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "chem bio",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "GDCh Science Forum Chemistry WiFo: Rethinking Chemistry",
-        "url": "https://www.wifo2023.de/en",
-        "start_date": "04 Sep 2023",
-        "end_date": "06 Sep 2023",
-        "locations": [
-            "Leipzig, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€0–380",
-        "non_member_fee": "€130–425",
-        "max_fee": "€425",
-        "uid": "gdchscienceforumchem04Sep2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Professor David Jackson Meeting",
-        "url": "https://www.gla.ac.uk/schools/chemistry/research/catalysis/davidjacksonmeeting/",
-        "start_date": "04 Sep 2023",
-        "end_date": "06 Sep 2023",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£350",
-        "non_member_fee": "£350",
-        "max_fee": "£350",
-        "uid": "professordavidjackso04Sep2023_0"
-    },
-    {
-        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -292,55 +240,6 @@
         "non_member_fee": "£495",
         "max_fee": "£495",
         "uid": "intlsymposiumonindus05Sep2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK Natl Conference for Science Technicians 2023",
-        "url": "https://www.rsc.org/events/detail/75942/national-conference-for-science-technicians-2023",
-        "start_date": "06 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "uknatlconferencefors06Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab Supply Hanover (trade fair)",
-        "url": "https://www.lab-supply.info/besuchen/hannover",
-        "start_date": "06 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Hanover, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labsupplyhanovertrad06Sep2023_0"
     },
     {
         "themes": [
@@ -2502,6 +2401,29 @@
     },
     {
         "themes": [
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Global Conversation on Sustainability GCS",
+        "url": "https://www.beyondbenign.org/event/global-conversation-on-sustainability-gcs-2/",
+        "start_date": "25 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "globalconversationon25Sep2023_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -3232,6 +3154,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Commonwealth Chemistry Posters",
+        "url": "https://commonwealthchemistry.org/event/4th-commonwealth-chemistry-posters/",
+        "start_date": "04 Oct 2023",
+        "end_date": "05 Oct 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "commonwealthchemistr04Oct2023_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "computational/data"
@@ -3856,6 +3820,48 @@
         "non_member_fee": "CHF500",
         "max_fee": "CHF500",
         "uid": "40yearsofsurfacescie15Oct2023_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#LatinXChem23\n LatinXChem Twitter Poster Conference",
+        "url": "https://www.latinxchem.org/",
+        "start_date": "16 Oct 2023",
+        "end_date": "17 Oct 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "latinxchem23\nlatinxc16Oct2023_0"
     },
     {
         "themes": [
@@ -5797,6 +5803,39 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA",
+            "Online"
+        ],
+        "title": "Change Chemistry US Innovators' Roundtable",
+        "url": "https://member.changechemistry.org/events/2023-innovators-roundtable",
+        "start_date": "14 Nov 2023",
+        "end_date": "16 Nov 2023",
+        "locations": [
+            "St Louis, MO, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MO"
+        ],
+        "member_fee": "$350–450",
+        "non_member_fee": "$400–1,200",
+        "max_fee": "$1,200",
+        "uid": "changechemistryusinn14Nov2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "med chem",
@@ -6750,6 +6789,30 @@
     {
         "themes": [
             "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Current Issues in Contaminated Land Risk Assessment",
+        "url": "https://www.rsc.org/events/detail/76488/2023-current-issues-in-contaminated-land-risk-assessment",
+        "start_date": "12 Dec 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "currentissuesinconta12Dec2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "automation",
             "business",
             "computational/data",
@@ -6981,6 +7044,33 @@
         "non_member_fee": "£100",
         "max_fee": "£100",
         "uid": "industrialcrystalliz01Feb2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Intl Conference & Exhibition",
+        "url": "https://www.slas.org/events-calendar/slas2024-international-conference-and-exhibition/",
+        "start_date": "03 Feb 2024",
+        "end_date": "07 Feb 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$99–849",
+        "non_member_fee": "$99–1,249",
+        "max_fee": "$1,249",
+        "uid": "societyforlaboratory03Feb2024_0"
     },
     {
         "themes": [
