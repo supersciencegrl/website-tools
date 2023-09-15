@@ -1,101 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Crystal Forms @ Bologna",
-        "url": "https://site.unibo.it/molecular-crystal-engineering/en/events",
-        "start_date": "10 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "crystalformsbologna10Sep2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Electrochem 2023",
-        "url": "https://www.rsc.org/events/detail/76467/electrochem-2023",
-        "start_date": "10 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£360",
-        "non_member_fee": "£456",
-        "max_fee": "£456",
-        "uid": "electrochem202310Sep2023_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "SCI/RSC Medicinal Chemistry Symposium",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2023/sci--rsc-22nd-medicinal-chemistry-symposium",
-        "start_date": "10 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£485",
-        "non_member_fee": "£600",
-        "max_fee": "£600",
-        "uid": "scirscmedicinalchemi10Sep2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Conference on Applied Surface & Solid Material Analysis AOFKA 2023:",
-        "url": "https://aofka23.scg.ch/",
-        "start_date": "10 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF200",
-        "non_member_fee": "CHF200–600",
-        "max_fee": "CHF600",
-        "uid": "conferenceonapplieds10Sep2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -168,279 +73,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Pharma Data & Digital Medicine 2023",
-        "url": "https://www.oxfordglobal.co.uk/pharmatec-series/",
-        "start_date": "11 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "pharmadatadigitalmed11Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Chemical Biology & Bioorganic Group CBBG Community Meeting",
-        "url": "https://www.rsc.org/events/detail/76067/chemical-biology-and-bioorganic-group-cbbg-community-meeting",
-        "start_date": "11 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rscchemicalbiologybi11Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "med chem",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Endocrine Disruptors 2023 (regulatory implications)",
-        "url": "https://www.chem-academy.com/events/chemie/endocrine-disruptors",
-        "start_date": "11 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€1,895",
-        "non_member_fee": "€1,895",
-        "max_fee": "€1,895",
-        "uid": "endocrinedisruptors211Sep2023_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Innovations in CLP & GHS (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/clp-ghs",
-        "start_date": "11 Sep 2023",
-        "end_date": "12 Sep 2023",
-        "locations": [
-            "Frankfurt, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,895–1,995",
-        "non_member_fee": "€1,895–1,995",
-        "max_fee": "€1,995",
-        "uid": "innovationsinclpghsg11Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "25th Conference on Isoprenoids",
-        "url": "https://www.isoprenoids25.phyto.kz/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Karaganda, Kazakhstan"
-        ],
-        "countries": [
-            "Kazakhstan"
-        ],
-        "member_fee": "KZT310,000",
-        "non_member_fee": "KZT310,000",
-        "max_fee": "KZT310,000",
-        "uid": "25thconferenceonisop11Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Faraday Institution Conference: Towards sustainable electrification of the UK",
-        "url": "https://faradayconference.org.uk/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£155–250",
-        "non_member_fee": "£155–250",
-        "max_fee": "£250",
-        "uid": "faradayinstitutionco11Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Umwelt 2023 (German language)",
-        "url": "https://capgc2023.epfl.ch/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Muttenz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "€220",
-        "non_member_fee": "€260",
-        "max_fee": "€260",
-        "uid": "umwelt2023germanlang11Sep2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scientific Update: Physical Organic Chemistry Concepts for Process Scaleup",
-        "url": "https://www.scientificupdate.com/training_courses/physical-organic-chemistry-concepts-for-process-development/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,499",
-        "non_member_fee": "£1,499",
-        "max_fee": "£1,499",
-        "uid": "scientificupdatephys11Sep2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Machine Learning for Chemical Engineering (training course)",
-        "url": "https://tecnicomais.pt/cursos/machine-learning-for-chemical-engineering-en/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€760–950",
-        "non_member_fee": "€760–950",
-        "max_fee": "€950",
-        "uid": "machinelearningforch11Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Summer School on Pharmaceutical Analysis SSPA 2023",
-        "url": "https://www.sspaweb.com/",
-        "start_date": "11 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Bologna, Italy",
-            "Online"
-        ],
-        "countries": [
-            "Italy",
-            "Online"
-        ],
-        "member_fee": "€60–400",
-        "non_member_fee": "€75–440",
-        "max_fee": "€440",
-        "uid": "summerschoolonpharma11Sep2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "NOBCChE Conference: 50 Years of Black excellence in chemistry & chemical engineering",
-        "url": "https://www.nobcche.org/conference",
-        "start_date": "11 Sep 2023",
-        "end_date": "14 Sep 2023",
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "member_fee": "$300–350",
-        "non_member_fee": "$300–500",
-        "max_fee": "$500",
-        "uid": "nobccheconference50y11Sep2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers"
@@ -484,178 +116,6 @@
         "non_member_fee": "€500",
         "max_fee": "€500",
         "uid": "25thintlconferenceon11Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK-India Symposium in Chemical Sciences 2023 (York)",
-        "url": "https://www.rsc.org/events/detail/76483/uk-india-symposium-in-chemical-sciences-2023-york",
-        "start_date": "12 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "ukindiasymposiuminch12Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "SURCON: Oil & Colour Chemists' Association OCCA Centenary Conference",
-        "url": "https://www.occa.org.uk/event-info?event=surcon-2018",
-        "start_date": "12 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£250",
-        "non_member_fee": "£350",
-        "max_fee": "£350",
-        "uid": "surconoilcolourchemi12Sep2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Lab Manager Safety Summit",
-        "url": "https://summit.labmanager.com/safety",
-        "start_date": "12 Sep 2023",
-        "end_date": "13 Sep 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labmanagersafetysumm12Sep2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "1st Conference on Research Data Infrastructure",
-        "url": "https://indico.scc.kit.edu/event/3453/",
-        "start_date": "12 Sep 2023",
-        "end_date": "14 Sep 2023",
-        "locations": [
-            "Karlsruhe, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "1stconferenceonresea12Sep2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Enzymology Symposium 2023",
-        "url": "https://www.beilstein-institut.de/en/symposia/enzymology/",
-        "start_date": "12 Sep 2023",
-        "end_date": "14 Sep 2023",
-        "locations": [
-            "Rüdesheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "beilsteinenzymologys12Sep2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Joliot-Curie Conference: Careers in academia",
-        "url": "https://www.rsc.org/events/detail/76265/joliot-curie-conference-2023",
-        "start_date": "13 Sep 2023",
-        "end_date": "14 Sep 2023",
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£25",
-        "non_member_fee": "£30",
-        "max_fee": "£30",
-        "uid": "joliotcurieconferenc13Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "LabDays 2023 (trade fair)",
-        "url": "https://labdays.dk/English/",
-        "start_date": "13 Sep 2023",
-        "end_date": "14 Sep 2023",
-        "locations": [
-            "Aarhus, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labdays2023tradefair13Sep2023_0"
     },
     {
         "themes": [
@@ -704,60 +164,6 @@
         "non_member_fee": "€600",
         "max_fee": "€600",
         "uid": "intlsymposiumonelect13Sep2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK-QSAR Fall Meeting",
-        "url": "https://forms.office.com/e/RR5qGKGCwJ",
-        "start_date": "14 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "ukqsarfallmeeting14Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe",
-            "North America",
-            "Asia",
-            "Online"
-        ],
-        "title": "10th World Sustainability Forum",
-        "url": "https://wsf-10.sciforum.net/",
-        "start_date": "14 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland",
-            "Toronto, Canada",
-            "Singapore, Singapore",
-            "Online"
-        ],
-        "countries": [
-            "Switzerland",
-            "Canada",
-            "Singapore",
-            "Online"
-        ],
-        "member_fee": "CHF400–550",
-        "non_member_fee": "CHF400–550",
-        "max_fee": "CHF550",
-        "uid": "10thworldsustainabil14Sep2023_0"
     },
     {
         "themes": [
@@ -1078,6 +484,30 @@
         "non_member_fee": "€950",
         "max_fee": "€950",
         "uid": "14theuropeancongress17Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Group French Peptide & Protein GFPP 2023",
+        "url": "https://www.gfpp.fr/en/23th-gfpp-17-21th-september-2023/",
+        "start_date": "17 Sep 2023",
+        "end_date": "21 Sep 2023",
+        "locations": [
+            "Fournois, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€580–890",
+        "non_member_fee": "€580–890",
+        "max_fee": "€890",
+        "uid": "groupfrenchpeptidepr17Sep2023_0"
     },
     {
         "themes": [
@@ -1721,6 +1151,59 @@
     },
     {
         "themes": [
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Highlighting Organic Chemistry in Portugal",
+        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-portugal-tickets-717120465617",
+        "start_date": "22 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "highlightingorganicc22Sep2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "inorganic/nano",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Herty Medallist Undergraduate Research Symposium",
+        "url": "https://commons.ggc.edu/hmurs/",
+        "start_date": "22 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Lawrenceville, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "hertymedallistunderg22Sep2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "diversity",
@@ -1996,6 +1479,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Peer Review Week",
+        "url": "https://peerreviewweek.wordpress.com/",
+        "start_date": "25 Sep 2023",
+        "end_date": "29 Sep 2023",
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "peerreviewweek25Sep2023_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2015,6 +1540,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "munichleidenvirtualc26Sep2023_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London",
+            "Online"
+        ],
+        "title": "Equality, Diversity & Inclusion in Science & Health EDIS Symposium",
+        "url": "https://edisgroup.org/symposium--2023/ target=",
+        "start_date": "26 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "equalitydiversityinc26Sep2023_0"
     },
     {
         "themes": [
@@ -2208,6 +1758,29 @@
         "non_member_fee": "$595",
         "max_fee": "$595",
         "uid": "immersivetechnologyo27Sep2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "ELRIG Early Career Networking event: How will AI, Big Data, & Bioinformatics Impact my Career?",
+        "url": "https://elrig.eventsair.com/elrig-early-career-professional-networking-event-enabling-the-future-of-drug-discovery",
+        "start_date": "27 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "elrigearlycareernetw27Sep2023_0"
     },
     {
         "themes": [
@@ -2456,6 +2029,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Zontal User Group Meeting",
+        "url": "https://info.zontal.io/ugm1",
+        "start_date": "03 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "zontalusergroupmeeti03Oct2023_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "med chem",
             "pharma industry",
@@ -2592,6 +2187,32 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "commonwealthchemistr04Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemaxon User Group Meeting",
+        "url": "https://chemaxon.com/user-meeting-boston-2023",
+        "start_date": "04 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemaxonusergroupmee04Oct2023_0"
     },
     {
         "themes": [
@@ -3011,6 +2632,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Paperless Lab Academy meeting India",
+        "url": "https://www.paperlesslabacademy.com/india/",
+        "start_date": "10 Oct 2023",
+        "end_date": "11 Oct 2023",
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "INR17,505",
+        "non_member_fee": "INR17,505",
+        "max_fee": "INR17,505",
+        "uid": "paperlesslabacademym10Oct2023_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -3247,7 +2890,7 @@
         "regions": [
             "Online"
         ],
-        "title": "#LatinXChem23\n LatinXChem Twitter Poster Conference",
+        "title": "LatinXChem Twitter Poster Conference",
         "url": "https://www.latinxchem.org/",
         "start_date": "16 Oct 2023",
         "end_date": "17 Oct 2023",
@@ -3260,7 +2903,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "latinxchem23\nlatinxc16Oct2023_0"
+        "uid": "latinxchemtwitterpos16Oct2023_0"
     },
     {
         "themes": [
@@ -3460,6 +3103,28 @@
         "non_member_fee": "€200",
         "max_fee": "€200",
         "uid": "beilsteinnanotechnol17Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Data, Digitalization, & AI",
+        "url": "https://www.soci.org/events/ai-and-digitalisation/2023/data-digitalisation-and-ai--what-can-digital-do-for-me",
+        "start_date": "18 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "£75",
+        "max_fee": "£75",
+        "uid": "datadigitalizationai18Oct2023_0"
     },
     {
         "themes": [
@@ -4472,6 +4137,34 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "diversity",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Women in Catalysis & Synthetic Chemistry",
+        "url": "http://sites.google.com/utexas.edu/wcsc",
+        "start_date": "04 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Austin, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "womenincatalysissynt04Oct2023_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -4926,6 +4619,33 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Midwest Symposium on Oligonucleotide Therapeutics",
+        "url": "https://meetings.lilly.com/event/33f204be-1034-48a3-a06c-9bbce2e1dc9a/summary",
+        "start_date": "12 Nov 2023",
+        "end_date": "13 Nov 2023",
+        "locations": [
+            "Indianapolis, IN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IN"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "midwestsymposiumonol12Nov2023_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5080,7 +4800,7 @@
         "regions": [
             "Western USA"
         ],
-        "title": "Future Labs Automation & Technology West",
+        "title": "Future Labs, Automation & Technology West",
         "url": "https://www.amg-world.co.uk/future-labs-automation-technology-west/",
         "start_date": "14 Nov 2023",
         "end_date": null,
@@ -5327,6 +5047,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Paperless Lab Academy meeting USA",
+        "url": "https://www.paperlesslabacademy.com/usa/",
+        "start_date": "10 Oct 2023",
+        "end_date": "11 Oct 2023",
+        "locations": [
+            "Raleigh, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "$170",
+        "non_member_fee": "$170",
+        "max_fee": "$170",
+        "uid": "paperlesslabacademym10Oct2023_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5396,6 +5141,31 @@
         "non_member_fee": "£295–395",
         "max_fee": "£395",
         "uid": "pharmaintegrates16Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Rising Stars in Measurement Sciences (US only)",
+        "url": "https://www.linkedin.com/posts/lee-robison_analytical-rd-in-partnership-with-merck-activity-7106033904456716288-dajO/",
+        "start_date": "16 Nov 2023",
+        "end_date": "17 Nov 2023",
+        "locations": [
+            "Rahway, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "risingstarsinmeasure16Nov2023_0"
     },
     {
         "themes": [
@@ -5608,6 +5378,29 @@
     {
         "themes": [
             "analytical",
+            "law/policy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Regulating the Future of Food",
+        "url": "https://www.atovaconsulting.com/regulatingthefutureoffood",
+        "start_date": "23 Nov 2023",
+        "end_date": "24 Nov 2023",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€600",
+        "non_member_fee": "€600",
+        "max_fee": "€600",
+        "uid": "regulatingthefutureo23Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "catalysis",
             "physical/phys org"
         ],
@@ -5651,6 +5444,30 @@
         "non_member_fee": "£120",
         "max_fee": "£120",
         "uid": "automatedsynthesisfo27Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Italian Flow Chemistry Symposium IFCS",
+        "url": "http://ifcs.chimfarm.unipg.it/",
+        "start_date": "27 Nov 2023",
+        "end_date": "28 Nov 2023",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€100–150",
+        "non_member_fee": "€180–230",
+        "max_fee": "€230",
+        "uid": "italianflowchemistry27Nov2023_0"
     },
     {
         "themes": [
