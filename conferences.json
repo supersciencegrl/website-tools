@@ -1,148 +1,6 @@
 [
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Nanomaterials: Applications & properties",
-        "url": "https://ieeenap.org/",
-        "start_date": "10 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Bratislava, Slovakia"
-        ],
-        "countries": [
-            "Slovakia"
-        ],
-        "member_fee": "€320 / $320",
-        "non_member_fee": "€400 / $400",
-        "max_fee": "€400",
-        "uid": "nanomaterialsapplica10Sep2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "careers",
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "GSK Residential Chemistry Training Experience (undergraduates)",
-        "url": "https://www.linkedin.com/posts/harry-kelly-a98bb41_rcte-flyer-and-application-form-activity-7024394288239124480-VEIh/",
-        "start_date": "10 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "gskresidentialchemis10Sep2023_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EUROPIN Summer School on Drug Design",
-        "url": "https://pharminfo.univie.ac.at/summerschool/2023/",
-        "start_date": "10 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "€350–500",
-        "non_member_fee": "€400–550",
-        "max_fee": "€550",
-        "uid": "europinsummerschoolo10Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "2nd Intl Conference on Nanotechnologies & Bionanoscience NanoBio 2023",
-        "url": "https://nanobioconf.com/",
-        "start_date": "11 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Heraklion, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "€250–400",
-        "non_member_fee": "€250–400",
-        "max_fee": "€400",
-        "uid": "2ndintlconferenceonn11Sep2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "25th Intl Conference on Horizons in Hydrogen Bond Research",
-        "url": "https://eventi.unibo.it/hbond2023bologna",
-        "start_date": "11 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€500",
-        "non_member_fee": "€500",
-        "max_fee": "€500",
-        "uid": "25thintlconferenceon11Sep2023_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "PharmCamp 2023 (competition)",
-        "url": "https://www.pharmacamp.ch/",
-        "start_date": "13 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Bern, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "pharmcamp2023competi13Sep2023_0"
-    },
-    {
-        "themes": [
             "analytical",
             "environment/fuels",
             "physical/phys org"
@@ -167,121 +25,6 @@
     },
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Science Apprentice Conference: From apprenticeship to impact",
-        "url": "https://www.eventbrite.co.uk/e/the-science-apprentice-conference-from-apprenticeship-to-impact-tickets-633882709247",
-        "start_date": "15 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "scienceapprenticecon15Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "RNA Therapeutics & Delivery Europe",
-        "url": "https://www.oxfordglobal.co.uk/rna-therapeutics-europe/",
-        "start_date": "14 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rnatherapeuticsdeliv14Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Oligonucleotide Chemistry & Therapeutics Europe",
-        "url": "https://www.oxfordglobal.co.uk/oligonucleotides/",
-        "start_date": "14 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "oligonucleotidechemi14Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "SLAS Microscale innovation in life sciences symposium",
-        "url": "https://www.slas.org/events-calendar/slas-2023-microscale-innovation-in-life-sciences-symposium/",
-        "start_date": "14 Sep 2023",
-        "end_date": "15 Sep 2023",
-        "locations": [
-            "La Jolla, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$550–850",
-        "non_member_fee": "$700–950",
-        "max_fee": "$950",
-        "uid": "slasmicroscaleinnova14Sep2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -302,51 +45,6 @@
         "non_member_fee": "PLN750",
         "max_fee": "PLN750",
         "uid": "10thmedicinalchemist14Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ELRIG Advancements in Cell & Gene Therapy: New therapeutic horizons",
-        "url": "https://www.elrig.org/portfolio/advancements-in-cell-gene-therapy-new-therapeutic-horizons/",
-        "start_date": "15 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "elrigadvancementsinc15Sep2023_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Open House",
-        "url": "https://www.rsc.org/events/detail/77174/open-house-london-2023",
-        "start_date": "16 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscopenhouse16Sep2023_0"
     },
     {
         "themes": [
@@ -392,6 +90,28 @@
         "non_member_fee": "$215",
         "max_fee": "$215",
         "uid": "rockymountainregiona15Sep2023_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Open House",
+        "url": "https://www.rsc.org/events/detail/77174/open-house-london-2023",
+        "start_date": "16 Sep 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscopenhouse16Sep2023_0"
     },
     {
         "themes": [
@@ -3077,6 +2797,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "biovialiveusergroupm17Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Dotmatics Summit",
+        "url": "https://www.dotmatics.com/events/summit-uk",
+        "start_date": "17 Oct 2023",
+        "end_date": "18 Oct 2023",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "dotmaticssummit17Oct2023_0"
     },
     {
         "themes": [
