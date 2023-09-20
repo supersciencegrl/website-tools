@@ -1,120 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Electro- & Liquid Phase-Separation Techniques ITP 2023",
-        "url": "https://itp2023.com/",
-        "start_date": "13 Sep 2023",
-        "end_date": "17 Sep 2023",
-        "locations": [
-            "Rome, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€600",
-        "non_member_fee": "€600",
-        "max_fee": "€600",
-        "uid": "intlsymposiumonelect13Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "10th Medicinal Chemistry Seminar",
-        "url": "http://www.ptchm.pl/",
-        "start_date": "14 Sep 2023",
-        "end_date": "16 Sep 2023",
-        "locations": [
-            "Lublin, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "PLN750",
-        "non_member_fee": "PLN750",
-        "max_fee": "PLN750",
-        "uid": "10thmedicinalchemist14Sep2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Rocky Mountain Regional Meeting RMRM 2023",
-        "url": "https://web.cvent.com/event/bdb7952c-dd7b-4a28-8123-66b10db888fd/summary",
-        "start_date": "15 Sep 2023",
-        "end_date": "17 Sep 2023",
-        "locations": [
-            "Laramie, WY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WY"
-        ],
-        "member_fee": "$0–215",
-        "non_member_fee": "$215",
-        "max_fee": "$215",
-        "uid": "rockymountainregiona15Sep2023_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Open House",
-        "url": "https://www.rsc.org/events/detail/77174/open-house-london-2023",
-        "start_date": "16 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscopenhouse16Sep2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -275,59 +161,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Merck HBCU Day (virtual; US-focussed)",
-        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
-        "start_date": "18 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "merckhbcudayvirtualu18Sep2023_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Good Distribution Practice (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/gdp",
-        "start_date": "18 Sep 2023",
-        "end_date": "19 Sep 2023",
-        "locations": [
-            "Bonn, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,895–1,995",
-        "non_member_fee": "€1,895–1,995",
-        "max_fee": "€1,995",
-        "uid": "gooddistributionprac18Sep2023_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "physical/phys org"
@@ -448,59 +281,6 @@
         "non_member_fee": "€370",
         "max_fee": "€370",
         "uid": "germancanadianmateri18Sep2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC Heterocyclic & Synthesis Group Postgraduate Symposium",
-        "url": "https://www.rsc.org/events/detail/76989/37th-postgraduate-symposium-heterocyclic-and-synthesis-group",
-        "start_date": "19 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Saffron Walden, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£20–35",
-        "non_member_fee": "£20–35",
-        "max_fee": "£35",
-        "uid": "rscheterocyclicsynth19Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Merck HBCU Day (Elkton)",
-        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
-        "start_date": "19 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Elkton, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "merckhbcudayelkton19Sep2023_0"
     },
     {
         "themes": [
@@ -3687,6 +3467,29 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Biological Making Workshop",
+        "url": "https://www.eventbrite.co.uk/e/biological-making-workshop-2023-registration-679989435707",
+        "start_date": "30 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biologicalmakingwork30Oct2023_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -5720,6 +5523,32 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "advancedmethodsinmol11Dec2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Intl Society for Pharmaceutical Engineering ISPE Pharma 4.0 & Annex 1",
+        "url": "https://www.emedevents.com/medical-hybrid-events-2023/2023-international-society-for-pharmaceutical-engineering-ispe-pharma-4-0-and-annex-1-conference",
+        "start_date": "11 Dec 2023",
+        "end_date": "12 Dec 2023",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "$1,095–2,675",
+        "non_member_fee": "$1,095–2,675",
+        "max_fee": "$2,675",
+        "uid": "intlsocietyforpharma11Dec2023_0"
     },
     {
         "themes": [
