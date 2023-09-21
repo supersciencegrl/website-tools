@@ -2,75 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "XXVIII Italian National Meeting on Medicinal Chemistry NMMC",
-        "url": "https://www.nmmc-dcf.com/",
-        "start_date": "17 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Pescara, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€250–570",
-        "non_member_fee": "€250–670",
-        "max_fee": "€670",
-        "uid": "xxviiiitaliannationa17Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "13th Intl Conference on Instrumental Methods of Analysis IMA-2023",
-        "url": "http://aclab.web.auth.gr/ima2023/",
-        "start_date": "17 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Chania, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "€490",
-        "non_member_fee": "€490",
-        "max_fee": "€490",
-        "uid": "13thintlconferenceon17Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "2nd Intl Symposium on Dyes & Pigments",
-        "url": "https://www.elsevier.com/events/conferences/international-symposium-on-dyes-and-pigments/",
-        "start_date": "17 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Sitges, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€550–650",
-        "non_member_fee": "€550–650",
-        "max_fee": "€650",
-        "uid": "2ndintlsymposiumondy17Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "process/engineering"
         ],
         "regions": [
@@ -161,81 +92,6 @@
     },
     {
         "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England",
-            "Online"
-        ],
-        "title": "Faraday Discussion: Rechargeable non-aqueous metal-oxygen batteries",
-        "url": "https://www.rsc.org/events/detail/42379/rechargeable-non-aqueous-metal-oxygen-batteries-faraday-discussion",
-        "start_date": "18 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "York, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£235–395",
-        "non_member_fee": "£295–495",
-        "max_fee": "£495",
-        "uid": "faradaydiscussionrec18Sep2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Machine learning for atomistic modelling (autumn school)",
-        "url": "https://www.psdi.ac.uk/event/machine-learning-autumn-school-2023/",
-        "start_date": "18 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Daresbury, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£100",
-        "non_member_fee": "£100",
-        "max_fee": "£100",
-        "uid": "machinelearningforat18Sep2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "NDFI4Chem: Python Computing 4 Chemists (& others) (training course)",
-        "url": "https://www.nfdi4chem.de/index.php/event/python-computing-4-chemists/",
-        "start_date": "18 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Aachen, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€10–25",
-        "non_member_fee": "€10–25",
-        "max_fee": "€25",
-        "uid": "ndfi4chempythoncompu18Sep2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -281,30 +137,6 @@
         "non_member_fee": "€370",
         "max_fee": "€370",
         "uid": "germancanadianmateri18Sep2023_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Protein Degradation & Targetting Undruggables Congress Europe",
-        "url": "https://kisacoresearch.com/events/pdtueu",
-        "start_date": "19 Sep 2023",
-        "end_date": "20 Sep 2023",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "€2,899",
-        "non_member_fee": "€2,899",
-        "max_fee": "€2,899",
-        "uid": "proteindegradationta19Sep2023_0"
     },
     {
         "themes": [
@@ -421,59 +253,6 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "ai4medchemsummerscho19Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Merck HBCU Day (West Point)",
-        "url": "https://www.linkedin.com/posts/leslie-morris-mba-a85abb7_atmerckiminspired-activity-7100483372824567808-pJMG/",
-        "start_date": "20 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "West Point, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "merckhbcudaywestpoin20Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Alderley Park Suppliers' Fair",
-        "url": "https://www.eventbrite.co.uk/e/alderley-park-suppliers-fair-autumn-2023-exhibitor-stand-tickets-666731761647?aff=oddtdtcreator",
-        "start_date": "20 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Alderley Park, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "alderleyparksupplier20Sep2023_0"
     },
     {
         "themes": [
@@ -4599,8 +4378,8 @@
         ],
         "title": "Paperless Lab Academy meeting USA",
         "url": "https://www.paperlesslabacademy.com/usa/",
-        "start_date": "10 Oct 2023",
-        "end_date": "11 Oct 2023",
+        "start_date": "15 Nov 2023",
+        "end_date": "16 Nov 2023",
         "locations": [
             "Raleigh, NC, USA"
         ],
@@ -4613,7 +4392,7 @@
         "member_fee": "$170",
         "non_member_fee": "$170",
         "max_fee": "$170",
-        "uid": "paperlesslabacademym10Oct2023_0"
+        "uid": "paperlesslabacademym15Nov2023_0"
     },
     {
         "themes": [
@@ -4757,6 +4536,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "lgbtqstemdaycommunit17Nov2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Ready, steady, scale: Enabling technologies and strategies for chemical manufacturing",
+        "url": "https://www.rsc.org/events/detail/77036/ready-steady-scale-enabling-technologies-and-strategies-for-chemical-manufacturing",
+        "start_date": "17 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "readysteadyscaleenab17Nov2023_0"
     },
     {
         "themes": [
