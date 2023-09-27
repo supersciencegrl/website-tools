@@ -1,34 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Capillary electrophoresis CE in the biotech & pharma industries: Practical applications for the analysis of proteins, nucleotides, & small molecules",
-        "url": "https://www.casss.org/ce-pharm",
-        "start_date": "24 Sep 2023",
-        "end_date": "27 Sep 2023",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "$915–2,770",
-        "non_member_fee": "$915–2,770",
-        "max_fee": "$2,770",
-        "uid": "capillaryelectrophor24Sep2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano"
         ],
         "regions": [
@@ -48,104 +20,6 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "spectroscopyelectron24Sep2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "A Celebration of Organic Chemistry 2023",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2023/a-celebration-of-organic-chemistry-2023",
-        "start_date": "25 Sep 2023",
-        "end_date": "26 Sep 2023",
-        "locations": [
-            "Macclesfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£150",
-        "non_member_fee": "£225",
-        "max_fee": "£225",
-        "uid": "acelebrationoforgani25Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Horizons symposium: Electronic & energy materials",
-        "url": "https://www.rsc.org/events/detail/76534/horizons-symposium-electronic-and-energy-materials",
-        "start_date": "25 Sep 2023",
-        "end_date": "26 Sep 2023",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "horizonssymposiumele25Sep2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Pharmacovigilance (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/pharmakovigilanz",
-        "start_date": "25 Sep 2023",
-        "end_date": "26 Sep 2023",
-        "locations": [
-            "Bonn, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,895–1,995",
-        "non_member_fee": "€1,895–1,995",
-        "max_fee": "€1,995",
-        "uid": "pharmacovigilanceger25Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/",
-        "start_date": "25 Sep 2023",
-        "end_date": "27 Sep 2023",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "€2,399",
-        "non_member_fee": "€2,399",
-        "max_fee": "€2,399",
-        "uid": "practicalmanagemento25Sep2023_0"
     },
     {
         "themes": [
@@ -266,99 +140,6 @@
     },
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Munich-Leiden Virtual ChemBio Talks",
-        "url": "https://events.bizzabo.com/485752/home",
-        "start_date": "26 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "munichleidenvirtualc26Sep2023_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Equality, Diversity & Inclusion in Science & Health EDIS Symposium",
-        "url": "https://edisgroup.org/symposium--2023/ target=",
-        "start_date": "26 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "equalitydiversityinc26Sep2023_0"
-    },
-    {
-        "themes": [
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Quality Control chemistry crash course",
-        "url": "https://www.rssl.com/training-consultancy/training/course/qc-chemistry-crash-course/QCCHEMEztg",
-        "start_date": "26 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£560",
-        "non_member_fee": "£560",
-        "max_fee": "£560",
-        "uid": "qualitycontrolchemis26Sep2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab of the Future Europe",
-        "url": "https://www.lab-of-the-future.com/europe/",
-        "start_date": "26 Sep 2023",
-        "end_date": "27 Sep 2023",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€599–899",
-        "non_member_fee": "€599–899",
-        "max_fee": "€899",
-        "uid": "labofthefutureeurope26Sep2023_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "formulation/particle science"
         ],
@@ -455,77 +236,6 @@
         "non_member_fee": "£1,399",
         "max_fee": "£1,399",
         "uid": "appliedmixingtechnol26Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Life Sciences Imaging Mega Webinar",
-        "url": "https://www.20visioneers15.com/imaging",
-        "start_date": "27 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "lifesciencesimagingm27Sep2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Immersive Technology Oil & Gas",
-        "url": "https://www.oilandgasautomationandtechnology.com/immersive-technologies-in-oil-gas-in-person/",
-        "start_date": "27 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Houston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "$595",
-        "non_member_fee": "$595",
-        "max_fee": "$595",
-        "uid": "immersivetechnologyo27Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "ELRIG Early Career Networking event: How will AI, Big Data, & Bioinformatics Impact my Career?",
-        "url": "https://elrig.eventsair.com/elrig-early-career-professional-networking-event-enabling-the-future-of-drug-discovery",
-        "start_date": "27 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "elrigearlycareernetw27Sep2023_0"
     },
     {
         "themes": [
@@ -1965,7 +1675,9 @@
     },
     {
         "themes": [
+            "automation",
             "chem bio",
+            "computational/data",
             "med chem",
             "pharma industry"
         ],
