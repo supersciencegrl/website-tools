@@ -1181,6 +1181,31 @@
             "computational/data"
         ],
         "regions": [
+            "Eastern USA"
+        ],
+        "title": "Dotmatics Summit",
+        "url": "https://www.dotmatics.com/events/summit-boston",
+        "start_date": "11 Oct 2023",
+        "end_date": "12 Oct 2023",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "dotmaticssummit11Oct2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
             "Online"
         ],
         "title": "NFDI4Chem Ontologies4Chem (workshop)",
@@ -2471,6 +2496,33 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "TIDES Europe: Oligonucleotide & Peptide Therapeutics",
+        "url": "https://informaconnect.com/tides-europe/",
+        "start_date": "30 Oct 2023",
+        "end_date": "31 Oct 2023",
+        "locations": [
+            "Amsterdam, Netherlands",
+            "Online"
+        ],
+        "countries": [
+            "Netherlands",
+            "Online"
+        ],
+        "member_fee": "£1,549–3,299",
+        "non_member_fee": "£1,549–3,299",
+        "max_fee": "£3,299",
+        "uid": "tideseuropeoligonucl30Oct2023_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -2625,7 +2677,7 @@
         ],
         "title": "NFDI4Chem Editors4Chem",
         "url": "https://www.nfdi4chem.de/event/2nd-editors4chem-workshop/",
-        "start_date": "11 Oct 2023",
+        "start_date": "02 Nov 2023",
         "end_date": null,
         "locations": [
             "Online"
@@ -2636,7 +2688,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "nfdi4chemeditors4che11Oct2023_0"
+        "uid": "nfdi4chemeditors4che02Nov2023_0"
     },
     {
         "themes": [
@@ -3762,6 +3814,28 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "readysteadyscaleenab17Nov2023_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Dotmatics Summit",
+        "url": "https://www.dotmatics.com/events/summit-seoul",
+        "start_date": "17 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Seou, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "dotmaticssummit17Nov2023_0"
     },
     {
         "themes": [
