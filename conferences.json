@@ -23,58 +23,6 @@
     },
     {
         "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "12th Intl Conference on Microwave Materials & their Appplications",
-        "url": "https://converia.uni-mainz.de/frontend/index.php?folder_id=786&page_id=",
-        "start_date": "25 Sep 2023",
-        "end_date": "28 Sep 2023",
-        "locations": [
-            "Mainz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "12thintlconferenceon25Sep2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Discovery on Target",
-        "url": "https://www.discoveryontarget.com/#",
-        "start_date": "25 Sep 2023",
-        "end_date": "28 Sep 2023",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$1,799–2,999",
-        "non_member_fee": "$1,799–2,999",
-        "max_fee": "$2,999",
-        "uid": "discoveryontarget25Sep2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -140,82 +88,6 @@
     },
     {
         "themes": [
-            "environment/fuels",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress on Particle Technology PARTEC 2023",
-        "url": "https://www.partec.info/",
-        "start_date": "26 Sep 2023",
-        "end_date": "28 Sep 2023",
-        "locations": [
-            "Nuremberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€895",
-        "non_member_fee": "€895",
-        "max_fee": "€895",
-        "uid": "intlcongressonpartic26Sep2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Processing Trade Fair for Powder, Bulk Solids, Fluids, Liquids POWTECH",
-        "url": "https://www.powtech.de/en",
-        "start_date": "26 Sep 2023",
-        "end_date": "28 Sep 2023",
-        "locations": [
-            "Nuremberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€52–57",
-        "non_member_fee": "€52–57",
-        "max_fee": "€57",
-        "uid": "intlprocessingtradef26Sep2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "chem bio",
-            "computational/data",
-            "environment/fuels",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ILMAC 2023 conference & trade fair & Green Lab Symposium",
-        "url": "https://scg.ch/component/page/ilmac23",
-        "start_date": "26 Sep 2023",
-        "end_date": "28 Sep 2023",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "CHF0–55",
-        "max_fee": "CHF55",
-        "uid": "ilmac2023conferencet26Sep2023_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -258,59 +130,6 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "mdanalysisusergroupm27Sep2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "environment/fuels",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Lab Facilities Summit West",
-        "url": "https://www.amg-world.co.uk/lab-facilities-west/",
-        "start_date": "28 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$595–795",
-        "non_member_fee": "$595–795",
-        "max_fee": "$795",
-        "uid": "labfacilitiessummitw28Sep2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab Supply Dresden (trade fair)",
-        "url": "https://www.lab-supply.info/besuchen/dresden",
-        "start_date": "28 Sep 2023",
-        "end_date": null,
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labsupplydresdentrad28Sep2023_0"
     },
     {
         "themes": [
@@ -603,6 +422,33 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs Live USA",
+        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/index.stm",
+        "start_date": "04 Oct 2023",
+        "end_date": "05 Oct 2023",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "futurelabsliveusa04Oct2023_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -817,6 +663,32 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "rscsustainabilitysym06Oct2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "London",
+            "Online"
+        ],
+        "title": "4th Crick Intl Cancer Conference",
+        "url": "https://www.crick.ac.uk/whats-on/4th-crick-international-cancer-conference",
+        "start_date": "08 Oct 2023",
+        "end_date": "10 Oct 2023",
+        "locations": [
+            "London, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "£0–100",
+        "non_member_fee": "£0–100",
+        "max_fee": "£100",
+        "uid": "4thcrickintlcancerco08Oct2023_0"
     },
     {
         "themes": [
@@ -1268,6 +1140,34 @@
         "non_member_fee": "£610",
         "max_fee": "£610",
         "uid": "11thpaneuropeanscien11Oct2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "45th Annual Princeton ACS Fall Organic Chemistry Symposium",
+        "url": "http://www.pacsfocs.org/wordpress/",
+        "start_date": "12 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Piscataway, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "$125–150",
+        "non_member_fee": "$125–150",
+        "max_fee": "$150",
+        "uid": "45thannualprincetona12Oct2023_0"
     },
     {
         "themes": [
@@ -1745,6 +1645,28 @@
         "non_member_fee": "€2,295",
         "max_fee": "€2,295",
         "uid": "pharmageddon202318Oct2023_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Biomolecular Corona Virtual Symposium 2023",
+        "url": "https://pharmacy.ku.dk/calender/events-2023/biomolecular-corona-online-symposium/",
+        "start_date": "18 Oct 2023",
+        "end_date": "19 Oct 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biomolecularcoronavi18Oct2023_0"
     },
     {
         "themes": [
@@ -2473,6 +2395,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Organic Chemistry Symposium 2023",
+        "url": "https://lp.thieme.in/iisc-ocs23",
+        "start_date": "28 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Bangalore, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "organicchemistrysymp28Oct2023_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -2712,6 +2658,35 @@
         "non_member_fee": "£780",
         "max_fee": "£780",
         "uid": "environmentalmonitor02Nov2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Bay Area Chemistry Symposium BACS",
+        "url": "https://www.bayareachemistrysymposium.com/",
+        "start_date": "03 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "bayareachemistrysymp03Nov2023_0"
     },
     {
         "themes": [
@@ -3007,6 +2982,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "labmanagerqualitycom07Nov2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Accelerating pharma's new era of efficiency & sustainability: Catalysis & Biocatalysis",
+        "url": "https://events.healthcare.evonik.com/en",
+        "start_date": "07 Nov 2023",
+        "end_date": "08 Nov 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "acceleratingpharmasn07Nov2023_0"
     },
     {
         "themes": [
@@ -4940,6 +4939,29 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Winter School on Physical Organic Chemistry E-WISPOC 24",
+        "url": "https://www.ewispoc.com/",
+        "start_date": "04 Feb 2024",
+        "end_date": "09 Feb 2024",
+        "locations": [
+            "Bressanone, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€100–390",
+        "non_member_fee": "€100–390",
+        "max_fee": "€390",
+        "uid": "europeanwinterschool04Feb2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -4960,6 +4982,59 @@
         "non_member_fee": "£499",
         "max_fee": "£499",
         "uid": "workupproductisolati05Feb2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Society of Chemical Industry SCI: Big Data & Artificial Intelligence",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2024/big-data-iii-and-artificial-intelligence",
+        "start_date": "06 Feb 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£70",
+        "non_member_fee": "£145",
+        "max_fee": "£145",
+        "uid": "societyofchemicalind06Feb2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "catalysis",
+            "diversity",
+            "materials/polymers",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "HBCU Day @ Lilly (US HBCU students)",
+        "url": "https://careers.lilly.com/us/en/leadpage?formId=c4k8a4o07gscjchnrnm7svv4e1&eventScheduleId=649c6d0a1af45d1092fe4f75",
+        "start_date": "15 Feb 2024",
+        "end_date": "16 Feb 2024",
+        "locations": [
+            "Indianapolis, IN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IN"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "hbcudaylillyushbcust15Feb2024_0"
     },
     {
         "themes": [
