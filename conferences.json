@@ -1,149 +1,6 @@
 [
     {
         "themes": [
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Sygnature Discovery Medicinal Chemistry Workshop (final year PhD's & postdocs)",
-        "url": "https://info.sygnaturediscovery.com/interactive-workshops-june23",
-        "start_date": "01 Oct 2023",
-        "end_date": "02 Oct 2023",
-        "locations": [
-            "Alderley Edge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "sygnaturediscoveryme01Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Faculty Diversity Program",
-        "url": "https://www.inclusive.vt.edu/Programs/FDP.html",
-        "start_date": "01 Oct 2023",
-        "end_date": "04 Oct 2023",
-        "locations": [
-            "Blacksburg, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "futurefacultydiversi01Oct2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "XXI Brazilian Materials Research Society B-MRS Meeting",
-        "url": "https://www.sbpmat.org.br/21encontro/#",
-        "start_date": "01 Oct 2023",
-        "end_date": "05 Oct 2023",
-        "locations": [
-            "Maceio, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "member_fee": "BRL700 / $400",
-        "non_member_fee": "BRL1,100 / $400",
-        "max_fee": "$400",
-        "uid": "xxibrazilianmaterial01Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "GSK Synthetic Organic Chemistry Postgraduate Symposium",
-        "url": "https://www.linkedin.com/posts/harry-kelly-a98bb41_promotional-flyer-abstract-instructions-activity-7036376074494078976-7Ct6/",
-        "start_date": "02 Oct 2023",
-        "end_date": "03 Oct 2023",
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "gsksyntheticorganicc02Oct2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Scientific Update: OPRD 2023",
-        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/20230313/",
-        "start_date": "02 Oct 2023",
-        "end_date": "04 Oct 2023",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€1,799",
-        "non_member_fee": "€1,799",
-        "max_fee": "€1,799",
-        "uid": "scientificupdateoprd02Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "IGNITE Future Faculty Development Program",
-        "url": "https://www.wm.edu/offices/diversity/ignite/index.php",
-        "start_date": "02 Oct 2023",
-        "end_date": "04 Oct 2023",
-        "locations": [
-            "Williamsburg, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "ignitefuturefacultyd02Oct2023_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels",
             "physical/phys org"
@@ -171,102 +28,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Zontal User Group Meeting",
-        "url": "https://info.zontal.io/ugm1",
-        "start_date": "03 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "zontalusergroupmeeti03Oct2023_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "PhysChem Forum: Challenges & Future Directions of Preclinical Characterization in ADMET & DMPK",
-        "url": "http://www.physchem.org.uk/",
-        "start_date": "03 Oct 2023",
-        "end_date": "04 Oct 2023",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "physchemforumchallen03Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "What Drug Hunters need to know about Computational Chemistry",
-        "url": "https://www.soci.org/events/young-chemists-panel/2023/what-drug-hunters-need-to-know-about-computational-chemistry",
-        "start_date": "03 Oct 2023",
-        "end_date": "04 Oct 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£125",
-        "non_member_fee": "£200",
-        "max_fee": "£200",
-        "uid": "whatdrughuntersneedt03Oct2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Biopharma Sustainability Roundtable Annual Meeting & Investor Day",
-        "url": "https://biopharmasustainability.com/",
-        "start_date": "03 Oct 2023",
-        "end_date": "05 Oct 2023",
-        "locations": [
-            "Jersey City, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "biopharmasustainabil03Oct2023_0"
-    },
-    {
-        "themes": [
             "analytical",
             "formulation/particle science"
         ],
@@ -287,124 +48,6 @@
         "non_member_fee": "€990",
         "max_fee": "€990",
         "uid": "13thwartburgsymposiu03Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "ChemBioChem/EFMC Joint Virtual Symposium",
-        "url": "https://wiley-events.zoom.us/webinar/register/WN_1Id1Y1PRS_y71l60n38EnQ#/registration",
-        "start_date": "04 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chembiochemefmcjoint04Oct2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs Live USA",
-        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/index.stm",
-        "start_date": "04 Oct 2023",
-        "end_date": "05 Oct 2023",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "futurelabsliveusa04Oct2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Commonwealth Chemistry Posters",
-        "url": "https://commonwealthchemistry.org/event/4th-commonwealth-chemistry-posters/",
-        "start_date": "04 Oct 2023",
-        "end_date": "05 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "commonwealthchemistr04Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Chemaxon User Group Meeting",
-        "url": "https://chemaxon.com/user-meeting-boston-2023",
-        "start_date": "04 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemaxonusergroupmee04Oct2023_0"
     },
     {
         "themes": [
@@ -478,30 +121,6 @@
         "non_member_fee": "€250–900",
         "max_fee": "€900",
         "uid": "seeingisbelievingima04Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "New Modalities Mega Webinar",
-        "url": "https://www.20visioneers15.com/webinars",
-        "start_date": "05 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "newmodalitiesmegaweb05Oct2023_0"
     },
     {
         "themes": [
@@ -1648,6 +1267,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Britest Early Career Researchers' Event 2023: Research supervision & technical management",
+        "url": "https://www.britest.co.uk/news/ecr_event_oct2023/",
+        "start_date": "19 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "Application",
+        "max_fee": "0",
+        "uid": "britestearlycareerre19Oct2023_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "med chem"
@@ -2591,7 +2232,7 @@
         ],
         "title": "Women in Catalysis & Synthetic Chemistry",
         "url": "http://sites.google.com/utexas.edu/wcsc",
-        "start_date": "04 Oct 2023",
+        "start_date": "04 Nov 2023",
         "end_date": null,
         "locations": [
             "Austin, TX, USA"
@@ -2605,7 +2246,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "womenincatalysissynt04Oct2023_0"
+        "uid": "womenincatalysissynt04Nov2023_0"
     },
     {
         "themes": [
@@ -5109,6 +4750,29 @@
         "non_member_fee": "€299–649",
         "max_fee": "€649",
         "uid": "pharmscienceresearch26Feb2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Future in Pharmaceuticals Ireland: Driven by sustainability",
+        "url": "https://futureinpharmaceuticals.com/",
+        "start_date": "27 Feb 2024",
+        "end_date": null,
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "€95",
+        "non_member_fee": "€95",
+        "max_fee": "€95",
+        "uid": "futureinpharmaceutic27Feb2024_0"
     },
     {
         "themes": [
