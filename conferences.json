@@ -1,379 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "American Association for Aerosol Research AAAR Annual Conference",
-        "url": "https://www.aaar.org/2023/",
-        "start_date": "02 Oct 2023",
-        "end_date": "06 Oct 2023",
-        "locations": [
-            "Portland, OR, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OR"
-        ],
-        "member_fee": "$53–114",
-        "non_member_fee": "$53–114",
-        "max_fee": "$114",
-        "uid": "americanassociationf02Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "13th Wartburg Symposium on Flavour Chemistry & Biology",
-        "url": "https://www.wartburg-symposium.de/",
-        "start_date": "03 Oct 2023",
-        "end_date": "06 Oct 2023",
-        "locations": [
-            "Wartburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€990",
-        "non_member_fee": "€990",
-        "max_fee": "€990",
-        "uid": "13thwartburgsymposiu03Oct2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BioTechX",
-        "url": "https://www.terrapinn.com/conference/biotechx/index.stm",
-        "start_date": "04 Oct 2023",
-        "end_date": "06 Oct 2023",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "€95",
-        "non_member_fee": "€95",
-        "max_fee": "€95",
-        "uid": "biotechx04Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Conference on Light Induced Transformations LIT 2023",
-        "url": "https://crc325.de/news/lit-conference-2023",
-        "start_date": "04 Oct 2023",
-        "end_date": "06 Oct 2023",
-        "locations": [
-            "Regensburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€50",
-        "non_member_fee": "€50",
-        "max_fee": "€50",
-        "uid": "conferenceonlightind04Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Seeing is believing: Imaging the molecular processes of life",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees23-09/",
-        "start_date": "04 Oct 2023",
-        "end_date": "07 Oct 2023",
-        "locations": [
-            "Heidelberg, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€250–900",
-        "non_member_fee": "€250–900",
-        "max_fee": "€900",
-        "uid": "seeingisbelievingima04Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pharma Crystallization Summit",
-        "url": "https://crystallizationsummit.com/",
-        "start_date": "05 Oct 2023",
-        "end_date": "06 Oct 2023",
-        "locations": [
-            "Newark, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "pharmacrystallizatio05Oct2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Sustainability Symposium 2023",
-        "url": "https://rsc.li/RSCSus-symposium",
-        "start_date": "06 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rscsustainabilitysym06Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "4th Crick Intl Cancer Conference",
-        "url": "https://www.crick.ac.uk/whats-on/4th-crick-international-cancer-conference",
-        "start_date": "08 Oct 2023",
-        "end_date": "10 Oct 2023",
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£0–100",
-        "non_member_fee": "£0–100",
-        "max_fee": "£100",
-        "uid": "4thcrickintlcancerco08Oct2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Emerging Concepts & Design for Sustainability",
-        "url": "https://ecds2023.sciencesconf.org/",
-        "start_date": "08 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Villers-sur-Mer, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "emergingconceptsdesi08Oct2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "European Foundation for Clinical Nanomedicines Meeting CLINAM",
-        "url": "https://clinam.org/",
-        "start_date": "08 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Basel, Switzerland",
-            "Online"
-        ],
-        "countries": [
-            "Switzerland",
-            "Online"
-        ],
-        "member_fee": "€360–1,000",
-        "non_member_fee": "€360–1,000",
-        "max_fee": "€1,000",
-        "uid": "europeanfoundationfo08Oct2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Fires & Explosions in the Process Industry FEx23",
-        "url": "https://www.aidic.it/fex23/",
-        "start_date": "08 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€750",
-        "non_member_fee": "€750",
-        "max_fee": "€750",
-        "uid": "intlconferenceonfire08Oct2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "244th Electrochemical Society Meeting",
-        "url": "https://www.electrochem.org/244",
-        "start_date": "08 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "$0–585",
-        "non_member_fee": "$565–815",
-        "max_fee": "$815",
-        "uid": "244thelectrochemical08Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Clinical Research (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/klinische-forschung",
-        "start_date": "09 Oct 2023",
-        "end_date": "10 Oct 2023",
-        "locations": [
-            "Bonn, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,895–1,995",
-        "non_member_fee": "€1,895–1,995",
-        "max_fee": "€1,995",
-        "uid": "clinicalresearchgerm09Oct2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Green Chemistry – Towards More Sustainable Synthesis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/green-chemistry-towards-more-sustainable-synthesis/",
-        "start_date": "09 Oct 2023",
-        "end_date": "10 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£549",
-        "non_member_fee": "£549",
-        "max_fee": "£549",
-        "uid": "greenchemistry–towar09Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Pharmacokinetics in Drug Discovery (training course)",
-        "url": "https://www.dmdg.org/events/20231009/Default.asp",
-        "start_date": "09 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,100",
-        "non_member_fee": "£1,100",
-        "max_fee": "£1,100",
-        "uid": "pharmacokineticsindr09Oct2023_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -394,216 +21,6 @@
         "non_member_fee": "£1,449",
         "max_fee": "£1,449",
         "uid": "chemicalprocesssafet09Oct2023_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "MedChem Campus 2023",
-        "url": "https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=11561&modus=",
-        "start_date": "10 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Tübingen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "medchemcampus202310Oct2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "2023 Biopharma Roundtable (Mettler Toledo)",
-        "url": "",
-        "start_date": "10 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "2023biopharmaroundta10Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "BIOVIA Live! User group meeting",
-        "url": "https://events.3ds.com/biovia-live-2023",
-        "start_date": "10 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Waltham, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biovialiveusergroupm10Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Paperless Lab Academy meeting India",
-        "url": "https://www.paperlesslabacademy.com/india/",
-        "start_date": "10 Oct 2023",
-        "end_date": "11 Oct 2023",
-        "locations": [
-            "Hyderabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "INR17,505",
-        "non_member_fee": "INR17,505",
-        "max_fee": "INR17,505",
-        "uid": "paperlesslabacademym10Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "3rd Food Chemistry Conference",
-        "url": "https://www.elsevier.com/events/conferences/food-chemistry-conference",
-        "start_date": "10 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€675",
-        "non_member_fee": "€675",
-        "max_fee": "€675",
-        "uid": "3rdfoodchemistryconf10Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Reaxys User Day",
-        "url": "https://www.elsevier.com/events/conferences/global-reaxys-user-day",
-        "start_date": "11 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "reaxysuserday11Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Medicon Valley Inhalation Consortium MVIC Inhalation Symposium",
-        "url": "https://mvic.se/mvis-inhalation-symposium/",
-        "start_date": "11 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "€350",
-        "non_member_fee": "€350",
-        "max_fee": "€350",
-        "uid": "mediconvalleyinhalat11Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Dotmatics Summit",
-        "url": "https://www.dotmatics.com/events/summit-boston",
-        "start_date": "11 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "dotmaticssummit11Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "NFDI4Chem Ontologies4Chem (workshop)",
-        "url": "https://www.nfdi4chem.de/event/2-workshop-ontologies4chem/",
-        "start_date": "11 Oct 2023",
-        "end_date": "12 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "nfdi4chemontologies411Oct2023_0"
     },
     {
         "themes": [
@@ -650,34 +67,6 @@
         "non_member_fee": "£610",
         "max_fee": "£610",
         "uid": "11thpaneuropeanscien11Oct2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "45th Annual Princeton ACS Fall Organic Chemistry Symposium",
-        "url": "http://www.pacsfocs.org/wordpress/",
-        "start_date": "12 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Piscataway, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "$125–150",
-        "non_member_fee": "$125–150",
-        "max_fee": "$150",
-        "uid": "45thannualprincetona12Oct2023_0"
     },
     {
         "themes": [
@@ -1015,28 +404,6 @@
         "non_member_fee": "€200",
         "max_fee": "€200",
         "uid": "beilsteinnanotechnol17Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Data, Digitalization, & AI",
-        "url": "https://www.soci.org/events/ai-and-digitalisation/2023/data-digitalisation-and-ai--what-can-digital-do-for-me",
-        "start_date": "18 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "£75",
-        "max_fee": "£75",
-        "uid": "datadigitalizationai18Oct2023_0"
     },
     {
         "themes": [
@@ -3031,6 +2398,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "business",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "4th Annual biotech startup symposium",
+        "url": "https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4294715&sessionid=1&key=2764489B02515C296E6F0545AA79CF02&groupId=4868479",
+        "start_date": "14 Nov 2023",
+        "end_date": "15 Nov 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "4thannualbiotechstar14Nov2023_0"
+    },
+    {
+        "themes": [
             "business",
             "catalysis",
             "environment/fuels",
@@ -3128,6 +2521,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "chemistinindustry15Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Crystallography Group Autumn Meeting 2023",
+        "url": "https://www.eventbrite.com/e/chemical-crystallography-group-autumn-meeting-2023-tickets-733461712727",
+        "start_date": "15 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£10",
+        "non_member_fee": "£10",
+        "max_fee": "£10",
+        "uid": "chemicalcrystallogra15Nov2023_0"
     },
     {
         "themes": [
@@ -3250,6 +2666,31 @@
         "non_member_fee": "£295–395",
         "max_fee": "£395",
         "uid": "pharmaintegrates16Nov2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ChemAI",
+        "url": "https://www.acnetwork.nl/chemai",
+        "start_date": "14 Nov 2023",
+        "end_date": "15 Nov 2023",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "£100",
+        "non_member_fee": "£100",
+        "max_fee": "£100",
+        "uid": "chemai14Nov2023_0"
     },
     {
         "themes": [
@@ -3580,6 +3021,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Highlighting Organic Chemistry in the UK",
+        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-the-united-kingdom-tickets-737066414487",
+        "start_date": "24 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "highlightingorganicc24Nov2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "catalysis",
             "physical/phys org"
@@ -3660,8 +3126,8 @@
         ],
         "title": "Advanced Plastics Recycling",
         "url": "https://bcf-events.com/single-conference/5th-annual-advanced-plastics-recycling-conference",
-        "start_date": "16 Nov 2023",
-        "end_date": "17 Nov 2023",
+        "start_date": "27 Nov 2023",
+        "end_date": "28 Nov 2023",
         "locations": [
             "Berlin, Germany",
             "Online"
@@ -3673,7 +3139,7 @@
         "member_fee": "Unkn",
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
-        "uid": "advancedplasticsrecy16Nov2023_0"
+        "uid": "advancedplasticsrecy27Nov2023_0"
     },
     {
         "themes": [
@@ -4642,6 +4108,32 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Electronic Materials & Applications EMA 2024",
+        "url": "https://ceramics.org/event/ema-2024-basic-science-and-electronic-materials-meeting/",
+        "start_date": "13 Feb 2024",
+        "end_date": "16 Feb 2024",
+        "locations": [
+            "Denver, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "member_fee": "$550–795",
+        "non_member_fee": "$700–825",
+        "max_fee": "$825",
+        "uid": "electronicmaterialsa13Feb2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "catalysis",
@@ -4694,6 +4186,29 @@
         "non_member_fee": "£1,699",
         "max_fee": "£1,699",
         "uid": "safetyselectivityint20Feb2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SmartLab Exchange",
+        "url": "https://www.pharma-iq.com/events-smartlab-exchange-europe",
+        "start_date": "21 Feb 2024",
+        "end_date": "22 Feb 2024",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "smartlabexchange21Feb2024_0"
     },
     {
         "themes": [
