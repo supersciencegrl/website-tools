@@ -3294,6 +3294,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Oral delivery of peptides, oligonucleotides, &",
+        "url": "https://www.controlledreleasesociety.org/oral-delivery-peptides-oligonucleotides-and-proteins-virtual-symposium",
+        "start_date": "04 Dec 2023",
+        "end_date": "05 Dec 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "oraldeliveryofpeptid04Dec2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "pharma industry"
         ],
