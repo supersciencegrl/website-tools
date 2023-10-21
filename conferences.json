@@ -1,200 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
-        "start_date": "09 Oct 2023",
-        "end_date": "17 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,449",
-        "non_member_fee": "£1,449",
-        "max_fee": "£1,449",
-        "uid": "chemicalprocesssafet09Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on the Chemistry of Natural Products",
-        "url": "https://www.iscnp31-icob11.org/index.php",
-        "start_date": "15 Oct 2023",
-        "end_date": "18 Oct 2023",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€400–500",
-        "non_member_fee": "€400–550",
-        "max_fee": "€550",
-        "uid": "intlsymposiumonthech15Oct2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "40 Years of Surface Science and Nanotechnology",
-        "url": "https://40nano.empa.ch/",
-        "start_date": "15 Oct 2023",
-        "end_date": "20 Oct 2023",
-        "locations": [
-            "Ascona, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF500",
-        "non_member_fee": "CHF500",
-        "max_fee": "CHF500",
-        "uid": "40yearsofsurfacescie15Oct2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "LatinXChem Twitter Poster Conference",
-        "url": "https://www.latinxchem.org/",
-        "start_date": "16 Oct 2023",
-        "end_date": "17 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "latinxchemtwitterpos16Oct2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Partnership Opportunities in Drug Delivery PODD",
-        "url": "https://theconferenceforum.org/conferences/partners-in-drug-delivery/overview/",
-        "start_date": "16 Oct 2023",
-        "end_date": "17 Oct 2023",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$2,395",
-        "non_member_fee": "$2,395",
-        "max_fee": "$2,395",
-        "uid": "partnershipopportuni16Oct2023_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Quality Risk Management (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/quality-risk-management",
-        "start_date": "16 Oct 2023",
-        "end_date": "17 Oct 2023",
-        "locations": [
-            "Cologne, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,595–1,695",
-        "non_member_fee": "€1,595–1,695",
-        "max_fee": "€1,695",
-        "uid": "qualityriskmanagemen16Oct2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/",
-        "start_date": "16 Oct 2023",
-        "end_date": "18 Oct 2023",
-        "locations": [
-            "Denver, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "$3,099",
-        "non_member_fee": "$3,099",
-        "max_fee": "$3,099",
-        "uid": "chemicaldevelopments16Oct2023_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano",
             "pharma industry",
@@ -217,303 +23,6 @@
         "non_member_fee": "£1,449",
         "max_fee": "£1,449",
         "uid": "howtodeveloporganome16Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Exploring Chemical Space 2023",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2023/exploring-chemical-space-2023",
-        "start_date": "17 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£90",
-        "non_member_fee": "£120",
-        "max_fee": "£120",
-        "uid": "exploringchemicalspa17Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "From the brain to the bank: The journey of creating value from science",
-        "url": "https://www.soci.org/events/yorkshire-and-the-humber-group/2023/from-the-brain-to-the-bank-the-journey-of-creating-value-from-science",
-        "start_date": "17 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£70",
-        "non_member_fee": "£95",
-        "max_fee": "£95",
-        "uid": "fromthebraintotheban17Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "BIOVIA Live! User group meeting",
-        "url": "https://events.3ds.com/biovia-live-2023",
-        "start_date": "17 Oct 2023",
-        "end_date": "18 Oct 2023",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biovialiveusergroupm17Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Dotmatics Summit",
-        "url": "https://www.dotmatics.com/events/summit-uk",
-        "start_date": "17 Oct 2023",
-        "end_date": "18 Oct 2023",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "dotmaticssummit17Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Nanotechnology Symposium 2023",
-        "url": "https://www.beilstein-institut.de/en/symposia/nanocrystals/",
-        "start_date": "17 Oct 2023",
-        "end_date": "19 Oct 2023",
-        "locations": [
-            "Rüdesheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "beilsteinnanotechnol17Oct2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Radionuclide production in the UK",
-        "url": "https://www.rsc.org/events/detail/76382/radionuclide-production-in-the-uk",
-        "start_date": "18 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£100",
-        "non_member_fee": "£120",
-        "max_fee": "£120",
-        "uid": "radionuclideproducti18Oct2023_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "British X-ray crystallographers",
-        "url": "https://www.rsc.org/events/detail/76719/british-x-ray-crystallographers",
-        "start_date": "18 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "britishxraycrystallo18Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "MIBio: Stability of Biopharmaceuticals",
-        "url": "https://constableandsmith.com/events/mibio-2023",
-        "start_date": "18 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£210",
-        "non_member_fee": "£230",
-        "max_fee": "£230",
-        "uid": "mibiostabilityofbiop18Oct2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Drug Discovery 2023",
-        "url": "https://www.elrig.org/portfolio/drug-discovery-2023/",
-        "start_date": "18 Oct 2023",
-        "end_date": "19 Oct 2023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "drugdiscovery202318Oct2023_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Pharmageddon 2023",
-        "url": "https://www.impatient.health/our-events/pharmageddon1/",
-        "start_date": "18 Oct 2023",
-        "end_date": "19 Oct 2023",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€2,295",
-        "non_member_fee": "€2,295",
-        "max_fee": "€2,295",
-        "uid": "pharmageddon202318Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biomolecular Corona Virtual Symposium 2023",
-        "url": "https://pharmacy.ku.dk/calender/events-2023/biomolecular-corona-online-symposium/",
-        "start_date": "18 Oct 2023",
-        "end_date": "19 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biomolecularcoronavi18Oct2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Revvity Signals NEXUS North America",
-        "url": "https://revvitysignals.com/nexus-2023-landing-page",
-        "start_date": "18 Oct 2023",
-        "end_date": "19 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "revvitysignalsnexusn18Oct2023_0"
     },
     {
         "themes": [
@@ -559,74 +68,6 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "acsjointmidwestgreat18Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Britest Early Career Researchers' Event 2023: Research supervision & technical management",
-        "url": "https://www.britest.co.uk/news/ecr_event_oct2023/",
-        "start_date": "19 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "Application",
-        "max_fee": "0",
-        "uid": "britestearlycareerre19Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Peptide & Protein Science Group PPSG Early stage researcher meeting",
-        "url": "https://www.rsc.org/events/detail/77266/peptide-and-protein-science-group-ppsg-early-stage-researcher-meeting",
-        "start_date": "20 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£20",
-        "non_member_fee": "£20",
-        "max_fee": "£20",
-        "uid": "rscpeptideproteinsci20Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "1st British Society of Flavourists BSF Symposium on Coffee",
-        "url": "https://www.bsf.org.uk/diary/eventdetail/232/18%7C13%7C17/1st-bsf-symposium",
-        "start_date": "20 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Lipomo, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "£100 / €115",
-        "non_member_fee": "£150 / €175",
-        "max_fee": "£150",
-        "uid": "1stbritishsocietyoff20Oct2023_0"
     },
     {
         "themes": [
@@ -906,6 +347,30 @@
         "non_member_fee": "€49–399",
         "max_fee": "€399",
         "uid": "cphieuropetradefair24Oct2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ACROBiosystems Symposium: Empowering the research & drug development of biomedicine",
+        "url": "https://de.acrobiosystems.com/A2257-ACRO-Symposium.html",
+        "start_date": "25 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "acrobiosystemssympos25Oct2023_0"
     },
     {
         "themes": [
@@ -3870,6 +3335,32 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Intl Conference & Expo on Advanced Ceramics & Composites ICACC",
+        "url": "https://ceramics.org/event/48th-international-conference-and-expo-on-advanced-ceramics-and-composites-icacc2024/",
+        "start_date": "28 Jan 2024",
+        "end_date": "02 Feb 2024",
+        "locations": [
+            "Daytona Beach, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "$550–675",
+        "non_member_fee": "$700–825",
+        "max_fee": "$825",
+        "uid": "intlconferenceexpoon28Jan2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "process/engineering"
         ],
@@ -4362,6 +3853,51 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "#ConformationalDesign24\n RSC BMCS: Conformational design in drug discovery 2024",
+        "url": "https://www.rscbmcs.org/events/conformationaldesign24/",
+        "start_date": "07 Mar 2024",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£125",
+        "non_member_fee": "£175",
+        "max_fee": "£175",
+        "uid": "conformationaldesign07Mar2024_0"
+    },
+    {
+        "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "11th SCI-RSC UK National Retrosynthesis Competition",
+        "url": "https://www.soci.org/events/young-chemists-panel/2024/11th-scirsc-national-retrosynthesis-competition",
+        "start_date": "08 Mar 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "11thscirscuknational08Mar2024_0"
+    },
+    {
+        "themes": [
             "synthesis"
         ],
         "regions": [
@@ -4534,6 +4070,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "business",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Making Pharmaceuticals Italy (trade fair)",
+        "url": "https://www.makingpharma.it/",
+        "start_date": "26 Mar 2024",
+        "end_date": "27 Mar 2024",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "makingpharmaceutical26Mar2024_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -4652,6 +4214,32 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "SLAS Building Biology in 3D Symposium",
+        "url": "https://www.slas.org/events-calendar/slas-2024-building-biology-in-3d-symposium/",
+        "start_date": "16 Apr 2024",
+        "end_date": "17 Apr 2024",
+        "locations": [
+            "Jupiter, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "slasbuildingbiologyi16Apr2024_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data",
             "pharma industry"
@@ -4700,6 +4288,28 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Biotech Day",
+        "url": "https://swissbiotechday.ch/",
+        "start_date": "22 Apr 2024",
+        "end_date": "23 Apr 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "CHF500",
+        "non_member_fee": "CHF750",
+        "max_fee": "CHF750",
+        "uid": "swissbiotechday22Apr2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -4720,6 +4330,32 @@
         "non_member_fee": "£1,499",
         "max_fee": "£1,499",
         "uid": "designdevelopmentsca22Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Making Pharmaceuticals (trade fair)",
+        "url": "https://www.makingpharma.com/",
+        "start_date": "23 Apr 2024",
+        "end_date": "24 Apr 2024",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "makingpharmaceutical23Apr2024_0"
     },
     {
         "themes": [
@@ -4746,6 +4382,29 @@
         "non_member_fee": "$2,799",
         "max_fee": "$2,799",
         "uid": "secretsofbatchproces23Apr2024_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Functional molecular photoswitches for energy storage & beyond",
+        "url": "https://myevent.upc.edu/100367/detail/functional-molecular-photoswitches-for-energy-storage-and-beyond.html",
+        "start_date": "23 Apr 2024",
+        "end_date": "26 Apr 2024",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€450",
+        "non_member_fee": "€450",
+        "max_fee": "€450",
+        "uid": "functionalmolecularp23Apr2024_0"
     },
     {
         "themes": [
@@ -5004,6 +4663,32 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "10thintlconferenceon25Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Making Pharmaceuticals Ireland (trade fair)",
+        "url": "https://www.makingpharma.ie/",
+        "start_date": "11 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "makingpharmaceutical11Sep2024_0"
     },
     {
         "themes": [
