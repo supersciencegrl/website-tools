@@ -3482,6 +3482,28 @@
     },
     {
         "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Enabling Technologies for Chemical Synthesis (winter school)",
+        "url": "https://execed.fct.unl.pt/en/skills_building_prog/enabling-technologies-in-chemical-synthesis/",
+        "start_date": "04 Feb 2024",
+        "end_date": "13 Feb 2024",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "€3,000–3,500",
+        "non_member_fee": "€3,000–3,500",
+        "max_fee": "€3,500",
+        "uid": "enablingtechnologies04Feb2024_0"
+    },
+    {
+        "themes": [
             "physical/phys org",
             "synthesis"
         ],
