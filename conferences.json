@@ -4573,6 +4573,31 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England",
+            "Online"
+        ],
+        "title": "Ancient biomolecules of plants, animals, & microbes",
+        "url": "https://coursesandconferences.wellcomeconnectingscience.org/event/ancient-biomolecules-of-plants-animals-and-microbes-20240603/",
+        "start_date": "03 Jun 2024",
+        "end_date": "05 Jun 2024",
+        "locations": [
+            "Hinxton, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "£0–596",
+        "non_member_fee": "£0–596",
+        "max_fee": "£596",
+        "uid": "ancientbiomoleculeso03Jun2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
