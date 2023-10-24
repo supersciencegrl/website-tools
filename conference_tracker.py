@@ -219,6 +219,7 @@ def set_proxy():
         proxies = {'http': proxy_url,
                    'https': proxy_url
                    }
+        proxies = None
 
 def get_conferences() -> list[dict]:
     """
