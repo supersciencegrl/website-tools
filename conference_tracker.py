@@ -141,7 +141,7 @@ def conference_html_to_dict(conference):
     my_dict['regions'] = [decode_region(region) for region in regions]
 
     column1 = conference.find('td', class_='column1')
-    title = column1.text.strip()
+    title = column1.text.partition('\n')[2].strip() # Partition removes hashtags
     my_dict['title'] = title.rpartition('\t')[2] # Removes tooltips
     
     my_dict['url'] = column1.a.get('href')
