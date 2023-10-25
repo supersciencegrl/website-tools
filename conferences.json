@@ -1,101 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "How to Develop Organometallic Catalytic Reactions in API Synthesis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/how-to-develop-organometallic-catalytic-reactions-in-api-synthesis-short-course/",
-        "start_date": "16 Oct 2023",
-        "end_date": "24 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,449",
-        "non_member_fee": "£1,449",
-        "max_fee": "£1,449",
-        "uid": "howtodeveloporganome16Oct2023_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "ACS Joint Midwest & Great Lakes Regional Meeting",
-        "url": "https://mwrm2023.org//",
-        "start_date": "18 Oct 2023",
-        "end_date": "21 Oct 2023",
-        "locations": [
-            "St Louis, MO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MO"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "acsjointmidwestgreat18Oct2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Intl Symposium on Stimuli-Responsive Materials",
-        "url": "https://www.stimuliresponsivematerials.org/",
-        "start_date": "22 Oct 2023",
-        "end_date": "24 Oct 2023",
-        "locations": [
-            "Windsor, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$780",
-        "non_member_fee": "$780",
-        "max_fee": "$780",
-        "uid": "intlsymposiumonstimu22Oct2023_0"
-    },
-    {
-        "themes": [
             "analytical",
             "business",
             "careers",
@@ -152,60 +57,6 @@
     },
     {
         "themes": [
-            "law/policy",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "CLP Classification, Labelling, & Packaging (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/clp",
-        "start_date": "23 Oct 2023",
-        "end_date": "24 Oct 2023",
-        "locations": [
-            "Bonn, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,595–1,695",
-        "non_member_fee": "€1,595–1,695",
-        "max_fee": "€1,695",
-        "uid": "clpclassificationlab23Oct2023_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "REACH (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/reach",
-        "start_date": "23 Oct 2023",
-        "end_date": "24 Oct 2023",
-        "locations": [
-            "Bonn, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,895–1,995",
-        "non_member_fee": "€1,895–1,995",
-        "max_fee": "€1,995",
-        "uid": "reachgermanlanguage23Oct2023_0"
-    },
-    {
-        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -251,30 +102,6 @@
         "non_member_fee": "€749–799",
         "max_fee": "€799",
         "uid": "4thintlconferenceonm23Oct2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Data integrity, electronic records, & signatures (training course)",
-        "url": "https://www.rssl.com/training-consultancy/training/course/data-integrity-and-electronic-records-and-signatures/DATAINBBfp",
-        "start_date": "24 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£780",
-        "non_member_fee": "£780",
-        "max_fee": "£780",
-        "uid": "dataintegrityelectro24Oct2023_0"
     },
     {
         "themes": [
