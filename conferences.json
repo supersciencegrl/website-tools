@@ -1,134 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "business",
-            "careers",
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "AAPS PharmSci 360 annual meeting",
-        "url": "https://www.aaps.org/pharmsci/annual-meeting",
-        "start_date": "22 Oct 2023",
-        "end_date": "25 Oct 2023",
-        "locations": [
-            "Orlando, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "member_fee": "$515–950",
-        "non_member_fee": "$750–1,425",
-        "max_fee": "$1,425",
-        "uid": "aapspharmsci360annua22Oct2023_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Energy, Environment, & Digital Transition E2DT 2023",
-        "url": "https://www.aidic.it/e2dt2023/",
-        "start_date": "22 Oct 2023",
-        "end_date": "25 Oct 2023",
-        "locations": [
-            "Palermo, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€760",
-        "non_member_fee": "€760",
-        "max_fee": "€760",
-        "uid": "intlconferenceonener22Oct2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "4th Intl Conference on Advanced Polymer Science & Engineering",
-        "url": "https://polymersconference.yuktan.com/index.php",
-        "start_date": "23 Oct 2023",
-        "end_date": "25 Oct 2023",
-        "locations": [
-            "Valencia, Spain",
-            "Online"
-        ],
-        "countries": [
-            "Spain",
-            "Online"
-        ],
-        "member_fee": "€249–599",
-        "non_member_fee": "€249–599",
-        "max_fee": "€599",
-        "uid": "4thintlconferenceona23Oct2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "4th Intl Conference on Materials Science & Nanotechnology (in person)",
-        "url": "https://materialsconference.yuktan.com/",
-        "start_date": "23 Oct 2023",
-        "end_date": "25 Oct 2023",
-        "locations": [
-            "Valencia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€749–799",
-        "non_member_fee": "€749–799",
-        "max_fee": "€799",
-        "uid": "4thintlconferenceonm23Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Benchling Benchtalk Europe: Moving science forward, together",
-        "url": "https://benchtalk.benchling.com/emea",
-        "start_date": "24 Oct 2023",
-        "end_date": "25 Oct 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "benchlingbenchtalkeu24Oct2023_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -174,55 +46,6 @@
         "non_member_fee": "€49–399",
         "max_fee": "€399",
         "uid": "cphieuropetradefair24Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ACROBiosystems Symposium: Empowering the research & drug development of biomedicine",
-        "url": "https://de.acrobiosystems.com/A2257-ACRO-Symposium.html",
-        "start_date": "25 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "acrobiosystemssympos25Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab Supply Sindelfingen (trade fair)",
-        "url": "https://www.lab-supply.info/besuchen/sindelfingen",
-        "start_date": "25 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Sindelfingen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labsupplysindelfinge25Oct2023_0"
     },
     {
         "themes": [
@@ -2436,6 +2259,32 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Energy Sector Early Career Symposium",
+        "url": "https://www.rsc.org/events/detail/77349/7th-rsc-energy-sector-early-career-symposium",
+        "start_date": "29 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "Warrington, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscenergysectorearly29Nov2023_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "business",
@@ -2948,6 +2797,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Green carbon for the chemical industry of the future",
+        "url": "https://royalsociety.org/science-events-and-lectures/2023/12/green-carbon/",
+        "start_date": "11 Dec 2023",
+        "end_date": "12 Dec 2023",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "greencarbonfortheche11Dec2023_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -3045,6 +2918,30 @@
     {
         "themes": [
             "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "UK Catalysis Hub Winter Conference",
+        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-winter-conference-2023-tickets-726684060587",
+        "start_date": "18 Dec 2023",
+        "end_date": "19 Dec 2023",
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "ukcatalysishubwinter18Dec2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
             "synthesis"
         ],
         "regions": [
@@ -3067,6 +2964,31 @@
         "non_member_fee": "$2,500",
         "max_fee": "$2,500",
         "uid": "winterinpersonorgani18Dec2023_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "UK Catalysis Conference UKCC",
+        "url": "https://www.ukcatalysisconference.co.uk/",
+        "start_date": "03 Jan 2024",
+        "end_date": "05 Jan 2024",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£490",
+        "non_member_fee": "£490",
+        "max_fee": "£490",
+        "uid": "ukcatalysisconferenc03Jan2024_0"
     },
     {
         "themes": [
@@ -3708,7 +3630,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#ConformationalDesign24\n RSC BMCS: Conformational design in drug discovery 2024",
+        "title": "RSC BMCS: Conformational design in drug discovery 2024",
         "url": "https://www.rscbmcs.org/events/conformationaldesign24/",
         "start_date": "07 Mar 2024",
         "end_date": null,
@@ -3721,7 +3643,7 @@
         "member_fee": "£125",
         "non_member_fee": "£175",
         "max_fee": "£175",
-        "uid": "conformationaldesign07Mar2024_0"
+        "uid": "rscbmcsconformationa07Mar2024_0"
     },
     {
         "themes": [
@@ -3892,6 +3814,32 @@
         "non_member_fee": "$795",
         "max_fee": "$795",
         "uid": "labfacilitiessummit19Mar2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "Chem4Energy 2024",
+        "url": "https://eps.leeds.ac.uk/events-conferences/doc/chem4energy",
+        "start_date": "20 Mar 2024",
+        "end_date": "24 Mar 2024",
+        "locations": [
+            "Muldersdrift, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "member_fee": "£750",
+        "non_member_fee": "£750",
+        "max_fee": "£750",
+        "uid": "chem4energy202420Mar2024_0"
     },
     {
         "themes": [
@@ -4330,6 +4278,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Supr@Paris: 3rd French Supramolecular Chemistry Congress",
+        "url": "https://supraparis2024.sciencesconf.org/",
+        "start_date": "15 May 2024",
+        "end_date": "17 May 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€210",
+        "non_member_fee": "€260",
+        "max_fee": "€260",
+        "uid": "suprparis3rdfrenchsu15May2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -4517,6 +4490,28 @@
     },
     {
         "themes": [
+            "catalysis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Congress on Catalysis ICC18",
+        "url": "https://www.icc-lyon2024.fr/",
+        "start_date": "14 Jul 2024",
+        "end_date": "19 Jul 2024",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€700",
+        "non_member_fee": "€750",
+        "max_fee": "€750",
+        "uid": "intlcongressoncataly14Jul2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -4537,6 +4532,29 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "10thintlconferenceon25Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "HarwellXPS 2024 Thematic School for XPS",
+        "url": "https://portal.harwellxps.uk/register-summer-school",
+        "start_date": "09 Sep 2024",
+        "end_date": "13 Sep 2024",
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£1,500",
+        "non_member_fee": "£1,500",
+        "max_fee": "£1,500",
+        "uid": "harwellxps2024themat09Sep2024_0"
     },
     {
         "themes": [
