@@ -2780,6 +2780,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Solid State Chemistry Group Christmas Meeting",
+        "url": "https://sscg2023.wixsite.com/xmas",
+        "start_date": "18 Dec 2023",
+        "end_date": "19 Dec 2023",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£160",
+        "non_member_fee": "£170",
+        "max_fee": "£170",
+        "uid": "rscsolidstatechemist18Dec2023_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -4016,6 +4039,33 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "makingpharmaceutical23Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Advances in Process Analytics & Control Technologies APACT Conference",
+        "url": "https://www.apact.co.uk/",
+        "start_date": "23 Apr 2024",
+        "end_date": "25 Apr 2024",
+        "locations": [
+            "New Brunswick, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "$950",
+        "non_member_fee": "$1,250",
+        "max_fee": "$1,250",
+        "uid": "advancesinprocessana23Apr2024_0"
     },
     {
         "themes": [
