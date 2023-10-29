@@ -1,54 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Proteomics in cell biology and disease mechanisms",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/pro23-02/",
-        "start_date": "25 Oct 2023",
-        "end_date": "27 Oct 2023",
-        "locations": [
-            "Heidelberg, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€250–910",
-        "non_member_fee": "€250–910",
-        "max_fee": "€910",
-        "uid": "proteomicsincellbiol25Oct2023_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Synthetic Organic Electrochemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/synthetic-organic-electrochemistry-short-course/",
-        "start_date": "25 Oct 2023",
-        "end_date": "27 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£599",
-        "non_member_fee": "£599",
-        "max_fee": "£599",
-        "uid": "syntheticorganicelec25Oct2023_0"
-    },
-    {
-        "themes": [
             "careers",
             "diversity"
         ],
@@ -72,155 +24,6 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "sacnaspostdocleaders25Oct2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Chemical Science symposium 2023: Chemistry of polymers",
-        "url": "https://www.rsc.org/events/detail/75795/chemical-science-symposium-2023-chemistry-of-polymers",
-        "start_date": "26 Oct 2023",
-        "end_date": "27 Oct 2023",
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£40–180",
-        "non_member_fee": "£50–200",
-        "max_fee": "£200",
-        "uid": "chemicalsciencesympo26Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "33rd Intl North American Chapter of the Intl Isotope Society IIS meeting",
-        "url": "https://web.cvent.com/event/58c9f533-4903-4688-aadf-70c17b620432/summary",
-        "start_date": "26 Oct 2023",
-        "end_date": "27 Oct 2023",
-        "locations": [
-            "Morristown, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "$170",
-        "non_member_fee": "$210",
-        "max_fee": "$210",
-        "uid": "33rdintlnorthamerica26Oct2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "4th Intl Conference on Materials Science & Nanotechnology (virtual)",
-        "url": "https://materialsconference.yuktan.com/",
-        "start_date": "26 Oct 2023",
-        "end_date": "27 Oct 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "€499",
-        "non_member_fee": "€499",
-        "max_fee": "€499",
-        "uid": "4thintlconferenceonm26Oct2023_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "US National Diversity in STEM Conference",
-        "url": "https://www.sacnas.org/conference",
-        "start_date": "26 Oct 2023",
-        "end_date": "28 Oct 2023",
-        "locations": [
-            "Portland, OR, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OR"
-        ],
-        "member_fee": "$625",
-        "non_member_fee": "$725",
-        "max_fee": "$725",
-        "uid": "usnationaldiversityi26Oct2023_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Hit ID Symposium",
-        "url": "https://shop.monash.edu/hit-id-symposium-2023.html",
-        "start_date": "27 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "AUD30",
-        "non_member_fee": "AUD30",
-        "max_fee": "AUD30",
-        "uid": "hitidsymposium27Oct2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Organic Chemistry Symposium 2023",
-        "url": "https://lp.thieme.in/iisc-ocs23",
-        "start_date": "28 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Bangalore, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "organicchemistrysymp28Oct2023_0"
     },
     {
         "themes": [
@@ -271,6 +74,29 @@
         "non_member_fee": "£1,549–3,299",
         "max_fee": "£3,299",
         "uid": "tideseuropeoligonucl30Oct2023_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "20/15 Visioneers: New Molecular Modalities Mega Webinar",
+        "url": "https://www.20visioneers15.com/new-modalities-mega-webinar",
+        "start_date": "31 Oct 2023",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "2015visioneersnewmol31Oct2023_0"
     },
     {
         "themes": [
@@ -856,6 +682,29 @@
         "non_member_fee": "€200",
         "max_fee": "€200",
         "uid": "beilsteinorganicchem07Nov2023_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "20/15 Visioneers: Cloud Lab, HTE, & Lab Automation Virtual Conference 2023",
+        "url": "https://www.20visioneers15.com/cloudlabhtelabautomation",
+        "start_date": "07 Nov 2023",
+        "end_date": "09 Nov 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "2015visioneerscloudl07Nov2023_0"
     },
     {
         "themes": [
@@ -1730,7 +1579,7 @@
         "start_date": "17 Nov 2023",
         "end_date": null,
         "locations": [
-            "Seou, South Korea"
+            "Seoul, South Korea"
         ],
         "countries": [
             "South Korea"
@@ -1762,6 +1611,28 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "environmentaltoxicto20Nov2023_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "LGBT+ Inclusion in STEM through an intersectional lens launch event",
+        "url": "https://lincoln.onlinesurveys.ac.uk/lgbt-inclusion-in-stem-project-launch-and-networking-even",
+        "start_date": "20 Nov 2023",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "lgbtinclusioninstemt20Nov2023_0"
     },
     {
         "themes": [
