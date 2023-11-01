@@ -1,105 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "SACNAS Postdoc Leadership Institute (US only)",
-        "url": "https://sacnas.site-ym.com/events/EventDetails.aspx?id=1766697&group=",
-        "start_date": "25 Oct 2023",
-        "end_date": "29 Oct 2023",
-        "locations": [
-            "Portland, OR, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OR"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "sacnaspostdocleaders25Oct2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Biological Making Workshop",
-        "url": "https://www.eventbrite.co.uk/e/biological-making-workshop-2023-registration-679989435707",
-        "start_date": "30 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biologicalmakingwork30Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "TIDES Europe: Oligonucleotide & Peptide Therapeutics",
-        "url": "https://informaconnect.com/tides-europe/",
-        "start_date": "30 Oct 2023",
-        "end_date": "31 Oct 2023",
-        "locations": [
-            "Amsterdam, Netherlands",
-            "Online"
-        ],
-        "countries": [
-            "Netherlands",
-            "Online"
-        ],
-        "member_fee": "£1,549–3,299",
-        "non_member_fee": "£1,549–3,299",
-        "max_fee": "£3,299",
-        "uid": "tideseuropeoligonucl30Oct2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "20/15 Visioneers: New Molecular Modalities Mega Webinar",
-        "url": "https://www.20visioneers15.com/new-modalities-mega-webinar",
-        "start_date": "31 Oct 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "2015visioneersnewmol31Oct2023_0"
-    },
-    {
-        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -2749,6 +2650,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#TownsFest\n RSC Chem Ed Group: #TownsFest: A Celebration of Prof Marcy Towns",
+        "url": "https://rsccerg.wordpress.com/2023/10/27/townsfest-11th-january-2024/",
+        "start_date": "11 Jan 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£490",
+        "non_member_fee": "£490",
+        "max_fee": "£490",
+        "uid": "townsfest\nrscchemedg11Jan2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers",
@@ -4316,6 +4239,33 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "10thintlconferenceon25Aug2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "European Conference on Organic Free Radicals ECOFR XV",
+        "url": "https://www.ecofr-xv2024.net/",
+        "start_date": "01 Sep 2024",
+        "end_date": "04 Sep 2024",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£550",
+        "non_member_fee": "£550",
+        "max_fee": "£550",
+        "uid": "europeanconferenceon01Sep2024_0"
     },
     {
         "themes": [
