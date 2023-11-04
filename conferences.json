@@ -1,227 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical engineering: What scientists & other engineers need to know (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-engineering-what-scientists-and-other-engineers-need-to-know/",
-        "start_date": "31 Oct 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "Seville, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€2,638",
-        "non_member_fee": "€2,638",
-        "max_fee": "€2,638",
-        "uid": "chemicalengineeringw31Oct2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Lab Innovations 2023 (trade fair)",
-        "url": "https://www.lab-innovations.com/",
-        "start_date": "01 Nov 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labinnovations2023tr01Nov2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Carbohydrate Group Winter Meeting",
-        "url": "https://www.rsc.org/events/detail/76918/rsc-carbohydrate-group-winter-meeting",
-        "start_date": "01 Nov 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rsccarbohydrategroup01Nov2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "Women's Global Leadership+ Conference in Energy",
-        "url": "https://wglconference.com/",
-        "start_date": "01 Nov 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "Houston, TX, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "$399–950",
-        "non_member_fee": "$399–950",
-        "max_fee": "$950",
-        "uid": "womensgloballeadersh01Nov2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "BIOVIA Live! User group meeting",
-        "url": "https://events.3ds.com/biovia-live-2023",
-        "start_date": "01 Nov 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biovialiveusergroupm01Nov2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Photoredox Catalysis in Organic Synthesis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/photoredox-catalysis-in-organic-synthesis/",
-        "start_date": "01 Nov 2023",
-        "end_date": "02 Nov 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£399",
-        "non_member_fee": "£399",
-        "max_fee": "£399",
-        "uid": "photoredoxcatalysisi01Nov2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "NFDI4Chem Editors4Chem",
-        "url": "https://www.nfdi4chem.de/event/2nd-editors4chem-workshop/",
-        "start_date": "02 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "nfdi4chemeditors4che02Nov2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Environmental monitoring (training course)",
-        "url": "https://www.rssl.com/training-consultancy/training/course/environmental-monitoring-in-partnership-with-cherwell-laboratories/ENVIROfhgL",
-        "start_date": "02 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£780",
-        "non_member_fee": "£780",
-        "max_fee": "£780",
-        "uid": "environmentalmonitor02Nov2023_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Bay Area Chemistry Symposium BACS",
-        "url": "https://www.bayareachemistrysymposium.com/",
-        "start_date": "03 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "bayareachemistrysymp03Nov2023_0"
-    },
-    {
-        "themes": [
             "careers",
             "catalysis",
             "diversity",
@@ -723,6 +502,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "30thsciyoungchemisti09Nov2023_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "The Impurities Forum: Practical approaches for assessing the risks of impurities (training course)",
+        "url": "https://www.gmp-compliance.org/training/gmp-course-conference/impurities-forum-part-1-and-part-2",
+        "start_date": "09 Nov 2023",
+        "end_date": "10 Nov 2023",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "€595–1,790",
+        "non_member_fee": "€595–1,890",
+        "max_fee": "€1,890",
+        "uid": "theimpuritiesforumpr09Nov2023_0"
     },
     {
         "themes": [
@@ -4010,6 +3813,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Protein Degradation in Focus",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=OTEyrjoJKk2Bpl0zS82QGXFf8HKHZmFHrhFMwJ0wBjhUNkpWWjJCVkVTWElaWlJXRlQwSU9BWlIxVi4u",
+        "start_date": "19 May 2024",
+        "end_date": "22 May 2024",
+        "locations": [
+            "Dundee, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£95",
+        "non_member_fee": "£95",
+        "max_fee": "£95",
+        "uid": "proteindegradationin19May2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -4219,6 +4046,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Biology Ireland Conference 2024",
+        "url": "https://universityofgalwaycbic.clr.events/event/134280",
+        "start_date": "22 Jul 2024",
+        "end_date": "23 Jul 2024",
+        "locations": [
+            "Galway, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "€250",
+        "non_member_fee": "€250",
+        "max_fee": "€250",
+        "uid": "chemicalbiologyirela22Jul2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -4289,6 +4138,32 @@
         "non_member_fee": "£1,500",
         "max_fee": "£1,500",
         "uid": "harwellxps2024themat09Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Faraday Discussion: Data-driven discovery in the chemical sciences",
+        "url": "https://www.rsc.org/events/detail/76887/",
+        "start_date": "10 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "faradaydiscussiondat10Sep2024_0"
     },
     {
         "themes": [
