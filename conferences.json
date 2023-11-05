@@ -1,34 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "catalysis",
-            "diversity",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Women in Catalysis & Synthetic Chemistry",
-        "url": "http://sites.google.com/utexas.edu/wcsc",
-        "start_date": "04 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "Austin, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "womenincatalysissynt04Nov2023_0"
-    },
-    {
-        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -4065,6 +4037,35 @@
         "non_member_fee": "€250",
         "max_fee": "€250",
         "uid": "chemicalbiologyirela22Jul2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ACS Division of Organic Chemistry Graduate Research Symposium DOC GRS",
+        "url": "https://www.organicdivision.org/graduate-research-symposium/",
+        "start_date": "25 Jul 2024",
+        "end_date": "28 Jul 2024",
+        "locations": [
+            "Charlottesville, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "acsdivisionoforganic25Jul2024_0"
     },
     {
         "themes": [
