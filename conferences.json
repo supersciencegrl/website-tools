@@ -1851,7 +1851,7 @@
         "regions": [
             "Online"
         ],
-        "title": "Oral delivery of peptides, oligonucleotides, &",
+        "title": "Oral delivery of peptides, oligonucleotides, & proteins",
         "url": "https://www.controlledreleasesociety.org/oral-delivery-peptides-oligonucleotides-and-proteins-virtual-symposium",
         "start_date": "04 Dec 2023",
         "end_date": "05 Dec 2023",
@@ -2830,6 +2830,35 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "hbcudaylillyushbcust15Feb2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA",
+            "Online"
+        ],
+        "title": "SPE Intl Polyolefins Conference",
+        "url": "https://spe-stx.org/international-polyolefins-conference-3/",
+        "start_date": "18 Feb 2024",
+        "end_date": "21 Feb 2024",
+        "locations": [
+            "Galveston, TX, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "$150–800",
+        "non_member_fee": "$150–950",
+        "max_fee": "$950",
+        "uid": "speintlpolyolefinsco18Feb2024_0"
     },
     {
         "themes": [
