@@ -3399,6 +3399,28 @@
     },
     {
         "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC-ACS Medicinal Chemistry Frontiers 2024",
+        "url": "https://www.medchemfrontiers.org/",
+        "start_date": "08 Apr 2024",
+        "end_date": "11 Apr 2024",
+        "locations": [
+            "Utrecht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "€600–995",
+        "non_member_fee": "€600–995",
+        "max_fee": "€995",
+        "uid": "efmcacsmedicinalchem08Apr2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -4145,6 +4167,28 @@
         "non_member_fee": "£550",
         "max_fee": "£550",
         "uid": "europeanconferenceon01Sep2024_0"
+    },
+    {
+        "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Intl Symposium on Medicinal Chemistry ISMC 2024",
+        "url": "https://www.efmc-ismc.org/",
+        "start_date": "01 Sep 2024",
+        "end_date": "05 Sep 2024",
+        "locations": [
+            "Rome, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€800–1,595",
+        "non_member_fee": "€800–1,595",
+        "max_fee": "€1,595",
+        "uid": "efmcintlsymposiumonm01Sep2024_0"
     },
     {
         "themes": [
