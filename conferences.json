@@ -72,126 +72,6 @@
     },
     {
         "themes": [
-            "law/policy",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Chemical regulation in non-EU (German language)",
-        "url": "https://www.chem-academy.com/events/chemie/chemikalienregulierung",
-        "start_date": "06 Nov 2023",
-        "end_date": "07 Nov 2023",
-        "locations": [
-            "Berlin, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,595–1,695",
-        "non_member_fee": "€1,595–1,695",
-        "max_fee": "€1,695",
-        "uid": "chemicalregulationin06Nov2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Heterogeneous Catalytic Hydrogenation (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/heterogeneous-catalytic-hydrogenation/",
-        "start_date": "06 Nov 2023",
-        "end_date": "07 Nov 2023",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€2,200",
-        "non_member_fee": "€2,200",
-        "max_fee": "€2,200",
-        "uid": "heterogeneouscatalyt06Nov2023_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Faraday Discussion: Challenges & prospects in organic photonics & electronics",
-        "url": "https://www.rsc.org/events/detail/75379/challenges-and-prospects-in-organic-photonics-and-electronics-faraday-discussion",
-        "start_date": "06 Nov 2023",
-        "end_date": "08 Nov 2023",
-        "locations": [
-            "Osaka, Japan",
-            "Online"
-        ],
-        "countries": [
-            "Japan",
-            "Online"
-        ],
-        "member_fee": "¥39,000–66,000",
-        "non_member_fee": "¥49,000–82,000",
-        "max_fee": "¥82,000",
-        "uid": "faradaydiscussioncha06Nov2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemistry in the Oil Industry XVIII",
-        "url": "https://www.rsc.org/events/detail/74801/chemistry-in-the-oil-industry-xviii-chemistry-and-the-energy-transition",
-        "start_date": "06 Nov 2023",
-        "end_date": "08 Nov 2023",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£510",
-        "non_member_fee": "£600",
-        "max_fee": "£600",
-        "uid": "chemistryintheoilind06Nov2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "5th Intl Caparica Conference on Pollutant Toxic Ions & Molecules PTIM 2023",
-        "url": "https://www.ptim2023.com/",
-        "start_date": "06 Nov 2023",
-        "end_date": "09 Nov 2023",
-        "locations": [
-            "Caparica, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€650–850",
-        "non_member_fee": "€650–850",
-        "max_fee": "€850",
-        "uid": "5thintlcaparicaconfe06Nov2023_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -215,265 +95,6 @@
         "non_member_fee": "£250–1,000",
         "max_fee": "£1,000",
         "uid": "solutionscatteringfr06Nov2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "2nd Automated Intelligent Chemistry",
-        "url": "https://www.soci.org/events/young-chemists-panel/2023/automated-intelligent-chemistry",
-        "start_date": "07 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£90",
-        "non_member_fee": "£120",
-        "max_fee": "£120",
-        "uid": "2ndautomatedintellig07Nov2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "computational/data",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Lab Manager Quality & Compliance Summit",
-        "url": "https://summit.labmanager.com/qualityandcompliance",
-        "start_date": "07 Nov 2023",
-        "end_date": "08 Nov 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labmanagerqualitycom07Nov2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Accelerating pharma's new era of efficiency & sustainability: Catalysis & Biocatalysis",
-        "url": "https://events.healthcare.evonik.com/en",
-        "start_date": "07 Nov 2023",
-        "end_date": "08 Nov 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "acceleratingpharmasn07Nov2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BIOVIA Live! User group meeting",
-        "url": "https://events.3ds.com/biovia-live-2023",
-        "start_date": "07 Nov 2023",
-        "end_date": "08 Nov 2023",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biovialiveusergroupm07Nov2023_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Organic Chemistry Symposium 2023: π-Conjugated Molecules and Materials",
-        "url": "https://www.beilstein-institut.de/en/symposia/pisystems/",
-        "start_date": "07 Nov 2023",
-        "end_date": "09 Nov 2023",
-        "locations": [
-            "Limburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "beilsteinorganicchem07Nov2023_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "20/15 Visioneers: Cloud Lab, HTE, & Lab Automation Virtual Conference 2023",
-        "url": "https://www.20visioneers15.com/cloudlabhtelabautomation",
-        "start_date": "07 Nov 2023",
-        "end_date": "09 Nov 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "2015visioneerscloudl07Nov2023_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20231107/",
-        "start_date": "07 Nov 2023",
-        "end_date": "09 Nov 2023",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€2,699",
-        "non_member_fee": "€2,699",
-        "max_fee": "€2,699",
-        "uid": "chemicaldevelopments07Nov2023_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "1st Annual Symposium for Advanced Battery Materials",
-        "url": "https://www.rsc.org/events/detail/76576/1st-annual-symposium-for-advanced-battery-materials",
-        "start_date": "08 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£60",
-        "non_member_fee": "£80",
-        "max_fee": "£80",
-        "uid": "1stannualsymposiumfo08Nov2023_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "NFDI4Chem Research data management & ELN workshop",
-        "url": "https://www.nfdi4chem.de/event/2nd-editors4chem-workshop/",
-        "start_date": "08 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "Hanover, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "nfdi4chemresearchdat08Nov2023_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "The Greener Manufacturing Show (trade fair)",
-        "url": "https://www.greener-manufacturing.com/greener-manufacturing.com",
-        "start_date": "08 Nov 2023",
-        "end_date": "09 Nov 2023",
-        "locations": [
-            "Cologne, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€0–1,950",
-        "non_member_fee": "€0–1,950",
-        "max_fee": "€1,950",
-        "uid": "thegreenermanufactur08Nov2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "30th SCI Young Chemist in Industry",
-        "url": "https://www.soci.org/events/young-chemists-panel/2023/30th-sci-young-chemist-in-industry-2023",
-        "start_date": "09 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "30thsciyoungchemisti09Nov2023_0"
     },
     {
         "themes": [
@@ -3201,6 +2822,51 @@
         "non_member_fee": "$2,499",
         "max_fee": "$2,499",
         "uid": "scientificupdate51st12Mar2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "World Antibody-Drug Conjugates ADC London",
+        "url": "https://worldadc-europe.com/",
+        "start_date": "12 Mar 2024",
+        "end_date": "15 Mar 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£2,019–4,415",
+        "non_member_fee": "£2,019–4,415",
+        "max_fee": "£4,415",
+        "uid": "worldantibodydrugcon12Mar2024_0"
+    },
+    {
+        "themes": [
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Biologics 2024",
+        "url": "https://oxfordglobal.com/biologics-series/",
+        "start_date": "13 Mar 2024",
+        "end_date": "15 Mar 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "biologics202413Mar2024_0"
     },
     {
         "themes": [
