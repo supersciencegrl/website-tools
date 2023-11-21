@@ -1,51 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Environmental toxic tort: Current perspectives & recent cases",
-        "url": "https://www.rsc.org/events/detail/43455/environmental-toxic-tort-current-perspectives-and-recent-cases",
-        "start_date": "20 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "environmentaltoxicto20Nov2023_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "LGBT+ Inclusion in STEM through an intersectional lens launch event",
-        "url": "https://lincoln.onlinesurveys.ac.uk/lgbt-inclusion-in-stem-project-launch-and-networking-even",
-        "start_date": "20 Nov 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "lgbtinclusioninstemt20Nov2023_0"
-    },
-    {
-        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -54,8 +9,8 @@
         ],
         "title": "Spanish Drug Discovery Network Meeting",
         "url": "https://www.sddn.es/home/xv-sddn-meeting-2023/",
-        "start_date": "12 Mar 2024",
-        "end_date": "15 Mar 2024",
+        "start_date": "20 Nov 2023",
+        "end_date": "21 Nov 2023",
         "locations": [
             "Barcelona, Spain"
         ],
@@ -65,7 +20,7 @@
         "member_fee": "€250",
         "non_member_fee": "€400",
         "max_fee": "€400",
-        "uid": "spanishdrugdiscovery12Mar2024_0"
+        "uid": "spanishdrugdiscovery20Nov2023_0"
     },
     {
         "themes": [
@@ -393,9 +348,9 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
+        "member_fee": "£140",
+        "non_member_fee": "£155",
+        "max_fee": "£155",
         "uid": "digitalchemistryfora28Nov2023_0"
     },
     {
@@ -1367,6 +1322,56 @@
         "non_member_fee": "€400",
         "max_fee": "€400",
         "uid": "scfchemicalbiologysy24Jan2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EuroPrep 2024",
+        "url": "http://www.euro-prep.net/index.php",
+        "start_date": "25 Jan 2024",
+        "end_date": "26 Jan 2024",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "europrep202425Jan2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Torkil Holm Symposium: Visions in Chemistry",
+        "url": "https://kemisamfundet.se/event/torkil-holm-symposium-2024/",
+        "start_date": "26 Jan 2024",
+        "end_date": "27 Jan 2024",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "DKK3,850",
+        "non_member_fee": "DKK3,850",
+        "max_fee": "DKK3,850",
+        "uid": "torkilholmsymposiumv26Jan2024_0"
     },
     {
         "themes": [
@@ -2453,6 +2458,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "scientificinformatic09Apr2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "SCI Process Development Symposium",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2024/40th-sci-process-development-symposium",
+        "start_date": "10 Apr 2024",
+        "end_date": "12 Apr 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£395–640",
+        "non_member_fee": "£445–690",
+        "max_fee": "£690",
+        "uid": "sciprocessdevelopmen10Apr2024_0"
     },
     {
         "themes": [
