@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Spanish Drug Discovery Network Meeting",
-        "url": "https://www.sddn.es/home/xv-sddn-meeting-2023/",
-        "start_date": "20 Nov 2023",
-        "end_date": "21 Nov 2023",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€250",
-        "non_member_fee": "€400",
-        "max_fee": "€400",
-        "uid": "spanishdrugdiscovery20Nov2023_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
