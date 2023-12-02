@@ -2,31 +2,6 @@
     {
         "themes": [
             "catalysis",
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "8th Asia-Oceania Conference on Green & Sustainable Chemistry",
-        "url": "https://www.greenchemistry.science.auckland.ac.nz/",
-        "start_date": "29 Nov 2023",
-        "end_date": "01 Dec 2023",
-        "locations": [
-            "Auckland, New Zealand"
-        ],
-        "countries": [
-            "New Zealand"
-        ],
-        "member_fee": "NZD725",
-        "non_member_fee": "NZD725",
-        "max_fee": "NZD725",
-        "uid": "8thasiaoceaniaconfer29Nov2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
             "chem bio",
             "environment/fuels",
             "materials/polymers",
@@ -585,6 +560,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Simposio Anual COS 2023: Estudios Metabolómicos basados en la Plataforma de RMN",
+        "url": "https://eu.mittum.com/creativities/showit/c/533604/u/2356/md5/c571e97e1bddf4ac81627e6e714a5b91",
+        "start_date": "14 Dec 2023",
+        "end_date": null,
+        "locations": [
+            "Reus, Spain",
+            "Online"
+        ],
+        "countries": [
+            "Spain",
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "simposioanualcos202314Dec2023_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -779,6 +780,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "RSC South West Regional Meeting",
+        "url": "https://www.rsc.org/events/detail/77738/rsc-south-west-regional-meeting-2024",
+        "start_date": "16 Jan 2024",
+        "end_date": null,
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "rscsouthwestregional16Jan2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -799,6 +825,31 @@
         "non_member_fee": "£2,199",
         "max_fee": "£2,199",
         "uid": "chemicaldevelopments17Jan2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "6th Intl Mini-Symposium on Molecular Machine Learning",
+        "url": "https://twitter.com/spp2363/status/1730584618691121464",
+        "start_date": "18 Jan 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "6thintlminisymposium18Jan2024_0"
     },
     {
         "themes": [
@@ -1870,6 +1921,34 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "London",
+            "Online"
+        ],
+        "title": "Catalysis Science & Technology Symposium 2024",
+        "url": "https://www.rsc.org/events/detail/77852/2024-catalysis-science-and-technology-symposium",
+        "start_date": "03 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "£12–60",
+        "non_member_fee": "£24–72",
+        "max_fee": "£72",
+        "uid": "catalysissciencetech03Apr2024_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2422,6 +2501,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "#NextGenBiocat\n Next Generation Biocatalysis: Intl Young Investigator Symposium",
+        "url": "https://nextgenbiocat.org/",
+        "start_date": "20 May 2024",
+        "end_date": "22 May 2024",
+        "locations": [
+            "Heraklion, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "member_fee": "€180",
+        "non_member_fee": "€180",
+        "max_fee": "€180",
+        "uid": "nextgenbiocat\nnextge20May2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -2441,6 +2544,30 @@
         "non_member_fee": "£999",
         "max_fee": "£999",
         "uid": "understandingprocess20May2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Conference & Exhibition",
+        "url": "https://www.slas.org/events-calendar/slas-europe-2024-conference-and-exhibition/",
+        "start_date": "27 May 2024",
+        "end_date": "29 May 2024",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€155–950",
+        "non_member_fee": "€155–950",
+        "max_fee": "€950",
+        "uid": "societyforlaboratory27May2024_0"
     },
     {
         "themes": [
@@ -2559,6 +2686,35 @@
         "non_member_fee": "£599",
         "max_fee": "£599",
         "uid": "syntheticorganicelec03Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Janssen Discovery Chemistry Graduate Research Symposium (US only)",
+        "url": "https://twitter.com/ckellzchem/status/1729178189266624772",
+        "start_date": "05 Jun 2024",
+        "end_date": "07 Jun 2024",
+        "locations": [
+            "Spring House, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "janssendiscoverychem05Jun2024_0"
     },
     {
         "themes": [
@@ -2908,6 +3064,29 @@
         "non_member_fee": "€800–1,595",
         "max_fee": "€1,595",
         "uid": "efmcintlsymposiumonm01Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC-YMCS Young Medicinal Chemists' Symposium 2024",
+        "url": "https://www.efmc-ymcs.org/",
+        "start_date": "05 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Rome, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€130–240",
+        "non_member_fee": "€130–240",
+        "max_fee": "€240",
+        "uid": "efmcymcsyoungmedicin05Sep2024_0"
     },
     {
         "themes": [
