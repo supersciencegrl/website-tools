@@ -1,79 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Advanced Methods in Molecular Dynamics MD",
-        "url": "https://events.au.dk/advancedmethodsinmd2023",
-        "start_date": "11 Dec 2023",
-        "end_date": "12 Dec 2023",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "advancedmethodsinmol11Dec2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Intl Society for Pharmaceutical Engineering ISPE Pharma 4.0 & Annex 1",
-        "url": "https://www.emedevents.com/medical-hybrid-events-2023/2023-international-society-for-pharmaceutical-engineering-ispe-pharma-4-0-and-annex-1-conference",
-        "start_date": "11 Dec 2023",
-        "end_date": "12 Dec 2023",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "$1,095–2,675",
-        "non_member_fee": "$1,095–2,675",
-        "max_fee": "$2,675",
-        "uid": "intlsocietyforpharma11Dec2023_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Green carbon for the chemical industry of the future",
-        "url": "https://royalsociety.org/science-events-and-lectures/2023/12/green-carbon/",
-        "start_date": "11 Dec 2023",
-        "end_date": "12 Dec 2023",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "greencarbonfortheche11Dec2023_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -94,30 +21,6 @@
         "non_member_fee": "£775",
         "max_fee": "£775",
         "uid": "scientificupdate9thw11Dec2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Current Issues in Contaminated Land Risk Assessment",
-        "url": "https://www.rsc.org/events/detail/76488/2023-current-issues-in-contaminated-land-risk-assessment",
-        "start_date": "12 Dec 2023",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "currentissuesinconta12Dec2023_0"
     },
     {
         "themes": [
