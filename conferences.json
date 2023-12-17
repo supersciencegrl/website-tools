@@ -1,81 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Scientific Update: 9th Winter Process Chemistry Conference",
-        "url": "https://www.scientificupdate.com/conference_events/winter-process-chemistry-conference/",
-        "start_date": "11 Dec 2023",
-        "end_date": "13 Dec 2023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£775",
-        "non_member_fee": "£775",
-        "max_fee": "£775",
-        "uid": "scientificupdate9thw11Dec2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Lab Manager Innovating the Future Summit",
-        "url": "https://summit.labmanager.com/innovatingthefuture",
-        "start_date": "12 Dec 2023",
-        "end_date": "13 Dec 2023",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "labmanagerinnovating12Dec2023_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Simposio Anual COS 2023: Estudios Metabolómicos basados en la Plataforma de RMN",
-        "url": "https://eu.mittum.com/creativities/showit/c/533604/u/2356/md5/c571e97e1bddf4ac81627e6e714a5b91",
-        "start_date": "14 Dec 2023",
-        "end_date": null,
-        "locations": [
-            "Reus, Spain",
-            "Online"
-        ],
-        "countries": [
-            "Spain",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "simposioanualcos202314Dec2023_0"
-    },
-    {
-        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -194,6 +119,30 @@
         "non_member_fee": "£490",
         "max_fee": "£490",
         "uid": "ukcatalysisconferenc03Jan2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "RSC Biological & Medicinal Chemistry Sector BMCS Postgraduate Symposium",
+        "url": "https://www.rscbmcs.org/events/psxvii/",
+        "start_date": "09 Jan 2024",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "rscbiologicalmedicin09Jan2024_0"
     },
     {
         "themes": [
@@ -1680,6 +1629,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SUPRABIO 2024: Intl Symposium on SupraBiomolecular Systems",
+        "url": "https://premc.org/conferences/suprabiomolecular-systems/registration/",
+        "start_date": "15 Apr 2024",
+        "end_date": "17 Apr 2024",
+        "locations": [
+            "Bordeaux, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€600",
+        "non_member_fee": "€600",
+        "max_fee": "€600",
+        "uid": "suprabio2024intlsymp15Apr2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "process/engineering"
         ],
@@ -2085,6 +2058,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "elmiaautomationtrade14May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Joint Professional Bodies QP Symposium: Futureproofing the QP Role",
+        "url": "https://events.rpharms.com/ereg/newreg.php?eventid=200270942",
+        "start_date": "15 May 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£319",
+        "non_member_fee": "£440",
+        "max_fee": "£440",
+        "uid": "jointprofessionalbod15May2024_0"
     },
     {
         "themes": [
