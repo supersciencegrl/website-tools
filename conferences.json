@@ -361,6 +361,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "7th APV Winter Conference (pharma formulation)",
+        "url": "https://www.apv-mainz.de/no_cache/en/seminare/events/event/seminar/6969/",
+        "start_date": "25 Jan 2024",
+        "end_date": "26 Jan 2024",
+        "locations": [
+            "Innsbruck, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "£1,490",
+        "non_member_fee": "£1,490",
+        "max_fee": "£1,490",
+        "uid": "7thapvwinterconferen25Jan2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -2372,6 +2395,29 @@
     {
         "themes": [
             "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advanced analytical methods for formulation development (training course)",
+        "url": "https://www.apv-mainz.de/no_cache/en/seminare/events/event/seminar/6992/",
+        "start_date": "04 Jun 2024",
+        "end_date": "05 Jun 2024",
+        "locations": [
+            "Darmstadt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "£1,690",
+        "non_member_fee": "£1,690",
+        "max_fee": "£1,690",
+        "uid": "advancedanalyticalme04Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "careers",
             "med chem",
             "pharma industry",
@@ -3012,6 +3058,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "drugdiscovery202403Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "18th German Conference on Chemoinformatics GCC 2024",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11576&modus=",
+        "start_date": "03 Nov 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Bad Soden am Taunus, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "18thgermanconference03Nov2024_0"
     },
     {
         "themes": [
