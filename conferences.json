@@ -457,6 +457,33 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Molecular Glue Drug Development Summit",
+        "url": "https://molecular-glue-summit.com/",
+        "start_date": "30 Jan 2024",
+        "end_date": "01 Feb 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$2,749–3,847",
+        "non_member_fee": "$2,749–3,847",
+        "max_fee": "$3,847",
+        "uid": "moleculargluedrugdev30Jan2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -597,6 +624,35 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "genotoxicitynitrosam01Feb2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "catalysis",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "med chem",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "World Chemistry Forum & Intl Congress on Green Environmental Catalysis",
+        "url": "https://istci.org/wcf2024/index.asp",
+        "start_date": "01 Feb 2024",
+        "end_date": "03 Feb 2024",
+        "locations": [
+            "Osaka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "$699–1,899",
+        "non_member_fee": "$699–1,899",
+        "max_fee": "$1,899",
+        "uid": "worldchemistryforumi01Feb2024_0"
     },
     {
         "themes": [
@@ -1160,6 +1216,34 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "GPCR Targeted Drug Discovery Summit",
+        "url": "https://gpcrs-drugdiscovery.com/",
+        "start_date": "05 Mar 2024",
+        "end_date": "07 Mar 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$2,599–3,579",
+        "non_member_fee": "$2,599–3,579",
+        "max_fee": "$3,579",
+        "uid": "gpcrtargeteddrugdisc05Mar2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -1359,6 +1443,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Artificial Intelligence AI in Drug Discovery",
+        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/drug-discovery",
+        "start_date": "11 Mar 2024",
+        "end_date": "12 Mar 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£1,999",
+        "non_member_fee": "£1,999",
+        "max_fee": "£1,999",
+        "uid": "artificialintelligen11Mar2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -1497,6 +1604,79 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Frontiers in Medicinal Chemistry",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11632",
+        "start_date": "17 May 2024",
+        "end_date": "20 May 2024",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "frontiersinmedicinal17May2024_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA",
+            "Online"
+        ],
+        "title": "ACS Spring National Meeting",
+        "url": "https://www.acs.org/meetings/acs-meetings/spring.html",
+        "start_date": "17 Mar 2024",
+        "end_date": "21 Mar 2024",
+        "locations": [
+            "New Orleans, LA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "LA"
+        ],
+        "member_fee": "$0–399",
+        "non_member_fee": "$399–799",
+        "max_fee": "$799",
+        "uid": "acsspringnationalmee17Mar2024_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -1569,6 +1749,30 @@
         "non_member_fee": "$795",
         "max_fee": "$795",
         "uid": "labfacilitiessummit19Mar2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "4th Targeted Protein Degradation Europe",
+        "url": "https://tpd-europe.com/",
+        "start_date": "19 Mar 2024",
+        "end_date": "21 Mar 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "$2,199–2,997",
+        "non_member_fee": "$2,199–2,997",
+        "max_fee": "$2,997",
+        "uid": "4thtargetedproteinde19Mar2024_0"
     },
     {
         "themes": [
@@ -2060,6 +2264,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Swedish Medicinal Chemistry Symposium",
+        "url": "https://www.apotekarsocieteten.se/produkt/4th-swedish-medicinal-chemistry-symposium/?lang=en",
+        "start_date": "17 Apr 2024",
+        "end_date": "18 Apr 2024",
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "SEK4,700",
+        "non_member_fee": "SEK4,700",
+        "max_fee": "SEK4,700",
+        "uid": "swedishmedicinalchem17Apr2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
@@ -2252,6 +2481,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Formulation & Delivery 2024",
+        "url": "https://oxfordglobal.com/formulation-delivery-series-uk/",
+        "start_date": "25 Apr 2024",
+        "end_date": "26 Apr 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "formulationdelivery225Apr2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -2301,6 +2553,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "4th Synthetic Biology of Natural Products Conference",
+        "url": "https://www.fusion-conferences.com/conference/160",
+        "start_date": "10 May 2024",
+        "end_date": "13 May 2024",
+        "locations": [
+            "Cancún, Mexico"
+        ],
+        "countries": [
+            "Mexico"
+        ],
+        "member_fee": "$1,699–2,066",
+        "non_member_fee": "$1,699–2,066",
+        "max_fee": "$2,066",
+        "uid": "4thsyntheticbiologyo10May2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "synthesis"
@@ -2345,6 +2619,35 @@
         "non_member_fee": "$150",
         "max_fee": "$150",
         "uid": "2024workshoponfreeen13May2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "TIDES USA: Oligonucleotide & Peptide Therapeutics",
+        "url": "https://informaconnect.com/tides/",
+        "start_date": "14 Mar 2024",
+        "end_date": "17 Mar 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$2,899–3,499",
+        "non_member_fee": "$2,899–3,499",
+        "max_fee": "$3,499",
+        "uid": "tidesusaoligonucleot14Mar2024_0"
     },
     {
         "themes": [
@@ -2466,6 +2769,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Workshop in Drug Design EWDD24",
+        "url": "https://ewdd24.org/",
+        "start_date": "19 May 2024",
+        "end_date": "23 May 2024",
+        "locations": [
+            "Siena, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "$550",
+        "non_member_fee": "$550",
+        "max_fee": "$550",
+        "uid": "europeanworkshopindr19May2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "synthesis"
@@ -2509,6 +2835,52 @@
         "non_member_fee": "£999",
         "max_fee": "£999",
         "uid": "understandingprocess20May2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Discovery Europe 2024",
+        "url": "https://oxfordglobal.com/discovery-series/",
+        "start_date": "22 May 2024",
+        "end_date": "23 May 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "discoveryeurope202422May2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Automate Europe 2024",
+        "url": "https://oxfordglobal.com/pharmaceutical-mobile-robotics/",
+        "start_date": "22 May 2024",
+        "end_date": "23 May 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "automateeurope202422May2024_0"
     },
     {
         "themes": [
@@ -2930,6 +3302,30 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "euchemsyounginvestig12Jul2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "law/policy",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Congress on Natural Product Research",
+        "url": "https://www.icnpr2024.org/",
+        "start_date": "13 Jul 2024",
+        "end_date": "17 Jul 2024",
+        "locations": [
+            "Krakow, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "€575",
+        "non_member_fee": "€675",
+        "max_fee": "€675",
+        "uid": "intlcongressonnatura13Jul2024_0"
     },
     {
         "themes": [
