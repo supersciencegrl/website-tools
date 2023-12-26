@@ -2289,6 +2289,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Symposium on Radiopharmacy & Radiopharmaceuticals",
+        "url": "https://www.esrr.info/",
+        "start_date": "18 Apr 2024",
+        "end_date": "21 Apr 2024",
+        "locations": [
+            "Coimbra, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "€390",
+        "non_member_fee": "€390",
+        "max_fee": "€390",
+        "uid": "europeansymposiumonr18Apr2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
