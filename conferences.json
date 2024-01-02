@@ -325,7 +325,7 @@
         "regions": [
             "Midlands"
         ],
-        "title": "RSC Biomaterials Chemistry Group Annual Conference",
+        "title": "RSC Biomaterials Group Annual Conference",
         "url": "https://www.rsc.org/events/detail/77278/rsc-biomaterials-chemistry-group-18th-annual-conference",
         "start_date": "17 Jan 2024",
         "end_date": "19 Jan 2024",
@@ -335,10 +335,10 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rscbiomaterialschemi17Jan2024_0"
+        "member_fee": "£170",
+        "non_member_fee": "£210",
+        "max_fee": "£210",
+        "uid": "rscbiomaterialsgroup17Jan2024_0"
     },
     {
         "themes": [
@@ -409,6 +409,34 @@
         "non_member_fee": "£1,250",
         "max_fee": "£1,250",
         "uid": "handsonftirtraining18Jan2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia",
+            "Online"
+        ],
+        "title": "ICReDD Intl Symposium: Rising Star programme",
+        "url": "https://www.icredd.hokudai.ac.jp/symp/7th-symp",
+        "start_date": "18 Jan 2024",
+        "end_date": "19 Jan 2024",
+        "locations": [
+            "Hokkaido, Japan",
+            "Online"
+        ],
+        "countries": [
+            "Japan",
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "icreddintlsymposiumr18Jan2024_0"
     },
     {
         "themes": [
@@ -2621,6 +2649,29 @@
         "non_member_fee": "€200",
         "max_fee": "€200",
         "uid": "ecatalytixxrayselect03Apr2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CECAM Frontiers of Coarse-Grained Models",
+        "url": "https://www.cecam.org/workshop-details/1311",
+        "start_date": "03 Apr 2024",
+        "end_date": "05 Apr 2024",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "cecamfrontiersofcoar03Apr2024_0"
     },
     {
         "themes": [
@@ -5467,7 +5518,7 @@
         "title": "7th Artificial Intelligence AI in Chemistry",
         "url": "https://www.rscbmcs.org/events/aichem7/",
         "start_date": "16 Sep 2024",
-        "end_date": "17 Sep 2024",
+        "end_date": "18 Sep 2024",
         "locations": [
             "Cambridge, UK",
             "Online"
@@ -5602,6 +5653,32 @@
         "non_member_fee": "€935",
         "max_fee": "€935",
         "uid": "foodstructurefunctio06Oct2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Mettler-Toledo 2024 Biopharma Roundtable",
+        "url": "",
+        "start_date": "08 Oct 2024",
+        "end_date": "09 Oct 2024",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "Invitation",
+        "non_member_fee": "Invitation",
+        "max_fee": "Invitation",
+        "uid": "mettlertoledo2024bio08Oct2024_0"
     },
     {
         "themes": [
