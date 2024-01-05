@@ -1118,6 +1118,28 @@
             "computational/data"
         ],
         "regions": [
+            "London"
+        ],
+        "title": "Open Research London",
+        "url": "https://www.eventbrite.co.uk/e/open-research-london-tickets-765182831447",
+        "start_date": "12 Feb 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "openresearchlondon12Feb2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
             "Southern USA"
         ],
         "title": "BIOVIA 3DExperience Forum Americas",
