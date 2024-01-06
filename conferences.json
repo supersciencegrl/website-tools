@@ -2,31 +2,6 @@
     {
         "themes": [
             "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK Catalysis Conference UKCC",
-        "url": "https://www.ukcatalysisconference.co.uk/",
-        "start_date": "03 Jan 2024",
-        "end_date": "05 Jan 2024",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£490",
-        "non_member_fee": "£490",
-        "max_fee": "£490",
-        "uid": "ukcatalysisconferenc03Jan2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
             "chem bio",
             "med chem",
             "synthesis"
