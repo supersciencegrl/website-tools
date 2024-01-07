@@ -9,31 +9,6 @@
         "regions": [
             "North America"
         ],
-        "title": "Mona Symposium: Natural Products & Medicinal Chemistry",
-        "url": "https://www.monasymposium.com/",
-        "start_date": "03 Jan 2024",
-        "end_date": "06 Jan 2024",
-        "locations": [
-            "Kingston, Jamaica"
-        ],
-        "countries": [
-            "Jamaica"
-        ],
-        "member_fee": "$700",
-        "non_member_fee": "$700",
-        "max_fee": "$700",
-        "uid": "monasymposiumnatural03Jan2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
         "title": "Symposium on Advanced Biological Inorganic Chemistry SABIC",
         "url": "https://www.indiabioinorganic.org/",
         "start_date": "07 Jan 2024",
@@ -121,6 +96,32 @@
         "non_member_fee": "£30",
         "max_fee": "£30",
         "uid": "1stuksolarchemicalsn11Jan2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Berkeley Statistical Mechanics Meeting",
+        "url": "https://berkeleystatmech.org/home-2/",
+        "start_date": "12 Jan 2024",
+        "end_date": "14 Jan 2024",
+        "locations": [
+            "Berkeley, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "berkeleystatisticalm12Jan2024_0"
     },
     {
         "themes": [
@@ -1647,6 +1648,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "rscposterlinkedincom05Mar2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advances in Glycosciences",
+        "url": "https://glycoscience.sciencesconf.org/",
+        "start_date": "05 Mar 2024",
+        "end_date": "06 Mar 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "advancesinglycoscien05Mar2024_0"
     },
     {
         "themes": [
@@ -4153,6 +4177,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "12th World Biomaterials Congress",
+        "url": "https://wbc2024.com/",
+        "start_date": "26 May 2024",
+        "end_date": "31 May 2024",
+        "locations": [
+            "Daegu, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "$850",
+        "non_member_fee": "$950",
+        "max_fee": "$950",
+        "uid": "12thworldbiomaterial26May2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio",
             "computational/data"
@@ -4344,6 +4391,33 @@
         "non_member_fee": "€900",
         "max_fee": "€900",
         "uid": "photocat24schoolofph02Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Molecular Biophysics of Membranes",
+        "url": "https://www.biophysics.org/2024tahoe",
+        "start_date": "02 Jun 2024",
+        "end_date": "07 Jun 2024",
+        "locations": [
+            "Tahoe, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "$1,800",
+        "non_member_fee": "$2,200",
+        "max_fee": "$2,200",
+        "uid": "molecularbiophysicso02Jun2024_0"
     },
     {
         "themes": [
@@ -5171,6 +5245,29 @@
         "non_member_fee": "—",
         "max_fee": "—",
         "uid": "acsdivisionoforganic25Jul2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ACS Publications Symposium: Catalysis for Organic Synthesis",
+        "url": "https://connect.acspubs.org/Symposium_CatalysisforOrganicSynthesis",
+        "start_date": "31 Jul 2024",
+        "end_date": "01 Aug 2024",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "acspublicationssympo31Jul2024_0"
     },
     {
         "themes": [
