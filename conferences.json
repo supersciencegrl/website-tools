@@ -26,30 +26,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Biological & Medicinal Chemistry Sector BMCS Postgraduate Symposium",
-        "url": "https://www.rscbmcs.org/events/psxvii/",
-        "start_date": "09 Jan 2024",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscbiologicalmedicin09Jan2024_0"
-    },
-    {
-        "themes": [
             "education"
         ],
         "regions": [
