@@ -148,7 +148,11 @@ def conference_html_to_dict(conference):
 
     column2 = conference.find('td', class_='column2')
     #my_dict['start_date'] = datetime.strptime(column2.text, '%d %b %Y') # Do not use datetime - not JSON serializable
-    my_dict['start_date'] = column2.text
+    try:
+        my_dict['start_date'] = column2.text
+    except AttributeError:
+        print(my_dict)
+        raise
 
     column3 = conference.find('td', class_='column3')
     end_date = column3.text
