@@ -1,81 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "business",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Intl Foundation of Process Analytical Chemistry IFPAC Conference",
-        "url": "https://ifpacglobal.org/",
-        "start_date": "03 Mar 2024",
-        "end_date": "06 Mar 2024",
-        "locations": [
-            "North Bethesda, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "member_fee": "$2,675",
-        "non_member_fee": "Unkn",
-        "max_fee": "$2,675",
-        "uid": "intlfoundationofproc03Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advances in Glycosciences",
-        "url": "https://glycoscience.sciencesconf.org/",
-        "start_date": "05 Mar 2024",
-        "end_date": "06 Mar 2024",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "advancesinglycoscien05Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Design of Experiments for Chemists & Engineers (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/20240305/",
-        "start_date": "05 Mar 2024",
-        "end_date": "06 Mar 2024",
-        "locations": [
-            "Nice, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€2,200",
-        "non_member_fee": "€2,200",
-        "max_fee": "€2,200",
-        "uid": "designofexperimentsf05Mar2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -766,6 +691,31 @@
         "non_member_fee": "€695",
         "max_fee": "€695",
         "uid": "europeanpolyamidecon13Mar2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Chemical space & synthesis automation informatics (members only)",
+        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2024/03/chemical-spaces-and-synthesis-automation-informatics-uk/",
+        "start_date": "13 Mar 2024",
+        "end_date": "14 Mar 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "chemicalspacesynthes13Mar2024_0"
     },
     {
         "themes": [
@@ -4177,6 +4127,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Advances in Machine Learning for Protein Design UK Workshop (members only)",
+        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2024/05/advances-in-machine-learning-for-protein-design-uk-workshop/",
+        "start_date": "21 May 2024",
+        "end_date": "22 May 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "advancesinmachinelea21May2024_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -7199,6 +7172,32 @@
         "non_member_fee": "€200–420",
         "max_fee": "€420",
         "uid": "3rdeuropeansamplepre15Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Advances in Machine Learning for Protein Design US Workshop (members only)",
+        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2024/09/advances-in-machine-learning-for-protein-design-ii-us/",
+        "start_date": "16 Sep 2024",
+        "end_date": "17 Sep 2024",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "advancesinmachinelea16Sep2024_0"
     },
     {
         "themes": [
