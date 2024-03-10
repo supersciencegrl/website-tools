@@ -1901,6 +1901,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "NFDI4Chem Consortium Meeting 4.5",
+        "url": "https://www.nfdi4chem.de/event/nfdi4chem-consortium-meeting-4-5/",
+        "start_date": "10 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "nfdi4chemconsortiumm10Apr2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano"
         ],
@@ -5949,6 +5971,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European School of Medicinal Chemistry ESMEC",
+        "url": "https://eventi.uniurb.it/esmec/",
+        "start_date": "30 Jun 2024",
+        "end_date": "04 Jul 2024",
+        "locations": [
+            "Urbino, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€550",
+        "non_member_fee": "€600",
+        "max_fee": "€600",
+        "uid": "europeanschoolofmedi30Jun2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -6071,6 +6117,30 @@
     },
     {
         "themes": [
+            "law/policy",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Preclinical Drug Discovery (summer school)",
+        "url": "https://www.ru.nl/en/education/education-for-professionals/overview/preclinical-drug-discovery-rss304",
+        "start_date": "01 Jul 2024",
+        "end_date": "05 Jul 2024",
+        "locations": [
+            "Oss, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "€630",
+        "non_member_fee": "€630",
+        "max_fee": "€630",
+        "uid": "preclinicaldrugdisco01Jul2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio",
             "computational/data",
@@ -6093,6 +6163,30 @@
         "non_member_fee": "£75",
         "max_fee": "£75",
         "uid": "machinelearningaiinb02Jul2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "58th Intl Conference on Medicinal Chemistry RICT 2024",
+        "url": "https://www.rict2024.org/",
+        "start_date": "03 Jul 2024",
+        "end_date": "05 Jul 2024",
+        "locations": [
+            "Bordeaux, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€720",
+        "non_member_fee": "€875",
+        "max_fee": "€875",
+        "uid": "58thintlconferenceon03Jul2024_0"
     },
     {
         "themes": [
