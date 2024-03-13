@@ -52,56 +52,6 @@
     },
     {
         "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Lab of the Future USA",
-        "url": "https://www.lab-of-the-future.com/USA/",
-        "start_date": "11 Mar 2024",
-        "end_date": "12 Mar 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$399–1,099",
-        "non_member_fee": "$399–1,099",
-        "max_fee": "$1,099",
-        "uid": "labofthefutureusa11Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Artificial Intelligence AI in Drug Discovery",
-        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/drug-discovery",
-        "start_date": "11 Mar 2024",
-        "end_date": "12 Mar 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,999",
-        "non_member_fee": "£1,999",
-        "max_fee": "£1,999",
-        "uid": "artificialintelligen11Mar2024_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "formulation/particle science",
             "materials/polymers",
@@ -124,29 +74,6 @@
         "non_member_fee": "$2,095",
         "max_fee": "$2,095",
         "uid": "statisticalanalysiso11Mar2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Smart Labs: Enabling Data-Driven Discovery",
-        "url": "https://info.collaborativedrug.com/berlin-seminar-2024",
-        "start_date": "12 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "smartlabsenablingdat12Mar2024_0"
     },
     {
         "themes": [
