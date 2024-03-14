@@ -1,31 +1,6 @@
 [
     {
         "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "The Florida Heterocyclic & Synthetic Chemistry Conference FloHet",
-        "url": "https://www.flohet.com/",
-        "start_date": "10 Mar 2024",
-        "end_date": "13 Mar 2024",
-        "locations": [
-            "Gainesville, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "member_fee": "$500",
-        "non_member_fee": "$500",
-        "max_fee": "$500",
-        "uid": "thefloridaheterocycl10Mar2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -77,29 +52,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Paperless Lab Academy PLA2024 Europe",
-        "url": "https://www.paperlesslabacademy.com/europe/",
-        "start_date": "12 Mar 2024",
-        "end_date": "13 Mar 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "paperlesslabacademyp12Mar2024_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -146,96 +98,6 @@
         "non_member_fee": "£2,019–4,415",
         "max_fee": "£4,415",
         "uid": "worldantibodydrugcon12Mar2024_0"
-    },
-    {
-        "themes": [],
-        "regions": [
-            "London"
-        ],
-        "title": "The development of the chemist's notebook",
-        "url": "https://www.rsc.org/events/detail/77987/the-development-of-the-chemist-s-notebook",
-        "start_date": "13 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "thedevelopmentofthec13Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Community for Analytical Measurement Science CAMS: The State of Data Analytics",
-        "url": "https://cams-uk.co.uk/",
-        "start_date": "13 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "communityforanalytic13Mar2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SGVC Symposium Industrial Crystallization (English language)",
-        "url": "https://www.sgvc.ch/society/de/event/sgvc-symposium-crystallisation/",
-        "start_date": "13 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Muttenz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF350",
-        "non_member_fee": "CHF380",
-        "max_fee": "CHF380",
-        "uid": "sgvcsymposiumindustr13Mar2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "GSK UK Biopharm Postgraduate Symposium",
-        "url": "https://www.linkedin.com/posts/laura-f-west_gsk-uk-biopharm-postgraduate-symposium-activity-7151564090442711040-e7my/",
-        "start_date": "13 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "—",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "gskukbiopharmpostgra13Mar2024_0"
     },
     {
         "themes": [
@@ -7087,6 +6949,30 @@
         "non_member_fee": "€900",
         "max_fee": "€900",
         "uid": "intlsolgelconference01Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Synthesis & properties of ionic liquids for application in supported ionic liquid phase SILP catalysis",
+        "url": "https://www.rscbmcs.org/events/ntgh24/",
+        "start_date": "03 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "synthesispropertieso03Sep2024_0"
     },
     {
         "themes": [
