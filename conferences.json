@@ -2,392 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Society of Toxicology SOT Annual Meeting",
-        "url": "https://www.toxicology.org/events/am/AM2024/",
-        "start_date": "10 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Salt Lake City, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "member_fee": "$125–875",
-        "non_member_fee": "$875",
-        "max_fee": "$875",
-        "uid": "societyoftoxicologys10Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Statistical analysis of laboratory data (training course)",
-        "url": "https://institute.acs.org/statistical-analysis-of-laboratory-data-online.html",
-        "start_date": "11 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$1,895–2,095",
-        "non_member_fee": "$2,095",
-        "max_fee": "$2,095",
-        "uid": "statisticalanalysiso11Mar2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Scientific Update: 51st Organic Process Research & Development OPRD",
-        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/20240312/",
-        "start_date": "12 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$2,499",
-        "non_member_fee": "$2,499",
-        "max_fee": "$2,499",
-        "uid": "scientificupdate51st12Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "World Antibody-Drug Conjugates ADC London",
-        "url": "https://worldadc-europe.com/",
-        "start_date": "12 Mar 2024",
-        "end_date": "15 Mar 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£2,019–4,415",
-        "non_member_fee": "£2,019–4,415",
-        "max_fee": "£4,415",
-        "uid": "worldantibodydrugcon12Mar2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Enabling Technologies in Organic Chemistry ETOC",
-        "url": "https://twitter.com/EtocSymposium/status/1759564407217021024",
-        "start_date": "13 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "enablingtechnologies13Mar2024_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "RNA Leaders Europe",
-        "url": "https://informaconnect.com/rna-leaders-europe/",
-        "start_date": "13 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "€1,250–2,500",
-        "non_member_fee": "€1,250–2,500",
-        "max_fee": "€2,500",
-        "uid": "rnaleaderseurope13Mar2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Polyamide Conference 2024",
-        "url": "https://www.woodmac.com/events/euro-polyamide-conference/",
-        "start_date": "13 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€695",
-        "non_member_fee": "€695",
-        "max_fee": "€695",
-        "uid": "europeanpolyamidecon13Mar2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Chemical space & synthesis automation informatics (members only)",
-        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2024/03/chemical-spaces-and-synthesis-automation-informatics-uk/",
-        "start_date": "13 Mar 2024",
-        "end_date": "14 Mar 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "chemicalspacesynthes13Mar2024_0"
-    },
-    {
-        "themes": [
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Biologics 2024",
-        "url": "https://oxfordglobal.com/biologics-series/",
-        "start_date": "13 Mar 2024",
-        "end_date": "15 Mar 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "biologics202413Mar2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "5th European Biotransformation Workshop",
-        "url": "https://www.dmdg.org/events/20240314/Default.asp",
-        "start_date": "14 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "£129",
-        "non_member_fee": "£129",
-        "max_fee": "£129",
-        "uid": "5theuropeanbiotransf14Mar2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "SCI Medicinal Chemistry Workshop (online)",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/sci-medicinal-chemistry-workshop-online-webinar",
-        "start_date": "14 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£60",
-        "non_member_fee": "£80",
-        "max_fee": "£80",
-        "uid": "scimedicinalchemistr14Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "KNIME DataHop Europe",
-        "url": "https://info.knime.com/datahop-munich",
-        "start_date": "14 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€20–40",
-        "non_member_fee": "€20–40",
-        "max_fee": "€40",
-        "uid": "knimedatahopeurope14Mar2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "HPAPI Handling & Manufacturing",
-        "url": "https://bcf-events.com/single-conference/2nd-hpapi-handling-manufacturing-summit-2024",
-        "start_date": "14 Mar 2024",
-        "end_date": "15 Mar 2024",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "hpapihandlingmanufac14Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "chem bio"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "11th RSC Analytical Biosciences Group Early Career Researcher Meeting 2024",
-        "url": "https://www.rsc.org/events/detail/76870/11th-analytical-biosciences-group-early-career-researcher-meeting-2024",
-        "start_date": "14 Mar 2024",
-        "end_date": "15 Mar 2024",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "11thrscanalyticalbio14Mar2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "8th RSC-BMCS Symposium on Mastering Medicinal Chemistry",
-        "url": "https://www.rscbmcs.org/events/mastermedchem24/",
-        "start_date": "15 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£130",
-        "non_member_fee": "£160",
-        "max_fee": "£160",
-        "uid": "8thrscbmcssymposiumo15Mar2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Process chemistry: What is it and how it's done (training course)",
-        "url": "https://institute.acs.org/process-chemistry-what-is-it-and-how-it-s-done-1.html",
-        "start_date": "16 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "member_fee": "$895–1,095",
-        "non_member_fee": "$1,095",
-        "max_fee": "$1,095",
-        "uid": "processchemistrywhat16Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "med chem",
             "pharma industry",
             "synthesis"
@@ -2906,6 +2520,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Education in the Chemistry Laboratory CLEAR24",
+        "url": "https://clearsymposium.weebly.com/",
+        "start_date": "02 May 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "educationinthechemis02May2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -4757,7 +4393,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "#BeilsteinBozen2024\n Beilstein Bozen Symposium 2024: AI in chemistry & biology: Evolution or revolution?",
+        "title": "Beilstein Bozen Symposium 2024: AI in chemistry & biology: Evolution or revolution?",
         "url": "https://www.beilstein-institut.de/en/symposia/bozen/",
         "start_date": "04 Jun 2024",
         "end_date": "06 Jun 2024",
@@ -4770,7 +4406,7 @@
         "member_fee": "€200",
         "non_member_fee": "€200",
         "max_fee": "€200",
-        "uid": "beilsteinbozen2024\nb04Jun2024_0"
+        "uid": "beilsteinbozensympos04Jun2024_0"
     },
     {
         "themes": [
@@ -6750,7 +6386,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "#summer-school24\n Swiss Summer School on Chemical Biology 2024",
+        "title": "Swiss Summer School on Chemical Biology 2024",
         "url": "https://summer-school24.scg.ch/",
         "start_date": "25 Aug 2024",
         "end_date": "29 Aug 2024",
@@ -6763,7 +6399,7 @@
         "member_fee": "CHF980",
         "non_member_fee": "CHF1,130",
         "max_fee": "CHF1,130",
-        "uid": "summerschool24\nswiss25Aug2024_0"
+        "uid": "swisssummerschoolonc25Aug2024_0"
     },
     {
         "themes": [
@@ -7031,7 +6667,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#NTGH24\n 3rd RSC/SCI New Therapeutics for Global Health",
+        "title": "3rd RSC/SCI New Therapeutics for Global Health",
         "url": "https://www.rscbmcs.org/events/ntgh24/",
         "start_date": "09 Sep 2024",
         "end_date": "11 Sep 2024",
@@ -7044,7 +6680,7 @@
         "member_fee": "£320",
         "non_member_fee": "£400",
         "max_fee": "£400",
-        "uid": "ntgh24\n3rdrscscinewt09Sep2024_0"
+        "uid": "3rdrscscinewtherapeu09Sep2024_0"
     },
     {
         "themes": [
@@ -7665,7 +7301,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "#scmc24\n 15th Swiss Course on Medicinal Chemistry 2024",
+        "title": "15th Swiss Course on Medicinal Chemistry 2024",
         "url": "https://scmc24.scg.ch/",
         "start_date": "13 Oct 2024",
         "end_date": "18 Oct 2024",
@@ -7678,7 +7314,7 @@
         "member_fee": "CHF3,300",
         "non_member_fee": "CHF3,700",
         "max_fee": "CHF3,700",
-        "uid": "scmc24\n15thswisscour13Oct2024_0"
+        "uid": "15thswisscourseonmed13Oct2024_0"
     },
     {
         "themes": [
