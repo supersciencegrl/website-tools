@@ -3172,6 +3172,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Paedriatic Medicine: New & innovative development approaches",
+        "url": "https://www.jpag.org/?p=meetings&r=171",
+        "start_date": "16 May 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£195",
+        "non_member_fee": "£295",
+        "max_fee": "£295",
+        "uid": "paedriaticmedicinene16May2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "med chem",
