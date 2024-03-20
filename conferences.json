@@ -147,59 +147,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "environment/fuels",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Lab Facilities Summit",
-        "url": "https://www.amg-world.co.uk/lab-facilities/",
-        "start_date": "19 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$795",
-        "non_member_fee": "$795",
-        "max_fee": "$795",
-        "uid": "labfacilitiessummit19Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "computational/data",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Centre for Process Analytics & Control Technology CPACT Research Day",
-        "url": "https://www.cpact.com/Events/Event?eid=324",
-        "start_date": "19 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "centreforprocessanal19Mar2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "formulation/particle science",
             "pharma industry"
@@ -2014,6 +1961,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Hackathon: Democratizing Data in the Life Sciences",
+        "url": "https://www.pistoiaalliance.org/eventdetails/democratising-data-in-the-life-sciences-the-role-of-llms/",
+        "start_date": "23 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "hackathondemocratizi23Apr2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "law/policy",
@@ -3075,6 +3044,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "advancesincellbaseds15May2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Advanced Materials Show (trade fair)",
+        "url": "https://advancedmaterialsshow.com/",
+        "start_date": "15 May 2024",
+        "end_date": "16 May 2024",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "advancedmaterialssho15May2024_0"
     },
     {
         "themes": [
@@ -5053,6 +5045,30 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Biotech Outsourcing Summit BOS Basel 2024",
+        "url": "https://www.bio2bevents.com/bosbasel2024/",
+        "start_date": "19 Jun 2024",
+        "end_date": "20 Jun 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "£720",
+        "non_member_fee": "£720",
+        "max_fee": "£720",
+        "uid": "biotechoutsourcingsu19Jun2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "med chem"
         ],
@@ -6636,6 +6652,33 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ChemOutsourcing Week",
+        "url": "https://www.chemoutsourcing.com/index.php",
+        "start_date": "03 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Parsippany, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "$250–995",
+        "non_member_fee": "$250–995",
+        "max_fee": "$995",
+        "uid": "chemoutsourcingweek03Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -7272,6 +7315,30 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CPHI Europe (trade fair)",
+        "url": "https://www.cphi.com/europe/en/home.html",
+        "start_date": "08 Oct 2024",
+        "end_date": "10 Oct 2024",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€59–;479",
+        "non_member_fee": "€59–;479",
+        "max_fee": ";479",
+        "uid": "cphieuropetradefair08Oct2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -7537,6 +7604,30 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "acsleadslastingencou09Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Automated Synthesis Forum",
+        "url": "https://automatedsynthesisforum.com/",
+        "start_date": "11 Nov 2024",
+        "end_date": "12 Nov 2024",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£140",
+        "non_member_fee": "£140",
+        "max_fee": "£140",
+        "uid": "automatedsynthesisfo11Nov2024_0"
     },
     {
         "themes": [
