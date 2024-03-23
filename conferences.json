@@ -1,249 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Frontiers in Medicinal Chemistry",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11632",
-        "start_date": "17 Mar 2024",
-        "end_date": "20 Mar 2024",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "frontiersinmedicinal17Mar2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "ACS Spring National Meeting",
-        "url": "https://www.acs.org/meetings/acs-meetings/spring.html",
-        "start_date": "17 Mar 2024",
-        "end_date": "21 Mar 2024",
-        "locations": [
-            "New Orleans, LA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "member_fee": "$0–399",
-        "non_member_fee": "$399–799",
-        "max_fee": "$799",
-        "uid": "acsspringnationalmee17Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Mass Spectrometry & Advances in the Clinical Lab MSACL 2024",
-        "url": "https://www.msacl.org/",
-        "start_date": "17 Mar 2024",
-        "end_date": "22 Mar 2024",
-        "locations": [
-            "Monterey, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$1,500",
-        "non_member_fee": "$1,500",
-        "max_fee": "$1,500",
-        "uid": "massspectrometryadva17Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Bio-Europe Spring",
-        "url": "https://informaconnect.com/bioeurope-spring/",
-        "start_date": "18 Mar 2024",
-        "end_date": "20 Mar 2024",
-        "locations": [
-            "Barcelona, Spain",
-            "Online"
-        ],
-        "countries": [
-            "Spain",
-            "Online"
-        ],
-        "member_fee": "€2,495–2,595",
-        "non_member_fee": "€2,495–2,595",
-        "max_fee": "€2,595",
-        "uid": "bioeuropespring18Mar2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biocatalysis as a Tool for the Synthetic Chemist (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-as-a-tool-for-the-synthetic-chemist/",
-        "start_date": "18 Mar 2024",
-        "end_date": "21 Mar 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,699",
-        "non_member_fee": "£1,699",
-        "max_fee": "£1,699",
-        "uid": "biocatalysisasatoolf18Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Advanced Therapeutics 2024",
-        "url": "https://www.terrapinn.com/congress/advanced-therapies/index.stm",
-        "start_date": "19 Mar 2024",
-        "end_date": "20 Mar 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£395–1,495",
-        "non_member_fee": "£395–1,495",
-        "max_fee": "£1,495",
-        "uid": "advancedtherapeutics19Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "4th Targeted Protein Degradation Europe",
-        "url": "https://tpd-europe.com/",
-        "start_date": "19 Mar 2024",
-        "end_date": "21 Mar 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "$2,199–2,997",
-        "non_member_fee": "$2,199–2,997",
-        "max_fee": "$2,997",
-        "uid": "4thtargetedproteinde19Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Specialist in Land Condition SiLC Annual Forum",
-        "url": "https://www.silc.org.uk/event/silc-annual-forum-2024/",
-        "start_date": "20 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£32–72",
-        "non_member_fee": "£112",
-        "max_fee": "£112",
-        "uid": "specialistinlandcond20Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "ELRIG Research & Innovation 2024",
-        "url": "https://elrig.org/portfolio/research-innovation-2024/",
-        "start_date": "20 Mar 2024",
-        "end_date": "21 Mar 2024",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "elrigresearchinnovat20Mar2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -267,128 +24,6 @@
         "non_member_fee": "£750",
         "max_fee": "£750",
         "uid": "chem4energy202420Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "materials/polymers",
-            "pharma industry",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Considering the raw materials: API & Excipients",
-        "url": "https://www.jpag.org/?p=meetings&r=170",
-        "start_date": "21 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£45–195",
-        "non_member_fee": "£295",
-        "max_fee": "£295",
-        "uid": "consideringtherawmat21Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Research Data Management Workshop for Chemists in Bonn",
-        "url": "https://www.nfdi4chem.de/event/research-data-management-workshop-for-chemists-in-bonn/",
-        "start_date": "21 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "researchdatamanageme21Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "NextGen Omics US 2024",
-        "url": "https://oxfordglobal.com/omics/events/nextgen-omics-us-2024",
-        "start_date": "21 Mar 2024",
-        "end_date": "22 Mar 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "nextgenomicsus202421Mar2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ARTEMIS: Indian National Conference on Antimicrobial Resistance: Trends, Environmental Microbiology & Industrial Solutions",
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7166798531674955776/",
-        "start_date": "21 Mar 2024",
-        "end_date": "22 Mar 2024",
-        "locations": [
-            "Gandhinagar, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "INR2,500",
-        "non_member_fee": "INR2,500",
-        "max_fee": "INR2,500",
-        "uid": "artemisindiannationa21Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Peptide Society: Chemistry & Biology of Peptides",
-        "url": "https://www.pepsoc.uk/",
-        "start_date": "22 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Runcorn, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "britishpeptidesociet22Mar2024_0"
     },
     {
         "themes": [
@@ -3483,6 +3118,32 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "2nd Postdoctoral Symposium of the Heterocyclic & Synthesis Group",
+        "url": "https://www.rsc.org/events/detail/78573/2nd-postdoctoral-symposium-heterocyclic-and-synthesis-group",
+        "start_date": "21 May 2024",
+        "end_date": null,
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£20–35",
+        "non_member_fee": "£35–50",
+        "max_fee": "£50",
+        "uid": "2ndpostdoctoralsympo21May2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -5120,6 +4781,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Syngenta Scholarship Scheme in Organic Chemistry",
+        "url": "https://www.syngenta.co.uk/jealotts-hill/syngenta-scholarship-2024",
+        "start_date": "23 Jun 2024",
+        "end_date": "25 Jun 2024",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "syngentascholarships23Jun2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
@@ -5589,7 +5272,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Preclinical Drug Discovery (summer school)",
+        "title": "Radboud Summer School in Preclinical Drug Discovery (summer school)",
         "url": "https://www.ru.nl/en/education/education-for-professionals/overview/preclinical-drug-discovery-rss304",
         "start_date": "01 Jul 2024",
         "end_date": "05 Jul 2024",
@@ -5602,7 +5285,7 @@
         "member_fee": "€630",
         "non_member_fee": "€630",
         "max_fee": "€630",
-        "uid": "preclinicaldrugdisco01Jul2024_0"
+        "uid": "radboudsummerschooli01Jul2024_0"
     },
     {
         "themes": [
@@ -6652,6 +6335,36 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "HalChem XI: Intl Meeting on Halogen Chemistry",
+        "url": "https://chemistry.jhu.edu/halchem/",
+        "start_date": "03 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Baltimore, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "member_fee": "$150–400",
+        "non_member_fee": "$150–400",
+        "max_fee": "$400",
+        "uid": "halchemxiintlmeeting03Sep2024_0"
+    },
+    {
+        "themes": [
             "business",
             "process/engineering",
             "synthesis"
@@ -7588,8 +7301,8 @@
             "Eastern USA"
         ],
         "title": "ACS LEADS: Lasting Encounters between Aspiring & Distinguished Scientists",
-        "url": "https://www.acs.org/education/students/leads-conference.html?sc=231031_em_reg_erlycareer_email1",
-        "start_date": "09 Nov 2024",
+        "url": "https://www.acs.org/education/students/leads-conference.html",
+        "start_date": "07 Nov 2024",
         "end_date": "09 Nov 2024",
         "locations": [
             "Washington, DC, USA"
@@ -7603,7 +7316,33 @@
         "member_fee": "Application",
         "non_member_fee": "Application",
         "max_fee": "Application",
-        "uid": "acsleadslastingencou09Nov2024_0"
+        "uid": "acsleadslastingencou07Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "SLAS Data Sciences & AI Symposium",
+        "url": "https://www.slas.org/events-calendar/slas-2024-data-sciences-and-ai-symposium/",
+        "start_date": "12 Nov 2024",
+        "end_date": "13 Nov 2024",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$425–475",
+        "non_member_fee": "$500–550",
+        "max_fee": "$550",
+        "uid": "slasdatasciencesaisy12Nov2024_0"
     },
     {
         "themes": [
