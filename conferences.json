@@ -1,32 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "computational/data",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "Chem4Energy 2024",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/chem4energy",
-        "start_date": "20 Mar 2024",
-        "end_date": "24 Mar 2024",
-        "locations": [
-            "Muldersdrift, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "member_fee": "£750",
-        "non_member_fee": "£750",
-        "max_fee": "£750",
-        "uid": "chem4energy202420Mar2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -244,6 +218,30 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "organicchemistrycomm27Mar2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Natural products & other bioactive molecules",
+        "url": "https://www.linkedin.com/posts/daniela-imperio_are-you-interested-in-natural-products-activity-7172273016947499008-VQO5/",
+        "start_date": "27 Mar 2024",
+        "end_date": null,
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "naturalproductsother27Mar2024_0"
     },
     {
         "themes": [
@@ -601,6 +599,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Irish Variety in Chemistry Education Meeting 2024",
+        "url": "https://irishvarietyinchemistryeducation2024.wordpress.com/",
+        "start_date": "05 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "€10",
+        "non_member_fee": "€10",
+        "max_fee": "€10",
+        "uid": "irishvarietyinchemis05Apr2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "diversity",
             "education"
@@ -862,6 +882,37 @@
     {
         "themes": [
             "analytical",
+            "formulation/particle science",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "US Pharmacopoeia Workshop on Therapeutic Peptides & Oligonucleotides: Regulations & Quality Standards",
+        "url": "https://www.usp.org/events-training/usp-at-events/usp-workshop-on-therapeutic-peptides-and-oligonucleotides",
+        "start_date": "09 Apr 2024",
+        "end_date": "10 Apr 2024",
+        "locations": [
+            "Rockville, MD, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "member_fee": "$300–1,000",
+        "non_member_fee": "$300–1,000",
+        "max_fee": "$1,000",
+        "uid": "uspharmacopoeiaworks09Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "automation",
             "business",
             "formulation/particle science"
@@ -1070,6 +1121,30 @@
         "non_member_fee": "—",
         "max_fee": "—",
         "uid": "automatingchemicalla11Apr2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "19th Food Colloids Conference",
+        "url": "https://foodcolloids2024.org/",
+        "start_date": "14 Apr 2024",
+        "end_date": "18 Apr 2024",
+        "locations": [
+            "Thessaloniki, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "member_fee": "€120–500",
+        "non_member_fee": "€120–500",
+        "max_fee": "€500",
+        "uid": "19thfoodcolloidsconf14Apr2024_0"
     },
     {
         "themes": [
@@ -1477,6 +1552,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Polybenzoxazines, Composites, & Spectroscopy: Hatsuo Ishida Symposium",
+        "url": "https://casealumni.org/professor-hatsuo-ishida-symposium/",
+        "start_date": "19 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Cleveland, OH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OH"
+        ],
+        "member_fee": "$20",
+        "non_member_fee": "$20",
+        "max_fee": "$20",
+        "uid": "polybenzoxazinescomp19Apr2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
@@ -1496,6 +1597,32 @@
         "non_member_fee": "€1,735",
         "max_fee": "€1,735",
         "uid": "18thefmcshortcourseo21Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe",
+            "Online"
+        ],
+        "title": "LINXS Science Day on New Materials",
+        "url": "https://www.linxs.se/events/2024/04/22/linxs-science-day-new-materials-conference",
+        "start_date": "22 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Lund, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "linxssciencedayonnew22Apr2024_0"
     },
     {
         "themes": [
@@ -1615,6 +1742,32 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "hackathondemocratizi23Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Multiscale structure of food materials II",
+        "url": "https://www.linxs.se/events/2024/04/23/multiscale-structure-of-food-materials-linxs-event",
+        "start_date": "23 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Ultuna, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "multiscalestructureo23Apr2024_0"
     },
     {
         "themes": [
@@ -2199,6 +2352,33 @@
         "non_member_fee": "$0–500",
         "max_fee": "$500",
         "uid": "considerationsandpot02May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "med chem"
+        ],
+        "regions": [
+            "Northern Europe",
+            "Online"
+        ],
+        "title": "Neutron scattering in drug discovery, design, & formulation",
+        "url": "https://www.linxs.se/events/2024/05/07-08/neutron-diffraction-in-drug-discovery-linxs-event",
+        "start_date": "07 May 2024",
+        "end_date": "08 May 2024",
+        "locations": [
+            "Lund, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "member_fee": "SEK350–700",
+        "non_member_fee": "SEK350–700",
+        "max_fee": "SEK700",
+        "uid": "neutronscatteringind07May2024_0"
     },
     {
         "themes": [
@@ -3092,32 +3272,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "PD2M Conference on Modeling and Simulation Applications in Pharmaceutical Development & Manufacturing",
-        "url": "https://www.aiche.org/conferences/pd2m-conference-on-modeling-and-simulation-pharmaceutical-development-and-manufacturing/2024",
-        "start_date": "21 May 2024",
-        "end_date": "22 May 2024",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "pd2mconferenceonmode21May2024_0"
-    },
-    {
-        "themes": [
             "careers",
             "catalysis",
             "med chem",
@@ -3144,6 +3298,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "PD2M Conference on Modeling and Simulation Applications in Pharmaceutical Development & Manufacturing",
+        "url": "https://www.aiche.org/conferences/pd2m-conference-on-modeling-and-simulation-pharmaceutical-development-and-manufacturing/2024",
+        "start_date": "21 May 2024",
+        "end_date": "22 May 2024",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "pd2mconferenceonmode21May2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -3164,6 +3344,29 @@
         "non_member_fee": "—",
         "max_fee": "—",
         "uid": "advancesinmachinelea21May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Exploring Dynamic Properties of Earth and Planetary Materials Using Neutron and X-Ray Methods",
+        "url": "https://www.isrdrcn.org/workshops/ill-next-2024/",
+        "start_date": "21 May 2024",
+        "end_date": "23 May 2024",
+        "locations": [
+            "Grenoble, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "exploringdynamicprop21May2024_0"
     },
     {
         "themes": [
@@ -3457,6 +3660,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Northern Lights on Food Conference: Boosting structural food science",
+        "url": "https://www.linxs.se/events/2024/05/27-29/northern-lights-on-food-conference-v-boosting-structural-food-science",
+        "start_date": "27 May 2024",
+        "end_date": "29 May 2024",
+        "locations": [
+            "Lund, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "SEK2,900",
+        "non_member_fee": "SEK2,900",
+        "max_fee": "SEK2,900",
+        "uid": "northernlightsonfood27May2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -3698,6 +3924,30 @@
         "non_member_fee": "£599–998",
         "max_fee": "£998",
         "uid": "nanova4thglobalsummi30May2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemistry of Life: Young Researchers' Symposium (students/postdocs)",
+        "url": "https://www.linxs.se/events/2024/05/30-31/chemlife-young-researchers-linxs-event",
+        "start_date": "30 May 2024",
+        "end_date": "31 May 2024",
+        "locations": [
+            "Lund, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemistryoflifeyoung30May2024_0"
     },
     {
         "themes": [
@@ -4355,6 +4605,56 @@
     {
         "themes": [
             "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Neutrons & Food",
+        "url": "https://sites.udel.edu/neutronsandfood7/",
+        "start_date": "10 Jun 2024",
+        "end_date": "14 Jun 2024",
+        "locations": [
+            "Newark, DE, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DE"
+        ],
+        "member_fee": "$500",
+        "non_member_fee": "$500",
+        "max_fee": "$500",
+        "uid": "neutronsfood10Jun2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Trends in Magnetism 2024",
+        "url": "https://indico.lucas.lu.se/event/2924/overview",
+        "start_date": "10 Jun 2024",
+        "end_date": "14 Jun 2024",
+        "locations": [
+            "Lund, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "trendsinmagnetism20210Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "business",
             "process/engineering"
         ],
@@ -4559,6 +4859,29 @@
         "non_member_fee": "€170",
         "max_fee": "€170",
         "uid": "cheminformaticsautom16Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "TNT Training on Neutron Techniques: Small angle scattering & reflectometry",
+        "url": "https://www.linxs.se/events/2024/05/30-31/chemlife-young-researchers-linxs-event",
+        "start_date": "16 Jun 2024",
+        "end_date": "21 Jun 2024",
+        "locations": [
+            "Valle Aurina, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€400",
+        "non_member_fee": "€400",
+        "max_fee": "€400",
+        "uid": "tnttrainingonneutron16Jun2024_0"
     },
     {
         "themes": [
@@ -4874,6 +5197,29 @@
         "non_member_fee": "$625",
         "max_fee": "$625",
         "uid": "americanconferenceon23Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CSAMA 2024: Biological Data Science",
+        "url": "https://csama2024.bioconductor.eu/",
+        "start_date": "23 Jun 2024",
+        "end_date": "28 Jun 2024",
+        "locations": [
+            "Brixen, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€1,430–2,475",
+        "non_member_fee": "€1,430–2,475",
+        "max_fee": "€2,475",
+        "uid": "csama2024biologicald23Jun2024_0"
     },
     {
         "themes": [
@@ -5829,6 +6175,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Oxford Synthesis Summer Conference OSSC2024",
+        "url": "https://ossc.web.ox.ac.uk/",
+        "start_date": "25 Jul 2024",
+        "end_date": "26 Jul 2024",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£20",
+        "non_member_fee": "£20",
+        "max_fee": "£20",
+        "uid": "oxfordsynthesissumme25Jul2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "materials/polymers",
@@ -6005,6 +6374,29 @@
         "non_member_fee": "$2,095",
         "max_fee": "$2,095",
         "uid": "statisticalanalysiso12Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Intl Conference on X-Ray Microscopy",
+        "url": "https://www.xrm2024.com/",
+        "start_date": "12 Aug 2024",
+        "end_date": "16 Aug 2024",
+        "locations": [
+            "Lund, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "SEK3,270–5,525",
+        "non_member_fee": "SEK3,270–5,525",
+        "max_fee": "SEK5,525",
+        "uid": "intlconferenceonxray12Aug2024_0"
     },
     {
         "themes": [
@@ -6216,6 +6608,29 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Group for the Promotion of Pharmaceutical Chemistry in Academia GP2A Medicinal Chemistry Conference",
+        "url": "https://gp2a.org/index.php/gp2a-2024-32nd-annual-conference-august-28th-to-30th-2024/",
+        "start_date": "28 Aug 2024",
+        "end_date": "30 Aug 2024",
+        "locations": [
+            "Coimbra, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "€250",
+        "non_member_fee": "€300",
+        "max_fee": "€300",
+        "uid": "groupforthepromotion28Aug2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -6308,6 +6723,54 @@
         "non_member_fee": "€900",
         "max_fee": "€900",
         "uid": "intlsolgelconference01Sep2024_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "38th Conference of the European Colloid & Interface Society ECIS",
+        "url": "https://ecis2024.org/",
+        "start_date": "01 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "€400–1,000",
+        "non_member_fee": "€400–1,000",
+        "max_fee": "€1,000",
+        "uid": "38thconferenceofthee01Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "RÅC Intl Summer School 2024: X-Ray & neutron research on bioinspired materials & sustainable energy technology",
+        "url": "https://www.rac-school.org/rac2024",
+        "start_date": "01 Sep 2024",
+        "end_date": "08 Sep 2024",
+        "locations": [
+            "Krakow, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "råcintlsummerschool201Sep2024_0"
     },
     {
         "themes": [
@@ -6587,6 +7050,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "13th RDKit UGM 2024",
+        "url": "https://www.eventbrite.com/e/13th-rdkit-ugm-2024-tickets-860637719587",
+        "start_date": "11 Sep 2024",
+        "end_date": "13 Sep 2024",
+        "locations": [
+            "Zurich, Switzerland",
+            "Online"
+        ],
+        "countries": [
+            "Switzerland",
+            "Online"
+        ],
+        "member_fee": "$380–680",
+        "non_member_fee": "$380–740",
+        "max_fee": "$740",
+        "uid": "13thrdkitugm202411Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -6683,6 +7171,36 @@
         "non_member_fee": "£282–430",
         "max_fee": "£430",
         "uid": "7thartificialintelli16Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "50th North American Thermal Analysis Society NATAS Annual Conference & Baekeland Symposium",
+        "url": "https://www.natasinfo.org/site_page.cfm?pk_association_webpage_menu=2008&pk_association_webpage=25637",
+        "start_date": "16 Sep 2024",
+        "end_date": "19 Sep 2024",
+        "locations": [
+            "Knoxville, TN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TN"
+        ],
+        "member_fee": "$380–680",
+        "non_member_fee": "$380–740",
+        "max_fee": "$740",
+        "uid": "50thnorthamericanthe16Sep2024_0"
     },
     {
         "themes": [
@@ -7148,6 +7666,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "iDMT Making Digital Labs a Reality: Skills workshop",
+        "url": "https://www.idmt.online/makingdigitallabsskillsworkshop",
+        "start_date": "22 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£130",
+        "non_member_fee": "£130",
+        "max_fee": "£130",
+        "uid": "idmtmakingdigitallab22Oct2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "med chem",
@@ -7321,6 +7861,30 @@
     {
         "themes": [
             "automation",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Automated Synthesis Forum",
+        "url": "https://automatedsynthesisforum.com/",
+        "start_date": "11 Nov 2024",
+        "end_date": "12 Nov 2024",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£140",
+        "non_member_fee": "£140",
+        "max_fee": "£140",
+        "uid": "automatedsynthesisfo11Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
             "computational/data"
         ],
         "regions": [
@@ -7346,27 +7910,27 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data",
-            "synthesis"
+            "business",
+            "formulation/particle science",
+            "pharma industry"
         ],
         "regions": [
-            "Midlands"
+            "Western Europe"
         ],
-        "title": "Automated Synthesis Forum",
-        "url": "https://automatedsynthesisforum.com/",
-        "start_date": "11 Nov 2024",
-        "end_date": "12 Nov 2024",
+        "title": "TIDES Europe (oligos, peptides, mRNA, drug delivery & partnering)",
+        "url": "https://www.slas.org/events-calendar/slas-2024-data-sciences-and-ai-symposium/",
+        "start_date": "12 Nov 2024",
+        "end_date": "14 Nov 2024",
         "locations": [
-            "Oxford, UK"
+            "Hamburg, Germany"
         ],
         "countries": [
-            "UK"
+            "Germany"
         ],
-        "member_fee": "£140",
-        "non_member_fee": "£140",
-        "max_fee": "£140",
-        "uid": "automatedsynthesisfo11Nov2024_0"
+        "member_fee": "$3,799–4,499",
+        "non_member_fee": "$3,799–4,499",
+        "max_fee": "$4,499",
+        "uid": "tideseuropeoligospep12Nov2024_0"
     },
     {
         "themes": [
