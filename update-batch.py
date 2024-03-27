@@ -36,6 +36,28 @@ def inputToHtml(my_input):
 
     return edited_list
 
+def obtain_html_from_user():
+    """
+    This function prompts the user to input old and new HTML data. It then converts the input to HTML format.
+    
+    Returns:
+    str: The old HTML data entered by the user.
+    str: The new HTML data entered by the user.
+    """
+    print('WARNING: Recommend git push before editing for easy reversion to original.\n')
+    
+    oldhtml = ''
+    while not oldhtml:
+        oldhtml = input('Old html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
+    oldhtml = inputToHtml(oldhtml)
+
+    newhtml = ''
+    while not newhtml:
+        newhtml = input('New html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
+    newhtml = inputToHtml(newhtml)
+
+    return oldhtml, newhtml
+
 def run(pages, oldhtml, newhtml):
     """
     Replaces all instances of `oldhtml` with `newhtml` in the `pages` list of files.
@@ -79,25 +101,10 @@ for exc in exclusions:
     idx = pages.index(exc)
     _ = pages.pop(idx)
 
-print('WARNING: Recommend git push before editing for easy reversion to original.\n')
-oldhtml = ''
-while not oldhtml:
-    oldhtml = input('Old html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
-oldhtml = inputToHtml(oldhtml)
-
-newhtml = ''
-while not newhtml:
-    newhtml = input('New html (copy tabs as tabs without changing; replace newlines with \'\\n\'): ')
-newhtml = inputToHtml(newhtml)
-
-# Example html
-#oldhtml = ['\t<meta property="og:image" content="http://www.supersciencegrl.co.uk/SuperScienceGrl.png">\n',
-#           '\t<meta property="og:image:alt" content="Nessa Carson website: a chemistry repository">\n',
-#           '\t<meta property="og:image:width" content="892px">\n',
-#           '\t<meta property="og:image:height" content="593px">\n']
-#newhtml = ['\t<meta property="og:image" content="http://www.supersciencegrl.co.uk/SuperScienceGrl2.png">\n',
-#           '\t<meta property="og:image:alt" content="Nessa Carson website: a chemistry repository">\n',
-#           '\t<meta property="og:image:width" content="1080px">\n',
-#           '\t<meta property="og:image:height" content="749px">\n']
-
-run(pages, oldhtml, newhtml)
+# Obtain user inputs and replace all oldhtml with newhtml
+oldhtml, newhtml = obtain_html_from_user()
+result = input('\nProceed? (Y/N) ')
+if result.lower() in 'yestrue1':
+    run(pages, oldhtml, newhtml)
+else:
+    print('Operation aborted.')
