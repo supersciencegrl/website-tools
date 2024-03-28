@@ -1,30 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Europt(r)ode XVI: Optical chemical sensors & biosensors",
-        "url": "https://uobevents.eventsair.com/europtrode-xvi/",
-        "start_date": "24 Mar 2024",
-        "end_date": "27 Mar 2024",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£500",
-        "non_member_fee": "£500",
-        "max_fee": "£500",
-        "uid": "europtrodexvioptical24Mar2024_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -48,200 +24,6 @@
         "non_member_fee": "$450–1,135",
         "max_fee": "$1,135",
         "uid": "aichespringmeetinggl24Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "An Introduction to Powder Technology (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/what-next-after-crystallization/",
-        "start_date": "25 Mar 2024",
-        "end_date": "26 Mar 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£499",
-        "non_member_fee": "£499",
-        "max_fee": "£499",
-        "uid": "anintroductiontopowd25Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Thermal Analysis & Calorimetry Conference 2024",
-        "url": "https://www.thermalmethodsgroup.org.uk/tac-2024",
-        "start_date": "25 Mar 2024",
-        "end_date": "27 Mar 2024",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "thermalanalysiscalor25Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Crystallization Science & Engineering (training course)",
-        "url": "https://eps.leeds.ac.uk/short-course/1/faculty-of-engineering-and-physical-sciences/983/crystallisation-science-and-engineering",
-        "start_date": "25 Mar 2024",
-        "end_date": "27 Mar 2024",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,110",
-        "non_member_fee": "£1,110",
-        "max_fee": "£1,110",
-        "uid": "crystallizationscien25Mar2024_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Organic Chemistry Community North East Regional Meeting 2024",
-        "url": "https://www.rsc.org/events/detail/78189/rsc-organic-chemistry-community-north-east-regional-meeting-2024",
-        "start_date": "26 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Hull, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscorganicchemistryc26Mar2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Biopolymer Summit",
-        "url": "https://www.wplgroup.com/aci/event/european-biopolymer-summit/",
-        "start_date": "26 Mar 2024",
-        "end_date": "27 Mar 2024",
-        "locations": [
-            "Ghent, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "£495–1,610",
-        "non_member_fee": "£495–1,610",
-        "max_fee": "£1,610",
-        "uid": "europeanbiopolymersu26Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Making Pharmaceuticals Italy (trade fair)",
-        "url": "https://www.makingpharma.it/",
-        "start_date": "26 Mar 2024",
-        "end_date": "27 Mar 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "makingpharmaceutical26Mar2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Organic Chemistry Community North West Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/77707/organic-division-north-west-regional-meeting",
-        "start_date": "27 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "organicchemistrycomm27Mar2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Natural products & other bioactive molecules",
-        "url": "https://www.linkedin.com/posts/daniela-imperio_are-you-interested-in-natural-products-activity-7172273016947499008-VQO5/",
-        "start_date": "27 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "naturalproductsother27Mar2024_0"
     },
     {
         "themes": [
@@ -2013,6 +1795,29 @@
         "non_member_fee": "£130",
         "max_fee": "£130",
         "uid": "newmodalitiesinnovat25Apr2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AWS Life Sciences R&D Day London",
+        "url": "https://awslifesciencesrddaylondon.splashthat.com/",
+        "start_date": "25 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "awslifesciencesrdday25Apr2024_0"
     },
     {
         "themes": [
