@@ -1,54 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "AIChE Spring Meeting & Global Congress on Process Safety",
-        "url": "https://www.aiche.org/conferences/aiche-spring-meeting-and-global-congress-on-process-safety/2024",
-        "start_date": "24 Mar 2024",
-        "end_date": "28 Mar 2024",
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "member_fee": "$105–1,135",
-        "non_member_fee": "$450–1,135",
-        "max_fee": "$1,135",
-        "uid": "aichespringmeetinggl24Mar2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Bayesian Optimization Hackathon for Chemistry & Materials Science",
-        "url": "https://ac-bo-hackathon.github.io/",
-        "start_date": "27 Mar 2024",
-        "end_date": "28 Mar 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "bayesianoptimization27Mar2024_0"
-    },
-    {
-        "themes": [
             "careers",
             "diversity"
         ],
@@ -694,6 +646,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Polymesse (student recruitment fair)",
+        "url": "https://www.polymesse.ch/en/",
+        "start_date": "09 Apr 2024",
+        "end_date": "11 Apr 2024",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "polymessestudentrecr09Apr2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "business",
@@ -1235,6 +1209,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "In-Cosmetics Global (trade fair)",
+        "url": "https://www.in-cosmetics.com/global/en-gb.html",
+        "start_date": "16 Apr 2024",
+        "end_date": "18 Apr 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "incosmeticsglobaltra16Apr2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "pharma industry",
             "process/engineering"
@@ -1281,6 +1277,29 @@
         "non_member_fee": "SEK4,700",
         "max_fee": "SEK4,700",
         "uid": "swedishmedicinalchem17Apr2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CPHI Japan & Pharma IT & Digital Health Expo (trade fair)",
+        "url": "https://www.cphi.com/japan/en/home.html",
+        "start_date": "17 Apr 2024",
+        "end_date": "19 Apr 2024",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "cphijapanpharmaitdig17Apr2024_0"
     },
     {
         "themes": [
@@ -2213,6 +2232,31 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "CPHI North America (trade fair)",
+        "url": "https://www.cphi.com/northamerica/en/home.html",
+        "start_date": "07 May 2024",
+        "end_date": "09 May 2024",
+        "locations": [
+            "Pennsylvania, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "$59–359",
+        "non_member_fee": "$59–359",
+        "max_fee": "$359",
+        "uid": "cphinorthamericatrad07May2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -2498,6 +2542,32 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pharma Manufacturing World Summit PMWS24 (trade fair)",
+        "url": "https://pharmamanworld.com/",
+        "start_date": "13 May 2024",
+        "end_date": "15 May 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$2,995",
+        "non_member_fee": "$2,995",
+        "max_fee": "$2,995",
+        "uid": "pharmamanufacturingw13May2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem"
         ],
@@ -2710,6 +2780,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "chemuk2024tradefair15May2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Sinophex, PharmChina, Pharmex, PharmPack, API China (trade fairs)",
+        "url": "https://www.apichina.com.cn/#/",
+        "start_date": "15 May 2024",
+        "end_date": "17 May 2024",
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "sinophexpharmchinaph15May2024_0"
     },
     {
         "themes": [
@@ -3343,6 +3437,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#AIinCER\n AI in Chemical Education Research",
+        "url": "https://rsccerg.wordpress.com/aiincer-event-23rd-may-2024/",
+        "start_date": "23 May 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "aiincer\naiinchemical23May2024_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "formulation/particle science",
@@ -3533,6 +3650,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "scschemistryandtheen28May2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Pharma Outsourcing Summit",
+        "url": "https://eposummit.com/",
+        "start_date": "28 May 2024",
+        "end_date": "29 May 2024",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "europeanpharmaoutsou28May2024_0"
     },
     {
         "themes": [
@@ -4238,6 +4378,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Day of Life Sciences",
+        "url": "https://www.zhaw.ch/en/lsfm/continuing-education/conferences-and-symposia/day-of-life-sciences/",
+        "start_date": "06 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Wädenswil, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "CHF150",
+        "non_member_fee": "CHF150",
+        "max_fee": "CHF150",
+        "uid": "dayoflifesciences06Jun2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -4551,6 +4714,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Disco@theDISC: Discovery Toxicology 2024: Emerging predictive toxicology capabilities across modalities",
+        "url": "https://www.eventbrite.co.uk/e/disco-at-the-disc-bts-discovery-toxicology-2024-tickets-806294256827?aff=oddtdtcreator",
+        "start_date": "12 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "discothediscdiscover12Jun2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -4710,6 +4896,31 @@
         "non_member_fee": "£200",
         "max_fee": "£200",
         "uid": "6thrscbmcsdrugmetabo17Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemical biology of protein homeostasis: From fundamentals to translational breakthroughs",
+        "url": "https://events.nyas.org/event/b834ed82-54a8-47e4-b242-17a65ed328d4/summary",
+        "start_date": "17 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "chemicalbiologyofpro17Jun2024_0"
     },
     {
         "themes": [
@@ -4909,6 +5120,29 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI China (trade fair)",
+        "url": "https://www.cphi.com/china/en/home.html",
+        "start_date": "19 Jun 2024",
+        "end_date": "21 Jun 2024",
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "CNY100",
+        "non_member_fee": "CNY100",
+        "max_fee": "CNY100",
+        "uid": "cphichinatradefair19Jun2024_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
@@ -5028,6 +5262,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Oligonucleotides & Peptides Conference IOPC",
+        "url": "https://www.iopc-tks.com/",
+        "start_date": "24 Jun 2024",
+        "end_date": "26 Jun 2024",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€400–1,000",
+        "non_member_fee": "€400–1,000",
+        "max_fee": "€1,000",
+        "uid": "intloligonucleotides24Jun2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -5119,6 +5376,35 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "futurelabslive26Jun2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "6th Annual RNA Therapeutics RNATx",
+        "url": "https://www.umassmed.edu/RNATx/",
+        "start_date": "26 Jun 2024",
+        "end_date": "28 Jun 2024",
+        "locations": [
+            "Worcester, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "€75–400",
+        "non_member_fee": "€75–400",
+        "max_fee": "€400",
+        "uid": "6thannualrnatherapeu26Jun2024_0"
     },
     {
         "themes": [
@@ -5437,6 +5723,29 @@
         "non_member_fee": "€630",
         "max_fee": "€630",
         "uid": "radboudsummerschooli01Jul2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Biomaterials Translation Workshop 2024",
+        "url": "https://www.linkedin.com/posts/christos-tapeinos-70a34733_universityofmanchester-activity-7173737963778932738-98JE/",
+        "start_date": "02 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "biomaterialstranslat02Jul2024_0"
     },
     {
         "themes": [
@@ -5838,6 +6147,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Meeting of the Nucleic Acid Therapeutics Society of Japan",
+        "url": "https://www.natsj.jp/2024/natsj9/",
+        "start_date": "15 Jul 2024",
+        "end_date": "18 Jul 2024",
+        "locations": [
+            "Sendai, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "JPY10,000",
+        "non_member_fee": "JPY16,000",
+        "max_fee": "JPY16,000",
+        "uid": "meetingofthenucleica15Jul2024_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -5977,6 +6309,28 @@
         "non_member_fee": "€250",
         "max_fee": "€250",
         "uid": "chemicalbiologyirela22Jul2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Bio Asia Taiwan",
+        "url": "https://www.natsj.jp/2024/natsj9/",
+        "start_date": "24 Jul 2024",
+        "end_date": "28 Jul 2024",
+        "locations": [
+            "Taipei, Taiwan"
+        ],
+        "countries": [
+            "Taiwan"
+        ],
+        "member_fee": "NTD11,200–16,100",
+        "non_member_fee": "NTD11,200–16,100",
+        "max_fee": "NTD16,100",
+        "uid": "bioasiataiwan24Jul2024_0"
     },
     {
         "themes": [
@@ -6301,6 +6655,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Peptide Therapeutics Forum 2024",
+        "url": "https://ptf24.scg.ch/",
+        "start_date": "22 Aug 2024",
+        "end_date": "23 Aug 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "CHF150",
+        "non_member_fee": "CHF200",
+        "max_fee": "CHF200",
+        "uid": "peptidetherapeuticsf22Aug2024_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -6387,6 +6765,52 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "10thintlconferenceon25Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Peptide Symposium & Intl Peptide Symposium",
+        "url": "https://eps2024.com/",
+        "start_date": "25 Aug 2024",
+        "end_date": "31 Aug 2024",
+        "locations": [
+            "Florence, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€615",
+        "non_member_fee": "€615",
+        "max_fee": "€615",
+        "uid": "europeanpeptidesympo25Aug2024_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI Korea",
+        "url": "https://www.cphi.com/korea/en/home.html",
+        "start_date": "27 Aug 2024",
+        "end_date": "29 Aug 2024",
+        "locations": [
+            "Seoul, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "cphikorea27Aug2024_0"
     },
     {
         "themes": [
@@ -6829,6 +7253,29 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Society for Lab Automation & Screening SLAS Microscale Innovation in Life Sciences Symposium",
+        "url": "https://www.slas.org/events-calendar/slas-2024-microscale-innovation-in-life-sciences-symposium/",
+        "start_date": "11 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "€350–475",
+        "non_member_fee": "€475–550",
+        "max_fee": "€550",
+        "uid": "societyforlabautomat11Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "law/policy",
@@ -7009,6 +7456,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Boulder Peptide Symposium BPS",
+        "url": "https://www.boulderpeptide.org/",
+        "start_date": "16 Sep 2024",
+        "end_date": "19 Sep 2024",
+        "locations": [
+            "Boulder, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "member_fee": "$525–2,250",
+        "non_member_fee": "$525&nadsh2,250",
+        "max_fee": "$525&nadsh2,250",
+        "uid": "boulderpeptidesympos16Sep2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -7079,6 +7553,28 @@
         "non_member_fee": "€800",
         "max_fee": "€800",
         "uid": "escmidasmconferenceo17Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Nordic Life Science Days",
+        "url": "https://www.nlsdays.com/",
+        "start_date": "18 Sep 2024",
+        "end_date": "19 Sep 2024",
+        "locations": [
+            "Malmö, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "€750–1,100",
+        "non_member_fee": "€750–1,100",
+        "max_fee": "€1,100",
+        "uid": "nordiclifescienceday18Sep2024_0"
     },
     {
         "themes": [
@@ -7325,6 +7821,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Forum EPFL (career fair)",
+        "url": "https://www.forum-epfl.ch/en/",
+        "start_date": "07 Oct 2024",
+        "end_date": "11 Oct 2024",
+        "locations": [
+            "Eclubens, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "forumepflcareerfair07Oct2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -7565,6 +8083,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Bio-Europe (in-person)",
+        "url": "https://informaconnect.com/bioeurope/",
+        "start_date": "04 Nov 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "€2,695",
+        "non_member_fee": "€2,695",
+        "max_fee": "€2,695",
+        "uid": "bioeuropeinperson04Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -7715,6 +8255,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Bio-Europe (virtual)",
+        "url": "https://informaconnect.com/bioeurope/",
+        "start_date": "12 Nov 2024",
+        "end_date": "13 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "€2,695",
+        "non_member_fee": "€2,695",
+        "max_fee": "€2,695",
+        "uid": "bioeuropevirtual12Nov2024_0"
+    },
+    {
+        "themes": [
             "business",
             "formulation/particle science",
             "pharma industry"
@@ -7736,6 +8298,78 @@
         "non_member_fee": "$3,799–4,499",
         "max_fee": "$4,499",
         "uid": "tideseuropeoligospep12Nov2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "American Pharma Manufacturing & Outsourcing Summit",
+        "url": "https://posummit.com/",
+        "start_date": "18 Nov 2024",
+        "end_date": "19 Nov 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "americanpharmamanufa18Nov2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI India",
+        "url": "https://www.cphi.com/india/en/home.html",
+        "start_date": "25 Nov 2024",
+        "end_date": "28 Nov 2024",
+        "locations": [
+            "Delhi, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "cphiindia25Nov2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Austrian Peptide Symposium",
+        "url": "https://austrianpeptides.org/",
+        "start_date": "05 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "austrianpeptidesympo05Dec2024_0"
     },
     {
         "themes": [
