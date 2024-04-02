@@ -1,54 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "STEM the Bullying: stakeholder insights into addressing bullying in STEM",
-        "url": "https://www.eventbrite.com/e/stem-the-bullying-stakeholder-insights-tickets-755103724567",
-        "start_date": "29 Mar 2024",
-        "end_date": null,
-        "locations": [
-            "Charlotte, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "member_fee": "$100",
-        "non_member_fee": "$100",
-        "max_fee": "$100",
-        "uid": "stemthebullyingstake29Mar2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "CHanalysis 2024: Meeting of Swiss Analytical Scientists",
-        "url": "https://cha23.scg.ch/",
-        "start_date": "29 Mar 2024",
-        "end_date": "31 Mar 2024",
-        "locations": [
-            "Beatenberg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "chanalysis2024meetin29Mar2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -520,6 +472,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "ePIXfab Silicon Photonics Summer School",
+        "url": "https://epixfab.eu/trainings/upcoming-trainings/9th-silicon-photonics-summer-school/",
+        "start_date": "08 Apr 2024",
+        "end_date": "12 Apr 2024",
+        "locations": [
+            "Ghent, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "€2,000",
+        "non_member_fee": "€2,000",
+        "max_fee": "€2,000",
+        "uid": "epixfabsiliconphoton08Apr2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -665,6 +640,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "polymessestudentrecr09Apr2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BioProcess Intl Europe",
+        "url": "https://informaconnect.com/bpieurope/",
+        "start_date": "09 Apr 2024",
+        "end_date": "12 Apr 2024",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "€1,399–3,499",
+        "non_member_fee": "€1,399–3,499",
+        "max_fee": "€3,499",
+        "uid": "bioprocessintleurope09Apr2024_0"
     },
     {
         "themes": [
@@ -1569,6 +1569,29 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "multiscalestructureo23Apr2024_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Workshop on Heterogeneous Integration in Integrated Photonics",
+        "url": "https://epixfab.eu/trainings/upcoming-trainings/workshop-on-heterogeneous-integration-in-silicon-photonics/",
+        "start_date": "23 Apr 2024",
+        "end_date": "24 Apr 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€209",
+        "non_member_fee": "€209",
+        "max_fee": "€209",
+        "uid": "workshoponheterogene23Apr2024_0"
     },
     {
         "themes": [
@@ -3653,6 +3676,28 @@
     },
     {
         "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Praxiszirkel Additive Fertigung: Additiv Gefertigte Implantate",
+        "url": "https://nano.swiss/event/praxiszirkel-additive-fertigung-additiv-gefertigten-implantaten",
+        "start_date": "28 May 2024",
+        "end_date": null,
+        "locations": [
+            "Bettlach, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "praxiszirkeladditive28May2024_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -4301,6 +4346,28 @@
         "non_member_fee": "£1,135",
         "max_fee": "£1,135",
         "uid": "spraydryingatomizati04Jun2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Additive Manufacturing AM-trends",
+        "url": "https://ibam.swiss/wp-content/uploads/2024/01/Flyer_CSEM_IBAM_Event_AM-Trends.pdf",
+        "start_date": "05 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Neuch&acarontel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "additivemanufacturin05Jun2024_0"
     },
     {
         "themes": [
@@ -5332,6 +5399,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "ePIXfab Silicon Photonics Summer School",
+        "url": "https://epixfab.eu/trainings/upcoming-trainings/9th-silicon-photonics-summer-school/",
+        "start_date": "24 Jun 2024",
+        "end_date": "28 Jun 2024",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£800",
+        "non_member_fee": "£1,200",
+        "max_fee": "£1,200",
+        "uid": "epixfabsiliconphoton24Jun2024_0"
+    },
+    {
+        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -5746,6 +5836,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "biomaterialstranslat02Jul2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "3D Modelling & printing: Innovation booster (startups/projects)",
+        "url": "https://ibam.swiss/registration9/",
+        "start_date": "02 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "3dmodellingprintingi02Jul2024_0"
     },
     {
         "themes": [
@@ -7027,6 +7140,29 @@
     },
     {
         "themes": [
+            "business",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Validating research ideas in the field of additive manufacturing AM with industrial partners",
+        "url": "https://ibam.swiss/wp-content/uploads/2024/03/20240903_SAMG-IBAM_Maxon_Event_EN.pdf",
+        "start_date": "03 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Sachseln, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "validatingresearchid03Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "inorganic/nano",
@@ -7724,6 +7860,78 @@
         "non_member_fee": "€550",
         "max_fee": "€550",
         "uid": "4theuropeansymposium24Sep2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Robotics-4-Labautomation Symposium 2024",
+        "url": "https://www.biolago.org/de/veranstaltung/robotics-4-labautomation-symposium-2024-for-the-smart-digitalised-lab-of-the-future.html",
+        "start_date": "25 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Konstanz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "robotics4labautomati25Sep2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lab of the Future Europe",
+        "url": "https://www.lab-of-the-future.com/europe/",
+        "start_date": "01 Oct 2024",
+        "end_date": "02 Oct 2024",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "€399–999",
+        "non_member_fee": "€399–999",
+        "max_fee": "€999",
+        "uid": "labofthefutureeurope01Oct2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "ELRIG Drug Discovery 2024",
+        "url": "https://elrig.org/portfolio/drug-discovery-2024/",
+        "start_date": "02 Oct 2024",
+        "end_date": "03 Oct 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "elrigdrugdiscovery2002Oct2024_0"
     },
     {
         "themes": [
