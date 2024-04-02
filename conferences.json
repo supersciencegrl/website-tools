@@ -5210,6 +5210,39 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "diversity",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Empowering Women in Organic Chemistry EWOC 2024",
+        "url": "https://ewochem.org/ewoc-2024/",
+        "start_date": "20 Jun 2024",
+        "end_date": "21 Jun 2024",
+        "locations": [
+            "Rahway, NJ, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "$25–75",
+        "non_member_fee": "$25–75",
+        "max_fee": "$75",
+        "uid": "empoweringwomeninorg20Jun2024_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
