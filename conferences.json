@@ -31,31 +31,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "LA Mass Spec Day",
-        "url": "https://lamms.org/la-ms-day-1",
-        "start_date": "02 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Los Angeles, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "lamassspecday02Apr2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers",
@@ -735,6 +710,31 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "rscmaingroupinterest10Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "ChemBio Finland",
+        "url": "https://chembio.messukeskus.com/?lang=en",
+        "start_date": "10 Apr 2024",
+        "end_date": "11 Apr 2024",
+        "locations": [
+            "Helsinki, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "chembiofinland10Apr2024_0"
     },
     {
         "themes": [
@@ -1529,7 +1529,7 @@
         "regions": [
             "London"
         ],
-        "title": "Hackathon: Democratizing Data in the Life Sciences",
+        "title": "Hackathon: Democratizing Data in the Life Sciences – The Role of LLM's",
         "url": "https://www.pistoiaalliance.org/eventdetails/democratising-data-in-the-life-sciences-the-role-of-llms/",
         "start_date": "23 Apr 2024",
         "end_date": null,
