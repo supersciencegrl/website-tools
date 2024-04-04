@@ -32,61 +32,6 @@
     {
         "themes": [
             "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Catalysis Science & Technology Symposium 2024",
-        "url": "https://www.rsc.org/events/detail/77852/2024-catalysis-science-and-technology-symposium",
-        "start_date": "03 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£12–60",
-        "non_member_fee": "£24–72",
-        "max_fee": "£72",
-        "uid": "catalysissciencetech03Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Journée de Printemps 2024: Division de Chimie Organique de la SCF",
-        "url": "https://dco-printemps2024.sciencesconf.org/",
-        "start_date": "03 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Paris, France",
-            "Online"
-        ],
-        "countries": [
-            "France",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "journéedeprintemps2003Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -1641,9 +1586,9 @@
         "US_state": [
             "NJ"
         ],
-        "member_fee": "$950",
-        "non_member_fee": "$1,250",
-        "max_fee": "$1,250",
+        "member_fee": "£460–950",
+        "non_member_fee": "£460–1,250",
+        "max_fee": "£1,250",
         "uid": "advancesinprocessana23Apr2024_0"
     },
     {
