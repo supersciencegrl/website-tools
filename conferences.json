@@ -1,259 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA",
-            "Online"
-        ],
-        "title": "19th Annual Drug Discovery Chemistry",
-        "url": "https://www.drugdiscoverychemistry.com/#",
-        "start_date": "01 Apr 2024",
-        "end_date": "04 Apr 2024",
-        "locations": [
-            "San Diego, CA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$1,099–3,499",
-        "non_member_fee": "$1,099–3,499",
-        "max_fee": "$3,499",
-        "uid": "19thannualdrugdiscov01Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Hydrogen & Fuel Cells Energy Summit",
-        "url": "https://www.wplgroup.com/aci/event/hydrogen-fuel-cells-energy-summit/",
-        "start_date": "03 Apr 2024",
-        "end_date": "04 Apr 2024",
-        "locations": [
-            "Valencia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "£495–1,610",
-        "non_member_fee": "£495–1,610",
-        "max_fee": "£1,610",
-        "uid": "hydrogenfuelcellsene03Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ECATALYTIX: X-rays & electronic operando techniques for electrocatalysis",
-        "url": "https://www.synchrotron-soleil.fr/en/events/ecatalytix",
-        "start_date": "03 Apr 2024",
-        "end_date": "05 Apr 2024",
-        "locations": [
-            "Strasbourg, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "ecatalytixxrayselect03Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "CECAM Frontiers of Coarse-Grained Models",
-        "url": "https://www.cecam.org/workshop-details/1311",
-        "start_date": "03 Apr 2024",
-        "end_date": "05 Apr 2024",
-        "locations": [
-            "Lyon, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "cecamfrontiersofcoar03Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "law/policy",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "22nd RSC Fluorine Interest Group Postgraduate Meeting",
-        "url": "https://www.rsc.org/events/detail/78481/22nd-fluorine-interest-group-postgraduate-meeting",
-        "start_date": "04 Apr 2024",
-        "end_date": "05 Apr 2024",
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "22ndrscfluorineinter04Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "MolSoft ICM: Computational drug discovery workshop",
-        "url": "https://www.eventbrite.com/e/molsoft-icm-computational-drug-discovery-workshop-tickets-805102722917",
-        "start_date": "04 Apr 2024",
-        "end_date": "05 Apr 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$395",
-        "non_member_fee": "$395",
-        "max_fee": "$395",
-        "uid": "molsofticmcomputatio04Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Lilly Discovery Day",
-        "url": "https://careers.lilly.com/us/en/event/657b5505195d277d680a0f65/Lilly-Discovery-Day-April-4-6-2024-Application",
-        "start_date": "04 Apr 2024",
-        "end_date": "06 Apr 2024",
-        "locations": [
-            "Indianapolis, IN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IN"
-        ],
-        "member_fee": "—",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "lillydiscoveryday04Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Teaching Python in Chemistry Meeting",
-        "url": "https://www.eventbrite.com/e/teaching-python-in-chemistry-meeting-tickets-835923097487?aff=oddtdtcreator",
-        "start_date": "05 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "teachingpythoninchem05Apr2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Irish Variety in Chemistry Education Meeting 2024",
-        "url": "https://irishvarietyinchemistryeducation2024.wordpress.com/",
-        "start_date": "05 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "member_fee": "€10",
-        "non_member_fee": "€10",
-        "max_fee": "€10",
-        "uid": "irishvarietyinchemis05Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Conference for Emerging Black Academics in STEM CEBAS",
-        "url": "https://sites.google.com/view/bsec-cebas/home",
-        "start_date": "05 Apr 2024",
-        "end_date": "06 Apr 2024",
-        "locations": [
-            "Pasadena, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "conferenceforemergin05Apr2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -613,6 +360,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EurJOC Society Award Virtual Symposium",
+        "url": "https://register.gotowebinar.com/register/3514965389204235872?source=LinkedIn",
+        "start_date": "10 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "eurjocsocietyawardvi10Apr2024_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -846,6 +617,30 @@
         "non_member_fee": "€120–500",
         "max_fee": "€500",
         "uid": "19thfoodcolloidsconf14Apr2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "3rd Chemical & physical modelling of food conference",
+        "url": "https://www.rsc.org/events/detail/78523/3rd-chemical-and-physical-modelling-of-food-conference",
+        "start_date": "15 Apr 2024",
+        "end_date": "16 Apr 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "3rdchemicalphysicalm15Apr2024_0"
     },
     {
         "themes": [
@@ -1225,6 +1020,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "12th Workshop in lipidomics: Marine lipidomics",
+        "url": "https://www.cesam-la.pt/en/calendar/12th-workshop-in-lipidomics-2/",
+        "start_date": "17 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "12thworkshopinlipido17Apr2024_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data"
         ],
@@ -1245,6 +1064,28 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "cphijapanpharmaitdig17Apr2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Revvity Signals User Conference: NEXUS India",
+        "url": "https://info.revvity.com/NEXUS-India-2024-User-Conference-Registration",
+        "start_date": "18 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "revvitysignalsuserco18Apr2024_0"
     },
     {
         "themes": [
@@ -1488,6 +1329,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "hackathondemocratizi23Apr2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Women in STEM kick-off meeting Liverpool",
+        "url": "https://www.eventbrite.co.uk/e/women-in-stem-kick-off-meeting-liverpool-tickets-850329527507",
+        "start_date": "23 Apr 2024",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "womeninstemkickoffme23Apr2024_0"
     },
     {
         "themes": [
@@ -2510,6 +2374,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "5th Annual Meeting of EpiLipidNET (Lipidomics, epilipidomics)",
+        "url": "https://fedorovalab.net/events/5th-epilipidnet-meeting/",
+        "start_date": "13 May 2024",
+        "end_date": "15 May 2024",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "5thannualmeetingofep13May2024_0"
+    },
+    {
+        "themes": [
             "business",
             "process/engineering"
         ],
@@ -2678,6 +2566,53 @@
         "non_member_fee": "£440",
         "max_fee": "£440",
         "uid": "jointprofessionalbod15May2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Tecan Innovation Day",
+        "url": "https://www.linkedin.com/posts/manuela-d-agata-6650696_i-am-very-pleased-to-announce-an-event-we-activity-7178650048036020226-Y2B7",
+        "start_date": "15 May 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "tecaninnovationday15May2024_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "Methods in Chemistry Education Research MICER 2024",
+        "url": "https://www.rsc.org/events/detail/78707/micer-2024",
+        "start_date": "15 May 2024",
+        "end_date": null,
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£10",
+        "non_member_fee": "£15",
+        "max_fee": "£15",
+        "uid": "methodsinchemistryed15May2024_0"
     },
     {
         "themes": [
@@ -6054,6 +5989,29 @@
     },
     {
         "themes": [
+            "careers",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "X Medicinal Chemistry Young Researchers' Symposium SEQT",
+        "url": "https://sites.google.com/view/seqtxyrs/home?pli=1",
+        "start_date": "12 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Madrid, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€35",
+        "non_member_fee": "€60",
+        "max_fee": "€60",
+        "uid": "xmedicinalchemistryy12Jul2024_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -7720,6 +7678,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Summer School on Pharmaceutical Analysis SSPA",
+        "url": "https://www.sspaweb.com/index.asp",
+        "start_date": "18 Sep 2024",
+        "end_date": "20 Sep 2024",
+        "locations": [
+            "Bologna, Italy",
+            "Online"
+        ],
+        "countries": [
+            "Italy",
+            "Online"
+        ],
+        "member_fee": "€125–440",
+        "non_member_fee": "€150–470",
+        "max_fee": "€470",
+        "uid": "summerschoolonpharma18Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "materials/polymers",
@@ -7743,6 +7727,28 @@
         "non_member_fee": "€750",
         "max_fee": "€750",
         "uid": "ischiaadvancedschool19Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "20th RSC Chemical Biology & Bioorganic Group CBBG Firbush Conference",
+        "url": "https://www.rsc.org/events/detail/78484/the-20th-rsc-chemical-biology-and-bioorganic-group-cbbg-firbush-conference",
+        "start_date": "20 Sep 2024",
+        "end_date": "22 Sep 2024",
+        "locations": [
+            "Killin, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£320",
+        "non_member_fee": "£320",
+        "max_fee": "£320",
+        "uid": "20thrscchemicalbiolo20Sep2024_0"
     },
     {
         "themes": [
@@ -7816,6 +7822,29 @@
         "non_member_fee": "€340",
         "max_fee": "€340",
         "uid": "smarter8structuralel22Sep2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "24th EuroQSAR",
+        "url": "https://www.euroqsar.org/",
+        "start_date": "22 Sep 2024",
+        "end_date": "26 Sep 2024",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "€640–935",
+        "non_member_fee": "€640–935",
+        "max_fee": "€935",
+        "uid": "24theuroqsar22Sep2024_0"
     },
     {
         "themes": [
@@ -8602,5 +8631,30 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "intlsymposiumonsynth02Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "ELRIG Drug Discovery",
+        "url": "https://elrig.org/portfolio/drug-discovery-2025/",
+        "start_date": "21 Oct 2024",
+        "end_date": "22 Oct 2024",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "elrigdrugdiscovery21Oct2024_0"
     }
 ]
