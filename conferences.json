@@ -27,28 +27,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Annual Intl Meeting of the ESR Spectroscopy Group",
-        "url": "https://www.rsc.org/events/detail/78064/the-57th-annual-international-meeting-of-the-esr-spectroscopy-group",
-        "start_date": "08 Apr 2024",
-        "end_date": "10 Apr 2024",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "annualintlmeetingoft08Apr2024_0"
-    },
-    {
-        "themes": [
             "med chem"
         ],
         "regions": [
@@ -114,132 +92,6 @@
         "non_member_fee": "€2,000",
         "max_fee": "€2,000",
         "uid": "epixfabsiliconphoton08Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Bristol Synthesis Meeting",
-        "url": "https://www.bristol.ac.uk/chemistry/research/bristol-synthesis-meeting/",
-        "start_date": "09 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£96",
-        "non_member_fee": "£96",
-        "max_fee": "£96",
-        "uid": "bristolsynthesismeet09Apr2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Zifo Scientific Informatics Experience Exchange",
-        "url": "https://zifornd.com/event/scientific-informatics-experience-exchange-basel/",
-        "start_date": "09 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "zifoscientificinform09Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "SCI Undergraduate research symposium & Alderley Park career fair",
-        "url": "https://www.soci.org/events/young-chemists-panel/2024/undergraduate-research-symposium-and-alderley-park-career-fair",
-        "start_date": "09 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Alderley Park, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "sciundergraduaterese09Apr2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "EC Conference: Functional Coatings & Nanotechnology",
-        "url": "https://www.european-coatings.com/events/conference/functional-coatings-nanotechnology-2024/",
-        "start_date": "09 Apr 2024",
-        "end_date": "10 Apr 2024",
-        "locations": [
-            "Cologne, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "€1,500",
-        "non_member_fee": "€1,500",
-        "max_fee": "€1,500",
-        "uid": "ecconferencefunction09Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "US Pharmacopoeia Workshop on Therapeutic Peptides & Oligonucleotides: Regulations & Quality Standards",
-        "url": "https://www.usp.org/events-training/usp-at-events/usp-workshop-on-therapeutic-peptides-and-oligonucleotides",
-        "start_date": "09 Apr 2024",
-        "end_date": "10 Apr 2024",
-        "locations": [
-            "Rockville, MD, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "member_fee": "$300–1,000",
-        "non_member_fee": "$300–1,000",
-        "max_fee": "$1,000",
-        "uid": "uspharmacopoeiaworks09Apr2024_0"
     },
     {
         "themes": [
@@ -312,52 +164,6 @@
         "non_member_fee": "€43–113",
         "max_fee": "€113",
         "uid": "analytica2024tradefa09Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EurJOC Society Award Virtual Symposium",
-        "url": "https://register.gotowebinar.com/register/3514965389204235872?source=LinkedIn",
-        "start_date": "10 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "eurjocsocietyawardvi10Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "NFDI4Chem Consortium Meeting 4.5",
-        "url": "https://www.nfdi4chem.de/event/nfdi4chem-consortium-meeting-4-5/",
-        "start_date": "10 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "nfdi4chemconsortiumm10Apr2024_0"
     },
     {
         "themes": [
@@ -4566,6 +4372,29 @@
         "non_member_fee": "£175",
         "max_fee": "£175",
         "uid": "2ndempoweringwomenin10Jun2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "synthesis"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Go with the Flow Conference 2024",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgyGxYhbX7n8hsQolUCVnIbOC9kRi9cvqDJwBDmh1Nj8x-9A/viewform?pli=1",
+        "start_date": "10 Jun 2024",
+        "end_date": "11 Jun 2024",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "gowiththeflowconfere10Jun2024_0"
     },
     {
         "themes": [
