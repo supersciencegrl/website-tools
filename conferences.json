@@ -1,77 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Experimental NMR Conference ENC",
-        "url": "https://www.enc-conference.org/",
-        "start_date": "07 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Pacific Grove, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$630–830",
-        "non_member_fee": "$630–830",
-        "max_fee": "$830",
-        "uid": "experimentalnmrconfe07Apr2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EFMC-ACS Medicinal Chemistry Frontiers 2024",
-        "url": "https://www.medchemfrontiers.org/",
-        "start_date": "08 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Utrecht, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€600–995",
-        "non_member_fee": "€600–995",
-        "max_fee": "€995",
-        "uid": "efmcacsmedicinalchem08Apr2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applied Mixing Technology for Process Development: Scaling Down to Scale Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applied-mixing-technology-for-process-development-scaling-down-to-scale-up/20240408/",
-        "start_date": "08 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,399",
-        "non_member_fee": "£1,399",
-        "max_fee": "£1,399",
-        "uid": "appliedmixingtechnol08Apr2024_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -92,28 +21,6 @@
         "non_member_fee": "€2,000",
         "max_fee": "€2,000",
         "uid": "epixfabsiliconphoton08Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Polymesse (student recruitment fair)",
-        "url": "https://www.polymesse.ch/en/",
-        "start_date": "09 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "polymessestudentrecr09Apr2024_0"
     },
     {
         "themes": [
@@ -164,54 +71,6 @@
         "non_member_fee": "€43–113",
         "max_fee": "€113",
         "uid": "analytica2024tradefa09Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Main Group Interest Group Annual Meeting & AGM",
-        "url": "https://www.rsc.org/events/detail/78118/rsc-main-group-interest-group-annual-meeting-and-agm",
-        "start_date": "10 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "rscmaingroupinterest10Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "ChemBio Finland",
-        "url": "https://chembio.messukeskus.com/?lang=en",
-        "start_date": "10 Apr 2024",
-        "end_date": "11 Apr 2024",
-        "locations": [
-            "Helsinki, Finland"
-        ],
-        "countries": [
-            "Finland"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "chembiofinland10Apr2024_0"
     },
     {
         "themes": [
@@ -1969,6 +1828,32 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EWOC Empowering Women in Organic Chemistry Chapters 7th Virtual Symposium",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=pmZCS2gTr0GtWlnrY0962JunJQG4djFLqghDoGFxAI5URjFCWEVJTERPNlNQTlVBR0FBREZXUTFLUi4u",
+        "start_date": "10 May 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "ewocempoweringwomeni10May2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers"
         ],
@@ -2203,6 +2088,29 @@
         "non_member_fee": "€1,000",
         "max_fee": "€1,000",
         "uid": "esbocchemicalbiology13May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "British Nuclear Medicine Society BNMS Annual Spring Meeting",
+        "url": "https://www.bnms.org.uk/mpage/Spring2024Homepage",
+        "start_date": "13 May 2024",
+        "end_date": "15 May 2024",
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£183–366",
+        "non_member_fee": "£544",
+        "max_fee": "£544",
+        "uid": "britishnuclearmedici13May2024_0"
     },
     {
         "themes": [
@@ -3939,6 +3847,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "European Society of Toxicology in vitro ESTIV Congress",
+        "url": "https://www.estiv.org/congress2024/",
+        "start_date": "03 Jun 2024",
+        "end_date": "06 Jun 2024",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "€625",
+        "non_member_fee": "€725",
+        "max_fee": "€725",
+        "uid": "europeansocietyoftox03Jun2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "inorganic/nano",
@@ -4346,6 +4277,29 @@
         "non_member_fee": "$1,800–3,100",
         "max_fee": "$3,100",
         "uid": "residentialschoolonm09Jun2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Structures & Probes of Intrinsically Disordered Regions SPiDR meeting for early career researchers",
+        "url": "https://spidr-slola.com/early-career-researcher-meeting-structures-and-probes-of-intrinsically-disordered-regions-10-june-2024/",
+        "start_date": "10 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£25",
+        "non_member_fee": "£25",
+        "max_fee": "£25",
+        "uid": "structuresprobesofin10Jun2024_0"
     },
     {
         "themes": [
@@ -6561,6 +6515,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Summer school: Applied deep learning in bioinformatics",
+        "url": "https://conferencemanager.events/2024-summerschoolonapplieddeeplearninginbioinformatics",
+        "start_date": "12 Aug 2024",
+        "end_date": "16 Aug 2024",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "summerschoolappliedd12Aug2024_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -7441,6 +7418,31 @@
         "non_member_fee": "$380–740",
         "max_fee": "$740",
         "uid": "13thrdkitugm202411Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Computational Molecular Science CMS 2024",
+        "url": "https://warwick.ac.uk/fac/sci/chemistry/chemevents/events/cms2024/",
+        "start_date": "11 Sep 2024",
+        "end_date": "13 Sep 2024",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "computationalmolecul11Sep2024_0"
     },
     {
         "themes": [
