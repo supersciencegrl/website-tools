@@ -1,15 +1,12 @@
-from datetime import datetime
 import html
-import time
 
 from bs4 import BeautifulSoup
 import bs4.element
 import dateparser
 import pyperclip
-import pywinauto
 import requests
 
-def get_html(url):
+def get_html(url: str) -> bytes:
     """
     Fetches the HTML content from a given URL and returns it as bytes.
 
@@ -27,20 +24,46 @@ def get_html(url):
     
     return r.content
 
-def clean_location(location_paragraph: bs4.element.Tag) -> str:
+def scrape_title(soup: BeautifulSoup) -> str:
+    """
+    Scrapes and processes the title from a BeautifulSoup object representing a webpage.
+
+    Args:
+        soup (BeautifulSoup): The BeautifulSoup object containing the parsed webpage.
+
+    Returns:
+        str: The processed title string.
+    """
+    title_heading = soup.find('h1')
+    title = title_heading.text.strip()
+    title = title.replace('nternational', 'ntl').replace(' and ', ' & ')
+
+    event_type = soup.find('div', class_='breadcrumbs')
+    if 'training' in event_type.text.lower():
+        title = title.replace(' – Short Course', '').replace(': Short Course', '').replace(' Short Course', '')
+        title = title + ' (training course)'
+    else:
+        title = 'Scientific Update: ' + title
+
+    return title
+
+def scrape_location(soup: BeautifulSoup) -> str:
     """
     Cleans and standardizes a location string extracted from a webpage.
 
-    This function takes a location paragraph extracted from a webpage and performs the following tasks:
-    - Removes any 'Location: ' prefix.
+    This function finds a location paragraph extracted from a webpage then performs the following tasks:
+    - Removes any prefix before a "|" (referring to a precise venue).
     - Standardizes location names based on a predefined set of replacements.
 
     Args:
-        location_paragraph (bs4.element.Tag): The BeautifulSoup Tag containing the location information.
+        soup (BeautifulSoup): The BeautifulSoup object containing the parsed webpage.
 
     Returns:
         str: The cleaned and standardized location string.
     """
+    location_div = soup.find('div', class_='sidebar-details').find('div', class_='location')
+    location_paragraph = location_div.find('span')
+
     if '| ' in location_paragraph.text:
         location = location_paragraph.text.partition('| ')[2] # Take only text after '| '
     else:
@@ -61,8 +84,21 @@ def clean_location(location_paragraph: bs4.element.Tag) -> str:
 
     return location
 
-def parse_dates(dates: list[bs4.element.Tag, bs4.element.Tag]) -> dict:
-    start_date, end_date = (date.text for date in dates)
+def scrape_dates(soup) -> dict[str, str]:
+    """
+    Cleans and standardizes date strings extracted from a webpage, and returns them as a dictionary of
+        standardized date strings.
+
+    Args:
+        soup (BeautifulSoup): The BeautifulSoup object containing the parsed webpage.
+
+    Returns:
+        dict[str, str]: A dictionary with keys 'start_date' and 'end_date' containing the standardized date strings.
+    """
+    date_title = soup.find('div', class_='dates')
+    date_spans = date_title.find_all('span')
+
+    start_date, end_date = (date.text for date in date_spans)
 
     start_date_parsed = dateparser.parse(start_date)
     start_date_std = start_date_parsed.strftime('%d %b %Y')
@@ -77,47 +113,41 @@ def parse_dates(dates: list[bs4.element.Tag, bs4.element.Tag]) -> dict:
 
     return dates
 
-def get_currency(price: str):
+def get_currency(price: str) -> tuple[str, str]:
     """
-    Extracts the currency symbol and value from a price string.
-
-    This function takes a price string and performs the following tasks:
-    - Converts the price string to lowercase and removes ' per person' if present.
-    - Searches for certain currency symbols (£, $, €) in the price string and extracts the currency symbol and value.
+    Extracts and processes currency information from a given price string, returning the value as a
+        formatted string and the currency symbol.
 
     Args:
-        price (str): The price string to extract currency and value from.
+        price (str): The price string containing currency information.
 
     Returns:
-        tuple: A tuple containing the extracted value (as an integer) and the currency symbol.
-
-    Example:
-        If price is '£500', the function returns (500, '£').
+        tuple[str, str]: A tuple containing the formatted value string and the currency symbol.
     """
     vat = '+ VAT' in price # bool
     asterisk_present = '*' in price # bool
     
     price = price.lower().replace('usd ', '').replace('*', '').replace('full course: ', '')
     price = price.partition(' ')[0].strip() # Only take everything before the first space
+    INTEGER_FORMAT = '{:,.0f}'
     for symbol in ['£', '$', '€']:
         if symbol in price:
             currency = symbol
             value_float = float(price.partition(symbol)[2].replace(',', '').strip())
             if vat:
-                value_plus_vat_string = '{:,.0f}'.format(value_float * (1 + VAT_RATE))
+                value_plus_vat_string = INTEGER_FORMAT.format(value_float * (1 + VAT_RATE))
                 if asterisk_present:
-                    value_without_tax_string = '{:,.0f}'.format(value_float)
-                    #value_without_tax_string = str(int(round(value_float)))
+                    value_without_tax_string = INTEGER_FORMAT.format(value_float)
                     value_string = f'{value_without_tax_string}–{value_plus_vat_string}'
                 else:
                     value_string = value_plus_vat_string
             else:
-                value_string = '{:,.0f}'.format(value_float)
+                value_string = INTEGER_FORMAT.format(value_float)
             break
 
     return value_string, currency
 
-def get_prices(prices: list[bs4.element.Tag]) -> dict:
+def get_prices(prices: list[bs4.element.Tag]) -> dict[str, str]:
     """
     Extracts and organizes prices and their types from a list of price elements.
 
@@ -129,11 +159,12 @@ def get_prices(prices: list[bs4.element.Tag]) -> dict:
         prices (list of bs4.element.Tag): A list of BeautifulSoup Tag elements containing price information.
 
     Returns:
-        dict: A dictionary containing the extracted prices and their types, along with the currency symbol.
+        dict[str, str]: A dictionary containing the extracted prices and their types, along with the currency symbol.
 
     Example:
         If prices is a list of BeautifulSoup elements representing student, academic, and conference prices,
-        the function returns a dictionary like {'price_student': 500, 'price_academic': 750, 'price_standard': 1000, 'currency': '£'}.
+        the function returns a dictionary like:
+        {'price_student': 500, 'price_academic': 750, 'price_standard': 1000, 'currency': '£'}
     """
     my_zip = zip(prices[0].find_all(class_='title'), prices[0].find_all(class_='content'))
     price_dict = {title.text.strip(): content.text.strip() for title, content in my_zip}
@@ -160,13 +191,12 @@ def get_prices(prices: list[bs4.element.Tag]) -> dict:
                         
     return result
 
-def scrape_page(page, url):
+def scrape_page(page: bytes, url: str):
     """
     Scrapes information from a web page and organizes it into an event dictionary.
 
     This function takes a web page content and its URL and performs the following tasks:
-    - Extracts and cleans the event title, including adjustments for training courses.
-    - Scrapes and standardizes the event location.
+    - Extracts and standardizes the event title and location.
     - Extracts and formats event dates, including handling date ranges.
     - Retrieves and categorizes event prices.
     - Encodes dictionary values to HTML entities.
@@ -176,35 +206,18 @@ def scrape_page(page, url):
         page (bytes): The HTML content of the web page to scrape.
         url (str): The URL of the web page.
 
-    Returns:
-        dict or None: A dictionary containing the scraped event information, or None if there are no available fees.
+    Side-effects:
+        Creates an output HTML representation of the event.
     """
     event = {'url': url}
     soup = BeautifulSoup(page, 'html.parser')
 
-    # Scrape title
-    title_heading = soup.find('h1')
-    event['title'] = title_heading.text.strip()
-    event['title'] = event['title'].replace('nternational', 'ntl').replace(' and ', ' & ')
-
-    eventType = soup.find('div', class_='breadcrumbs')
-    if 'training' in eventType.text.lower():
-        title = event['title'].replace(' – Short Course', '').replace(': Short Course', '').replace(' Short Course', '')
-        event['title'] = title + ' (training course)'
-    else:
-        event['title'] = 'Scientific Update: ' + event['title']
-
-    # Scrape location
-    location_div = soup.find('div', class_='sidebar-details').find('div', class_='location')
-    location_paragraph = location_div.find('span')
-    event['location'] = clean_location(location_paragraph)    
+    event['title'] = scrape_title(soup)
+    event['location'] = scrape_location(soup)    
 
     # Scrape dates
-    date_title = soup.find('div', class_='dates')
-    date_range = date_title.find_all('span')
-    dates = parse_dates(date_range)
-    if dates:
-        event.update(dates)
+    dates = scrape_dates(soup)
+    event.update(dates)
 
     # Scrape prices
     prices = soup.find_all('div', class_='fees')
@@ -212,8 +225,8 @@ def scrape_page(page, url):
         price_result = get_prices(prices)
         event.update(price_result)
     else:
-        print('Fees are not yet available for this conference. ')
-        return None
+        event['currency'] = ''
+        event['price_all'] = ''
 
     # html encode dictionary
     for k in event:
