@@ -3,6 +3,7 @@ import html
 import time
 
 from bs4 import BeautifulSoup
+import bs4.element
 import dateparser
 import pyperclip
 import pywinauto
@@ -26,12 +27,12 @@ def get_html(url):
     
     return r.content
 
-def clean_location(location_paragraph):
+def clean_location(location_paragraph: bs4.element.Tag) -> str:
     """
     Cleans and standardizes a location string extracted from a webpage.
 
     This function takes a location paragraph extracted from a webpage and performs the following tasks:
-    - Removes the 'Location: ' prefix.
+    - Removes any 'Location: ' prefix.
     - Standardizes location names based on a predefined set of replacements.
 
     Args:
@@ -40,23 +41,43 @@ def clean_location(location_paragraph):
     Returns:
         str: The cleaned and standardized location string.
     """
-    location = location_paragraph.text.replace('Location: ', '')
+    if '| ' in location_paragraph.text:
+        location = location_paragraph.text.partition('| ')[2] # Take only text after '| '
+    else:
+        location = location_paragraph.text
     
     location_replacements = {'The Netherlands': 'Netherlands',
                              'United States': 'USA',
                              'United Kingdom': 'UK',
                              'Boston': 'Boston, MA',
                              'Denver': 'Denver, CO',
+                             'Steamboat, Colorado': 'Steamboat Springs, CO',
                              'Edinburgh': 'Edinburgh, Scotland',
                              'San Diego': 'San Diego, CA',
-                             'Online Platform': 'Online'
+                             'Online Event': 'Online'
                              }
     for k, v in location_replacements.items():
         location = location.replace(k, v)
 
     return location
 
-def get_currency(price):
+def parse_dates(dates: list[bs4.element.Tag, bs4.element.Tag]) -> dict:
+    start_date, end_date = (date.text for date in dates)
+
+    start_date_parsed = dateparser.parse(start_date)
+    start_date_std = start_date_parsed.strftime('%d %b %Y')
+
+    end_date.replace('- ', '')
+    end_date_parsed = dateparser.parse(end_date)
+    end_date_std = end_date_parsed.strftime('%d %b %Y')
+
+    dates = {'start_date': start_date_std,
+             'end_date': end_date_std
+             }
+
+    return dates
+
+def get_currency(price: str):
     """
     Extracts the currency symbol and value from a price string.
 
@@ -73,16 +94,30 @@ def get_currency(price):
     Example:
         If price is '£500', the function returns (500, '£').
     """
-    price = price.lower().replace(' per person', '')
+    vat = '+ VAT' in price # bool
+    asterisk_present = '*' in price # bool
+    
+    price = price.lower().replace('usd ', '').replace('*', '').replace('full course: ', '')
+    price = price.partition(' ')[0].strip() # Only take everything before the first space
     for symbol in ['£', '$', '€']:
         if symbol in price:
             currency = symbol
-            value_string = price.partition(symbol)[2].replace(',', '').strip()
-            value = round(float(value_string))
+            value_float = float(price.partition(symbol)[2].replace(',', '').strip())
+            if vat:
+                value_plus_vat_string = '{:,.0f}'.format(value_float * (1 + VAT_RATE))
+                if asterisk_present:
+                    value_without_tax_string = '{:,.0f}'.format(value_float)
+                    #value_without_tax_string = str(int(round(value_float)))
+                    value_string = f'{value_without_tax_string}–{value_plus_vat_string}'
+                else:
+                    value_string = value_plus_vat_string
+            else:
+                value_string = '{:,.0f}'.format(value_float)
+            break
 
-    return value, currency
+    return value_string, currency
 
-def get_prices(prices):
+def get_prices(prices: list[bs4.element.Tag]) -> dict:
     """
     Extracts and organizes prices and their types from a list of price elements.
 
@@ -100,30 +135,30 @@ def get_prices(prices):
         If prices is a list of BeautifulSoup elements representing student, academic, and conference prices,
         the function returns a dictionary like {'price_student': 500, 'price_academic': 750, 'price_standard': 1000, 'currency': '£'}.
     """
-    if len(prices) == 1:
-            price = prices[0].text.partition(' + VAT')[0]
-            event['price_all'], event['currency'] = get_currency(price)
-        elif len(prices) > 1:
-            price_types = [price.parent.text.partition(' ')[0].lower() for price in prices]
-            if 'student' in price_types:
-                idx = price_types.index('student')
-                studentPrice = prices[idx].text.partition(' + VAT')[0]
-                event['price_student'], event['currency'] = get_currency(studentPrice)
-            if 'academic' in price_types:
-                idx = price_types.index('academic')
-                academicPrice = prices[idx].text.partition(' + VAT')[0]
-                event['price_academic'], event['currency'] = get_currency(academicPrice)
-                if 'price_student' not in event:
-                    event['price_student'] = event['price_academic']
-            if 'conference' in price_types:
-                idx = price_types.index('conference')
-                standardPrice = prices[idx].text.partition(' + VAT')[0]
-                event['price_standard'], event['currency'] = get_currency(standardPrice)
-                if 'price_academic' not in event and 'price_student' not in event:
-                    event['price_all'] = event['price_standard']
-            else:
-                print(f'Price types for this event: {price_types}. Please revisit.')
-                return event
+    my_zip = zip(prices[0].find_all(class_='title'), prices[0].find_all(class_='content'))
+    price_dict = {title.text.strip(): content.text.strip() for title, content in my_zip}
+    result = {}
+    
+    if len(price_dict) == 1:
+        first_price = next(iter(price_dict.values()))
+        result['price_all'], result['currency'] = get_currency(first_price)
+
+    elif len(price_dict) > 1:
+        event_fee_section = price_dict.get('Conference Fee') or price_dict.get('Course Fee')
+        standard_fee, result['currency'] = get_currency(event_fee_section)
+        
+        student_fee, academic_fee = None, None #default
+        if 'Student Fee' in price_dict.keys():
+            student_fee, _ = get_currency(price_dict['Student Fee'])
+        if 'Academic Fee' in price_dict.keys():
+            academic_fee, _ = get_currency(price_dict['Academic Fee'])
+
+        # Set fees
+        result['price_standard'] = standard_fee
+        result['price_academic'] = academic_fee or standard_fee # Std if not specified
+        result['price_student' ] = student_fee or academic_fee or standard_fee # Academic or std if not specified
+                        
+    return result
 
 def scrape_page(page, url):
     """
@@ -160,27 +195,22 @@ def scrape_page(page, url):
         event['title'] = 'Scientific Update: ' + event['title']
 
     # Scrape location
-    location_paragraph = soup.find('p', class_='location')
-    event['location'] = clean_location(location_paragraph)
+    location_div = soup.find('div', class_='sidebar-details').find('div', class_='location')
+    location_paragraph = location_div.find('span')
+    event['location'] = clean_location(location_paragraph)    
 
     # Scrape dates
-    date_title = soup.find('p', class_='date')
-    date_range = date_title.text.replace('Date: ', '').strip()
-    if '-' in date_range:
-        end_date = date_range.partition('- ')[2]
-        end_date_parsed = dateparser.parse(end_date)
-        start_date = date_range.partition('-')[0] + str(end_date_parsed.year)
-        start_date_parsed = dateparser.parse(start_date)
-        event['start_date'] = start_date_parsed.strftime('%d %b %Y')
-        event['end_date'] = end_date_parsed.strftime('%d %b %Y')
-    else:
-        event['start_date'] = dateparser.parse(date_range)
-        event['end_date'] = '&mdash;'
+    date_title = soup.find('div', class_='dates')
+    date_range = date_title.find_all('span')
+    dates = parse_dates(date_range)
+    if dates:
+        event.update(dates)
 
     # Scrape prices
-    prices = soup.find_all('span', class_='price')
+    prices = soup.find_all('div', class_='fees')
     if prices:
-        get_prices(prices) 
+        price_result = get_prices(prices)
+        event.update(price_result)
     else:
         print('Fees are not yet available for this conference. ')
         return None
@@ -223,13 +253,13 @@ def create_output_html(event):
     if 'price_all' in event:
         # Print prices with thousands separation using f'{number:,}'
         price_html_member = '\t' * 13 + \
-                    f'<td class="column5">{event["currency"]}{event["price_all"]:,}</td>'
+                    f'<td class="column5">{event["currency"]}{event["price_all"]}</td>'
         price_html_nonmember = price_html_member.replace('column5', 'column6')
     else:
         price_html_member = '\t' * 13 + \
-                             f'<td class="column5 standard">{event["currency"]}{event["price_standard"]:,}</td>' + \
-                             f'<td class="column5 student">{event["currency"]}{event["price_student"]:,}</td>' + \
-                             f'<td class="column5 academic">{event["currency"]}{event["price_academic"]:,}</td>'
+                             f'<td class="column5 standard">{event["currency"]}{event["price_standard"]}</td>' + \
+                             f'<td class="column5 student">{event["currency"]}{event["price_student"]}</td>' + \
+                             f'<td class="column5 academic">{event["currency"]}{event["price_academic"]}</td>'
         price_html_nonmember = price_html_member.replace('column5', 'column6')
     
     price_html_member = price_html_member.replace('€', '&euro;')
@@ -289,5 +319,6 @@ def run():
 
 ''' Debug mode '''
 Debug = False
+VAT_RATE = 0.20
 
 run()

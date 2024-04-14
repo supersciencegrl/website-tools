@@ -74,8 +74,12 @@ def scrape_page(page, url, print_output=True):
     for n, t in enumerate(titleLabels):
         if t.find_all('a', class_='doNotPrint'):
             address = titleLabels[n-1].next.next.next.find_all('div')
-    location = address[-1]
-    event['location'] = location.text.replace('United States', 'USA').replace('United Kingdom', 'UK')
+    location = address[-1].text
+    for state in US_states.items():
+        if f'{state[0]}, ' in location:
+            location = location.replace(state[0], state[1])
+            break
+    event['location'] = location.replace('United States', 'USA').replace('United Kingdom', 'UK')
 
     # Scrape dates
     dateTitle = soup.find('span', class_='dateTitle')
@@ -315,6 +319,65 @@ def getCurrentTabs():
                 print(tab_url)
 
     return grc_urls
+
+US_states = {
+    'Alaska': 'AK',
+    'Alabama': 'AL',
+    'Arkansas': 'AR',
+    'Arizona': 'AZ',
+    'California': 'CA',
+    'Colorado': 'CO',
+    'Connecticut': 'CT',
+    'Delaware': 'DE',
+    'Florida': 'FL',
+    'Georgia': 'GA',
+    'Hawaii': 'HI',
+    'Iowa': 'IA',
+    'Idaho': 'ID',
+    'Illinois': 'IL',
+    'Indiana': 'IN',
+    'Kansas': 'KS',
+    'Kentucky': 'KY',
+    'Louisiana': 'LA',
+    'Massachusetts': 'MA',
+    'Maryland': 'MD',
+    'Maine': 'ME',
+    'Michigan': 'MI',
+    'Minnesota': 'MN',
+    'Missouri': 'MO',
+    'Mississippi': 'MS',
+    'Montana': 'MT',
+    'North Carolina': 'NC',
+    'North Dakota': 'ND',
+    'Nebraska': 'NE',
+    'New Hampshire': 'NH',
+    'New Jersey': 'NJ',
+    'New Mexico': 'NM',
+    'Nevada': 'NV',
+    'New York': 'NY',
+    'Ohio': 'OH',
+    'Oklahoma': 'OK',
+    'Oregon': 'OR',
+    'Pennsylvania': 'PA',
+    'Rhode Island': 'RI',
+    'South Carolina': 'SC',
+    'South Dakota': 'SD',
+    'Tennessee': 'TN',
+    'Texas': 'TX',
+    'Utah': 'UT',
+    'Virginia': 'VA',
+    'Vermont': 'VT',
+    'Washington': 'WA',
+    'Wisconsin': 'WI',
+    'West Virginia': 'WV',
+    'Wyoming': 'WY',
+    'District of Columbia': 'DC',
+    'American Samoa': 'AS',
+    'Guam GU': 'GU',
+    'Northern Mariana Islands': 'MP',
+    'Puerto Rico': 'PR',
+    'US Virgin Islands': 'VI'
+    }
 
 ''' Debug mode '''
 Debug = False
