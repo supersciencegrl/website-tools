@@ -77,12 +77,20 @@ def scrape_page(page, url, print_output=True):
     location = address[-1].text
     
     if 'United States' in location:
-        location.replace('United States', 'USA')
+        location = location.replace('United States', 'USA')
         for state in US_states.items():
             if f'{state[0]}, ' in location:
                 location = location.replace(state[0], state[1])
                 break
-    event['location'] = location.replace('United Kingdom', 'UK')
+    location_replacements = {
+                             'Castelldefels, Barcelona': 'Barcelona',
+                             'Les Diablerets, Vaud (fr)': 'Les Diablerets',
+                             'Lucca (Barga), Lucca': 'Lucca',
+                             'United Kingdom': 'UK'
+                             }
+    for orig, new in location_replacements.items():
+        location = location.replace(orig, new)
+    event['location'] = location
 
     # Scrape dates
     dateTitle = soup.find('span', class_='dateTitle')
@@ -111,26 +119,29 @@ def scrape_page(page, url, print_output=True):
             event['currency'] = '$'
         else:
             event['currency'] = ''
-    else:
-        print('Fees are not yet available for this conference. ')
-        return None
     
-    price_list = []
-    for p in prices:
-        if 'Conferee' in p.previous:
-            try:
-                thisPrice = round(float(p.text.replace('$', '').replace(',', '')), 0)
-                price_list.append(thisPrice)
-            except ValueError:
-                pass
-    try:
-        min_price = int(min(price_list))
-        event['min_price'] = f'{min_price:,d}'
-        max_price = int(max(price_list))
-        event['max_price'] = f'{max_price:,d}'
-    except ValueError:
+        price_list = []
+        for p in prices:
+            if 'Conferee' in p.previous:
+                try:
+                    thisPrice = round(float(p.text.replace('$', '').replace(',', '')), 0)
+                    price_list.append(thisPrice)
+                except ValueError:
+                    pass
+        try:
+            min_price = int(min(price_list))
+            event['min_price'] = f'{min_price:,d}'
+            max_price = int(max(price_list))
+            event['max_price'] = f'{max_price:,d}'
+        except ValueError:
+            event['min_price'] = ''
+            event['max_price'] = ''
+
+    else:
+        event['fees_not_released'] = True
         event['min_price'] = ''
         event['max_price'] = ''
+        event['currency'] = ''
 
     # html encode dictionary
     for k in event:
@@ -144,10 +155,14 @@ def scrape_page(page, url, print_output=True):
         event['priceString'] = event['currency'] + event['min_price'] + '&ndash;' + event['max_price']
     else:
         event['priceString'] = ''
+
+    tr_classes = 'body '
+    if event.get('fees_not_released'):
+        tr_classes += ' l notreleased' # double-space to hint to user to add topics and location
     
     certificate = '<span class="new-fa"><i class="fa fa-certificate" aria-hidden="true"></i></span> '
     html_out = []
-    html_out.append('<tr class="body ">')
+    html_out.append(f'<tr class="{tr_classes}">')
     html_out.append('\t' * 13 + \
                     f'<td class="column1"><a class="table-link" href="{event["url"]}" target="_blank" rel="noopener">')
     html_out.append('\t' * 14 + \
