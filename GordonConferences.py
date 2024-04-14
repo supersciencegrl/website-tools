@@ -75,11 +75,14 @@ def scrape_page(page, url, print_output=True):
         if t.find_all('a', class_='doNotPrint'):
             address = titleLabels[n-1].next.next.next.find_all('div')
     location = address[-1].text
-    for state in US_states.items():
-        if f'{state[0]}, ' in location:
-            location = location.replace(state[0], state[1])
-            break
-    event['location'] = location.replace('United States', 'USA').replace('United Kingdom', 'UK')
+    
+    if 'United States' in location:
+        location.replace('United States', 'USA')
+        for state in US_states.items():
+            if f'{state[0]}, ' in location:
+                location = location.replace(state[0], state[1])
+                break
+    event['location'] = location.replace('United Kingdom', 'UK')
 
     # Scrape dates
     dateTitle = soup.find('span', class_='dateTitle')
