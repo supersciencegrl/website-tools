@@ -1,13 +1,14 @@
 __author__ = "Nessa Carson"
-__copyright__ = "Copyright 2023"
-__version__ = "0.1"
+__copyright__ = "Copyright 2023, 2024"
+__version__ = "0.2"
 __status__ = "Development"
 
-from datetime import datetime
 import json
 from pathlib import Path
 import string
+from typing import Optional
 
+import bs4.element
 from bs4 import BeautifulSoup
 import requests
 
@@ -94,7 +95,7 @@ def decode_region(region: str) -> str:
 
     return output
 
-def scrape_conference_list():
+def scrape_conference_list() -> list[bs4.element.Tag]:
     """
     Scrape a list of conferences from the Conference Database.
 
@@ -111,7 +112,7 @@ def scrape_conference_list():
 
     return conferences
 
-def conference_html_to_dict(conference):
+def conference_html_to_dict(conference: bs4.element.Tag) -> Optional[dict]:
     """
     Convert conference HTML data to a dictionary.
 
@@ -121,7 +122,6 @@ def conference_html_to_dict(conference):
     Returns:
         dict: A dictionary containing conference details.
         None: Conference is either postponed or cancelled. 
-
     """
     if 'cancelled' in conference['class'] or 'postponed' in conference['class']:
         return None
@@ -142,20 +142,13 @@ def conference_html_to_dict(conference):
     
     my_dict['url'] = column1.a.get('href')
 
-    column2 = conference.find('td', class_='column2')
-    #my_dict['start_date'] = datetime.strptime(column2.text, '%d %b %Y') # Do not use datetime - not JSON serializable
-    try:
-        my_dict['start_date'] = column2.text
-    except AttributeError:
-        print(my_dict)
-        raise
+    my_dict['start_date'] = conference.find('td', class_='column2').text
 
     column3 = conference.find('td', class_='column3')
     end_date = column3.text
     if end_date == '—': # em-dash
         my_dict['end_date'] = None
     else:
-        #my_dict['end_date'] = datetime.strptime(end_date, '%d %b %Y') # Do not use datetime - not JSON serializable
         my_dict['end_date'] = end_date
 
     column4 = conference.find('td', class_='column4')
@@ -166,22 +159,48 @@ def conference_html_to_dict(conference):
     if 'USA' in my_dict['countries']:
         my_dict['US_state'] = [location.split(', ')[-2] for location in locations if location.endswith('USA')]
 
-    column5 = conference.find('td', class_='column5') # Selects only standard fees, not student/academic
-    if column5.text == 'Free':
-        my_dict['member_fee'] = '0'
-    else:
-        my_dict['member_fee'] = column5.text
+    # Add standard fees (not student/academic)
+    member_fee_text = conference.find('td', class_='column5').text
+    non_member_fee_text = conference.find('td', class_='column6').text
+
+    my_dict['member_fee'], my_dict['non_member_fee'], my_dict['max_fee'] = standardize_prices(member_fee_text, non_member_fee_text)
     
-    column6 = conference.find('td', class_='column6') # Selects only standard fees, not student/academic
-    if column6.text == 'Free':
-        my_dict['non_member_fee'] = '0'
+    return my_dict
+
+def standardize_when_price_is_free(price_text: str) -> str:
+    """
+    Standardizes the price when it is represented as 'Free' to '0'. Otherwise, returns the unmodified price.
+
+    Args:
+    price_text (str): The text representing the price.
+
+    Returns:
+    str: The standardized price text.
+    """
+    if price_text == 'Free':
+        return '0'
     else:
-        my_dict['non_member_fee'] = column6.text
-    # Calculate max fee for sorting
-    if all([char.isalpha() for char in my_dict['non_member_fee']]): # eg: 'Unkn'
-        smaller_fee, sep, max_fee = my_dict['member_fee'].rpartition('–')
+        return price_text
+
+def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[str, str, str]:
+    """
+    Standardizes the prices for member and non-member fees, and calculates the maximum fee for sorting.
+
+    Args:
+    member_fee_text (str): The text representing the member fee.
+    non_member_fee_text (str): The text representing the non-member fee.
+
+    Returns:
+    tuple: A tuple containing the standardized member fee, non-member fee, and maximum fee, as strings.
+    """
+    member_fee = standardize_when_price_is_free(member_fee_text)
+    non_member_fee = standardize_when_price_is_free(non_member_fee_text)
+
+    # Calculate the maximum fee, for sorting
+    if all([char.isalpha() for char in non_member_fee]): # eg: Unkn
+        smaller_fee, sep, max_fee = member_fee.rpartition('-')
     else:
-        smaller_fee, sep, max_fee = my_dict['non_member_fee'].rpartition('–')
+        smaller_fee, sep, max_fee = non_member_fee.rpartition('-') # Because non-member fees are higher
     if ' / ' in max_fee:
         for currency in ['£', '€', '$']: # In order of preferences
             if currency in max_fee:
@@ -193,9 +212,9 @@ def conference_html_to_dict(conference):
         currency = ('').join([char for char in smaller_fee if char not in f'{string.digits},'])
     else:
         currency = ''
-    my_dict['max_fee'] = f'{currency}{max_fee}'
+    max_fee = f'{currency}{max_fee}'
     
-    return my_dict
+    return member_fee, non_member_fee, max_fee
 
 def set_proxy() -> dict:
     """
@@ -234,7 +253,6 @@ def get_conferences() -> list[dict]:
                 # Create UID
                 remove_spaces_punctuation = str.maketrans('', '', string.punctuation + ' ')
                 short_title = conference_dict['title'].translate(remove_spaces_punctuation).lower()
-                #short_date = datetime.strftime(conference_dict['start_date'], '%d%m%y')
                 short_date = conference_dict['start_date'].replace(' ', '')
                 iterator = 0
                 uid = f'{short_title[:20]}{short_date}_{iterator}'
@@ -247,16 +265,15 @@ def get_conferences() -> list[dict]:
 
     return all_conferences
 
-def export_to_json(lod: list[dict], output_file='conferences.json'):
+def export_to_json(all_conferences: list[dict], output_file: str='conferences.json'):
     """
     Export a list of dictionaries to a JSON file.
 
     Args:
         lod (list[dict]): The list of dictionaries to be exported.
-        output_file (str, optional): The name of the output JSON file. Defaults to 'conferences.json'.
+        output_file (str): The name of the output JSON file. Defaults to 'conferences.json'.
 
     """
-    json_export = json.dumps(lod)
     with open(output_file, 'w', encoding='utf8') as fout:
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
 
