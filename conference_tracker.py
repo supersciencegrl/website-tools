@@ -22,7 +22,6 @@ def decode_themes(theme_list: list) -> list:
         list: A list of theme names.
 
     """
-    
     theme_names = {
         'agro': 'agrochemistry',
         'anal': 'analytical',
@@ -68,7 +67,6 @@ def decode_region(region: str) -> str:
         str: The corresponding region name.
 
     """
-    
     region_short_names = {
         # contintents
         'NA': 'North America',
@@ -104,7 +102,6 @@ def scrape_conference_list():
         list: A list of conference details extracted from the webpage.
 
     """
-    
     url = 'http://supersciencegrl.co.uk/conferences'
     r = requests.get(url, proxies=proxies)
     r.raise_for_status() # raise HTTPError if status code is not 2xx Success
@@ -126,7 +123,6 @@ def conference_html_to_dict(conference):
         None: Conference is either postponed or cancelled. 
 
     """
-    
     if 'cancelled' in conference['class'] or 'postponed' in conference['class']:
         return None
 
@@ -201,29 +197,25 @@ def conference_html_to_dict(conference):
     
     return my_dict
 
-def set_proxy():
+def set_proxy() -> dict:
     """
     Set up a proxy for HTTP and HTTPS requests.
 
-    The function reads the proxy URL from a file named 'proxy.dat' and sets the global 'proxies' variable.
+    This function retrieves proxy settings from a 'secrets.json' file and sets up the proxies for HTTP and HTTPS requests.
 
+    Returns:
+    dict: A dictionary containing proxy settings for HTTP and HTTPS requests.
     """
-    
-    global proxies
-
-    proxy_file = Path('proxy.dat')
-    if proxy_file.exists():
-        proxy = True
-    else:
-        proxy = False
     proxies = {}
-    if proxy:
-        with open(proxy_file, 'rt') as fin:
-            proxy_url = fin.readline()
-        proxies = {'http': proxy_url,
-                   'https': proxy_url
+    secrets_file = Path(r"C:\Users\kfsd435\GitHub\secrets.json")
+    if secrets_file.exists():
+        with open(secrets_file, 'rt') as fin:
+            secrets = json.load(fin)
+        proxies = {'http': secrets['proxy_http'],
+                   'https': secrets['proxy_https']
                    }
-        proxies = None
+
+    return proxies
 
 def get_conferences() -> list[dict]:
     """
@@ -233,7 +225,6 @@ def get_conferences() -> list[dict]:
         list[dict]: A list of dictionaries containing conference details.
 
     """
-    
     conferences = scrape_conference_list()
     all_conferences = [] # list(dict)
     for conference in conferences:
@@ -265,12 +256,11 @@ def export_to_json(lod: list[dict], output_file='conferences.json'):
         output_file (str, optional): The name of the output JSON file. Defaults to 'conferences.json'.
 
     """
-    
     json_export = json.dumps(lod)
     with open(output_file, 'w', encoding='utf8') as fout:
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
-    set_proxy()
+    proxies = set_proxy()
     all_conferences = get_conferences()
     export_to_json(all_conferences)
