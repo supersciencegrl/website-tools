@@ -826,6 +826,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Annual Meetings of the American Oil Chemists' Society",
+        "url": "https://annualmeeting.aocs.org/",
+        "start_date": "28 Apr 2024",
+        "end_date": "01 May 2024",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "$195–725",
+        "non_member_fee": "$949",
+        "max_fee": "$949",
+        "uid": "annualmeetingsofthea28Apr2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -2057,6 +2081,30 @@
     },
     {
         "themes": [
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "3rd Pharmaron Symposium: CHemistry for Life Science",
+        "url": "https://www.surveymonkey.com/r/Q7Y2TBX",
+        "start_date": "15 May 2024",
+        "end_date": null,
+        "locations": [
+            "Hoddesdon, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "Application",
+        "non_member_fee": "Application",
+        "max_fee": "Application",
+        "uid": "3rdpharmaronsymposiu15May2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "med chem"
@@ -2704,6 +2752,32 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "sciencethesenedd21May2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Adoption of Recombinant Bacterial Endotoxin Tests rBET",
+        "url": "https://www.linkedin.com/posts/tim-cernak-2211996_conservationchemistry-biodiversebiologics-activity-7187844835515547648-U7Cy/",
+        "start_date": "21 May 2024",
+        "end_date": null,
+        "locations": [
+            "Cape May, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "adoptionofrecombinan21May2024_0"
     },
     {
         "themes": [
@@ -14126,6 +14200,28 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Shimadzu SFC User Meeting",
+        "url": "https://www.shimadzu.eu/news-events/2024/sfc-user-meeting-2024.html",
+        "start_date": "06 Nov 2024",
+        "end_date": "07 Nov 2024",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "shimadzusfcusermeeti06Nov2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "med chem",
             "process/engineering",
@@ -15724,6 +15820,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionadv30Apr2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Coatings Show",
+        "url": "https://american-coatings-show.com/",
+        "start_date": "30 Apr 2024",
+        "end_date": "02 May 2024",
+        "locations": [
+            "Indianapolis, IN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IN"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "americancoatingsshow30Apr2024_0"
     },
     {
         "themes": [
