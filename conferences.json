@@ -16203,6 +16203,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "World Association of Theoretical & Computational Chemists WATOC",
+        "url": "hhttps://watoc.net/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Oslo, Norway"
+        ],
+        "countries": [
+            "Norway"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "worldassociationofth22Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
