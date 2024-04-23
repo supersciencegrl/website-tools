@@ -25,56 +25,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Symposium on Radiopharmacy & Radiopharmaceuticals",
-        "url": "https://www.esrr.info/",
-        "start_date": "18 Apr 2024",
-        "end_date": "21 Apr 2024",
-        "locations": [
-            "Coimbra, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€390",
-        "non_member_fee": "€390",
-        "max_fee": "€390",
-        "uid": "europeansymposiumonr18Apr2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Green Chemistry 25th anniversary symposium: Biorefinery for a low-carbon society",
-        "url": "https://www.rsc.org/events/detail/78839/green-chemistry-25th-anniversary-celebration-symposium-biorefinery-for-a-low-carbon-society",
-        "start_date": "21 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Dalian, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "greenchemistry25than21Apr2024_0"
-    },
-    {
-        "themes": [
             "med chem"
         ],
         "regions": [
@@ -120,32 +70,6 @@
         "non_member_fee": "$1,000–1,300",
         "max_fee": "$1,000–1,300",
         "uid": "2024mrnatechnologyco21Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe",
-            "Online"
-        ],
-        "title": "LINXS Science Day on New Materials",
-        "url": "https://www.linxs.se/events/2024/04/22/linxs-science-day-new-materials-conference",
-        "start_date": "22 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Lund, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "linxssciencedayonnew22Apr2024_0"
     },
     {
         "themes": [
@@ -5604,6 +5528,32 @@
         "non_member_fee": "£549–659",
         "max_fee": "£549–659",
         "uid": "biocatalysissolvings17Jun2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Midlands",
+            "Online"
+        ],
+        "title": "UK Catalysis Hub Summer Conference",
+        "url": "https://ukcatalysishub.co.uk/save-the-date-for-the-uk-catalysis-hub-summer-conference-2024/",
+        "start_date": "17 Jun 2024",
+        "end_date": "18 Jun 2024",
+        "locations": [
+            "Didcot, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "Unkn",
+        "non_member_fee": "Unkn",
+        "max_fee": "Unkn",
+        "uid": "ukcatalysishubsummer17Jun2024_0"
     },
     {
         "themes": [
@@ -12850,6 +12800,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ChemTalks: How can technology bridge silos within drug discovery?",
+        "url": "https://chemaxon.com/chemtalks-2024",
+        "start_date": "25 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemtalkshowcantechn25Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -13864,6 +13837,29 @@
         "non_member_fee": "€850",
         "max_fee": "€850",
         "uid": "intlconferenceonmicr27Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FAIR-DI European Conference on Data Intelligence 2024 (materials data focus)",
+        "url": "https://events.fairmat-nfdi.eu/event/9/",
+        "start_date": "27 Oct 2024",
+        "end_date": "30 Oct 2024",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€200",
+        "non_member_fee": "€200",
+        "max_fee": "€200",
+        "uid": "fairdieuropeanconfer27Oct2024_0"
     },
     {
         "themes": [
