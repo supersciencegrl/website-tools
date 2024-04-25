@@ -1,126 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/20240416/",
-        "start_date": "16 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,799",
-        "non_member_fee": "£1,799",
-        "max_fee": "£1,799",
-        "uid": "practicalmanagemento16Apr2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "18th EFMC Short Course on Medicinal Chemistry",
-        "url": "https://www.efmcshortcourses.org/",
-        "start_date": "21 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Oegstgeest, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€1,735",
-        "non_member_fee": "€1,735",
-        "max_fee": "€1,735",
-        "uid": "18thefmcshortcourseo21Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "2024 mRNA Technology Conference 2024",
-        "url": "https://www.aiche.org/sbe/conferences/mrna-technology-conference/2024/",
-        "start_date": "21 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$900–1,200",
-        "non_member_fee": "$1,000–1,300",
-        "max_fee": "$1,000–1,300",
-        "uid": "2024mrnatechnologyco21Apr2024_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Biotech Day",
-        "url": "https://swissbiotechday.ch/",
-        "start_date": "22 Apr 2024",
-        "end_date": "23 Apr 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF500",
-        "non_member_fee": "CHF750",
-        "max_fee": "CHF750",
-        "uid": "swissbiotechday22Apr2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "5th Engineering Cosmetics & Consumer Products Conference",
-        "url": "https://www.aiche.org/conferences/conference-on-engineering-cosmetics-and-consumer-products/2024",
-        "start_date": "22 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "$695",
-        "non_member_fee": "$895",
-        "max_fee": "$895",
-        "uid": "5thengineeringcosmet22Apr2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "computational/data",
             "inorganic/nano",
@@ -170,149 +50,6 @@
         "non_member_fee": "£1,499",
         "max_fee": "£1,499",
         "uid": "designdevelopmentsca22Apr2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "2nd Oligonucleotide Manufacturing Symposium event",
-        "url": "https://www.uk-cpi.com/events/oligonucleotide-manufacturing-symposium",
-        "start_date": "23 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "2ndoligonucleotidema23Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Hackathon: Democratizing Data in the Life Sciences – The Role of LLM's",
-        "url": "https://www.pistoiaalliance.org/eventdetails/democratising-data-in-the-life-sciences-the-role-of-llms/",
-        "start_date": "23 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "hackathondemocratizi23Apr2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Women in STEM kick-off meeting Liverpool",
-        "url": "https://www.eventbrite.co.uk/e/women-in-stem-kick-off-meeting-liverpool-tickets-850329527507",
-        "start_date": "23 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "womeninstemkickoffme23Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Multiscale structure of food materials II",
-        "url": "https://www.linxs.se/events/2024/04/23/multiscale-structure-of-food-materials-linxs-event",
-        "start_date": "23 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Ultuna, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "multiscalestructureo23Apr2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Workshop on Heterogeneous Integration in Integrated Photonics",
-        "url": "https://epixfab.eu/trainings/upcoming-trainings/workshop-on-heterogeneous-integration-in-silicon-photonics/",
-        "start_date": "23 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€209",
-        "non_member_fee": "€209",
-        "max_fee": "€209",
-        "uid": "workshoponheterogene23Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Making Pharmaceuticals (trade fair)",
-        "url": "https://www.makingpharma.com/",
-        "start_date": "23 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "makingpharmaceutical23Apr2024_0"
     },
     {
         "themes": [
@@ -11018,6 +10755,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "recentappointeesinpo04Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "British Mass Spec Society & British Society for Proteome Research BMSS-BSPR Super Meeting",
+        "url": "https://www.bmss.org.uk/bmss-bspr-super-meeting-2024/",
+        "start_date": "04 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£125–315",
+        "non_member_fee": "£305–425",
+        "max_fee": "£305–425",
+        "uid": "britishmassspecsocie04Sep2024_0"
     },
     {
         "themes": [
