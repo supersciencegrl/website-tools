@@ -53,82 +53,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Advances in Process Analytics & Control Technologies APACT Conference",
-        "url": "https://www.apact.co.uk/",
-        "start_date": "23 Apr 2024",
-        "end_date": "25 Apr 2024",
-        "locations": [
-            "New Brunswick, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "£460–950",
-        "non_member_fee": "£460–1,250",
-        "max_fee": "£460–1,250",
-        "uid": "advancesinprocessana23Apr2024_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "mRNA Process development & manufacturing summit",
-        "url": "https://mrna-processandmanufacturing-europe.com/",
-        "start_date": "23 Apr 2024",
-        "end_date": "25 Apr 2024",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "$2,249–3,847",
-        "non_member_fee": "$2,249–3,847",
-        "max_fee": "$2,249–3,847",
-        "uid": "mrnaprocessdevelopme23Apr2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Secrets of Batch Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20240423/",
-        "start_date": "23 Apr 2024",
-        "end_date": "25 Apr 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$2,799",
-        "non_member_fee": "$2,799",
-        "max_fee": "$2,799",
-        "uid": "secretsofbatchproces23Apr2024_0"
-    },
-    {
-        "themes": [
             "physical/phys org",
             "synthesis"
         ],
@@ -149,200 +73,6 @@
         "non_member_fee": "€450",
         "max_fee": "€450",
         "uid": "functionalmolecularp23Apr2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Pistoia Alliance Members' London Conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-2024-london-conference/",
-        "start_date": "24 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "pistoiaalliancemembe24Apr2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "RSC Applied Interfaces launch",
-        "url": "https://www.rsc.org/events/detail/78845/launching-rsc-applied-interfaces",
-        "start_date": "21 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Seattle, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscappliedinterfaces21Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Emissions Analytics: Tyre emissions & sustainability",
-        "url": "https://conferences.emissionsanalytics.com/tyres-us/index.html",
-        "start_date": "24 Apr 2024",
-        "end_date": "25 Apr 2024",
-        "locations": [
-            "Irvine, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$750",
-        "non_member_fee": "$750",
-        "max_fee": "$750",
-        "uid": "emissionsanalyticsty24Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "35th Medicinal Chemistry in Eastern England \"not-Hatfield Symposium\"",
-        "url": "https://www.rscbmcs.org/events/mcee35/",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£150",
-        "non_member_fee": "£200",
-        "max_fee": "£200",
-        "uid": "35thmedicinalchemist25Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "AI in Drug Discovery Forum",
-        "url": "https://elrig.org/portfolio/ai-in-drug-discovery-forum-24/",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "aiindrugdiscoveryfor25Apr2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "New modalities: Innovations in peptides as biotherapeutics",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/new-modalities-innovations-in-peptides-as-biotherapeutics",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£75",
-        "non_member_fee": "£130",
-        "max_fee": "£130",
-        "uid": "newmodalitiesinnovat25Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "AWS Life Sciences R&D Day London",
-        "url": "https://awslifesciencesrddaylondon.splashthat.com/",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "awslifesciencesrdday25Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern Europe",
-            "Online"
-        ],
-        "title": "LINXS workshop: The role of certain metals in organic matter mobilization & decomposition",
-        "url": "https://www.linxs.se/events/2024/04/25-26/role-of-certain-metals-in-organic-matter-linxs-event",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Lund, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "linxsworkshoptherole25Apr2024_0"
     },
     {
         "themes": [
@@ -1749,7 +1479,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "3rd Pharmaron Symposium: CHemistry for Life Science",
+        "title": "3rd Pharmaron Symposium: Chemistry for Life Science",
         "url": "https://www.surveymonkey.com/r/Q7Y2TBX",
         "start_date": "15 May 2024",
         "end_date": null,
@@ -5793,6 +5523,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "14thadvancesincement19Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Computational Mass Spectrometry/Metabolomics Workshop",
+        "url": "https://www.tickettailor.com/events/universityofaberdeen/1216684",
+        "start_date": "19 Sep 2024",
+        "end_date": "21 Sep 2024",
+        "locations": [
+            "Aberdeen, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "computationalmassspe19Sep2024_0"
     },
     {
         "themes": [
@@ -10128,9 +9882,9 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
+        "member_fee": "£990",
+        "non_member_fee": "£990",
+        "max_fee": "£990",
         "uid": "gregynogsynthesiswor28Aug2024_0"
     },
     {
@@ -10916,6 +10670,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscjaimasymposiumona05Sep2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SETAC/GDCh-Fachgruppe Umweltchemie und Ökotoxikologie Umwelt 2024 (German language)",
+        "url": "https://www.setac-glb.de/tagung-2024",
+        "start_date": "08 Sep 2024",
+        "end_date": "11 Sep 2024",
+        "locations": [
+            "Gießen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€220",
+        "non_member_fee": "€260",
+        "max_fee": "€260",
+        "uid": "setacgdchfachgruppeu08Sep2024_0"
     },
     {
         "themes": [
