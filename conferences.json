@@ -7475,7 +7475,7 @@
         "start_date": "08 Jul 2024",
         "end_date": "11 Jul 2024",
         "locations": [
-            "Poznań, Poland"
+            "Pozna&nacute, Poland"
         ],
         "countries": [
             "Poland"
@@ -9805,7 +9805,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Sjezd Chemiků",
+        "title": "Sjezd Chemik&uring",
         "url": "https://76sjezdchemiku.cz/",
         "start_date": "26 Aug 2024",
         "end_date": "29 Aug 2024",
@@ -9818,7 +9818,7 @@
         "member_fee": "CZK7,000",
         "non_member_fee": "CZK8,000",
         "max_fee": "CZK8,000",
-        "uid": "sjezdchemiků26Aug2024_0"
+        "uid": "sjezdchemikuring26Aug2024_0"
     },
     {
         "themes": [
@@ -10112,7 +10112,7 @@
         "start_date": "01 Sep 2024",
         "end_date": "05 Sep 2024",
         "locations": [
-            "Łodź, Poland"
+            "&Lstrokod&zacute, Poland"
         ],
         "countries": [
             "Poland"
@@ -11452,12 +11452,12 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Zjeździe Naukowym Polskiego Towarzystwa Chemicznego",
+        "title": "Zje&zacutedzie Naukowym Polskiego Towarzystwa Chemicznego",
         "url": "https://zjazd.ptchem.pl/",
         "start_date": "15 Sep 2024",
         "end_date": "20 Sep 2024",
         "locations": [
-            "Poznań, Poland"
+            "Pozna&nacute, Poland"
         ],
         "countries": [
             "Poland"
@@ -11465,7 +11465,7 @@
         "member_fee": "PLN1,000–1,850",
         "non_member_fee": "PLN1,000–1,950",
         "max_fee": "PLN1,000–1,950",
-        "uid": "zjeździenaukowympols15Sep2024_0"
+        "uid": "zjezacutedzienaukowy15Sep2024_0"
     },
     {
         "themes": [
