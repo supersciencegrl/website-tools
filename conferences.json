@@ -7475,7 +7475,7 @@
         "start_date": "08 Jul 2024",
         "end_date": "11 Jul 2024",
         "locations": [
-            "Pozna&nacute, Poland"
+            "Poznań, Poland"
         ],
         "countries": [
             "Poland"
@@ -9205,6 +9205,30 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Accelerate Conference 2024",
+        "url": "https://www.accelerate24.ca/",
+        "start_date": "06 Aug 2024",
+        "end_date": "09 Aug 2024",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "CAD290–685",
+        "non_member_fee": "CAD290–685",
+        "max_fee": "CAD290–685",
+        "uid": "accelerateconference06Aug2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -9781,7 +9805,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Sjezd Chemik&uring",
+        "title": "Sjezd Chemiků",
         "url": "https://76sjezdchemiku.cz/",
         "start_date": "26 Aug 2024",
         "end_date": "29 Aug 2024",
@@ -9794,7 +9818,7 @@
         "member_fee": "CZK7,000",
         "non_member_fee": "CZK8,000",
         "max_fee": "CZK8,000",
-        "uid": "sjezdchemikuring26Aug2024_0"
+        "uid": "sjezdchemiků26Aug2024_0"
     },
     {
         "themes": [
@@ -10088,7 +10112,7 @@
         "start_date": "01 Sep 2024",
         "end_date": "05 Sep 2024",
         "locations": [
-            "&Lstrokod&zacute, Poland"
+            "Łodź, Poland"
         ],
         "countries": [
             "Poland"
@@ -11428,12 +11452,12 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Zje&zacutedzie Naukowym Polskiego Towarzystwa Chemicznego",
+        "title": "Zjeździe Naukowym Polskiego Towarzystwa Chemicznego",
         "url": "https://zjazd.ptchem.pl/",
         "start_date": "15 Sep 2024",
         "end_date": "20 Sep 2024",
         "locations": [
-            "Pozna&nacute, Poland"
+            "Poznań, Poland"
         ],
         "countries": [
             "Poland"
@@ -11441,7 +11465,7 @@
         "member_fee": "PLN1,000–1,850",
         "non_member_fee": "PLN1,000–1,950",
         "max_fee": "PLN1,000–1,950",
-        "uid": "zjezacutedzienaukowy15Sep2024_0"
+        "uid": "zjeździenaukowympols15Sep2024_0"
     },
     {
         "themes": [
