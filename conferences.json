@@ -1,222 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "2024 Materials Research Society MRS Spring Meeting & Exhibit (in person)",
-        "url": "https://www.mrs.org/meetings-events/spring-meetings-exhibits/2024-mrs-spring-meeting",
-        "start_date": "22 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "Seattle, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "member_fee": "$270–890",
-        "non_member_fee": "$270–1,040",
-        "max_fee": "$270–1,040",
-        "uid": "2024materialsresearc22Apr2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Design, Development & Scale-Up of Safe Chemical Processes & Operations (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/design-development-and-scale-up-of-safe-chemical-processes-and-operations/",
-        "start_date": "22 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,499",
-        "non_member_fee": "£1,499",
-        "max_fee": "£1,499",
-        "uid": "designdevelopmentsca22Apr2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Functional molecular photoswitches for energy storage & beyond",
-        "url": "https://myevent.upc.edu/100367/detail/functional-molecular-photoswitches-for-energy-storage-and-beyond.html",
-        "start_date": "23 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€450",
-        "non_member_fee": "€450",
-        "max_fee": "€450",
-        "uid": "functionalmolecularp23Apr2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Formulation & Delivery 2024",
-        "url": "https://oxfordglobal.com/formulation-delivery-series-uk/",
-        "start_date": "25 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "formulationdelivery225Apr2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "law/policy",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Regulatory Summit Europe 2024",
-        "url": "https://events.chemicalwatch.com/868404/regulatory-summit-europe-2024",
-        "start_date": "25 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "Brussels, Belgium",
-            "Online"
-        ],
-        "countries": [
-            "Belgium",
-            "Online"
-        ],
-        "member_fee": "€1,509",
-        "non_member_fee": "€1,775",
-        "max_fee": "€1,775",
-        "uid": "regulatorysummiteuro25Apr2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "#ChemEngDayUK2024",
-        "url": "https://www.imperial.ac.uk/chemical-engineering/news/chemengdayuk2024/",
-        "start_date": "25 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£385",
-        "non_member_fee": "£385",
-        "max_fee": "£385",
-        "uid": "chemengdayuk202425Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bayer Agritech Pitch Day",
-        "url": "https://qualtricsxm3gpn5d7qh.qualtrics.com/jfe/form/SV_0kQRhpFdT5HvuiG",
-        "start_date": "25 Apr 2024",
-        "end_date": "26 Apr 2024",
-        "locations": [
-            "Monheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Application",
-        "non_member_fee": "Application",
-        "max_fee": "Application",
-        "uid": "bayeragritechpitchda25Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Advances in the Chemical Analysis of Food IV",
-        "url": "https://www.rsc.org/events/detail/77809/advances-in-the-chemical-analysis-of-food-iv",
-        "start_date": "26 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "advancesinthechemica26Apr2024_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "57th Bürgenstock Conference: SCS Conference on Stereochemistry",
-        "url": "https://bc24.scg.ch/",
-        "start_date": "25 Apr 2024",
-        "end_date": null,
-        "locations": [
-            "Brunnen, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "57thbürgenstockconfe25Apr2024_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "process/engineering"
@@ -238,57 +22,6 @@
         "non_member_fee": "$949",
         "max_fee": "$949",
         "uid": "annualmeetingsofthea28Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England",
-            "Online"
-        ],
-        "title": "Target to Patient",
-        "url": "https://www.ebi.ac.uk/targettopatient/",
-        "start_date": "29 Apr 2024",
-        "end_date": "30 Apr 2024",
-        "locations": [
-            "Hinxton, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£225",
-        "non_member_fee": "£225",
-        "max_fee": "£225",
-        "uid": "targettopatient29Apr2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scale-Up: What Goes Wrong? (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/20240429/",
-        "start_date": "29 Apr 2024",
-        "end_date": "30 Apr 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£399",
-        "non_member_fee": "£399",
-        "max_fee": "£399",
-        "uid": "scaleupwhatgoeswrong29Apr2024_0"
     },
     {
         "themes": [
@@ -366,29 +99,6 @@
         "non_member_fee": "$3,449–6,145",
         "max_fee": "$3,449–6,145",
         "uid": "lnpformulationproces29Apr2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Centre for Chemical Process Safety CCPS Middle East Regional Meeting",
-        "url": "https://www.aiche.org/ccps/resources/conferences/events/ccps-regional-meeting/2024-04-30",
-        "start_date": "30 Apr 2024",
-        "end_date": "24 Apr 2024",
-        "locations": [
-            "Dhahran, Saudi Arabia"
-        ],
-        "countries": [
-            "Saudi Arabia"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "centreforchemicalpro30Apr2024_0"
     },
     {
         "themes": [
@@ -1517,6 +1227,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "advancesincellbaseds15May2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "HTE Summit 2024",
+        "url": "",
+        "start_date": "15 May 2024",
+        "end_date": "16 May 2024",
+        "locations": [
+            "Wuppertal, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "htesummit202415May2024_0"
     },
     {
         "themes": [
