@@ -1,273 +1,26 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Annual Meetings of the American Oil Chemists' Society",
-        "url": "https://annualmeeting.aocs.org/",
-        "start_date": "28 Apr 2024",
-        "end_date": "01 May 2024",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "$195–725",
-        "non_member_fee": "$949",
-        "max_fee": "$949",
-        "uid": "annualmeetingsofthea28Apr2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "European Peptide Synthesis Conference EPSC 2024",
-        "url": "https://www.eupeptidesynthesis.com/",
-        "start_date": "29 Apr 2024",
-        "end_date": "01 May 2024",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "£495",
-        "non_member_fee": "£495",
-        "max_fee": "£495",
-        "uid": "europeanpeptidesynth29Apr2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Lipid Nanoparticle LNP Formulation & Process Development Summit",
-        "url": "https://lnp-formulation-process-development-pharma.com/",
-        "start_date": "29 Apr 2024",
-        "end_date": "01 May 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$2,849–4,945",
-        "non_member_fee": "$2,849–4,945",
-        "max_fee": "$2,849–4,945",
-        "uid": "lipidnanoparticlelnp29Apr2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "LNP Formulation & Process Development Summit",
-        "url": "https://lnp-formulation-process-development-pharma.com/",
-        "start_date": "29 Apr 2024",
-        "end_date": "02 May 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$3,449–6,145",
-        "non_member_fee": "$3,449–6,145",
-        "max_fee": "$3,449–6,145",
-        "uid": "lnpformulationproces29Apr2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "British Mass Spectrometry Society BMSS Scrivens Symposium",
-        "url": "https://www.bmss.org.uk/meeting-booking/the-scrivens-symposium/",
-        "start_date": "01 May 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£49–67",
-        "non_member_fee": "£85",
-        "max_fee": "£85",
-        "uid": "britishmassspectrome01May2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
+            "environment/fuels"
         ],
         "regions": [
             "Western Europe"
         ],
-        "title": "Physical Chemistry Chemical Physics PCCP 25th anniversary symposium",
-        "url": "https://www.rsc.org/events/detail/76762/pccp-25th-anniversary-symposium",
-        "start_date": "01 May 2024",
-        "end_date": "02 May 2024",
+        "title": "Society of Environmental Toxicology & Chemistry SETAC Conference",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-europe-34th-annual-meeting.html",
+        "start_date": "05 May 2024",
+        "end_date": "09 May 2024",
         "locations": [
-            "Amsterdam, Netherlands"
+            "Seville, Spain"
         ],
         "countries": [
-            "Netherlands"
+            "Spain"
         ],
-        "member_fee": "€210",
-        "non_member_fee": "€235",
-        "max_fee": "€235",
-        "uid": "physicalchemistryche01May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Chemical Soceity Division of Industrial & Applied Chemistry DIAC Annual Member Meeting 2024",
-        "url": "https://scg.ch/component/eventbooking/diac-ga24",
-        "start_date": "02 May 2024",
-        "end_date": null,
-        "locations": [
-            "Münchwilen, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "swisschemicalsoceity02May2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Education in the Chemistry Laboratory CLEAR24",
-        "url": "https://clearsymposium.weebly.com/",
-        "start_date": "02 May 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "educationinthechemis02May2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Scientific Update: 6th Flow Chemistry & Continuous Processing Conference",
-        "url": "https://www.scientificupdate.com/conference_events/flow-chemistry-and-continuous-processing-conference/",
-        "start_date": "02 May 2024",
-        "end_date": "03 May 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$2,199",
-        "non_member_fee": "$2,199",
-        "max_fee": "$2,199",
-        "uid": "scientificupdate6thf02May2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Considerations and Potential Regulatory Applications for a Model Master File",
-        "url": "https://www.complexgenerics.org/education-training/considerations-and-potential-regulatory-applications-for-a-model-master-file/",
-        "start_date": "02 May 2024",
-        "end_date": "03 May 2024",
-        "locations": [
-            "Rockville, MD, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "$0–500",
-        "max_fee": "$0–500",
-        "uid": "considerationsandpot02May2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Australasian Symposium on Ionic Liquids",
-        "url": "https://storenergy.com.au/asil11/",
-        "start_date": "02 May 2024",
-        "end_date": "03 May 2024",
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "AUD350",
-        "non_member_fee": "AUD350",
-        "max_fee": "AUD350",
-        "uid": "australasiansymposiu02May2024_0"
+        "member_fee": "€237–710",
+        "non_member_fee": "€296–888",
+        "max_fee": "€296–888",
+        "uid": "societyofenvironment05May2024_0"
     },
     {
         "themes": [
@@ -1251,6 +1004,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "htesummit202415May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "4th Edelris Symposium on Affinity Selection-Mass Spectrometry ASMS in Drug Discovery",
+        "url": "https://www.edelris-symposium.org",
+        "start_date": "15 May 2024",
+        "end_date": "16 May 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "4thedelrissymposiumo15May2024_0"
     },
     {
         "themes": [
@@ -2267,6 +2044,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "College Chemistry Canada C3",
+        "url": "http://collegechemistrycanada.ca/conferences/24conf/conf2024E.html",
+        "start_date": "24 May 2024",
+        "end_date": "26 May 2024",
+        "locations": [
+            "Peterborough, ON, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "CAD150",
+        "non_member_fee": "CAD190",
+        "max_fee": "CAD190",
+        "uid": "collegechemistrycana24May2024_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "formulation/particle science",
@@ -2313,6 +2112,28 @@
         "non_member_fee": "€1,250–2,250",
         "max_fee": "€1,250–2,250",
         "uid": "drugdruginteractiond26May2024_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Healthcare Licensing Group HLG Conference: Back to deal-making",
+        "url": "https://organizers-congress.org/frontend/index.php?sub=245",
+        "start_date": "26 May 2024",
+        "end_date": "28 May 2024",
+        "locations": [
+            "Montreux, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "CHF1,200",
+        "non_member_fee": "CHF1,650",
+        "max_fee": "CHF1,650",
+        "uid": "swisshealthcarelicen26May2024_0"
     },
     {
         "themes": [
@@ -2770,6 +2591,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "chemistryoflifeyoung30May2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Structural characterization of macromolecular complexes (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/mmo24-01/",
+        "start_date": "01 Jun 2024",
+        "end_date": "08 Jun 2024",
+        "locations": [
+            "Grenoble, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "€1,000",
+        "non_member_fee": "€1,000",
+        "max_fee": "€1,000",
+        "uid": "structuralcharacteri01Jun2024_0"
     },
     {
         "themes": [
@@ -4195,6 +4039,34 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "chemicalsciencesrese13Jun2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Synthetic chemistry of value to industry",
+        "url": "https://www.linkedin.com/posts/scott-bagley-2201504_pfizerchemistry-merckchemistry-activity-7189659250481143808-DPSp/",
+        "start_date": "13 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "New London, CT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CT"
+        ],
+        "member_fee": "$50",
+        "non_member_fee": "$50",
+        "max_fee": "$50",
+        "uid": "syntheticchemistryof13Jun2024_0"
     },
     {
         "themes": [
@@ -6522,6 +6394,29 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Grignard Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/grignard-chemistry-short-course/",
+        "start_date": "01 Jul 2024",
+        "end_date": "02 Jul 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£599–719",
+        "non_member_fee": "£599–719",
+        "max_fee": "£599–719",
+        "uid": "grignardchemistrytra01Jul2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "synthesis"
         ],
@@ -6548,29 +6443,6 @@
     },
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Grignard Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/grignard-chemistry-short-course/",
-        "start_date": "01 Jul 2024",
-        "end_date": "02 Jul 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£599–719",
-        "non_member_fee": "£599–719",
-        "max_fee": "£599–719",
-        "uid": "grignardchemistrytra01Jul2024_0"
-    },
-    {
-        "themes": [
             "formulation/particle science",
             "pharma industry",
             "physical/phys org"
@@ -6592,6 +6464,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "britishassociationfo01Jul2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Summer School on Science-based Formulation",
+        "url": "https://sites.google.com/view/sciencebasedformulation/home",
+        "start_date": "01 Jul 2024",
+        "end_date": "03 Jul 2024",
+        "locations": [
+            "Florence, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€200",
+        "non_member_fee": "€200",
+        "max_fee": "€200",
+        "uid": "intlsummerschoolonsc01Jul2024_0"
     },
     {
         "themes": [
@@ -6789,8 +6683,8 @@
         ],
         "title": "Post-16 chemistry teachers' conference",
         "url": "https://www.rsc.org/events/detail/78912/post-16-chemistry-teachers-conference",
-        "start_date": "24 Jun 2024",
-        "end_date": "28 Jun 2024",
+        "start_date": "04 Jul 2024",
+        "end_date": null,
         "locations": [
             "Southampton, UK"
         ],
@@ -6800,7 +6694,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "post16chemistryteach24Jun2024_0"
+        "uid": "post16chemistryteach04Jul2024_0"
     },
     {
         "themes": [
@@ -8281,6 +8175,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Canadian Symposium on Theoretical & Computational Chemistry CSTCC",
+        "url": "http://catc.ca/cstcc2024",
+        "start_date": "22 Jul 2024",
+        "end_date": "25 Jul 2024",
+        "locations": [
+            "Nova Scotia, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "CAD300",
+        "non_member_fee": "CAD300",
+        "max_fee": "CAD300",
+        "uid": "canadiansymposiumont22Jul2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -9298,6 +9214,29 @@
         "non_member_fee": "€690",
         "max_fee": "€690",
         "uid": "annualmeetingofthein18Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advances in cryo-electron microscopy & 3D image processing (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/cry24-01/",
+        "start_date": "18 Aug 2024",
+        "end_date": "26 Aug 2024",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€1,000",
+        "non_member_fee": "€1,000",
+        "max_fee": "€1,000",
+        "uid": "advancesincryoelectr18Aug2024_0"
     },
     {
         "themes": [
@@ -10712,6 +10651,31 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Chemical Biology 2024 (workshop)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/chb24-01/",
+        "start_date": "09 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "€275–750",
+        "non_member_fee": "€275–750",
+        "max_fee": "€275–750",
+        "uid": "chemicalbiology2024w09Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -11669,6 +11633,28 @@
         "non_member_fee": "€150–470",
         "max_fee": "€150–470",
         "uid": "summerschoolonpharma18Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "qNMR Summit 2024",
+        "url": "https://buchs2024.qnmrsummit.org/",
+        "start_date": "18 Sep 2024",
+        "end_date": "20 Sep 2024",
+        "locations": [
+            "Buchs, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "qnmrsummit202418Sep2024_0"
     },
     {
         "themes": [
@@ -14089,6 +14075,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Sample preparation & data analysis in proteomics (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sdp24-01/",
+        "start_date": "03 Dec 2024",
+        "end_date": "06 Dec 2024",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€1,100",
+        "non_member_fee": "€1,100",
+        "max_fee": "€1,100",
+        "uid": "samplepreparationdat03Dec2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers",
@@ -14722,6 +14732,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionatm17Feb2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Deep learning for image analysis (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/mac25-01/",
+        "start_date": "17 Feb 2025",
+        "end_date": "21 Feb 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "deeplearningforimage17Feb2025_0"
     },
     {
         "themes": [
@@ -16008,6 +16041,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionhig24Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Seeing is believing: Imaging the molecular processes of life (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees25-09/",
+        "start_date": "08 Oct 2025",
+        "end_date": "11 Oct 2025",
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "seeingisbelievingima08Oct2025_0"
     },
     {
         "themes": [
