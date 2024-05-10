@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society of Environmental Toxicology & Chemistry SETAC Conference",
-        "url": "https://www.setac.org/discover-events/global-meetings/setac-europe-34th-annual-meeting.html",
-        "start_date": "05 May 2024",
-        "end_date": "09 May 2024",
-        "locations": [
-            "Seville, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€237–710",
-        "non_member_fee": "€296–888",
-        "max_fee": "€296–888",
-        "uid": "societyofenvironment05May2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -45,273 +22,6 @@
         "non_member_fee": "$915–1,600",
         "max_fee": "$915–1,600",
         "uid": "gordonresearchconfer05May2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "6th Middle East process Engineering Conference & Exhibition",
-        "url": "https://www.mepec.org/",
-        "start_date": "06 May 2024",
-        "end_date": "08 May 2024",
-        "locations": [
-            "Dhahran, Saudi Arabia"
-        ],
-        "countries": [
-            "Saudi Arabia"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "6thmiddleeastprocess06May2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Quantum Computing & AI applications workshop",
-        "url": "https://www.aiche.org/conferences/quantum-computing-and-artificial-intelligence-applications-workshop/2024",
-        "start_date": "06 May 2024",
-        "end_date": "08 May 2024",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "$495–695",
-        "non_member_fee": "$495–695",
-        "max_fee": "$495–695",
-        "uid": "quantumcomputingaiap06May2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "2024 Offshore Technology Conference",
-        "url": "https://2024.otcnet.org/",
-        "start_date": "06 May 2024",
-        "end_date": "09 May 2024",
-        "locations": [
-            "Houston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "$140–200",
-        "non_member_fee": "$340–400",
-        "max_fee": "$340–400",
-        "uid": "2024offshoretechnolo06May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "med chem"
-        ],
-        "regions": [
-            "Northern Europe",
-            "Online"
-        ],
-        "title": "Neutron scattering in drug discovery, design, & formulation",
-        "url": "https://www.linxs.se/events/2024/05/07-08/neutron-diffraction-in-drug-discovery-linxs-event",
-        "start_date": "07 May 2024",
-        "end_date": "08 May 2024",
-        "locations": [
-            "Lund, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "member_fee": "SEK350–700",
-        "non_member_fee": "SEK350–700",
-        "max_fee": "SEK350–700",
-        "uid": "neutronscatteringind07May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "2024 Materials Research Society MRS Spring Meeting & Exhibit (online)",
-        "url": "https://www.mrs.org/meetings-events/spring-meetings-exhibits/2024-mrs-spring-meeting",
-        "start_date": "07 May 2024",
-        "end_date": "09 May 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$130–320",
-        "non_member_fee": "$130–470",
-        "max_fee": "$130–470",
-        "uid": "2024materialsresearc07May2024_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "CPHI North America (trade fair)",
-        "url": "https://www.cphi.com/northamerica/en/home.html",
-        "start_date": "07 May 2024",
-        "end_date": "09 May 2024",
-        "locations": [
-            "Pennsylvania, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "$59–359",
-        "non_member_fee": "$59–359",
-        "max_fee": "$59–359",
-        "uid": "cphinorthamericatrad07May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Organic Community South & East Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/77982/rsc-organic-chemistry-community-south-and-east-regional-meeting-2024",
-        "start_date": "08 May 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscorganiccommunitys08May2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "West London Women in Biotech",
-        "url": "https://www.bioindustry.org/event-listing/women-in-biotech-west-london.html",
-        "start_date": "08 May 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£48–66",
-        "non_member_fee": "£84",
-        "max_fee": "£84",
-        "uid": "westlondonwomeninbio08May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "inorganic/nano",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Organic Chemistry Ireland Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/78561/organic-chemistry-ireland-regional-meeting",
-        "start_date": "08 May 2024",
-        "end_date": null,
-        "locations": [
-            "Galway, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "organicchemistryirel08May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Psychedelic Drugs & Forensic Analytical Techniques",
-        "url": "https://www.rsc.org/events/detail/79044/psychedelic-drugs-and-forensic-analytical-techniques-cg-spring-meeting",
-        "start_date": "08 May 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "psychedelicdrugsfore08May2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Proteostasis UK",
-        "url": "https://proteostasisuk.co.uk/",
-        "start_date": "08 May 2024",
-        "end_date": "09 May 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "proteostasisuk08May2024_0"
     },
     {
         "themes": [
@@ -12524,6 +12234,28 @@
         "non_member_fee": "£1,699–2,039",
         "max_fee": "£1,699–2,039",
         "uid": "moleculetomedicinetr07Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Horticulture Group David Miller Awards",
+        "url": "https://soci.org/events/horticulture-group/2024/sci-horticulture-group-david-miller-awards",
+        "start_date": "08 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scihorticulturegroup08Oct2024_0"
     },
     {
         "themes": [
