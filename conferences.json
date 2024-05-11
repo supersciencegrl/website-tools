@@ -2,103 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Lipidomics",
-        "url": "https://www.grc.org/lipidomics-conference/2024/",
-        "start_date": "05 May 2024",
-        "end_date": "10 May 2024",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "$915–1,600",
-        "non_member_fee": "$915–1,600",
-        "max_fee": "$915–1,600",
-        "uid": "gordonresearchconfer05May2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland",
-            "Online"
-        ],
-        "title": "Faraday discussion: New directions in molecular scattering",
-        "url": "https://www.rsc.org/events/detail/75105/new-directions-in-molecular-scattering-faraday-discussion",
-        "start_date": "08 May 2024",
-        "end_date": "10 May 2024",
-        "locations": [
-            "Edinburgh, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£156–498",
-        "non_member_fee": "£186–636",
-        "max_fee": "£186–636",
-        "uid": "faradaydiscussionnew08May2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "American Spatial Biology Congress",
-        "url": "https://global-engage.com/product/spatial-biology-usa-2024/",
-        "start_date": "09 May 2024",
-        "end_date": "10 May 2024",
-        "locations": [
-            "La Jolla, CA, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "$799",
-        "non_member_fee": "$799",
-        "max_fee": "$799",
-        "uid": "americanspatialbiolo09May2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EWOC Empowering Women in Organic Chemistry Chapters 7th Virtual Symposium",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=pmZCS2gTr0GtWlnrY0962JunJQG4djFLqghDoGFxAI5URjFCWEVJTERPNlNQTlVBR0FBREZXUTFLUi4u",
-        "start_date": "10 May 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "ewocempoweringwomeni10May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "careers"
         ],
         "regions": [
@@ -741,6 +644,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "FHI-aims ab initio materials simulation software UK Meeting 2024",
+        "url": "https://logsdail.github.io/fhiaims_meeting_2024/",
+        "start_date": "15 May 2024",
+        "end_date": "16 May 2024",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fhiaimsabinitiomater15May2024_0"
+    },
+    {
+        "themes": [
             "business",
             "materials/polymers"
         ],
@@ -941,7 +867,7 @@
         ],
         "title": "34th SCI Fine Chemicals Group FCG Postgraduate Symposium",
         "url": "https://www.soci.org/events/fine-chemicals-group/2024/34th-sci-fine-chemicals-group-postgraduate-symposium",
-        "start_date": "17 Mar 2024",
+        "start_date": "17 May 2024",
         "end_date": null,
         "locations": [
             "Cardiff, Wales, UK",
@@ -954,7 +880,31 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "34thscifinechemicals17Mar2024_0"
+        "uid": "34thscifinechemicals17May2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Highlighting Organic Chemistry in Austria",
+        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-austria-tickets-897285564277",
+        "start_date": "17 May 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "highlightingorganicc17May2024_0"
     },
     {
         "themes": [
@@ -986,8 +936,8 @@
         ],
         "title": "ACS Spring US National Meeting",
         "url": "https://www.acs.org/meetings/acs-meetings/spring.html",
-        "start_date": "17 Mar 2024",
-        "end_date": "21 Mar 2024",
+        "start_date": "17 May 2024",
+        "end_date": "21 May 2024",
         "locations": [
             "New Orleans, LA, USA",
             "Online"
@@ -1002,7 +952,7 @@
         "member_fee": "$0–399",
         "non_member_fee": "$49–799",
         "max_fee": "$49–799",
-        "uid": "acsspringusnationalm17Mar2024_0"
+        "uid": "acsspringusnationalm17May2024_0"
     },
     {
         "themes": [
@@ -1393,6 +1343,28 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemspeed Open Day Ia",
+        "url": "https://r50udb0gyr4.typeform.com/to/F76Xxjhf",
+        "start_date": "21 May 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemspeedopendayia21May2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -1751,6 +1723,28 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "aiinchemicaleducatio23May2024_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemspeed Open Day Ib",
+        "url": "https://r50udb0gyr4.typeform.com/to/F76Xxjhf",
+        "start_date": "24 May 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemspeedopendayib24May2024_0"
     },
     {
         "themes": [
@@ -3617,6 +3611,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Discovery Germany Forum",
+        "url": "https://elrig.org/portfolio/drug-discovery-germany-forum-24",
+        "start_date": "11 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "drugdiscoverygermany11Jun2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -4851,8 +4869,8 @@
         ],
         "title": "Computational Mass Spectrometry/Metabolomics Workshop",
         "url": "https://www.tickettailor.com/events/universityofaberdeen/1216684",
-        "start_date": "19 Sep 2024",
-        "end_date": "21 Sep 2024",
+        "start_date": "19 Jun 2024",
+        "end_date": "21 Jun 2024",
         "locations": [
             "Aberdeen, Scotland, UK"
         ],
@@ -4862,7 +4880,7 @@
         "member_fee": "0",
         "non_member_fee": "0",
         "max_fee": "0",
-        "uid": "computationalmassspe19Sep2024_0"
+        "uid": "computationalmassspe19Jun2024_0"
     },
     {
         "themes": [
@@ -5592,6 +5610,28 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemspeed Open Day IIa",
+        "url": "https://r50udb0gyr4.typeform.com/to/SApwAyds",
+        "start_date": "25 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemspeedopendayiia25Jun2024_0"
+    },
+    {
+        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -5906,6 +5946,28 @@
         "non_member_fee": "CZK2,500",
         "max_fee": "CZK2,500",
         "uid": "rostemeschimií27Jun2024_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemspeed Open Day IIb",
+        "url": "https://r50udb0gyr4.typeform.com/to/SApwAyds",
+        "start_date": "28 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chemspeedopendayiib28Jun2024_0"
     },
     {
         "themes": [
@@ -10409,6 +10471,28 @@
     },
     {
         "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ELRIG Early Career Professional Networking: Beyond the Lab: Innovation skills to boost your career",
+        "url": "https://elrig.org/portfolio/webinar-june-24-beyond-the-lab-innovation-skills-to-boost-your-career/",
+        "start_date": "10 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "elrigearlycareerprof10Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "materials/polymers",
@@ -11437,6 +11521,37 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "GSK Chemistry Scholars Program (US grad students only)",
+        "url": "https://www.linkedin.com/posts/phillip-clayman_want-to-know-what-a-day-and-a-half-in-the-activity-7190790726450925568-FbFn/",
+        "start_date": "19 Sep 2024",
+        "end_date": "20 Sep 2024",
+        "locations": [
+            "Upper Providence, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "—",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "gskchemistryscholars19Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "materials/polymers",
@@ -11482,6 +11597,32 @@
         "non_member_fee": "£320",
         "max_fee": "£320",
         "uid": "20thrscchemicalbiolo20Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Chicago Regional Inorganic Colloquium",
+        "url": "https://chem.wisc.edu/cric/",
+        "start_date": "21 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Madison, WI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WI"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "chicagoregionalinorg21Sep2024_0"
     },
     {
         "themes": [
@@ -13133,6 +13274,29 @@
         "non_member_fee": "CUP5,000 / $350",
         "max_fee": "$350",
         "uid": "9thlatinamericansymp04Nov2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Drug Discovery Denmark Forum",
+        "url": "https://elrig.org/portfolio/drug-discovery-denmark-forum/",
+        "start_date": "05 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "drugdiscoverydenmark05Nov2024_0"
     },
     {
         "themes": [
@@ -15972,6 +16136,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonhigh31May2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "ELRIG Drug Discovery 2025",
+        "url": "https://elrig.org/portfolio/drug-discovery-2025/",
+        "start_date": "21 Oct 2025",
+        "end_date": "22 Oct 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "elrigdrugdiscovery2021Oct2025_0"
     },
     {
         "themes": [
