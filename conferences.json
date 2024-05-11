@@ -3725,6 +3725,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Waters 2024 LC symposium",
+        "url": "https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4557179&key=8E90396DEBBA56F3B78928C8B15835CE&groupId=5399552",
+        "start_date": "12 Jun 2024",
+        "end_date": "13 Jun 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "waters2024lcsymposiu12Jun2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -12947,6 +12970,51 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Southeastern Regional Meeting of the ACS SERMACS 2024",
+        "url": "https://sermacs2024.org/",
+        "start_date": "23 Oct 2024",
+        "end_date": "26 Oct 2024",
+        "locations": [
+            "Atlanta, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "southeasternregional23Oct2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -14851,6 +14919,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "9thrscbmcssymposiumo14Mar2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "EEUSA"
+        ],
+        "title": "Drug, Chemical & Associated Technologies Association DCAT Week (bio)pharma manufacturing value chain",
+        "url": "https://dcatweek.org/",
+        "start_date": "16 Mar 2025",
+        "end_date": "20 Mar 2025",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugchemicalassociat16Mar2025_0"
     },
     {
         "themes": [
