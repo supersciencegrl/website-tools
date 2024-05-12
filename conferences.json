@@ -1726,6 +1726,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pistoia Alliance: Pharmaceutical CMC Process Ontology Workshop",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pharmaceutical-cmc-process-ontology-workshop-invitation-only/",
+        "start_date": "23 May 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "Invitation",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "pistoiaalliancepharm23May2024_0"
+    },
+    {
+        "themes": [
             "automation"
         ],
         "regions": [
@@ -5655,6 +5681,28 @@
     },
     {
         "themes": [
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Oligonucleotides & Peptides Conference IOPC",
+        "url": "https://www.iopc-tks.com/ target=",
+        "start_date": "25 Jun 2024",
+        "end_date": "26 Jun 2024",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "€400–1,200",
+        "non_member_fee": "€400–1,200",
+        "max_fee": "€400–1,200",
+        "uid": "intloligonucleotides25Jun2024_0"
+    },
+    {
+        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -5924,6 +5972,28 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "analyticalscienceint27Jun2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pistoia Alliance: Semantic Data 2024",
+        "url": "https://www.pistoiaalliance.org/eventdetails/semantic-data-2024-taxonomy-ontology-and-knowledge-graphs/",
+        "start_date": "27 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "£399",
+        "non_member_fee": "£399",
+        "max_fee": "£399",
+        "uid": "pistoiaallianceseman27Jun2024_0"
     },
     {
         "themes": [
@@ -12330,6 +12400,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Pistoia Alliance: UX User Experience for Life Sciences Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/uxls-for-life-sciences-conference-2024/",
+        "start_date": "07 Oct 2024",
+        "end_date": "08 Oct 2024",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "$300",
+        "non_member_fee": "$500",
+        "max_fee": "$500",
+        "uid": "pistoiaallianceuxuse07Oct2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "synthesis"
@@ -13676,6 +13768,28 @@
         "non_member_fee": "€2,695",
         "max_fee": "€2,695",
         "uid": "bioeuropevirtual12Nov2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pistoia Alliance Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-2024-philadelphia-conference/",
+        "start_date": "12 Nov 2024",
+        "end_date": "14 Nov 2024",
+        "locations": [
+            "Philadelphia, PA, uSA"
+        ],
+        "countries": [
+            "uSA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "—",
+        "max_fee": "—",
+        "uid": "pistoiaallianceconfe12Nov2024_0"
     },
     {
         "themes": [
