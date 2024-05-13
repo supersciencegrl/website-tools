@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "careers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Emerging Analytical Professionals EAP 2024",
-        "url": "https://www.analyticalsciencenetwork.co.uk/",
-        "start_date": "10 May 2024",
-        "end_date": "12 May 2024",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£420",
-        "non_member_fee": "£420",
-        "max_fee": "£420",
-        "uid": "emerginganalyticalpr10May2024_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2582,6 +2559,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "Eastern Europe",
+            "Online"
+        ],
+        "title": "Chemical Watch Biocides Symposium 2024",
+        "url": "https://events.chemicalwatch.com/868608/biocides-symposium-2024",
+        "start_date": "03 Jun 2024",
+        "end_date": "04 Jun 2024",
+        "locations": [
+            "Prague, Czechia",
+            "Online"
+        ],
+        "countries": [
+            "Czechia",
+            "Online"
+        ],
+        "member_fee": "€978",
+        "non_member_fee": "€1,150",
+        "max_fee": "€1,150",
+        "uid": "chemicalwatchbiocide03Jun2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "environment/fuels",
             "process/engineering"
@@ -3847,6 +3851,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "law/policy",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "PFAS Global 2024",
+        "url": "https://events.chemicalwatch.com/868407/pfas-global-2024",
+        "start_date": "13 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£506",
+        "non_member_fee": "£595",
+        "max_fee": "£595",
+        "uid": "pfasglobal202413Jun2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "process/engineering",
             "synthesis"
@@ -4357,30 +4387,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biocatalysis: Solving Scale-Up Issues with Biocatalysed Reactions (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-solving-scale-up-issues-with-biocatalysed-reactions/",
-        "start_date": "17 Jun 2024",
-        "end_date": "18 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£549–659",
-        "non_member_fee": "£549–659",
-        "max_fee": "£549–659",
-        "uid": "biocatalysissolvings17Jun2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano"
         ],
@@ -4404,6 +4410,55 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "ukcatalysishubsummer17Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Watch Expo 2024",
+        "url": "https://events.chemicalwatch.com/870082/expo-24-by-chemical-watch-events-training",
+        "start_date": "17 Jun 2024",
+        "end_date": "18 Jun 2024",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "€300",
+        "non_member_fee": "€940",
+        "max_fee": "€940",
+        "uid": "chemicalwatchexpo20217Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Biocatalysis: Solving Scale-Up Issues with Biocatalysed Reactions (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-solving-scale-up-issues-with-biocatalysed-reactions/",
+        "start_date": "17 Jun 2024",
+        "end_date": "18 Jun 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£549–659",
+        "non_member_fee": "£549–659",
+        "max_fee": "£549–659",
+        "uid": "biocatalysissolvings17Jun2024_0"
     },
     {
         "themes": [
@@ -5466,6 +5521,37 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Chemical Management for Electronics USA",
+        "url": "https://events.chemicalwatch.com/870084/chemicals-management-for-electronics-usa-2024",
+        "start_date": "24 Jun 2024",
+        "end_date": "25 Jun 2024",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$1,509",
+        "non_member_fee": "$1,775",
+        "max_fee": "$1,775",
+        "uid": "chemicalmanagementfo24Jun2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -5486,6 +5572,28 @@
         "non_member_fee": "€400–1,000",
         "max_fee": "€400–1,000",
         "uid": "intloligonucleotides24Jun2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Coatings on Glass & Plastics ICCG",
+        "url": "https://www.iccg2024.org/",
+        "start_date": "24 Jun 2024",
+        "end_date": "26 Jun 2024",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "€950–1,900",
+        "non_member_fee": "€950–1,900",
+        "max_fee": "€950–1,900",
+        "uid": "intlconferenceoncoat24Jun2024_0"
     },
     {
         "themes": [
@@ -5747,6 +5855,36 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "futurelabslive26Jun2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Product Sustainability USA",
+        "url": "https://events.chemicalwatch.com/872249/product-sustainability-usa-2024",
+        "start_date": "26 Jun 2024",
+        "end_date": "27 Jun 2024",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$1,509",
+        "non_member_fee": "$1,775",
+        "max_fee": "$1,775",
+        "uid": "productsustainabilit26Jun2024_0"
     },
     {
         "themes": [
@@ -11080,6 +11218,35 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Regulatory Summit North America 2024",
+        "url": "https://events.chemicalwatch.com/945202/regulatory-summit-north-america-2024",
+        "start_date": "16 Sep 2024",
+        "end_date": "17 Sep 2024",
+        "locations": [
+            "Alexandria, VA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "member_fee": "$1,509",
+        "non_member_fee": "$1,775",
+        "max_fee": "$1,775",
+        "uid": "regulatorysummitnort16Sep2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -11421,6 +11588,37 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "quantummechanicsqmin18Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Chemical Watch: PFAS Updates North America 2024",
+        "url": "https://events.chemicalwatch.com/977334/pfas-updates-north-america-2024",
+        "start_date": "18 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Alexandria, VA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "member_fee": "$825",
+        "non_member_fee": "$970",
+        "max_fee": "$970",
+        "uid": "chemicalwatchpfasupd18Sep2024_0"
     },
     {
         "themes": [
@@ -12045,6 +12243,35 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "chemtalkshowcantechn25Sep2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Association for Crystallization Technology ACT Larson Workshop",
+        "url": "https://25thlarsonworkshop.comfre.iastate.edu/",
+        "start_date": "29 Sep 2024",
+        "end_date": "02 Oct 2024",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "$1,200",
+        "non_member_fee": "$1,200",
+        "max_fee": "$1,200",
+        "uid": "associationforcrysta29Sep2024_0"
     },
     {
         "themes": [
@@ -12726,6 +12953,33 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Key Regulatory Updates Europe 2024",
+        "url": "https://events.chemicalwatch.com/854656/key-regulatory-updates-europe-2024",
+        "start_date": "14 Oct 2024",
+        "end_date": "15 Oct 2024",
+        "locations": [
+            "Brussels, Belgium",
+            "Online"
+        ],
+        "countries": [
+            "Belgium",
+            "Online"
+        ],
+        "member_fee": "€1,509",
+        "non_member_fee": "€1,775",
+        "max_fee": "€1,775",
+        "uid": "keyregulatoryupdates14Oct2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -12843,6 +13097,61 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "techbiouk202416Oct2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Global Regulatory Updates 2024",
+        "url": "https://events.chemicalwatch.com/952281/global-regulatory-updates-2024",
+        "start_date": "16 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Brussels, Belgium",
+            "Online"
+        ],
+        "countries": [
+            "Belgium",
+            "Online"
+        ],
+        "member_fee": "€752",
+        "non_member_fee": "€885",
+        "max_fee": "€885",
+        "uid": "globalregulatoryupda16Oct2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "PFAS Updates Europe 2024",
+        "url": "https://events.chemicalwatch.com/952437/pfas-updates-europe-2024",
+        "start_date": "16 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Brussels, Belgium",
+            "Online"
+        ],
+        "countries": [
+            "Belgium",
+            "Online"
+        ],
+        "member_fee": "€752",
+        "non_member_fee": "€885",
+        "max_fee": "€885",
+        "uid": "pfasupdateseurope20216Oct2024_0"
     },
     {
         "themes": [
@@ -13341,6 +13650,33 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "18thgermanconference03Nov2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Asia",
+            "Online"
+        ],
+        "title": "Regulatory Summit Asia 2024",
+        "url": "https://events.chemicalwatch.com/959792/regulatory-summit-asia-2024",
+        "start_date": "04 Nov 2024",
+        "end_date": "05 Nov 2024",
+        "locations": [
+            "Bangkok, Thailand",
+            "Online"
+        ],
+        "countries": [
+            "Thailand",
+            "Online"
+        ],
+        "member_fee": "$1,509–2,385",
+        "non_member_fee": "$1,775–2,651",
+        "max_fee": "$1,775–2,651",
+        "uid": "regulatorysummitasia04Nov2024_0"
     },
     {
         "themes": [
@@ -13992,6 +14328,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Cosmetics Regulations North America 2024",
+        "url": "https://events.chemicalwatch.com/1076944/cosmetics-regulations-north-america-2024",
+        "start_date": "19 Nov 2024",
+        "end_date": "20 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "£710",
+        "non_member_fee": "£835",
+        "max_fee": "£835",
+        "uid": "cosmeticsregulations19Nov2024_0"
+    },
+    {
+        "themes": [
             "business",
             "process/engineering"
         ],
@@ -14127,6 +14487,34 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "materialschemistrypo29Nov2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "law/policy",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Biocides Europe 2024",
+        "url": "https://events.chemicalwatch.com/1000988/biocides-europe-2024",
+        "start_date": "02 Dec 2024",
+        "end_date": "03 Dec 2024",
+        "locations": [
+            "Vienna, Austria",
+            "Online"
+        ],
+        "countries": [
+            "Austria",
+            "Online"
+        ],
+        "member_fee": "€978",
+        "non_member_fee": "€1,150",
+        "max_fee": "€1,150",
+        "uid": "biocideseurope202402Dec2024_0"
     },
     {
         "themes": [
