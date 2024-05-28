@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "College Chemistry Canada C3",
-        "url": "http://collegechemistrycanada.ca/conferences/24conf/conf2024E.html",
-        "start_date": "24 May 2024",
-        "end_date": "26 May 2024",
-        "locations": [
-            "Peterborough, ON, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD150",
-        "non_member_fee": "CAD190",
-        "max_fee": "CAD190",
-        "uid": "collegechemistrycana24May2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -497,6 +475,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "drugmetabolismdiscus30May2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Gordon Stone Symposium: Inorganic & organometallic chemistry",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG60yf6pvbPxCsioDsYLsGeNUMk9GUkJFNjZDTklZU0o3WVlLTktOQVA2Ui4u",
+        "start_date": "30 May 2024",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonstonesymposium30May2024_0"
     },
     {
         "themes": [
@@ -1178,6 +1179,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "UK XFEL Town Hall: Energy, environmental, & climate technologies",
+        "url": "https://www.eventbrite.co.uk/e/ukxfel-town-hall-energy-environmental-and-climate-technologies-tickets-865408438937",
+        "start_date": "04 Jun 2024",
+        "end_date": "05 Jun 2024",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukxfeltownhallenergy04Jun2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -1463,6 +1488,28 @@
         "non_member_fee": "$85–135",
         "max_fee": "$85–135",
         "uid": "chemicalbiologydiscu06Jun2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Sample, Specimen, & Lab Operations Mega Webinar",
+        "url": "https://www.20visioneers15.com/webinars",
+        "start_date": "06 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "samplespecimenlabope06Jun2024_0"
     },
     {
         "themes": [
@@ -2048,6 +2095,29 @@
         "non_member_fee": "CHF280",
         "max_fee": "CHF280",
         "uid": "pigmenteundfarbstoff11Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Multiomics & microbiome virtual conference",
+        "url": "https://www.20visioneers15.com/webinars",
+        "start_date": "11 Jun 2024",
+        "end_date": "12 Jun 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "0",
+        "non_member_fee": "0",
+        "max_fee": "0",
+        "uid": "multiomicsmicrobiome11Jun2024_0"
     },
     {
         "themes": [
@@ -5158,6 +5228,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Zeolite Association BZA Annual Meeting",
+        "url": "https://www.britishzeolite.org/annual-meeting",
+        "start_date": "02 Jul 2024",
+        "end_date": "05 Jul 2024",
+        "locations": [
+            "Ambleside, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishzeoliteassoci02Jul2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "synthesis"
@@ -6273,6 +6367,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Microscopy Mega Webinar",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7196463687262445568/",
+        "start_date": "17 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "microscopymegawebina17Jul2024_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -6704,6 +6821,31 @@
     },
     {
         "themes": [
+            "business",
+            "environment/fuels",
+            "law/policy",
+            "process/engineering"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "A Circular Economy for the Chemical Sector",
+        "url": "https://cell-symposia.com/circular-chemistry-2024/index.html",
+        "start_date": "22 Jul 2024",
+        "end_date": "24 Jul 2024",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acirculareconomyfort22Jul2024_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -6795,6 +6937,31 @@
         "non_member_fee": "$849–1,799",
         "max_fee": "$849–1,799",
         "uid": "intlcongressonadvanc23Jul2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Thomas Young Centre Energy Materials Workshop: From data to discovery of new energy materials",
+        "url": "https://thomasyoungcentre.org/event/tyc-7th-energy-materials-workshop/",
+        "start_date": "24 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thomasyoungcentreene24Jul2024_0"
     },
     {
         "themes": [
@@ -9274,6 +9441,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "40 Years of ISIS Science Roadshow",
+        "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
+        "start_date": "10 Sep 2024",
+        "end_date": "11 Sep 2024",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "40yearsofisisscience10Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "materials/polymers",
@@ -10724,6 +10914,29 @@
         "non_member_fee": "€2,599",
         "max_fee": "€2,599",
         "uid": "secretsofbatchproces23Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "40 Years of ISIS Science Roadshow",
+        "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
+        "start_date": "10 Sep 2024",
+        "end_date": "11 Sep 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "40yearsofisisscience10Sep2024_0"
     },
     {
         "themes": [
@@ -14840,6 +15053,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "11thintlgranulationw23Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "40 Years of ISIS Science Roadshow",
+        "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
+        "start_date": "27 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "40yearsofisisscience27Jun2024_0"
     },
     {
         "themes": [
