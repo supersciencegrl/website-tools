@@ -1,51 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Drug-drug interaction DDI workshop",
-        "url": "https://www.ddi-workshop-marbach.org/",
-        "start_date": "26 May 2024",
-        "end_date": "28 May 2024",
-        "locations": [
-            "Öningen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€1,250–2,150",
-        "non_member_fee": "€1,250–2,250",
-        "max_fee": "€1,250–2,250",
-        "uid": "drugdruginteractiond26May2024_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Healthcare Licensing Group HLG Conference: Back to deal-making",
-        "url": "https://organizers-congress.org/frontend/index.php?sub=245",
-        "start_date": "26 May 2024",
-        "end_date": "28 May 2024",
-        "locations": [
-            "Montreux, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF1,200",
-        "non_member_fee": "CHF1,650",
-        "max_fee": "CHF1,650",
-        "uid": "swisshealthcarelicen26May2024_0"
-    },
-    {
-        "themes": [
             "physical/phys org",
             "synthesis"
         ],
@@ -189,74 +144,6 @@
         "non_member_fee": "€800",
         "max_fee": "€800",
         "uid": "polychar2024polymers27May2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS Chemistry and the Environment SCE Young Scientist Event 2024",
-        "url": "https://scg.ch/component/eventbooking/sce-yse24",
-        "start_date": "28 May 2024",
-        "end_date": null,
-        "locations": [
-            "Kemptthal, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "scschemistryandtheen28May2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Formulative Formulation 4",
-        "url": "https://www.rsc.org/events/detail/78415/formative-formulation-4",
-        "start_date": "28 May 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "formulativeformulati28May2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Praxiszirkel Additive Fertigung: Additiv Gefertigte Implantate",
-        "url": "https://nano.swiss/event/praxiszirkel-additive-fertigung-additiv-gefertigten-implantaten",
-        "start_date": "28 May 2024",
-        "end_date": null,
-        "locations": [
-            "Bettlach, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "praxiszirkeladditive28May2024_0"
     },
     {
         "themes": [
