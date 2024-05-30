@@ -50,53 +50,6 @@
     },
     {
         "themes": [
-            "automation",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS Europe Conference & Exhibition",
-        "url": "https://www.slas.org/events-calendar/slas-europe-2024-conference-and-exhibition/",
-        "start_date": "27 May 2024",
-        "end_date": "29 May 2024",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€155–950",
-        "non_member_fee": "€155–950",
-        "max_fee": "€155–950",
-        "uid": "societyforlaboratory27May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Northern Lights on Food Conference: Boosting structural food science",
-        "url": "https://www.linxs.se/events/2024/05/27-29/northern-lights-on-food-conference-v-boosting-structural-food-science",
-        "start_date": "27 May 2024",
-        "end_date": "29 May 2024",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "SEK2,900",
-        "non_member_fee": "SEK2,900",
-        "max_fee": "SEK2,900",
-        "uid": "northernlightsonfood27May2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -144,52 +97,6 @@
         "non_member_fee": "€800",
         "max_fee": "€800",
         "uid": "polychar2024polymers27May2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Pharma Outsourcing Summit",
-        "url": "https://eposummit.com/",
-        "start_date": "28 May 2024",
-        "end_date": "29 May 2024",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "europeanpharmaoutsou28May2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Digi-Tech Pharma & AI",
-        "url": "https://corvusglobalevents.com/conference/digi-tech-pharma-ai",
-        "start_date": "28 May 2024",
-        "end_date": "29 May 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "digitechpharmaai28May2024_0"
     },
     {
         "themes": [
@@ -3430,6 +3337,30 @@
         "non_member_fee": "$25–75",
         "max_fee": "$25–75",
         "uid": "empoweringwomeninorg20Jun2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Modulating RNA with oligonucleotides or small molecules",
+        "url": "https://www.smr.org.uk/Meetings/20240621/",
+        "start_date": "21 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "modulatingrnawitholi21Jun2024_0"
     },
     {
         "themes": [
@@ -13125,6 +13056,31 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Horizons symposium: Polymers at the human interface",
+        "url": "https://www.rsc.org/events/detail/79010/horizons-symposium-polymers-at-the-human-interface",
+        "start_date": "19 Nov 2024",
+        "end_date": "20 Nov 2024",
+        "locations": [
+            "Beijing, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "horizonssymposiumpol19Nov2024_0"
+    },
+    {
+        "themes": [
             "business",
             "process/engineering"
         ],
@@ -13145,6 +13101,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "21stannualbioprocess19Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "RSC BMCS/CICAG Hot Topics: Robotics & Automation",
+        "url": "https://www.rscbmcs.org/events/hottopicsroboticsautomation24/",
+        "start_date": "21 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscbmcscicaghottopic21Nov2024_0"
     },
     {
         "themes": [
@@ -13432,6 +13411,31 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "austrianpeptidesympo05Dec2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Recent Trends in Medicinal Chemistry and Enabling Technologies",
+        "url": "https://www.smr.org.uk/Meetings/20241205/",
+        "start_date": "05 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "recenttrendsinmedici05Dec2024_0"
     },
     {
         "themes": [
@@ -14765,6 +14769,29 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "4th RSC Anglo-Nordic Medicinal Chemistry Symposium",
+        "url": "https://www.rscbmcs.org/events/anmc-4/",
+        "start_date": "10 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Snekkersten, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "4thrscanglonordicmed10Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "med chem",
@@ -15211,6 +15238,31 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "intlsymposiumonsynth02Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "5th Intl Solar Fuels Conference",
+        "url": "https://www.rsc.org/events/detail/78693/5th-international-solar-fuels-conference",
+        "start_date": "02 Sep 2024",
+        "end_date": "05 Sep 2024",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "5thintlsolarfuelscon02Sep2024_0"
     },
     {
         "themes": [
