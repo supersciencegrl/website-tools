@@ -1,32 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "245th Electrochemical Society ECS Meeting",
-        "url": "https://ccsc2024.github.io/",
-        "start_date": "26 May 2024",
-        "end_date": "30 May 2024",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$0–585",
-        "non_member_fee": "$565–815",
-        "max_fee": "$565–815",
-        "uid": "245thelectrochemical26May2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -172,30 +146,6 @@
     },
     {
         "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20240529/",
-        "start_date": "29 May 2024",
-        "end_date": "30 May 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€1,899",
-        "non_member_fee": "€1,899",
-        "max_fee": "€1,899",
-        "uid": "chemicalprocesssafet29May2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -243,55 +193,6 @@
         "non_member_fee": "$1,500",
         "max_fee": "$1,500",
         "uid": "bioinorganicworkshop29May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "careers",
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Early Career Meeting EC24",
-        "url": "https://www.dmdg.org/events/20240530/Default.asp",
-        "start_date": "30 May 2024",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "drugmetabolismdiscus30May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Gordon Stone Symposium: Inorganic & organometallic chemistry",
-        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG60yf6pvbPxCsioDsYLsGeNUMk9GUkJFNjZDTklZU0o3WVlLTktOQVA2Ui4u",
-        "start_date": "30 May 2024",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonstonesymposium30May2024_0"
     },
     {
         "themes": [
@@ -4176,6 +4077,30 @@
         "non_member_fee": "$300",
         "max_fee": "$300",
         "uid": "fragmentbaseddrugdis25Jun2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "in silico Pharmaceutical & Healthcare Conference",
+        "url": "https://www.ansys.com/events/uk-pharma-conference-2024#tab1-2",
+        "start_date": "26 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "insilicopharmaceutic26Jun2024_0"
     },
     {
         "themes": [
