@@ -1,128 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "12th World Biomaterials Congress",
-        "url": "https://wbc2024.com/",
-        "start_date": "26 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Daegu, South Korea"
-        ],
-        "countries": [
-            "South Korea"
-        ],
-        "member_fee": "$850",
-        "non_member_fee": "$950",
-        "max_fee": "$950",
-        "uid": "12thworldbiomaterial26May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Days of the French Group of Glycosciences",
-        "url": "https://gfg2024.sciencesconf.org/",
-        "start_date": "27 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Obernai, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€800",
-        "non_member_fee": "€800",
-        "max_fee": "€800",
-        "uid": "daysofthefrenchgroup27May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "POLY-CHAR 2024: Polymers for our future",
-        "url": "https://eventosalcala.fgua.es/poly-char2024",
-        "start_date": "27 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Madrid, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€720",
-        "non_member_fee": "€800",
-        "max_fee": "€800",
-        "uid": "polychar2024polymers27May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Girona Seminar: Institute of Computational Chemistry & Catalysis",
-        "url": "https://gironaseminar.org/",
-        "start_date": "28 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Girona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€325–495",
-        "non_member_fee": "€325–495",
-        "max_fee": "€325–495",
-        "uid": "gironaseminarinstitu28May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "PREP 2024: Intl Symposium on preparative & process chemistry",
-        "url": "https://www.prep2024.org/",
-        "start_date": "28 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "$950",
-        "non_member_fee": "$950",
-        "max_fee": "$950",
-        "uid": "prep2024intlsymposiu28May2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -143,29 +21,6 @@
         "non_member_fee": "CAD600",
         "max_fee": "CAD600",
         "uid": "canadianchemicalcrys28May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Swedish Neutron Week 2024",
-        "url": "https://neutronweek.site/",
-        "start_date": "29 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "SEK450–1,000",
-        "non_member_fee": "SEK450–1,000",
-        "max_fee": "SEK450–1,000",
-        "uid": "swedishneutronweek2029May2024_0"
     },
     {
         "themes": [
@@ -193,54 +48,6 @@
         "non_member_fee": "$1,500",
         "max_fee": "$1,500",
         "uid": "bioinorganicworkshop29May2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "NANOVA 4th Global summit on nanotechnology & nanoscience",
-        "url": "https://nanovadubai.pagicle.com/registration/",
-        "start_date": "30 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Dubai, United Arab Emirates"
-        ],
-        "countries": [
-            "United Arab Emirates"
-        ],
-        "member_fee": "£599–998",
-        "non_member_fee": "£599–998",
-        "max_fee": "£599–998",
-        "uid": "nanova4thglobalsummi30May2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemistry of Life: Young Researchers' Symposium (students/postdocs)",
-        "url": "https://www.linxs.se/events/2024/05/30-31/chemlife-young-researchers-linxs-event",
-        "start_date": "30 May 2024",
-        "end_date": "31 May 2024",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemistryoflifeyoung30May2024_0"
     },
     {
         "themes": [
@@ -752,6 +559,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Machine Learning in Scanning Transmission Electron Microscopy MLSTEM",
+        "url": "https://github.com/gduscher/MLSTEM2024?tab=readme-ov-file",
+        "start_date": "03 Jun 2024",
+        "end_date": "07 Jun 2024",
+        "locations": [
+            "Knoxville, TN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TN"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearninginsca03Jun2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "law/policy",
             "pharma industry",
@@ -1035,6 +869,33 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "additivemanufacturin05Jun2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Western Australia Inorganic Chemistry Symposium WASIC24",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=554d71ef-879b-4f25-b83b-018f4cab3903",
+        "start_date": "05 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Perth, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "westernaustraliainor05Jun2024_0"
     },
     {
         "themes": [
@@ -2071,6 +1932,31 @@
         "non_member_fee": "£131",
         "max_fee": "£131",
         "uid": "scotchempolymersoftm13Jun2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Nordic Midsummer Symposium on Biocatalysis NordBio II",
+        "url": "https://sites.google.com/view/nordbio-2024/home",
+        "start_date": "13 Jun 2024",
+        "end_date": "14 Jun 2024",
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nordicmidsummersympo13Jun2024_0"
     },
     {
         "themes": [
@@ -4808,6 +4694,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Chemical Education Division Symposium",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=99bffea1-8494-4c12-af8a-018ecade1d42",
+        "start_date": "01 Jul 2024",
+        "end_date": "03 Jul 2024",
+        "locations": [
+            "Sydney, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "racichemicaleducatio01Jul2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -4828,6 +4736,29 @@
         "non_member_fee": "£750–900",
         "max_fee": "£750–900",
         "uid": "iupacmacro2024worldp01Jul2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "PhysChem24 & Hush Symposium",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=84d08e5d-f602-496e-81cd-018f13010fba",
+        "start_date": "01 Jul 2024",
+        "end_date": "04 Jul 2024",
+        "locations": [
+            "Sydney, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physchem24hushsympos01Jul2024_0"
     },
     {
         "themes": [
@@ -5630,6 +5561,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "25 Years of the University of Kent Biological NMR Facility Celebration",
+        "url": "https://www.eventbrite.co.uk/e/25-years-of-the-university-of-kent-biological-nmr-facility-tickets-916234621417",
+        "start_date": "12 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "25yearsoftheuniversi12Jul2024_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6061,6 +6015,32 @@
         "non_member_fee": "THB17,500–25,000",
         "max_fee": "THB17,500–25,000",
         "uid": "intlconferenceonchem15Jul2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "New South Wales Electrochemistry Symposium",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=75c975a8-ae5c-4d53-b1eb-018f993908a8",
+        "start_date": "16 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Sydney, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newsouthwaleselectro16Jul2024_0"
     },
     {
         "themes": [
@@ -10775,6 +10755,30 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Amsterdam Chemistry Network Industry Meeting",
+        "url": "https://www.eventbrite.nl/e/acn-industry-meeting-tickets-803000234317",
+        "start_date": "25 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "amsterdamchemistryne25Sep2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "inorganic/nano",
@@ -11437,6 +11441,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "9th Annual Southern California CryoEM Symposium",
+        "url": "https://dornsife.usc.edu/bridge-institute/9th-annual-socal-cryo-em-symposium-2024/",
+        "start_date": "11 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Los Angeles, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "9thannualsoutherncal11Oct2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -11927,6 +11957,29 @@
         "non_member_fee": "€920",
         "max_fee": "€920",
         "uid": "5theuropeanconferenc22Oct2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "What's New in Laboratory Technology",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=ee79cd31-8921-475f-8b35-018eef118284",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Lindfield, NSW, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "whatsnewinlaboratory23Oct2024_0"
     },
     {
         "themes": [
@@ -12882,6 +12935,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Organic Chemistry Symposium ORGANIC24",
+        "url": "https://organic24.org/",
+        "start_date": "18 Nov 2024",
+        "end_date": "20 Nov 2024",
+        "locations": [
+            "Adelaide, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "raciorganicchemistry18Nov2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -13167,6 +13244,34 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "computational/data",
+            "inorganic/nano",
+            "med chem",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Research & Development Conference (postgrad students)",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=b756ba27-91ba-4c4d-aba4-018f03c6d04a",
+        "start_date": "01 Dec 2024",
+        "end_date": "04 Dec 2024",
+        "locations": [
+            "Hobart, Tasmania, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "raciresearchdevelopm01Dec2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "law/policy",
@@ -13364,6 +13469,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Australasian Electrochemistry Symposium",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7b6f7993-fc77-4d95-8266-018ecb88e2c0",
+        "start_date": "05 Dec 2024",
+        "end_date": "06 Dec 2024",
+        "locations": [
+            "Bundoora, Victoria, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "raciaustralasianelec05Dec2024_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -13383,6 +13513,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "faradaycommunitychem06Dec2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Inorganic Chemsitry Conference 2024",
+        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7ac8ffc6-914f-47d4-bb5b-018eeacaf975",
+        "start_date": "08 Dec 2024",
+        "end_date": "12 Dec 2024",
+        "locations": [
+            "Parramatta, NSW, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "raciinorganicchemsit08Dec2024_0"
     },
     {
         "themes": [
