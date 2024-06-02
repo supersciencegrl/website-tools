@@ -1069,6 +1069,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Workshop on CO2 Electrolysis",
+        "url": "https://indico.psi.ch/event/15340/overview",
+        "start_date": "06 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Villigen, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swissworkshoponco2el06Jun2024_0"
+    },
+    {
+        "themes": [
             "physical/phys org",
             "process/engineering"
         ],
@@ -1532,6 +1556,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "stersummerschoolinre10Jun2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ETH Nanoparticles Conference",
+        "url": "https://npc24.scg.ch/",
+        "start_date": "10 Jun 2024",
+        "end_date": "14 Jun 2024",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ethnanoparticlesconf10Jun2024_0"
     },
     {
         "themes": [
@@ -7730,6 +7781,56 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Biointerface Intl Conference BIC",
+        "url": "https://biointerfaces.ch/",
+        "start_date": "20 Aug 2024",
+        "end_date": "23 Aug 2024",
+        "locations": [
+            "Muttenz, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biointerfaceintlconf20Aug2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Pharma Science Day 2024",
+        "url": "https://saphw.ch/de/17th-swiss-pharma-science-day-2024",
+        "start_date": "21 Aug 2024",
+        "end_date": null,
+        "locations": [
+            "Bern, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisspharmascienceda21Aug2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -7738,8 +7839,8 @@
         ],
         "title": "8th Annual Nanomaterials & Nanodevices Conference NANOMAT2024",
         "url": "https://www.nanomat-conference.com/#/",
-        "start_date": "12 Aug 2024",
-        "end_date": "16 Aug 2024",
+        "start_date": "25 Aug 2024",
+        "end_date": "28 Aug 2024",
         "locations": [
             "Vienna, Austria"
         ],
@@ -7749,7 +7850,7 @@
         "member_fee": "€500",
         "non_member_fee": "€500",
         "max_fee": "€500",
-        "uid": "8thannualnanomateria12Aug2024_0"
+        "uid": "8thannualnanomateria25Aug2024_0"
     },
     {
         "themes": [
@@ -7886,6 +7987,30 @@
         "non_member_fee": "€615",
         "max_fee": "€615",
         "uid": "europeanpeptidesympo25Aug2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Tips and tricks for the crystal growth of inorganic materials",
+        "url": "https://indico.psi.ch/event/15694/",
+        "start_date": "26 Aug 2024",
+        "end_date": "27 Aug 2024",
+        "locations": [
+            "Villigen, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "tipsandtricksforthec26Aug2024_0"
     },
     {
         "themes": [
@@ -8260,6 +8385,28 @@
         "non_member_fee": "€690",
         "max_fee": "€690",
         "uid": "intlconferenceonbiob01Sep2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Ionic Polymerization",
+        "url": "https://www.ip-24.org/",
+        "start_date": "01 Sep 2024",
+        "end_date": "05 Sep 2024",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonionic01Sep2024_0"
     },
     {
         "themes": [
@@ -9091,6 +9238,30 @@
         "non_member_fee": "$915",
         "max_fee": "$915",
         "uid": "aicheannualsafetyinn09Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "LightChEC Summer School",
+        "url": "https://www.lightchec.uzh.ch/en/LightChEC-Events/summerschool2024.html",
+        "start_date": "09 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Aegerisee, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lightchecsummerschoo09Sep2024_0"
     },
     {
         "themes": [
@@ -10616,6 +10787,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Biobased chemistry & technology Chemietage 2024",
+        "url": "https://chemietage.at/",
+        "start_date": "23 Sep 2024",
+        "end_date": "25 Sep 2024",
+        "locations": [
+            "Graz, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biobasedchemistrytec23Sep2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -10648,8 +10842,8 @@
         ],
         "title": "40 Years of ISIS Science Roadshow",
         "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
-        "start_date": "10 Sep 2024",
-        "end_date": "11 Sep 2024",
+        "start_date": "24 Sep 2024",
+        "end_date": null,
         "locations": [
             "London, UK"
         ],
@@ -10659,7 +10853,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "40yearsofisisscience10Sep2024_0"
+        "uid": "40yearsofisisscience24Sep2024_0"
     },
     {
         "themes": [
@@ -12052,6 +12246,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Syngenta-SCS Conference",
+        "url": "https://syngenta24.scg.ch/",
+        "start_date": "24 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Stein, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "syngentascsconferenc24Oct2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -12671,6 +12888,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Safe & Sustainable by Design SSbD24",
+        "url": "https://www.empa.ch/web/s506/ssbd24",
+        "start_date": "10 Nov 2024",
+        "end_date": "15 Nov 2024",
+        "locations": [
+            "Monte Verità, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "safesustainablebydes10Nov2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "synthesis"
@@ -13218,6 +13459,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aicheglobalsummitonp26Nov2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCS Symposium on AI: Critical use of AI in quantum chemistry",
+        "url": "https://ai24.scg.ch/",
+        "start_date": "27 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scssymposiumonaicrit27Nov2024_0"
     },
     {
         "themes": [
@@ -13953,6 +14218,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Intl Symposium on Chemical Biology",
+        "url": "https://www.efmc-iscb.org/",
+        "start_date": "29 Jan 2025",
+        "end_date": "31 Jan 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcintlsymposiumonc29Jan2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "med chem",
             "pharma industry",
@@ -14052,6 +14339,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer09Feb2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "LS2 Annual Meeting: Exploring the wonders of life",
+        "url": "https://annual-meeting.ls2.ch/2024",
+        "start_date": "14 Feb 2025",
+        "end_date": "15 Feb 2025",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ls2annualmeetingexpl14Feb2025_0"
     },
     {
         "themes": [
@@ -14766,6 +15077,29 @@
     },
     {
         "themes": [
+            "careers",
+            "law/policy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Patenting in life sciences & chemistry (PhD students/postdocs)",
+        "url": "https://meetings.ls2.ch/patenting-2025",
+        "start_date": "04 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "Murten, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "patentinginlifescien04Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -15169,6 +15503,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "IUPAC General Assembly GA & World Chemistry Congress WCC",
+        "url": "https://iupac2025.org/",
+        "start_date": "11 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Kuala Lumpur, Malaysia"
+        ],
+        "countries": [
+            "Malaysia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "iupacgeneralassembly11Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -15370,6 +15746,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Chemical Society Fall Meeting",
+        "url": "https://scg.ch/component/eventbooking/fm25",
+        "start_date": "04 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisschemicalsociety04Sep2025_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -15437,6 +15855,48 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscscimedicinalchemi14Sep2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ILMAC 2025 (trade fair)",
+        "url": "https://scg.ch/component/eventbooking/ilmac25",
+        "start_date": "16 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ilmac2025tradefair16Sep2025_0"
     },
     {
         "themes": [
@@ -15709,6 +16169,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonhigh31May2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC-ISMC Intl Symposium on Medicinal Chemistry",
+        "url": "https://scg.ch/component/eventbooking/efmc-ismc-2026",
+        "start_date": "06 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcismcintlsymposiu06Sep2026_0"
     },
     {
         "themes": [
