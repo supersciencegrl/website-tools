@@ -2,29 +2,6 @@
     {
         "themes": [
             "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Canadian Chemical Crystallography Workshop CCCW24",
-        "url": "https://xtallography.ca/index.php/xtal/meetings/cccw-2024/",
-        "start_date": "28 May 2024",
-        "end_date": "01 Jun 2024",
-        "locations": [
-            "Winnipeg, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD600",
-        "non_member_fee": "CAD600",
-        "max_fee": "CAD600",
-        "uid": "canadianchemicalcrys28May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio",
             "inorganic/nano"
         ],
@@ -5020,6 +4997,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "post16chemistryteach04Jul2024_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Emerging Technologies Competition",
+        "url": "https://changemakers.rsc.org/cm/Deep-tech-in-action/Emerging-Technologies-Competition/rsc-site/content/Emerging-Technologies-Competition/ETC-Homepage.aspx",
+        "start_date": "04 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscemergingtechnolog04Jul2024_0"
     },
     {
         "themes": [
