@@ -2,33 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Bioinorganic workshop 2024",
-        "url": "https://sites.psu.edu/bioinorganic/2024-bioinorganic-workshop/",
-        "start_date": "29 May 2024",
-        "end_date": "04 Jun 2024",
-        "locations": [
-            "State College, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "$1,500",
-        "non_member_fee": "$1,500",
-        "max_fee": "$1,500",
-        "uid": "bioinorganicworkshop29May2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio"
         ],
         "regions": [
@@ -48,28 +21,6 @@
         "non_member_fee": "€1,000",
         "max_fee": "€1,000",
         "uid": "structuralcharacteri01Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Chemical Protein Synthesis CPS 2024",
-        "url": "https://ninthcpsnagoya.ethz.ch/",
-        "start_date": "02 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Nagoya, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "JPY80,000–100,000",
-        "non_member_fee": "JPY80,000–100,000",
-        "max_fee": "JPY80,000–100,000",
-        "uid": "chemicalproteinsynth02Jun2024_0"
     },
     {
         "themes": [
@@ -286,182 +237,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "Eastern Europe",
-            "Online"
-        ],
-        "title": "Chemical Watch Biocides Symposium 2024",
-        "url": "https://events.chemicalwatch.com/868608/biocides-symposium-2024",
-        "start_date": "03 Jun 2024",
-        "end_date": "04 Jun 2024",
-        "locations": [
-            "Prague, Czechia",
-            "Online"
-        ],
-        "countries": [
-            "Czechia",
-            "Online"
-        ],
-        "member_fee": "€978",
-        "non_member_fee": "€1,150",
-        "max_fee": "€1,150",
-        "uid": "chemicalwatchbiocide03Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "ACS Green Chemistry & Engineering GC&E",
-        "url": "https://www.gcande.org/",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Atlanta, GA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "member_fee": "$79–359",
-        "non_member_fee": "$199–449",
-        "max_fee": "$199–449",
-        "uid": "acsgreenchemistryeng03Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Workshop on fats & oils as renewable feedstock for the chemical industry",
-        "url": "http://www.abiosus.org/workshop-2024.html",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Dortmund, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€650",
-        "non_member_fee": "€650",
-        "max_fee": "€650",
-        "uid": "workshoponfatsoilsas03Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England",
-            "Online"
-        ],
-        "title": "Ancient biomolecules of plants, animals, & microbes",
-        "url": "https://coursesandconferences.wellcomeconnectingscience.org/event/ancient-biomolecules-of-plants-animals-and-microbes-20240603/",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Hinxton, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£0–596",
-        "non_member_fee": "£0–596",
-        "max_fee": "£0–596",
-        "uid": "ancientbiomoleculeso03Jun2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Intl Congress on Sustainability Science & Engineering ICOSSE",
-        "url": "https://icosse.org/2024",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Houston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlcongressonsustai03Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Platform for Advanced Scientific Computing PASC Conference",
-        "url": "https://pasc24.pasc-conference.org/",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "platformforadvanceds03Jun2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Synthetic Organic Electrochemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/synthetic-organic-electrochemistry-short-course/20240603/",
-        "start_date": "03 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£599–719",
-        "non_member_fee": "£599–719",
-        "max_fee": "£599–719",
-        "uid": "syntheticorganicelec03Jun2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -589,126 +364,6 @@
     },
     {
         "themes": [
-            "careers",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Carbon Science & Technology: Early career researchers",
-        "url": "https://www.rsc.org/events/detail/78525/carbon-science-and-technology-early-career-researchers-meeting",
-        "start_date": "04 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "carbonsciencetechnol04Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS Synthesis in Drug Discovery & Development SDDD",
-        "url": "https://www.rscbmcs.org/events/sddd24/",
-        "start_date": "04 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£50",
-        "non_member_fee": "£80",
-        "max_fee": "£80",
-        "uid": "rscbmcssynthesisindr04Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advanced analytical methods for formulation development (training course)",
-        "url": "https://www.apv-mainz.de/no_cache/en/seminare/events/event/seminar/6992/",
-        "start_date": "04 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Darmstadt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "£1,690",
-        "non_member_fee": "£1,690",
-        "max_fee": "£1,690",
-        "uid": "advancedanalyticalme04Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "7th Annual UK Porous Materials Conference",
-        "url": "https://www.rsc.org/events/detail/77406/7th-annual-uk-porous-materials-conference",
-        "start_date": "04 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "7thannualukporousmat04Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "UK XFEL Town Hall: Energy, environmental, & climate technologies",
-        "url": "https://www.eventbrite.co.uk/e/ukxfel-town-hall-energy-environmental-and-climate-technologies-tickets-865408438937",
-        "start_date": "04 Jun 2024",
-        "end_date": "05 Jun 2024",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukxfeltownhallenergy04Jun2024_0"
-    },
-    {
-        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -824,55 +479,6 @@
         "non_member_fee": "£1,135",
         "max_fee": "£1,135",
         "uid": "spraydryingatomizati04Jun2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Additive Manufacturing AM-trends",
-        "url": "https://ibam.swiss/wp-content/uploads/2024/01/Flyer_CSEM_IBAM_Event_AM-Trends.pdf",
-        "start_date": "05 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Neuch&acarontel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "additivemanufacturin05Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Western Australia Inorganic Chemistry Symposium WASIC24",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=554d71ef-879b-4f25-b83b-018f4cab3903",
-        "start_date": "05 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Perth, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "westernaustraliainor05Jun2024_0"
     },
     {
         "themes": [
@@ -11494,6 +11100,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Mini-APACT (Advances in Process Analytics & Control Technologies) Conference",
+        "url": "https://apact.co.uk/mini",
+        "start_date": "08 Oct 2024",
+        "end_date": "09 Oct 2024",
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "miniapactadvancesinp08Oct2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
@@ -13787,7 +13417,7 @@
         "regions": [
             "Australasia"
         ],
-        "title": "RACI Inorganic Chemsitry Conference 2024",
+        "title": "RACI Inorganic Chemistry Conference 2024",
         "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7ac8ffc6-914f-47d4-bb5b-018eeacaf975",
         "start_date": "08 Dec 2024",
         "end_date": "12 Dec 2024",
@@ -13800,7 +13430,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "raciinorganicchemsit08Dec2024_0"
+        "uid": "raciinorganicchemist08Dec2024_0"
     },
     {
         "themes": [
