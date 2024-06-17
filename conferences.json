@@ -1,51 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress & Expo on Optics, Photonics, & Lasers EUROPL2024",
-        "url": "https://signatureconferences.com/europl2024/",
-        "start_date": "13 Jun 2024",
-        "end_date": "15 Jun 2024",
-        "locations": [
-            "Nice, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€899",
-        "non_member_fee": "€899",
-        "max_fee": "€899",
-        "uid": "intlcongressexpoonop13Jun2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "2024 Indonesia Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/indonesia-student-regional-conference/2024",
-        "start_date": "14 Jun 2024",
-        "end_date": "16 Jun 2024",
-        "locations": [
-            "Java, Indonesia"
-        ],
-        "countries": [
-            "Indonesia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "2024indonesiastudent14Jun2024_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data"
         ],
@@ -2964,6 +2919,34 @@
         "non_member_fee": "£72",
         "max_fee": "£72",
         "uid": "ukbiotechassociation02Jul2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "2nd Africa of Our Dream Institute AODI Science Lecture & Workshop: Now let's discuss medications",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSccZdJJxgYpG3Oe3axdLGU0xLLyqFpVQSLISwvwe1qRXx7eGA/viewform",
+        "start_date": "02 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Nsukku, Nigeria",
+            "Online"
+        ],
+        "countries": [
+            "Nigeria",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "2ndafricaofourdreami02Jul2024_0"
     },
     {
         "themes": [
