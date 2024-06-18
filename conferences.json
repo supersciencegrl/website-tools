@@ -7167,6 +7167,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "environment/fuels",
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "EuroMembrane 2024",
+        "url": "https://praguesummerschool.cz/",
+        "start_date": "08 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "euromembrane202408Sep2024_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -7233,6 +7260,30 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "chemicalprobesforlys09Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Oligonucleotide Therapeutics & Delivery",
+        "url": "https://praguesummerschool.cz/",
+        "start_date": "09 Sep 2024",
+        "end_date": "10 Sep 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "oligonucleotidethera09Sep2024_0"
     },
     {
         "themes": [
