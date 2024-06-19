@@ -1,52 +1,6 @@
 [
     {
         "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Cheminformatics, Automation, & Machine Learning in Chemistry CAMLC24",
-        "url": "https://camlc24.github.io/",
-        "start_date": "16 Jun 2024",
-        "end_date": "19 Jun 2024",
-        "locations": [
-            "Jaca, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€140",
-        "non_member_fee": "€170",
-        "max_fee": "€170",
-        "uid": "cheminformaticsautom16Jun2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Intl Symposium on Chemical Reaction Engineering ISCRE",
-        "url": "https://www.iscre28.org/",
-        "start_date": "16 Jun 2024",
-        "end_date": "19 Jun 2024",
-        "locations": [
-            "Turku, Finland"
-        ],
-        "countries": [
-            "Finland"
-        ],
-        "member_fee": "€500",
-        "non_member_fee": "€500",
-        "max_fee": "€500",
-        "uid": "intlsymposiumonchemi16Jun2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels"
         ],
@@ -324,199 +278,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "6th RSC-BMCS/Drug Metabolism Discussion Group New Perspectives in DMPK",
-        "url": "https://www.rscbmcs.org/events/dmpk24/",
-        "start_date": "17 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£150",
-        "non_member_fee": "£200",
-        "max_fee": "£200",
-        "uid": "6thrscbmcsdrugmetabo17Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Chemical biology of protein homeostasis: From fundamentals to translational breakthroughs",
-        "url": "https://events.nyas.org/event/b834ed82-54a8-47e4-b242-17a65ed328d4/summary",
-        "start_date": "17 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "chemicalbiologyofpro17Jun2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Life Science Leadership Summit 2024",
-        "url": "https://www.bialifescienceleaders.org/",
-        "start_date": "17 Jun 2024",
-        "end_date": "18 Jun 2024",
-        "locations": [
-            "Ware, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Invitation",
-        "non_member_fee": "Invitation",
-        "max_fee": "Invitation",
-        "uid": "lifescienceleadershi17Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Midlands",
-            "Online"
-        ],
-        "title": "UK Catalysis Hub Summer Conference",
-        "url": "https://ukcatalysishub.co.uk/save-the-date-for-the-uk-catalysis-hub-summer-conference-2024/",
-        "start_date": "17 Jun 2024",
-        "end_date": "18 Jun 2024",
-        "locations": [
-            "Didcot, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "ukcatalysishubsummer17Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Watch Expo 2024",
-        "url": "https://events.chemicalwatch.com/870082/expo-24-by-chemical-watch-events-training",
-        "start_date": "17 Jun 2024",
-        "end_date": "18 Jun 2024",
-        "locations": [
-            "Brussels, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "€300",
-        "non_member_fee": "€940",
-        "max_fee": "€940",
-        "uid": "chemicalwatchexpo20217Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biocatalysis: Solving Scale-Up Issues with Biocatalysed Reactions (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-solving-scale-up-issues-with-biocatalysed-reactions/",
-        "start_date": "17 Jun 2024",
-        "end_date": "18 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£549–659",
-        "non_member_fee": "£549–659",
-        "max_fee": "£549–659",
-        "uid": "biocatalysissolvings17Jun2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "3rd Annual Nanoseries Conference",
-        "url": "https://nanoseriesiac.com/",
-        "start_date": "17 Jun 2024",
-        "end_date": "19 Jun 2024",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€500",
-        "non_member_fee": "€500",
-        "max_fee": "€500",
-        "uid": "3rdannualnanoseriesc17Jun2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "C4 Contemporary Coordination Chemistry Copenhagen",
-        "url": "https://event.sdu.dk/c4",
-        "start_date": "17 Jun 2024",
-        "end_date": "19 Jun 2024",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "DKK800",
-        "non_member_fee": "DKK800",
-        "max_fee": "DKK800",
-        "uid": "c4contemporarycoordi17Jun2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -674,79 +435,6 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "radintlconferenceofr17Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Analytical Research Forum ARF",
-        "url": "https://www.rsc.org/events/detail/77812/analytical-research-forum-2024-arf24",
-        "start_date": "18 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£25–65",
-        "non_member_fee": "£35–80",
-        "max_fee": "£35–80",
-        "uid": "analyticalresearchfo18Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Waters/Center for Forensic Science Research & Education Event",
-        "url": "https://www.waters.com/waters/eventInstance.htm?locale=en_US&eiid=135134861",
-        "start_date": "18 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Horsham, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "waterscenterforforen18Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Cresset User Group Meeting",
-        "url": "https://www.cresset-group.com/about/events/cresset-user-group-meeting-2024/",
-        "start_date": "18 Jun 2024",
-        "end_date": "19 Jun 2024",
-        "locations": [
-            "Brussels, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "cressetusergroupmeet18Jun2024_0"
     },
     {
         "themes": [
@@ -1966,6 +1654,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Seqera Sessions (Nextflow training)",
+        "url": "https://seqera.io/seqera-sessions-basel-2024/",
+        "start_date": "25 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "seqerasessionsnextfl25Jun2024_0"
+    },
+    {
+        "themes": [
             "pharma industry"
         ],
         "regions": [
@@ -2422,6 +2133,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "britishmassspectrome28Jun2024_0"
+    },
+    {
+        "themes": [
+            "diversity",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "The Big Science Pride Party",
+        "url": "https://www.rigb.org/whats-on/big-pride-science-party",
+        "start_date": "28 Jun 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thebigsciencepridepa28Jun2024_0"
     },
     {
         "themes": [
@@ -9338,6 +9072,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "ChEMBL 15-Year Symposium",
+        "url": "https://www.eventsforce.net/embl/frontend/reg/thome.csp?pageID=96136&eventID=151&traceRedir=2",
+        "start_date": "01 Oct 2024",
+        "end_date": "02 Oct 2024",
+        "locations": [
+            "Hinxton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chembl15yearsymposiu01Oct2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -10721,6 +10479,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European PhenoPrep Symposium",
+        "url": "https://discover.phenomenex.com/phenoprep-barcelona",
+        "start_date": "28 Oct 2024",
+        "end_date": "30 Oct 2024",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanphenoprepsym28Oct2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -11359,6 +11140,30 @@
         "non_member_fee": "$3,799–4,499",
         "max_fee": "$3,799–4,499",
         "uid": "tideseuropeoligospep12Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Leverhulme Research Centre for Functional Materials Design 3rd Biennial Symposium",
+        "url": "https://www.liverpool.ac.uk/leverhulme-research-centre/events/",
+        "start_date": "12 Nov 2024",
+        "end_date": "14 Nov 2024",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "leverhulmeresearchce12Nov2024_0"
     },
     {
         "themes": [
@@ -13901,6 +13706,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "chem bio",
+            "environment/fuels",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Solutions in Science SinS",
+        "url": "https://www.ilmexhibitions.com/sins/",
+        "start_date": "15 Jul 2025",
+        "end_date": "17 Jul 2025",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "solutionsinsciencesi15Jul2025_0"
     },
     {
         "themes": [
