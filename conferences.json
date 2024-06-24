@@ -2389,7 +2389,7 @@
         "start_date": "08 Jul 2024",
         "end_date": "11 Jul 2024",
         "locations": [
-            "Pozna&nacute, Poland"
+            "Poznań, Poland"
         ],
         "countries": [
             "Poland"
@@ -5099,7 +5099,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Sjezd Chemik&uring",
+        "title": "Sjezd Chemiků",
         "url": "https://76sjezdchemiku.cz/",
         "start_date": "26 Aug 2024",
         "end_date": "29 Aug 2024",
@@ -5112,7 +5112,7 @@
         "member_fee": "CZK7,000",
         "non_member_fee": "CZK8,000",
         "max_fee": "CZK8,000",
-        "uid": "sjezdchemikuring26Aug2024_0"
+        "uid": "sjezdchemiků26Aug2024_0"
     },
     {
         "themes": [
@@ -5406,7 +5406,7 @@
         "start_date": "01 Sep 2024",
         "end_date": "05 Sep 2024",
         "locations": [
-            "&Lstrokod&zacute, Poland"
+            "Łodź, Poland"
         ],
         "countries": [
             "Poland"
@@ -7058,12 +7058,12 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Zje&zacutedzie Naukowym Polskiego Towarzystwa Chemicznego",
+        "title": "Zjeździe Naukowym Polskiego Towarzystwa Chemicznego",
         "url": "https://zjazd.ptchem.pl/",
         "start_date": "15 Sep 2024",
         "end_date": "20 Sep 2024",
         "locations": [
-            "Pozna&nacute, Poland"
+            "Poznań, Poland"
         ],
         "countries": [
             "Poland"
@@ -7071,7 +7071,7 @@
         "member_fee": "PLN1,000–1,850",
         "non_member_fee": "PLN1,000–1,950",
         "max_fee": "PLN1,000–1,950",
-        "uid": "zjezacutedzienaukowy15Sep2024_0"
+        "uid": "zjeździenaukowympols15Sep2024_0"
     },
     {
         "themes": [
@@ -8150,6 +8150,54 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ipeceuropeexcipientc24Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "5th EnzymeML Workshop",
+        "url": "https://www.beilstein-institut.de/en/projects/strenda/meetings/5th-enzymeml-workshop/",
+        "start_date": "24 Sep 2024",
+        "end_date": "26 Sep 2024",
+        "locations": [
+            "Rüdesheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "5thenzymemlworkshop24Sep2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ArabLab Live",
+        "url": "https://www.arablab.com/",
+        "start_date": "24 Sep 2024",
+        "end_date": "26 Sep 2024",
+        "locations": [
+            "Dubai, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "arablablive24Sep2024_0"
     },
     {
         "themes": [
@@ -10494,6 +10542,33 @@
     },
     {
         "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "#MATSUS24\n MATSUS Materials for Sustainable Development Conference",
+        "url": "https://www.nanoge.org/MATSUSFall24/symposia?t=65a10dd207a58209ad4708ad",
+        "start_date": "12 Nov 2024",
+        "end_date": "15 Nov 2024",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "matsus24\nmatsusmater12Nov2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "process/engineering"
@@ -11630,6 +11705,33 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Society for Lab Automation & Screening SLAS2025",
+        "url": "https://www.slas.org/events-calendar/slas2025-international-conference-exhibition/",
+        "start_date": "25 Jan 2025",
+        "end_date": "29 Jan 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlabautomat25Jan2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -12654,6 +12756,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biomolecularcondensa13May2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London Lab Live",
+        "url": "https://www.terrapinn.com/exhibition/london-lab-live/index.stm",
+        "start_date": "14 May 2025",
+        "end_date": "15 May 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "londonlablive14May2025_0"
     },
     {
         "themes": [
