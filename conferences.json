@@ -6490,6 +6490,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CZS Summer School on Machine Learning for Chemistry",
+        "url": "https://aimat.iti.kit.edu/ml4chem2024.php",
+        "start_date": "09 Sep 2024",
+        "end_date": "13 Sep 2024",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "czssummerschoolonmac09Sep2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
