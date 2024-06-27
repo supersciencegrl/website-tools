@@ -1,53 +1,6 @@
 [
     {
         "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Syngenta Scholarship Scheme in Organic Chemistry",
-        "url": "https://www.syngenta.co.uk/jealotts-hill/syngenta-scholarship-2024",
-        "start_date": "23 Jun 2024",
-        "end_date": "25 Jun 2024",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "—",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "syngentascholarships23Jun2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "ACS National Medicinal Chemistry Symposium NMCS",
-        "url": "https://www.nmcsmedi.org/",
-        "start_date": "23 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Seattle, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "member_fee": "$950",
-        "non_member_fee": "$950",
-        "max_fee": "$950",
-        "uid": "acsnationalmedicinal23Jun2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -430,180 +383,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "careers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK Magnetic Resonance Facility Managers UKMRM 2024",
-        "url": "https://www.rsc.org/events/detail/78588/ukmrm-2024",
-        "start_date": "24 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukmagneticresonancef24Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC NMR Discussion Group Postgraduate Meeting",
-        "url": "https://www.rsc.org/events/detail/78589/nmr-discussion-group-postgraduate-meeting-2024",
-        "start_date": "24 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscnmrdiscussiongrou24Jun2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Chemical Management for Electronics USA",
-        "url": "https://events.chemicalwatch.com/870084/chemicals-management-for-electronics-usa-2024",
-        "start_date": "24 Jun 2024",
-        "end_date": "25 Jun 2024",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$1,509",
-        "non_member_fee": "$1,775",
-        "max_fee": "$1,775",
-        "uid": "chemicalmanagementfo24Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "MDAnalysis/MolSSI Workshop",
-        "url": "https://www.mdanalysis.org/2024/05/14/ASUworkshop/",
-        "start_date": "24 Jun 2024",
-        "end_date": "25 Jun 2024",
-        "locations": [
-            "Tempe, AZ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "AZ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mdanalysismolssiwork24Jun2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Oligonucleotides & Peptides Conference IOPC",
-        "url": "https://www.iopc-tks.com/",
-        "start_date": "24 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€400–1,000",
-        "non_member_fee": "€400–1,000",
-        "max_fee": "€400–1,000",
-        "uid": "intloligonucleotides24Jun2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Coatings on Glass & Plastics ICCG",
-        "url": "https://www.iccg2024.org/",
-        "start_date": "24 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€950–1,900",
-        "non_member_fee": "€950–1,900",
-        "max_fee": "€950–1,900",
-        "uid": "intlconferenceoncoat24Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Design of Experiments for Chemists & Engineers (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/",
-        "start_date": "24 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,799–2,159",
-        "non_member_fee": "£1,799–2,159",
-        "max_fee": "£1,799–2,159",
-        "uid": "designofexperimentsf24Jun2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -749,95 +528,6 @@
     },
     {
         "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemspeed Open Day IIa",
-        "url": "https://r50udb0gyr4.typeform.com/to/SApwAyds",
-        "start_date": "25 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemspeedopendayiia25Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Seqera Sessions (Nextflow training)",
-        "url": "https://seqera.io/seqera-sessions-basel-2024/",
-        "start_date": "25 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "seqerasessionsnextfl25Jun2024_0"
-    },
-    {
-        "themes": [
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Oligonucleotides & Peptides Conference IOPC",
-        "url": "https://www.iopc-tks.com/ target=",
-        "start_date": "25 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€400–1,200",
-        "non_member_fee": "€400–1,200",
-        "max_fee": "€400–1,200",
-        "uid": "intloligonucleotides25Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "FAIR Research Data Management: Basics for Chemists (workshop)",
-        "url": "https://www.nfdi4chem.de/event/fair-research-data-management-basics-for-chemists/",
-        "start_date": "25 Jun 2024",
-        "end_date": "26 Jun 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "fairresearchdatamana25Jun2024_0"
-    },
-    {
-        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -858,30 +548,6 @@
         "non_member_fee": "$300",
         "max_fee": "$300",
         "uid": "fragmentbaseddrugdis25Jun2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "in silico Pharmaceutical & Healthcare Conference",
-        "url": "https://www.ansys.com/events/uk-pharma-conference-2024#tab1-2",
-        "start_date": "26 Jun 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "insilicopharmaceutic26Jun2024_0"
     },
     {
         "themes": [
@@ -9542,6 +9208,29 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "waterdamageinasphalt22Oct2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Biointelligence Congress",
+        "url": "https://www.ipa.fraunhofer.de/de/veranstaltungen-messen/veranstaltungen/2024/2nd-biointelligence-congress-in-stuttgart.html",
+        "start_date": "22 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Stuttgart, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biointelligencecongr22Oct2024_0"
     },
     {
         "themes": [
