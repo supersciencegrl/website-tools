@@ -5705,6 +5705,30 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "RESILIENCE UK Medicine Manufacturing Skill Centre of Excellence Launch Event",
+        "url": "https://www.linkedin.com/posts/resilience-skills_resilience-launch-thursday-12th-september-activity-7212438821211123712-8j7a/",
+        "start_date": "12 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "resilienceukmedicine12Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "environment/fuels"
         ],
