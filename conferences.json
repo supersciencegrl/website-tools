@@ -9828,6 +9828,33 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Organic Chemistry Poster Symposium",
+        "url": "https://www.rsc.org/events/detail/79347/organic-chemistry-poster-symposium",
+        "start_date": "02 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "organicchemistrypost02Dec2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "law/policy",
