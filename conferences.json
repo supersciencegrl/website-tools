@@ -1,412 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "catalysis",
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Congress on Biotechnology ECB",
-        "url": "https://www.ecb2024.com/",
-        "start_date": "30 Jun 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Rotterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€585–1,200",
-        "non_member_fee": "€585–1,200",
-        "max_fee": "€585–1,200",
-        "uid": "europeancongressonbi30Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Industrial Biotechnology Intl Conference IBIC 2024",
-        "url": "https://www.aidic.it/ibic2024/",
-        "start_date": "30 Jun 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€800",
-        "non_member_fee": "€800",
-        "max_fee": "€800",
-        "uid": "industrialbiotechnol30Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European School of Medicinal Chemistry ESMEC",
-        "url": "https://eventi.uniurb.it/esmec/",
-        "start_date": "30 Jun 2024",
-        "end_date": "04 Jul 2024",
-        "locations": [
-            "Urbino, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€550",
-        "non_member_fee": "€600",
-        "max_fee": "€600",
-        "uid": "europeanschoolofmedi30Jun2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "20th European Magnetic Resonance Conference EUROMAR 2024",
-        "url": "https://euromar2024.org/",
-        "start_date": "30 Jun 2024",
-        "end_date": "04 Jul 2024",
-        "locations": [
-            "Bilbao, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€580",
-        "non_member_fee": "€580",
-        "max_fee": "€580",
-        "uid": "20theuropeanmagnetic30Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Belgian Organic Synthesis Symposium BOSS XVIII",
-        "url": "https://www.boss-symposium.org/registration",
-        "start_date": "30 Jun 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Liège, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "€980",
-        "non_member_fee": "€980",
-        "max_fee": "€980",
-        "uid": "belgianorganicsynthe30Jun2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "16th Green Chemistry Postgraduate Summer School",
-        "url": "https://www.greenchemistry.school/",
-        "start_date": "30 Jun 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Venice, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€850",
-        "non_member_fee": "€850",
-        "max_fee": "€850",
-        "uid": "16thgreenchemistrypo30Jun2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Calcium Signaling",
-        "url": "https://www.grc.org/calcium-signaling-conference/2024/",
-        "start_date": "30 Jun 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "$915–1,600",
-        "non_member_fee": "$915–1,600",
-        "max_fee": "$915–1,600",
-        "uid": "gordonresearchconfer30Jun2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "inorg",
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Colloidal Semiconductor Nanocrystals",
-        "url": "https://www.grc.org/colloidal-semiconductor-nanocrystals-conference/2024/",
-        "start_date": "30 Jun 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$1,265–1,720",
-        "non_member_fee": "$1,265–1,720",
-        "max_fee": "$1,265–1,720",
-        "uid": "gordonresearchconfer30Jun2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Grignard Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/grignard-chemistry-short-course/",
-        "start_date": "01 Jul 2024",
-        "end_date": "02 Jul 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£599–719",
-        "non_member_fee": "£599–719",
-        "max_fee": "£599–719",
-        "uid": "grignardchemistrytra01Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands",
-            "Online"
-        ],
-        "title": "Directing Biosynthesis VII",
-        "url": "https://www.rsc.org/events/detail/76071/directing-biosynthesis-vii",
-        "start_date": "01 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Birmingham, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£156–450",
-        "non_member_fee": "£186–570",
-        "max_fee": "£186–570",
-        "uid": "directingbiosynthesi01Jul2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Association for Crystal Growth BACG 2024 Annual Conference",
-        "url": "https://www.bacg.co.uk/bacg-annual-conference-2024/",
-        "start_date": "01 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "britishassociationfo01Jul2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Summer School on Science-based Formulation",
-        "url": "https://sites.google.com/view/sciencebasedformulation/home",
-        "start_date": "01 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Florence, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "intlsummerschoolonsc01Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Collaborative Computational Project for Biomolecular Simulation CCPBioSim Annual Conference",
-        "url": "https://www.ccpbiosim.ac.uk/events/upcoming-events/eventdetail/114/18,19,20/ccpbiosim-annual-conference",
-        "start_date": "01 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "collaborativecomputa01Jul2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "RACI Chemical Education Division Symposium",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=99bffea1-8494-4c12-af8a-018ecade1d42",
-        "start_date": "01 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Sydney, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "racichemicaleducatio01Jul2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "IUPAC Macro 2024: World Polymer Congress",
-        "url": "https://www.macro2024.org/",
-        "start_date": "01 Jul 2024",
-        "end_date": "04 Jul 2024",
-        "locations": [
-            "Warwick, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£750–900",
-        "non_member_fee": "£750–900",
-        "max_fee": "£750–900",
-        "uid": "iupacmacro2024worldp01Jul2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "PhysChem24 & Hush Symposium",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=84d08e5d-f602-496e-81cd-018f13010fba",
-        "start_date": "01 Jul 2024",
-        "end_date": "04 Jul 2024",
-        "locations": [
-            "Sydney, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "physchem24hushsympos01Jul2024_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Radboud Summer School in Preclinical Drug Discovery (summer school)",
-        "url": "https://www.ru.nl/en/education/education-for-professionals/overview/preclinical-drug-discovery-rss304",
-        "start_date": "01 Jul 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Oss, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€630",
-        "non_member_fee": "€630",
-        "max_fee": "€630",
-        "uid": "radboudsummerschooli01Jul2024_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -426,189 +20,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "handsonworkshoponmol01Jul2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Machine Learning & AI in Bio(Chemical) Engineering Conference",
-        "url": "https://www.mabc-cambridge.ai/",
-        "start_date": "02 Jul 2024",
-        "end_date": "03 Jul 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£75",
-        "non_member_fee": "£75",
-        "max_fee": "£75",
-        "uid": "machinelearningaiinb02Jul2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Congress: Chemistry for Cultural Heritage",
-        "url": "https://chemch2024.educell.sk/",
-        "start_date": "02 Jul 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Bratislava, Slovakia"
-        ],
-        "countries": [
-            "Slovakia"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "intlcongresschemistr02Jul2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Zeolite Association BZA Annual Meeting",
-        "url": "https://www.britishzeolite.org/annual-meeting",
-        "start_date": "02 Jul 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Ambleside, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "britishzeoliteassoci02Jul2024_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Scholar Showcase & networking event",
-        "url": "https://www.soci.org/events/hq-events/2024/sci-scholars-showcase-and-networking-event",
-        "start_date": "03 Jul 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scischolarshowcasene03Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "58th Intl Conference on Medicinal Chemistry RICT 2024",
-        "url": "https://www.rict2024.org/",
-        "start_date": "03 Jul 2024",
-        "end_date": "05 Jul 2024",
-        "locations": [
-            "Bordeaux, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€720",
-        "non_member_fee": "€875",
-        "max_fee": "€875",
-        "uid": "58thintlconferenceon03Jul2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Post-16 chemistry teachers' conference",
-        "url": "https://www.rsc.org/events/detail/78912/post-16-chemistry-teachers-conference",
-        "start_date": "04 Jul 2024",
-        "end_date": null,
-        "locations": [
-            "Southampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "post16chemistryteach04Jul2024_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Emerging Technologies Competition",
-        "url": "https://changemakers.rsc.org/cm/Deep-tech-in-action/Emerging-Technologies-Competition/rsc-site/content/Emerging-Technologies-Competition/ETC-Homepage.aspx",
-        "start_date": "04 Jul 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscemergingtechnolog04Jul2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Shuttle NMR: Low-field NMR spectroscopy",
-        "url": "https://euromar2024.org/satellite-meetings/",
-        "start_date": "05 Jul 2024",
-        "end_date": null,
-        "locations": [
-            "Bilbao, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "shuttlenmrlowfieldnm05Jul2024_0"
     },
     {
         "themes": [
@@ -4258,6 +3669,31 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "validatingresearchid03Sep2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Heterocyclic & Synthesis Group Postgraduate Symposium",
+        "url": "https://www.rsc.org/events/detail/79453/38th-postgraduate-symposium-heterocyclic-and-synthesis-group",
+        "start_date": "03 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscheterocyclicsynth03Sep2024_0"
     },
     {
         "themes": [
@@ -8622,6 +8058,32 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ACS & RSC Qatar Regional MEA Conference: Synergy for Sustainability",
+        "url": "https://www.acsrsc.org/",
+        "start_date": "03 Nov 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Doha, Qatar"
+        ],
+        "countries": [
+            "Qatar"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsrscqatarregionalm03Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy",
             "safety"
@@ -11913,6 +11375,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer29Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "10th Heron Island Conference on Reactive Intermediates and Unusual Molecules",
+        "url": "https://heron-conference.org/",
+        "start_date": "06 Jul 2025",
+        "end_date": "12 Jul 2025",
+        "locations": [
+            "Heron Island, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "10thheronislandconfe06Jul2025_0"
     },
     {
         "themes": [
