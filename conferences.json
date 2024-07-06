@@ -1214,6 +1214,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Python Scripting for Molecular Docking (training course)",
+        "url": "https://www.rcsb.org/news/66461d332eb1dfbcd7b46446",
+        "start_date": "18 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pythonscriptingformo18Jul2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -1761,6 +1784,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "thomasyoungcentreene24Jul2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Physical Sciences Data Infrastructure community workshop — Edinburgh",
+        "url": "https://www.psdi.ac.uk/event/psdi-community-workshop-edinburgh/",
+        "start_date": "24 Jul 2024",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physicalsciencesdata24Jul2024_0"
     },
     {
         "themes": [
@@ -8201,6 +8246,29 @@
         "non_member_fee": "CUP5,000 / $350",
         "max_fee": "$350",
         "uid": "9thlatinamericansymp04Nov2024_0"
+    },
+    {
+        "themes": [
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Chemistry Week",
+        "url": "https://www.rsc.org/policy-evidence-campaigns/outreach/get-involved/",
+        "start_date": "04 Nov 2024",
+        "end_date": "10 Nov 2024",
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemistryweek04Nov2024_0"
     },
     {
         "themes": [
