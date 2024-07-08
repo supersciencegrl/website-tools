@@ -1237,6 +1237,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EFMC-YSN Young Scientists' Network Publishing Academy",
+        "url": "https://www.efmc.info/publishing-academy",
+        "start_date": "18 Jul 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcysnyoungscientis18Jul2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -5113,6 +5135,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "The Science Apprentice Conference",
+        "url": "https://www.tickettailor.com/events/scienceapprenticeshipforum/1271495",
+        "start_date": "13 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thescienceapprentice13Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "environment/fuels"
         ],
@@ -6121,6 +6165,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "MCADDI Medicinal Chemistry & Drug Discovery & Development in India",
+        "url": "https://mcaddi-course.com/",
+        "start_date": "22 Sep 2024",
+        "end_date": "27 Sep 2024",
+        "locations": [
+            "Bangalore, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "mcaddimedicinalchemi22Sep2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -6428,6 +6496,28 @@
     },
     {
         "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Burlington Consensus 3: A UN science policy panel for chemicals, waste, & pollution prevention",
+        "url": "https://www.rsc.org/events/detail/79360/",
+        "start_date": "27 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "burlingtonconsensus327Sep2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "inorganic/nano",
@@ -6574,6 +6664,29 @@
         "non_member_fee": "€505",
         "max_fee": "€505",
         "uid": "slovakczechconferenc01Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Black Pharma Annual Summit: Together we can",
+        "url": "https://www.blackpharma.org/event-details/annual-summit",
+        "start_date": "02 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "blackpharmaannualsum02Oct2024_0"
     },
     {
         "themes": [
@@ -9118,6 +9231,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Large Molecules (training course)",
+        "url": "https://www.dmdg.org/events/20241124/introduction.asp",
+        "start_date": "24 Nov 2025",
+        "end_date": "27 Nov 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "largemoleculestraini24Nov2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -9381,6 +9520,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biofitfosteringinnov03Dec2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "business",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PharmaWorX: Accelerating Transformation of Life Science, Pharma and Biotech R&D with Automation, AI/ML & Robotics Tools",
+        "url": "https://pharmaworx.io/",
+        "start_date": "03 Dec 2024",
+        "end_date": "04 Dec 2024",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharmaworxaccelerati03Dec2024_0"
     },
     {
         "themes": [
@@ -10514,6 +10680,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Biologics & TIDES 2025",
+        "url": "https://oxfordglobal.com/biologics/events/biologics-2025",
+        "start_date": "12 Mar 2025",
+        "end_date": "14 Mar 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biologicstides202512Mar2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -10680,6 +10872,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "41stsciprocessdevelo02Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Freiburger Symposium 2025 (process development & production)",
+        "url": "https://scg.ch/component/eventbooking/fs25",
+        "start_date": "03 Apr 2025",
+        "end_date": "04 Apr 2025",
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "freiburgersymposium203Apr2025_0"
     },
     {
         "themes": [
@@ -11851,6 +12067,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "swisschemicalsociety04Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "7th EuChemS Inorganic Chemistry Conference",
+        "url": "https://eicc7.com/",
+        "start_date": "07 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Belgrade, Serbia"
+        ],
+        "countries": [
+            "Serbia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "7theuchemsinorganicc07Sep2025_0"
     },
     {
         "themes": [
