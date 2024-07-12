@@ -2234,6 +2234,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Physical Sciences Data Infrastructure PSDI Community Workshop Southampton",
+        "url": "https://www.psdi.ac.uk/event/psdi-community-workshop-southampton/",
+        "start_date": "08 Aug 2024",
+        "end_date": null,
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physicalsciencesdata08Aug2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -10999,6 +11021,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionadv14May2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Future Labs Live",
+        "url": "https://www.terrapinn.com/conference/future-labs-live/index.stm",
+        "start_date": "27 May 2025",
+        "end_date": "27 May 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurelabslive27May2025_0"
     },
     {
         "themes": [
