@@ -140,7 +140,10 @@ def conference_html_to_dict(conference: bs4.element.Tag) -> Optional[dict]:
     title = column1.text.partition('\n')[2].strip() # Partition removes hashtags
     my_dict['title'] = title.rpartition('\t')[2] # Removes tooltips
     
-    my_dict['url'] = column1.a.get('href')
+    try:
+        my_dict['url'] = column1.a.get('href')
+    except AttributeError: # No url
+        pass
 
     my_dict['start_date'] = conference.find('td', class_='column2').text
 
