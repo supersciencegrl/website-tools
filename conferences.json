@@ -1,336 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Foundations of Molecular Modelling & Simulation FOMMS",
-        "url": "https://fomms.cache.org/",
-        "start_date": "28 Jul 2024",
-        "end_date": "01 Aug 2024",
-        "locations": [
-            "Snowbird, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "foundationsofmolecul28Jul2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Biennial Conference on Chemistry Education BCCE 2024",
-        "url": "https://bcce.divched.org/",
-        "start_date": "28 Jul 2024",
-        "end_date": "01 Aug 2024",
-        "locations": [
-            "Lexington, KY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "KY"
-        ],
-        "member_fee": "$100–300",
-        "non_member_fee": "$100–300",
-        "max_fee": "$100–300",
-        "uid": "biennialconferenceon28Jul2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "AIChE 2024 Brazil Student Regional Conference",
-        "url": "https://aichebsrc2024.wixsite.com/bsrc-aiche-2024",
-        "start_date": "28 Jul 2024",
-        "end_date": "01 Aug 2024",
-        "locations": [
-            "Paraná, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aiche2024brazilstude28Jul2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "30th Intl Symposium on the Organic Chemistry of Sulfur",
-        "url": "https://www.chim.unifi.it/vp-699-30th-international-symposium-on-the-organic-chemistry-of-sulfur.html",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Florence, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "—",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "30thintlsymposiumont28Jul2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Fuel Cells",
-        "url": "https://www.grc.org/fuel-cells-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Smithfield, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$845–1,135",
-        "non_member_fee": "$845–1,135",
-        "max_fee": "$845–1,135",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Electron Donor-Acceptor Interactions",
-        "url": "https://www.grc.org/electron-donor-acceptor-interactions-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$765–1,045",
-        "non_member_fee": "$765–1,045",
-        "max_fee": "$765–1,045",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Enzymes, Coenzymes & Metabolic Pathways",
-        "url": "https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Waterville Valley, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$1,040–1,655",
-        "non_member_fee": "$1,040–1,655",
-        "max_fee": "$1,040–1,655",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Green Chemistry",
-        "url": "https://www.grc.org/green-chemistry-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "$1,085–1,605",
-        "non_member_fee": "$1,085–1,605",
-        "max_fee": "$1,085–1,605",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Membranes: Materials & Processes",
-        "url": "https://www.grc.org/membranes-materials-and-processes-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$765–965",
-        "non_member_fee": "$765–965",
-        "max_fee": "$765–965",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Natural Products & Bioactive Compounds",
-        "url": "https://www.grc.org/natural-products-and-bioactive-compounds-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$765–965",
-        "non_member_fee": "$765–965",
-        "max_fee": "$765–965",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Organic Geochemistry",
-        "url": "https://www.grc.org/organic-geochemistry-conference/2024/",
-        "start_date": "28 Jul 2024",
-        "end_date": "02 Aug 2024",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$765–965",
-        "non_member_fee": "$765–965",
-        "max_fee": "$765–965",
-        "uid": "gordonresearchconfer28Jul2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Intl Conference on Coordination Chemistry ICCC 2024",
-        "url": "https://iccc2024.colostate.edu/",
-        "start_date": "28 Jul 2024",
-        "end_date": "03 Aug 2024",
-        "locations": [
-            "Fort Collins, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "intlconferenceoncoor28Jul2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ACS Publications Symposium: Catalysis for Organic Synthesis",
-        "url": "https://connect.acspubs.org/Symposium_CatalysisforOrganicSynthesis",
-        "start_date": "31 Jul 2024",
-        "end_date": "01 Aug 2024",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "acspublicationssympo31Jul2024_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -8212,6 +7882,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aicheglobalsummitonp26Nov2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Biotech Outsourcing Strategies BOS 2024",
+        "url": "https://www.bio2bevents.com/bosmanchester2024/",
+        "start_date": "26 Nov 2024",
+        "end_date": "27 Nov 2024",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biotechoutsourcingst26Nov2024_0"
     },
     {
         "themes": [
