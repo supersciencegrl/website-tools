@@ -7767,6 +7767,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New frontiers in synthetic chemistry",
+        "url": "https://meetings.e-b-f.eu/open/",
+        "start_date": "21 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newfrontiersinsynthe21Nov2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
