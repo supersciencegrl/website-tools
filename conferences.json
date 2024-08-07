@@ -450,6 +450,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Dalton Community Northern Regional Meeting",
+        "url": "https://www.rsc.org/events/detail/79196/rsc-dalton-community-northern-regional-meeting-2024",
+        "start_date": "14 Aug 2024",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscdaltoncommunityno14Aug2024_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -1503,6 +1526,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "QUILL25-RSC MSILDG Applications of Ionic Fluids",
+        "url": "https://www.qub.ac.uk/schools/SchoolofChemistryandChemicalEngineering/Research/QUILL/QUILL25/",
+        "start_date": "02 Sep 2024",
+        "end_date": "03 Sep 2024",
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "quill25rscmsildgappl02Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -1571,6 +1617,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "11thintlconferenceon02Sep2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Recent Appointees in Physical Chemistry RAPC",
+        "url": "https://www.rsc.org/events/detail/79258/recent-appointees-in-physical-chemistry-rapc-2024",
+        "start_date": "02 Sep 2024",
+        "end_date": "04 Sep 2024",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "recentappointeesinph02Sep2024_0"
     },
     {
         "themes": [
@@ -1865,6 +1935,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "rscsirgeoffreywilkin04Sep2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AI Challenges for European Research and Academia",
+        "url": "https://www.imperial.ac.uk/events/179461/ai-challenges-for-european-research-and-academia/",
+        "start_date": "04 Sep 2024",
+        "end_date": "05 Sep 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "aichallengesforeurop04Sep2024_0"
     },
     {
         "themes": [
@@ -2391,7 +2484,7 @@
         "regions": [
             "Scotland"
         ],
-        "title": "Physical Aspects of Polymer Science 2024",
+        "title": "Physical Aspects of Polymer Science PAPS 2024",
         "url": "https://iop.eventsair.com/paps2024/",
         "start_date": "09 Sep 2024",
         "end_date": "11 Sep 2024",
@@ -2863,6 +2956,48 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonsust11Sep2024_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "5th Commonwealth Chemistry Posters",
+        "url": "https://commonwealthchemistry.org/event/5th-commonwealth-chemistry-posters/",
+        "start_date": "11 Sep 2024",
+        "end_date": "12 Sep 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "5thcommonwealthchemi11Sep2024_0"
     },
     {
         "themes": [
@@ -4509,6 +4644,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Machine Learning in Molecular Modelling (workshop)",
+        "url": "https://www.rsc.org/events/detail/79361/machine-learning-in-molecular-modelling-student-led-workshop",
+        "start_date": "24 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearninginmol24Sep2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "law/policy",
             "pharma industry"
@@ -4703,6 +4860,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "panhellenicchemistry25Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC-JPAG Continuous manufacturing & analytical strategy",
+        "url": "https://www.jpag.org/?p=meetings&r=173",
+        "start_date": "26 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscjpagcontinuousman26Sep2024_0"
     },
     {
         "themes": [
