@@ -134,57 +134,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Colorado Protein Stability Conference",
-        "url": "https://photophysics.com/company/news-events/colorado-protein-stability-conference/",
-        "start_date": "05 Aug 2024",
-        "end_date": "08 Aug 2024",
-        "locations": [
-            "Breckenridge, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "coloradoproteinstabi05Aug2024_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "AIChE 2024 Chemical Ventures Conference",
-        "url": "https://www.aiche.org/ciee/conferences/chemical-ventures-conference/2024",
-        "start_date": "06 Aug 2024",
-        "end_date": "07 Aug 2024",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aiche2024chemicalven06Aug2024_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data",
             "materials/polymers"
@@ -206,28 +155,6 @@
         "non_member_fee": "CAD290–685",
         "max_fee": "CAD290–685",
         "uid": "accelerateconference06Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Physical Sciences Data Infrastructure PSDI Community Workshop Southampton",
-        "url": "https://www.psdi.ac.uk/event/psdi-community-workshop-southampton/",
-        "start_date": "08 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Southampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "physicalsciencesdata08Aug2024_0"
     },
     {
         "themes": [
@@ -3325,6 +3252,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Austrian Community Meetup",
+        "url": "https://www.slas.org/events-calendar/slas-austrian-community-meet-up/",
+        "start_date": "12 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory12Sep2024_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
@@ -5917,6 +5868,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Netherlands Community Meetup",
+        "url": "https://www.slas.org/events-calendar/slas-netherlands-community-meet-up/",
+        "start_date": "15 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Oss, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory15Oct2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8290,6 +8265,30 @@
     },
     {
         "themes": [
+            "automation",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in new drug modalities & biologics",
+        "url": "https://www.slas.org/events-calendar/slas-elrig-innovations-in-new-drug-modalities-biologics/",
+        "start_date": "03 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "innovationsinnewdrug03Dec2024_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -8681,7 +8680,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "RSC-SCI Chemical Biology Bilateral Meeting CBBM-1",
+        "title": "RSC-SCI Anglo-Italian Chemical Biology Bilateral Meeting AICBBM-1",
         "url": "https://www.rsc.org/events/detail/78939/1st-rsc-sci-chemical-biology-bilateral-meeting-rsc-sci-cbbm-1",
         "start_date": "15 Dec 2024",
         "end_date": "17 Dec 2024",
@@ -8694,7 +8693,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "rscscichemicalbiolog15Dec2024_0"
+        "uid": "rscsciangloitalianch15Dec2024_0"
     },
     {
         "themes": [
