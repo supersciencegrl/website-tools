@@ -1,186 +1,6 @@
 [
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Defects in Semiconductors",
-        "url": "https://www.grc.org/defects-in-semiconductors-conference/2024/",
-        "start_date": "04 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "$905–1,615",
-        "non_member_fee": "$905–1,615",
-        "max_fee": "$905–1,615",
-        "uid": "gordonresearchconfer04Aug2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Drug Carriers in Medicine & Biology",
-        "url": "https://www.grc.org/drug-carriers-in-medicine-and-biology-conference/2024/",
-        "start_date": "04 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "Portland, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "$715–1,320",
-        "non_member_fee": "$715–1,320",
-        "max_fee": "$715–1,320",
-        "uid": "gordonresearchconfer04Aug2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Ionic Liquids",
-        "url": "https://www.grc.org/ionic-liquids-conference/2024/",
-        "start_date": "04 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "$905–1,615",
-        "non_member_fee": "$905–1,615",
-        "max_fee": "$905–1,615",
-        "uid": "gordonresearchconfer04Aug2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Solid State Studies in Ceramics",
-        "url": "https://www.grc.org/solid-state-studies-in-ceramics-conference/2024/",
-        "start_date": "04 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$835–1,085",
-        "non_member_fee": "$835–1,085",
-        "max_fee": "$835–1,085",
-        "uid": "gordonresearchconfer04Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Vibrational Spectroscopy",
-        "url": "https://www.grc.org/vibrational-spectroscopy-conference/2024/",
-        "start_date": "04 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "Smithfield, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$845–1,135",
-        "non_member_fee": "$845–1,135",
-        "max_fee": "$845–1,135",
-        "uid": "gordonresearchconfer04Aug2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Accelerate Conference 2024",
-        "url": "https://www.accelerate24.ca/",
-        "start_date": "06 Aug 2024",
-        "end_date": "09 Aug 2024",
-        "locations": [
-            "Vancouver, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD290–685",
-        "non_member_fee": "CAD290–685",
-        "max_fee": "CAD290–685",
-        "uid": "accelerateconference06Aug2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AIChE 2024 India Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/india-student-regional-conference/2024",
-        "start_date": "09 Aug 2024",
-        "end_date": "11 Aug 2024",
-        "locations": [
-            "Odisha, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aiche2024indiastuden09Aug2024_0"
-    },
-    {
-        "themes": [
             "materials/polymers",
             "physical/phys org",
             "synthesis"
@@ -422,6 +242,33 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Midwest USA",
+            "Online"
+        ],
+        "title": "IODIDE InChI Overview Discussion in Denver, Everybody (request)",
+        "start_date": "14 Aug 2024",
+        "end_date": null,
+        "locations": [
+            "Denver, CO, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "iodideinchioverviewd14Aug2024_0"
+    },
+    {
+        "themes": [
             "law/policy",
             "safety"
         ],
@@ -566,6 +413,29 @@
         "non_member_fee": "€1,000",
         "max_fee": "€1,000",
         "uid": "advancesincryoelectr18Aug2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "8th Annual Danish bioinformatics conference",
+        "url": "https://eventsignup.ku.dk/8danishbioinfconference",
+        "start_date": "21 Aug 2024",
+        "end_date": "22 Aug 2024",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "8thannualdanishbioin21Aug2024_0"
     },
     {
         "themes": [
@@ -1194,6 +1064,30 @@
     {
         "themes": [
             "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Meeting of the Junior European Calcium Society jECS",
+        "url": "https://cambridge2024.calciumsociety.com/",
+        "start_date": "31 Aug 2024",
+        "end_date": "01 Sep 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "meetingofthejunioreu31Aug2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "formulation/particle science",
             "med chem",
             "pharma industry"
@@ -1266,6 +1160,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "asianconferenceonmol01Sep2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "17th Intl Meeting of the European Calcium Society ECS",
+        "url": "https://cambridge2024.calciumsociety.com/",
+        "start_date": "01 Sep 2024",
+        "end_date": "04 Sep 2024",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "17thintlmeetingofthe01Sep2024_0"
     },
     {
         "themes": [
@@ -3873,6 +3791,53 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Next Generation Biophysics Symposium",
+        "url": "https://www3.mrc-lmb.cam.ac.uk/sites/nextgen/",
+        "start_date": "18 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nextgenerationbiophy18Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Community for Analytical Measurement Science CAMS Conference & Networking Event",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUMTI4QTRVWlhWRDFEQUhDTTY3WDVSVVk2RiQlQCN0PWcu",
+        "start_date": "18 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "communityforanalytic18Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -4782,6 +4747,37 @@
     {
         "themes": [
             "analytical",
+            "careers",
+            "diversity",
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 1)",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
+        "start_date": "25 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "West Point, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "merckusahbcudayhisto25Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "catalysis",
             "chem bio",
             "computational/data",
@@ -4912,6 +4908,37 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 2)",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
+        "start_date": "27 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Durham, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "merckusahbcudayhisto27Sep2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "inorganic/nano",
@@ -4938,6 +4965,60 @@
         "non_member_fee": "$1,200",
         "max_fee": "$1,200",
         "uid": "associationforcrysta29Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "diversity",
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 3)",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
+        "start_date": "30 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Elkton, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "merckusahbcudayhisto30Sep2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "PhysChem Forum",
+        "url": "http://physchem.org.uk/pcf2024/pcf2024.html",
+        "start_date": "30 Sep 2024",
+        "end_date": "01 Oct 2024",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physchemforum30Sep2024_0"
     },
     {
         "themes": [
@@ -5210,6 +5291,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Computational Drug Design Symposium: A tribute to Frank Blaney",
+        "url": "https://irinatkhnv.wixsite.com/fb-symposium",
+        "start_date": "04 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "computationaldrugdes04Oct2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "computational/data",
@@ -5476,6 +5581,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scihorticulturegroup08Oct2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Discngine Meeting: Innovative strategies for biotherapeutic developability assessment",
+        "url": "https://www.discngine.com/discngine-meetup-2024",
+        "start_date": "04 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discnginemeetinginno04Oct2024_0"
     },
     {
         "themes": [
@@ -6112,6 +6242,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Integrating AI into chemical safety assessment",
+        "url": "https://www.ecetoc.org/event/ai-workshop/",
+        "start_date": "16 Oct 2024",
+        "end_date": "17 Oct 2024",
+        "locations": [
+            "Valbonne, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "integratingaiintoche16Oct2024_0"
+    },
+    {
+        "themes": [
             "med chem"
         ],
         "regions": [
@@ -6131,6 +6285,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "autumnukqsarmeeting217Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Sygnature Discovery Medicinal Chemistry Workshop (PhD students & postdocs)",
+        "url": "https://www.linkedin.com/jobs/view/medicinal-chemistry-workshop-2024-at-sygnature-discovery-3981494521/",
+        "start_date": "17 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sygnaturediscoveryme17Oct2024_0"
     },
     {
         "themes": [
@@ -6249,6 +6428,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "BioExcel Conference on Advances in Biomolecular Simulations",
+        "url": "https://bioexcel.eu/events/2nd-bioexcel-conference-on-advances-in-biomolecular-simulations/",
+        "start_date": "20 Oct 2024",
+        "end_date": "23 Oct 2024",
+        "locations": [
+            "Brno, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioexcelconferenceon20Oct2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "physical/phys org"
         ],
@@ -6294,6 +6496,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scientificexchangesc20Oct2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Exploratory Measurement Science Group EMSG Ardgour Symposium (scientific instrumentation)",
+        "url": "https://emsg-ardgour.site/",
+        "start_date": "21 Oct 2024",
+        "end_date": "25 Oct 2024",
+        "locations": [
+            "Ardgour, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "exploratorymeasureme21Oct2024_0"
     },
     {
         "themes": [
@@ -10295,6 +10520,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Chemical Structures ICCS",
+        "url": "https://iccs-nl.org/",
+        "start_date": "01 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "Noordwijkerhout, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonchem01Jun2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -11130,6 +11379,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "swisschemicalsociety04Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Discovery Innovation DDI Forum",
+        "url": "https://www.ddisummit.co.uk/",
+        "start_date": "04 Sep 2024",
+        "end_date": "05 Sep 2024",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdiscoveryinnovat04Sep2024_0"
     },
     {
         "themes": [
