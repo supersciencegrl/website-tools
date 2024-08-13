@@ -2758,6 +2758,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Infrared & Raman Discussion Group Meeting",
+        "url": "https://www.irdg.org/meeting/irdg-232-sponsors-meeting",
+        "start_date": "11 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Nuneaton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "infraredramandiscuss11Sep2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
