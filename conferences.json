@@ -9818,6 +9818,28 @@
     },
     {
         "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "12th UK National SCI-RSC Retrosynthesis Competition",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/12th-sci-rsc-national-retrosynthesis-competition",
+        "start_date": "07 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "12thuknationalscirsc07Mar2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
