@@ -1,300 +1,6 @@
 [
     {
         "themes": [
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "20th Intl Symposium on Novel Aromatic Compounds ISNA",
-        "url": "https://www.isna2024.com/",
-        "start_date": "11 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD800",
-        "non_member_fee": "CAD800",
-        "max_fee": "CAD800",
-        "uid": "20thintlsymposiumonn11Aug2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Additive Manufacturing of Soft Materials",
-        "url": "https://www.grc.org/additive-manufacturing-of-soft-materials-conference/2024/",
-        "start_date": "11 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Smithfield, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "$845–1,135",
-        "non_member_fee": "$845–1,135",
-        "max_fee": "$845–1,135",
-        "uid": "gordonresearchconfer11Aug2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Molecular Basis of Microbial One-Carbon Metabolism",
-        "url": "https://www.grc.org/molecular-basis-of-microbial-one-carbon-metabolism-conference/2024/",
-        "start_date": "11 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Waterville Valley, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "$1,040–1,655",
-        "non_member_fee": "$1,040–1,655",
-        "max_fee": "$1,040–1,655",
-        "uid": "gordonresearchconfer11Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Center for Nanophase Materials Sciences CNMS User Meeting",
-        "url": "https://www.ornl.gov/announcement/2024-cnms-user-meeting",
-        "start_date": "12 Aug 2024",
-        "end_date": "15 Aug 2024",
-        "locations": [
-            "Oak Ridge, TN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TN"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "centerfornanophasema12Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Statistical analysis of laboratory data (training course)",
-        "url": "https://institute.acs.org/statistical-analysis-of-laboratory-data-online.html",
-        "start_date": "12 Aug 2024",
-        "end_date": "15 Aug 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$1,895–2,095",
-        "non_member_fee": "$2,095",
-        "max_fee": "$2,095",
-        "uid": "statisticalanalysiso12Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Virtual Conference on (Computational) Chemistry & its Applications VCCA",
-        "url": "https://sites.google.com/uom.ac.mu/vcca-2024/home",
-        "start_date": "12 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "$0–300",
-        "non_member_fee": "$0–300",
-        "max_fee": "$0–300",
-        "uid": "virtualconferenceonc12Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Intl Conference on X-Ray Microscopy",
-        "url": "https://www.xrm2024.com/",
-        "start_date": "12 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "SEK3,270–5,525",
-        "non_member_fee": "SEK3,270–5,525",
-        "max_fee": "SEK3,270–5,525",
-        "uid": "intlconferenceonxray12Aug2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Summer school: Applied deep learning in bioinformatics",
-        "url": "https://conferencemanager.events/2024-summerschoolonapplieddeeplearninginbioinformatics",
-        "start_date": "12 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "summerschoolappliedd12Aug2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Dalton Community Northern Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/79196/rsc-dalton-community-northern-regional-meeting-2024",
-        "start_date": "14 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscdaltoncommunityno14Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Hands-on FTIR Training",
-        "url": "https://www.anthias.co.uk/training-courses/hands-on-IR",
-        "start_date": "15 Aug 2024",
-        "end_date": "16 Aug 2024",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,250",
-        "non_member_fee": "£1,250",
-        "max_fee": "£1,250",
-        "uid": "handsonftirtraining15Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Midwest USA",
-            "Online"
-        ],
-        "title": "IODIDE InChI Overview Discussion in Denver, Everybody (request)",
-        "start_date": "14 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Denver, CO, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "iodideinchioverviewd14Aug2024_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Laboratory Safety (training course)",
-        "url": "https://institute.acs.org/laboratory-safety-2024.html",
-        "start_date": "17 Aug 2024",
-        "end_date": "18 Aug 2024",
-        "locations": [
-            "Denver, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "$1,695–1,895",
-        "non_member_fee": "$1,895",
-        "max_fee": "$1,895",
-        "uid": "laboratorysafetytrai17Aug2024_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -4126,6 +3832,31 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemical Biology in the Hub",
+        "url": "https://chembiointhehub.com/",
+        "start_date": "19 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalbiologyinthe19Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "catalysis",
@@ -7858,6 +7589,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Green Lab Symposium",
+        "url": "https://www.greenlab.ch/5-symposium",
+        "start_date": "18 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greenlabsymposium18Nov2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8219,6 +7974,30 @@
         "non_member_fee": "£1,449–1,739",
         "max_fee": "£1,449–1,739",
         "uid": "chemicalprocesssafet21Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ChemLLMathon",
+        "url": "https://chemindix2024.com/chemllmathon-program/",
+        "start_date": "24 Nov 2024",
+        "end_date": "25 Nov 2024",
+        "locations": [
+            "Dhahran, Saudi Arabia"
+        ],
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemllmathon24Nov2024_0"
     },
     {
         "themes": [
