@@ -1243,6 +1243,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Summer School on Bayesian Optimisation",
+        "url": "https://www.imperial.ac.uk/process-systems-engineering/courses-and-seminars/summer-school/",
+        "start_date": "02 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "summerschoolonbayesi02Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -1582,6 +1605,31 @@
         "non_member_fee": "£305–425",
         "max_fee": "£305–425",
         "uid": "britishmassspecsocie04Sep2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Coatings Trends & Technologies Summit",
+        "url": "https://www.pcimag.com/coatings-conference",
+        "start_date": "04 Sep 2024",
+        "end_date": "06 Sep 2024",
+        "locations": [
+            "Lombard, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "coatingstrendstechno04Sep2024_0"
     },
     {
         "themes": [
@@ -3786,6 +3834,30 @@
     },
     {
         "themes": [
+            "business",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "PharmaTech Integrates 2024",
+        "url": "https://lifescienceintegrates.com/event/pharmatech-integrates-2024/",
+        "start_date": "19 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharmatechintegrates19Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers"
         ],
@@ -3933,6 +4005,28 @@
         "non_member_fee": "£320",
         "max_fee": "£320",
         "uid": "20thrscchemicalbiolo20Sep2024_0"
+    },
+    {
+        "themes": [
+            "med chem"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Western Canadian Medicinal Chemistry Workshop WCMCW",
+        "url": "https://wcmcw.ca/",
+        "start_date": "20 Sep 2024",
+        "end_date": "22 Sep 2024",
+        "locations": [
+            "Saskatoon, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "westerncanadianmedic20Sep2024_0"
     },
     {
         "themes": [
@@ -4969,6 +5063,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "The Art & Science of Total Synthesis of Natural & Designed Molecules for Biology & Medicine: Synthetic Strategies & Methods ASTS-NDM 2024",
+        "url": "https://riceglobalparisorganicsynthesis.org/",
+        "start_date": "02 Oct 2024",
+        "end_date": "04 Oct 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "theartscienceoftotal02Oct2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "chem bio",
@@ -5949,6 +6065,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Scientific Informatics Experience Exchange",
+        "url": "https://zifornd.com/event/siee-boston-2024/",
+        "start_date": "16 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scientificinformatic16Oct2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -6066,6 +6207,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "sygnaturediscoveryme17Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Pistoia Alliance Japan conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-japan-conference-2/",
+        "start_date": "17 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pistoiaalliancejapan17Oct2024_0"
     },
     {
         "themes": [
@@ -7610,6 +7773,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "greenlabsymposium18Nov2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "The quest for new medicines to slow the progression of disability in neurodegenerative disorders",
+        "url": "https://www.smr.org.uk/Meetings/20241118/",
+        "start_date": "18 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thequestfornewmedici18Nov2024_0"
     },
     {
         "themes": [
@@ -9941,6 +10127,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Flow Chemistry Europe",
+        "url": "https://flowchemistryeurope.com/",
+        "start_date": "03 Apr 2025",
+        "end_date": "04 Apr 2025",
+        "locations": [
+            "Malaga, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "flowchemistryeurope03Apr2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "safety"
@@ -9965,6 +10176,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aichespringmeetinggl06Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Experimental Nuclear Magnetic Conference/Intl Society of Magnetic Resonance ENC-ISMAR",
+        "url": "https://www.enc-conference.org/ENC-ISMAR-2025",
+        "start_date": "06 Apr 2025",
+        "end_date": "10 Apr 2025",
+        "locations": [
+            "Pacific Grove, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "experimentalnuclearm06Apr2025_0"
     },
     {
         "themes": [
@@ -11233,6 +11470,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Association of British Science Writers ABSW One-day podcasting course",
+        "url": "https://www.absw.org.uk/events/one-day-podcasting-course-with-martin-redfern-emma-brisdion",
+        "start_date": "05 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "associationofbritish05Sep2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "inorganic/nano",
@@ -11687,6 +11946,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonhigh31May2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Intl Conference on Coordination Chemistry ICCC",
+        "url": "https://iccc2026.com/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Odense, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceoncoor28Jun2026_0"
     },
     {
         "themes": [
