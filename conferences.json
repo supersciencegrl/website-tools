@@ -1,79 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA",
-            "Online"
-        ],
-        "title": "ACS Fall National Meeting",
-        "url": "https://www.acs.org/meetings/acs-meetings/fall.html",
-        "start_date": "18 Aug 2024",
-        "end_date": "22 Aug 2024",
-        "locations": [
-            "Denver, CO, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "acsfallnationalmeeti18Aug2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Conference on Ceramic Materials & Components for Energy & Environmental Systems",
-        "url": "https://akcongress.com/cmcee14/",
-        "start_date": "18 Aug 2024",
-        "end_date": "22 Aug 2024",
-        "locations": [
-            "Budapest, Hungary"
-        ],
-        "countries": [
-            "Hungary"
-        ],
-        "member_fee": "€790",
-        "non_member_fee": "€790",
-        "max_fee": "€790",
-        "uid": "intlconferenceoncera18Aug2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "inorganic/nano",
             "physical/phys org",
@@ -122,29 +49,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "8th Annual Danish bioinformatics conference",
-        "url": "https://eventsignup.ku.dk/8danishbioinfconference",
-        "start_date": "21 Aug 2024",
-        "end_date": "22 Aug 2024",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "8thannualdanishbioin21Aug2024_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data"
         ],
@@ -165,28 +69,6 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "towardsautonomousrob21Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Research Data Management & Chemotion Workshop for Chemists in Munich",
-        "url": "https://www.nfdi4chem.de/event/research-data-management-chemotion-workshop-for-chemists-in-munchen/",
-        "start_date": "21 Aug 2024",
-        "end_date": "22 Aug 2024",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "researchdatamanageme21Aug2024_0"
     },
     {
         "themes": [
@@ -4410,6 +4292,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Revvity Signals Accelerating Drug Discovery: The power of a unified lab ecosystem",
+        "url": "https://revvitysignals.com/roadshow-series-overview",
+        "start_date": "24 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "revvitysignalsaccele24Sep2024_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -5466,7 +5374,7 @@
         ],
         "title": "Discngine Meeting: Innovative strategies for biotherapeutic developability assessment",
         "url": "https://www.discngine.com/discngine-meetup-2024",
-        "start_date": "04 Oct 2024",
+        "start_date": "08 Oct 2024",
         "end_date": null,
         "locations": [
             "Online"
@@ -5477,7 +5385,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "discnginemeetinginno04Oct2024_0"
+        "uid": "discnginemeetinginno08Oct2024_0"
     },
     {
         "themes": [
@@ -5599,6 +5507,29 @@
         "non_member_fee": "£1,199",
         "max_fee": "£1,199",
         "uid": "fundamentalsofdmpktr08Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Revvity Signals Enhancing drug discovery collaboration with advanced scientific software",
+        "url": "https://revvitysignals.com/roadshow-series-overview",
+        "start_date": "09 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "revvitysignalsenhanc09Oct2024_0"
     },
     {
         "themes": [
@@ -6557,6 +6488,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Revvity Signals Accelerating Drug Discovery: The power of a unified lab ecosystem",
+        "url": "https://revvitysignals.com/roadshow-series-overview",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "revvitysignalsaccele23Oct2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry"
@@ -6790,6 +6747,34 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "americaninstituteofc27Oct2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Partnership Opportunities in Drug Delivery PODD",
+        "url": "https://poddconference.com/",
+        "start_date": "28 Oct 2024",
+        "end_date": "29 Oct 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "partnershipopportuni28Oct2024_0"
     },
     {
         "themes": [
@@ -8501,6 +8486,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "innovationsinnewdrug03Dec2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Discovery Paris: Single-Cell Genomics",
+        "url": "https://elrig.org/portfolio/elrig-paris-forum/",
+        "start_date": "03 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdiscoveryparissi03Dec2024_0"
     },
     {
         "themes": [
