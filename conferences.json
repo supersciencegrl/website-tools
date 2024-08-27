@@ -1,151 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "inorganic/nano",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Annual Meeting of the Intl Society of Electrochemistry",
-        "url": "https://annual75.ise-online.org/",
-        "start_date": "18 Aug 2024",
-        "end_date": "23 Aug 2024",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "€550",
-        "non_member_fee": "€690",
-        "max_fee": "€690",
-        "uid": "annualmeetingofthein18Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advances in cryo-electron microscopy & 3D image processing (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/cry24-01/",
-        "start_date": "18 Aug 2024",
-        "end_date": "26 Aug 2024",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€1,000",
-        "non_member_fee": "€1,000",
-        "max_fee": "€1,000",
-        "uid": "advancesincryoelectr18Aug2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Towards Autonomous Robotic Systems (with lab automation session)",
-        "url": "https://taros-conference.org/",
-        "start_date": "21 Aug 2024",
-        "end_date": "23 Aug 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "towardsautonomousrob21Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Peptide Therapeutics Forum 2024",
-        "url": "https://ptf24.scg.ch/",
-        "start_date": "22 Aug 2024",
-        "end_date": "23 Aug 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF150",
-        "non_member_fee": "CHF200",
-        "max_fee": "CHF200",
-        "uid": "peptidetherapeuticsf22Aug2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biointerface Intl Conference BIC",
-        "url": "https://biointerfaces.ch/",
-        "start_date": "20 Aug 2024",
-        "end_date": "23 Aug 2024",
-        "locations": [
-            "Muttenz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biointerfaceintlconf20Aug2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Pharma Science Day 2024",
-        "url": "https://saphw.ch/de/17th-swiss-pharma-science-day-2024",
-        "start_date": "21 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Bern, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swisspharmascienceda21Aug2024_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -1217,6 +1072,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscheterocyclicsynth03Sep2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "8th CHEMMAT Postgraduate Research Symposium 2024",
+        "url": "https://www.icheme.org/knowledge-networks/communities/member-groups/new-zealand/events/8th-annual-chemmat-postgraduate-research-symposium-2024/",
+        "start_date": "03 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Auckland, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "8thchemmatpostgradua03Sep2024_0"
     },
     {
         "themes": [
@@ -2419,6 +2297,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Bioseparations in the pharmaceutical industry",
+        "url": "https://www.icheme.org/knowledge-networks/communities/special-interest-groups/fluid-separations/events/11-09-2024-bioseparations-in-the-pharmaceutical-industry/",
+        "start_date": "11 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioseparationsinthep11Sep2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -2855,6 +2758,28 @@
     },
     {
         "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Baldyga Technical Seminar on Fluid Mixing",
+        "url": "https://www.icheme.org/knowledge-networks/communities/special-interest-groups/fluid-mixing-processes/events/12-13-09-2024-baldyga-technical-seminar-on-fluid-mixing/",
+        "start_date": "12 Sep 2024",
+        "end_date": "13 Sep 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "baldygatechnicalsemi12Sep2024_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
@@ -3187,6 +3112,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "UK XFEL Townhall: Advanced materials & manufacturing",
+        "url": "https://www.eventbrite.co.uk/e/uk-xfel-townhall-advanced-materials-and-manufacturing-tickets-891550901747?aff=oddtdtcreator",
+        "start_date": "17 Sep 2024",
+        "end_date": "18 Sep 2024",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukxfeltownhalladvanc17Sep2024_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "pharma industry"
@@ -3499,6 +3449,28 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Murphy's Law & Common Mistakes in Applied Spectroscopy",
+        "url": null,
+        "start_date": "18 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Bremen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "murphyslawcommonmist18Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -3546,6 +3518,31 @@
         "non_member_fee": "CHF65–85",
         "max_fee": "CHF65–85",
         "uid": "ilmactradefair18Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Engineering Porous Materials at Multiple Scales EPoMM",
+        "url": "https://www.bath.ac.uk/events/engineering-porous-materials-at-multiple-scales-epomm-conference/",
+        "start_date": "18 Sep 2024",
+        "end_date": "29 Sep 2024",
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "engineeringporousmat18Sep2024_0"
     },
     {
         "themes": [
@@ -3938,6 +3935,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Nanochemistry Camp",
+        "url": "https://www.istiseo.org/courses/doctoral-nanochemistry-camp/",
+        "start_date": "21 Sep 2024",
+        "end_date": "28 Sep 2024",
+        "locations": [
+            "Iseo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nanochemistrycamp21Sep2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy"
         ],
@@ -4318,6 +4339,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Virtual ChemBio Talks",
+        "url": "https://www.chemistryviews.org/4th-virtual-chembiotalk/",
+        "start_date": "24 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "virtualchembiotalks24Sep2024_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -4694,6 +4737,51 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "merckusahbcudayhisto27Sep2024_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Hazards Australasia",
+        "url": "https://www.icheme.org/training-events/hazards-australasia/",
+        "start_date": "29 Sep 2024",
+        "end_date": "01 Oct 2024",
+        "locations": [
+            "Gold Coast, QLD, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "hazardsaustralasia29Sep2024_0"
+    },
+    {
+        "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Chemeca 2024 (process chemists & engineers)",
+        "url": "https://www.chemeca.org/",
+        "start_date": "29 Sep 2024",
+        "end_date": "01 Oct 2024",
+        "locations": [
+            "Gold Coast, QLD, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemeca2024processch29Sep2024_0"
     },
     {
         "themes": [
@@ -6514,6 +6602,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Energy & Environmental Science symposium",
+        "url": "https://www.rsc.org/events/detail/79585/ees-symposium",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscenergyenvironment23Oct2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry"
@@ -6725,6 +6837,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Intl Chemical Biology Society ICSB Conference: Data-driven chemical biology",
+        "url": "https://www.chemical-biology.org/",
+        "start_date": "27 Oct 2024",
+        "end_date": "30 Oct 2024",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlchemicalbiologys27Oct2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -6891,6 +7026,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aicheglobalconferenc29Oct2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs Live USA",
+        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/index.stm",
+        "start_date": "30 Oct 2024",
+        "end_date": "31 Oct 2024",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurelabsliveusa30Oct2024_0"
     },
     {
         "themes": [
@@ -7179,6 +7341,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "drugdiscoverydenmark05Nov2024_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Hazards Process Safety Conference",
+        "url": "https://www.icheme.org/training-events/hazards-australasia/",
+        "start_date": "05 Nov 2024",
+        "end_date": "07 Nov 2024",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "hazardsprocesssafety05Nov2024_0"
     },
     {
         "themes": [
@@ -8510,6 +8695,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "drugdiscoveryparissi03Dec2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Bioprocess intensification for a sustainable future",
+        "url": "https://www.icheme.org/knowledge-networks/communities/special-interest-groups/biochemical-engineering/events/03-12-2024-bio-process-intensification-for-a-sustainable-future/",
+        "start_date": "03 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioprocessintensific03Dec2024_0"
     },
     {
         "themes": [
