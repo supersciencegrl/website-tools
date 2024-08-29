@@ -282,5 +282,6 @@ def export_to_json(all_conferences: list[dict], output_file: str='conferences.js
 
 if __name__ == '__main__':
     proxies = set_proxy()
+    # proxies = {}
     all_conferences = get_conferences()
     export_to_json(all_conferences)
