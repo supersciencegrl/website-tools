@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "8th Annual Nanomaterials & Nanodevices Conference NANOMAT2024",
-        "url": "https://www.nanomat-conference.com/#/",
-        "start_date": "25 Aug 2024",
-        "end_date": "28 Aug 2024",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "€500",
-        "non_member_fee": "€500",
-        "max_fee": "€500",
-        "uid": "8thannualnanomateria25Aug2024_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -209,53 +186,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Tips and tricks for the crystal growth of inorganic materials",
-        "url": "https://indico.psi.ch/event/15694/",
-        "start_date": "26 Aug 2024",
-        "end_date": "27 Aug 2024",
-        "locations": [
-            "Villigen, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tipsandtricksforthec26Aug2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Asia Pacific Delivery Science Conference APDSC",
-        "url": "https://www.controlledreleasesociety.org/events/asia-pacific-delivery-science-conference-apdsc",
-        "start_date": "26 Aug 2024",
-        "end_date": "28 Aug 2024",
-        "locations": [
-            "Selangor, Malaysia"
-        ],
-        "countries": [
-            "Malaysia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "asiapacificdeliverys26Aug2024_0"
-    },
-    {
-        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -347,29 +277,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Network of Environmental Forensics INEF 2024",
-        "url": "https://www.rsc.org/events/detail/78756/international-network-of-environmental-forensics-2024",
-        "start_date": "27 Aug 2024",
-        "end_date": "28 Aug 2024",
-        "locations": [
-            "Galway, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "member_fee": "£270",
-        "non_member_fee": "£370",
-        "max_fee": "£370",
-        "uid": "intlnetworkofenviron27Aug2024_0"
-    },
-    {
-        "themes": [
             "business"
         ],
         "regions": [
@@ -389,29 +296,6 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "cphikorea27Aug2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC Dalton Division Southern Regional Meeting 2024",
-        "url": "https://www.rsc.org/events/detail/79011/rsc-dalton-division-southern-regional-meeting-2024",
-        "start_date": "28 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£20",
-        "non_member_fee": "£20",
-        "max_fee": "£20",
-        "uid": "rscdaltondivisionsou28Aug2024_0"
     },
     {
         "themes": [
@@ -11544,6 +11428,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "30th European Colloquium on Heterocyclic Chemistry ECHC",
+        "url": "http://echc2025.com/",
+        "start_date": "24 Aug 2025",
+        "end_date": "28 Aug 2025",
+        "locations": [
+            "Budapest, Hungary"
+        ],
+        "countries": [
+            "Hungary"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "30theuropeancolloqui24Aug2025_0"
     },
     {
         "themes": [
