@@ -1,100 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Summer School on Chemical Biology 2024",
-        "url": "https://summer-school24.scg.ch/",
-        "start_date": "25 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Bergün, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF980",
-        "non_member_fee": "CHF1,130",
-        "max_fee": "CHF1,130",
-        "uid": "swisssummerschoolonc25Aug2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Biological Inorganic Chemistry Conference EuroBIC",
-        "url": "https://www.uni-muenster.de/Chemie.ac/en/eurobic17/index.html",
-        "start_date": "25 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Munster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€550",
-        "non_member_fee": "€550",
-        "max_fee": "€550",
-        "uid": "europeanbiologicalin25Aug2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Congress of Chemical & Process Engineering CHISA",
-        "url": "https://2024.chisa.cz/",
-        "start_date": "25 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlcongressofchemic25Aug2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "EWur"
-        ],
-        "title": "Intl Congress on Biocatalysis",
-        "url": "https://biocat-congress.de/",
-        "start_date": "25 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Hamburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlcongressonbiocat25Aug2024_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -183,55 +89,6 @@
         "non_member_fee": "€615",
         "max_fee": "€615",
         "uid": "europeanpeptidesympo25Aug2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "AIChE Procesa 2024 Latin America Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/latin-america-student-regional-conference/2024",
-        "start_date": "26 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Cusco, Peru"
-        ],
-        "countries": [
-            "Peru"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aicheprocesa2024lati26Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Sjezd Chemik&uring",
-        "url": "https://76sjezdchemiku.cz/",
-        "start_date": "26 Aug 2024",
-        "end_date": "29 Aug 2024",
-        "locations": [
-            "Ostrava, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "CZK7,000",
-        "non_member_fee": "CZK8,000",
-        "max_fee": "CZK8,000",
-        "uid": "sjezdchemikuring26Aug2024_0"
     },
     {
         "themes": [
@@ -364,29 +221,6 @@
         "non_member_fee": "£80–110",
         "max_fee": "£80–110",
         "uid": "varietyinchemistryed28Aug2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advances in polymers & materials for additive manufacturing II",
-        "url": "https://www.soci.org/events/materials-chemistry-group/2024/advances-in-polymers-and-materials-for-additive-manufacturing-ii",
-        "start_date": "29 Aug 2024",
-        "end_date": null,
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancesinpolymersma29Aug2024_0"
     },
     {
         "themes": [
