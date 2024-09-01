@@ -3,11 +3,45 @@ import html
 from bs4 import BeautifulSoup
 import bs4.element
 import dateparser
+from deprecated import deprecated
+from pathlib import Path
 import pyperclip
 import requests
+from selenium import webdriver
 
+def get_selenide(url: str) -> bytes | None:
+    """
+    Retrieve the page source of the specified URL as bytes using Selenium.
+
+    Args:
+    url (str): The URL of the web page to retrieve.
+
+    Returns:
+    None: No URL was specified. 
+    bytes: The page source of the URL as bytes.
+    """
+    if not url:
+        return None
+
+    # Create local web driver
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless=new') # headless browser
+    driver = webdriver.Chrome(options = options)
+
+    # Get page source then quit the browser
+    driver.get(url)
+    page_source = driver.page_source
+    page_source_bytes = page_source.encode('utf-8')
+    driver.quit()
+
+    return page_source_bytes
+
+@deprecated()
 def get_html(url: str) -> bytes:
     """
+    This function is now deprecated since the Scientific Update website now disallows automated
+    scraping this way. 
+    
     Fetches the HTML content from a given URL and returns it as bytes.
 
     Args:
@@ -19,7 +53,7 @@ def get_html(url: str) -> bytes:
     Raises:
         requests.exceptions.RequestException: If an error occurs during the HTTP request.
     """
-    r = requests.get(url)
+    r = requests.get(url, headers = headers)
     r.raise_for_status()
     
     return r.content
@@ -53,7 +87,8 @@ def scrape_location(soup: BeautifulSoup) -> str:
 
     This function finds a location paragraph extracted from a webpage then performs the following tasks:
     - Removes any prefix before a "|" (referring to a precise venue).
-    - Standardizes location names based on a predefined set of replacements.
+    - Standardizes location names based on a predefined set of replacements to ensure standardized 
+        country (and state, if applicable).
 
     Args:
         soup (BeautifulSoup): The BeautifulSoup object containing the parsed webpage.
@@ -70,14 +105,17 @@ def scrape_location(soup: BeautifulSoup) -> str:
         location = location_paragraph.text
     
     location_replacements = {'The Netherlands': 'Netherlands',
-                             'United States': 'USA',
                              'United Kingdom': 'UK',
-                             'Boston': 'Boston, MA',
-                             'Denver': 'Denver, CO',
-                             'Steamboat, Colorado': 'Steamboat Springs, CO',
+                             'United States': 'USA',
+                             'Online Event': 'Online',
+
                              'Edinburgh': 'Edinburgh, Scotland',
-                             'San Diego': 'San Diego, CA',
-                             'Online Event': 'Online'
+                             'Steamboat, Colorado': 'Steamboat Springs, CO',
+                             'San Diego, USA': 'San Diego, CA, USA', # Must come after USA
+                             'Denver, USA': 'Denver, CO, USA', # Must come after USA
+                             'Atlanta, USA': 'Atlanta, GA, USA', # Must come after USA
+                             'Boston, USA': 'Boston, MA, USA', # Must come after USA
+                             'Charleston, USA': 'Charleston, SC, USA' # Must come after USA
                              }
     for k, v in location_replacements.items():
         location = location.replace(k, v)
@@ -113,8 +151,11 @@ def scrape_dates(soup) -> dict[str, str]:
 
     return dates
 
+@deprecated
 def get_currency(price: str) -> tuple[str, str]:
     """
+    This function is no longer used, since it is a child of get_prices(), which is deprecated. 
+
     Extracts and processes currency information from a given price string, returning the value as a
         formatted string and the currency symbol.
 
@@ -147,8 +188,11 @@ def get_currency(price: str) -> tuple[str, str]:
 
     return value_string, currency
 
+@deprecated
 def get_prices(prices: list[bs4.element.Tag]) -> dict[str, str]:
     """
+    This function is now deprecated since I no longer publish conference fees. 
+
     Extracts and organizes prices and their types from a list of price elements.
 
     This function takes a list of BeautifulSoup elements representing prices and performs the following tasks:
@@ -193,6 +237,7 @@ def get_prices(prices: list[bs4.element.Tag]) -> dict[str, str]:
 
 def scrape_page(page: bytes, url: str):
     """
+    Now deprecated
     Scrapes information from a web page and organizes it into an event dictionary.
 
     This function takes a web page content and its URL and performs the following tasks:
@@ -219,14 +264,13 @@ def scrape_page(page: bytes, url: str):
     dates = scrape_dates(soup)
     event.update(dates)
 
-    # Scrape prices
-    prices = soup.find_all('div', class_='fees')
-    if prices:
-        price_result = get_prices(prices)
-        event.update(price_result)
-    else:
-        event['currency'] = ''
-        event['price_all'] = ''
+    # I no longer publish prices online - these will all be blank
+    # prices = soup.find_all('div', class_='fees')
+    # if prices:
+    #     price_result = get_prices(prices)
+    #     event.update(price_result)
+    event['currency'] = ''
+    event['price_all'] = ''
 
     # html encode dictionary
     for k in event:
@@ -300,6 +344,7 @@ def create_output_html(event):
     html_out.append('\t' * 12 + '</tr>')
 
     # Print output html and copy to Windows clipboard
+    print(f'{event["title"]}, {event["location"]}, {event["start_date"]}') # Mark to user what has been printed
     for h in html_out:
         print(h)
     pyperclip.copy(('\n').join(html_out))
@@ -321,7 +366,7 @@ def run():
         else:
             url = input('url: ')
 
-        page = get_html(url)
+        page = get_selenide(url)
         if page:
             scrape_page(page, url)
         else:
@@ -332,6 +377,13 @@ def run():
 
 ''' Debug mode '''
 Debug = False
+
 VAT_RATE = 0.20
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Referer': 'https://supersciencegrl.com'
+}
 
 run()
