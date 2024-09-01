@@ -11443,6 +11443,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "business",
+            "formulation/particle science",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "CHEMUK (trade fair)",
+        "url": "https://www.chemicalukexpo.com/",
+        "start_date": "21 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemuktradefair21May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
