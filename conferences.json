@@ -1,55 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Meeting of the Junior European Calcium Society jECS",
-        "url": "https://cambridge2024.calciumsociety.com/",
-        "start_date": "31 Aug 2024",
-        "end_date": "01 Sep 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "meetingofthejunioreu31Aug2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Peptide & Oligonucleotide ADME workshop POW24",
-        "url": "https://www.dmdg.org/events/20240901/Default.asp",
-        "start_date": "01 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugmetabolismdiscus01Sep2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -5345,6 +5296,29 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "zentralkuschemiechem09Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "US Association for Women in Science AWIS Virtual Career Fair",
+        "url": "https://app.brazenconnect.com/a/awis/e/KEjel",
+        "start_date": "10 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "usassociationforwome10Oct2024_0"
     },
     {
         "themes": [
