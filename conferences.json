@@ -260,29 +260,6 @@
     },
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern Ireland"
-        ],
-        "title": "QUILL25-RSC MSILDG Applications of Ionic Fluids",
-        "url": "https://www.qub.ac.uk/schools/SchoolofChemistryandChemicalEngineering/Research/QUILL/QUILL25/",
-        "start_date": "02 Sep 2024",
-        "end_date": "03 Sep 2024",
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "quill25rscmsildgappl02Sep2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -449,98 +426,26 @@
     },
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Synthesis & properties of ionic liquids for application in supported ionic liquid phase SILP catalysis",
-        "url": "https://www.rscbmcs.org/events/ntgh24/",
-        "start_date": "03 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "synthesispropertieso03Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "materials/polymers"
+            "analytical",
+            "physical/phys org"
         ],
         "regions": [
             "Western Europe"
         ],
-        "title": "Validating research ideas in the field of additive manufacturing AM with industrial partners",
-        "url": "https://ibam.swiss/wp-content/uploads/2024/03/20240903_SAMG-IBAM_Maxon_Event_EN.pdf",
-        "start_date": "03 Sep 2024",
-        "end_date": null,
+        "title": "Intl Conference on High Resolution Mass Spectrometry",
+        "url": "https://eventi.unibo.it/hrms-2024-bologna",
+        "start_date": "02 Sep 2024",
+        "end_date": "06 Sep 2024",
         "locations": [
-            "Sachseln, Switzerland"
+            "Bologna, Italy"
         ],
         "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "validatingresearchid03Sep2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Heterocyclic & Synthesis Group Postgraduate Symposium",
-        "url": "https://www.rsc.org/events/detail/79453/38th-postgraduate-symposium-heterocyclic-and-synthesis-group",
-        "start_date": "03 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
+            "Italy"
         ],
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "rscheterocyclicsynth03Sep2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "8th CHEMMAT Postgraduate Research Symposium 2024",
-        "url": "https://www.icheme.org/knowledge-networks/communities/member-groups/new-zealand/events/8th-annual-chemmat-postgraduate-research-symposium-2024/",
-        "start_date": "03 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Auckland, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "8thchemmatpostgradua03Sep2024_0"
+        "uid": "intlconferenceonhigh02Sep2024_0"
     },
     {
         "themes": [
@@ -1023,6 +928,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Conference on Research in Chemical Education ECRICE2024",
+        "url": "https://ecrice2024.events.chemistry.pt/",
+        "start_date": "05 Sep 2024",
+        "end_date": "07 Sep 2024",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanconferenceon05Sep2024_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "pharma industry"
@@ -1066,6 +993,28 @@
         "non_member_fee": "€260",
         "max_fee": "€260",
         "uid": "setacgdchfachgruppeu08Sep2024_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Colloquium on Inorganic Reaction Mechanisms ECIRM2024",
+        "url": "https://ecirm2024.sciencesconf.org/",
+        "start_date": "08 Sep 2024",
+        "end_date": "11 Sep 2024",
+        "locations": [
+            "Toulouse, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeancolloquiumon08Sep2024_0"
     },
     {
         "themes": [
@@ -1312,7 +1261,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Intl Symposium for High-Performance Thin-Layer Chromatography",
+        "title": "Intl Symposium for High-Performance Thin-Layer Chromatography HPTLC 2024",
         "url": "https://akcongress.com/hptlc2024/",
         "start_date": "09 Sep 2024",
         "end_date": "11 Sep 2024",
@@ -1498,6 +1447,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "czssummerschoolonmac09Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl School on Mass Spectrometry intSMS 2024",
+        "url": "https://www.spettrometriadimassa.it/intsms2024/",
+        "start_date": "09 Sep 2024",
+        "end_date": "14 Sep 2024",
+        "locations": [
+            "Erice, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlschoolonmassspec09Sep2024_0"
     },
     {
         "themes": [
@@ -2251,6 +2222,32 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Brazilian Meeting on Inorganic Chemistry BMIC & Brazilian Meeting on Rare Earths BMRE & Workshop on Theoretical Bioinorganic Chemistry WTBC",
+        "url": "https://bmic2024.qui.ufmg.br/",
+        "start_date": "12 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Belo Horizonte, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "brazilianmeetingonin12Sep2024_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -2413,6 +2410,29 @@
         "non_member_fee": "Application",
         "max_fee": "Application",
         "uid": "gskresidentialchemic15Sep2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Spectroscopy & Electrochemistry Summer School SPEC",
+        "url": "https://wwwdisc.chimica.unipd.it/spec_school/",
+        "start_date": "15 Sep 2024",
+        "end_date": "20 Sep 2024",
+        "locations": [
+            "Lido di Jesolo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "spectroscopyelectroc15Sep2024_0"
     },
     {
         "themes": [
@@ -2710,7 +2730,7 @@
         "regions": [
             "Northern England"
         ],
-        "title": "Intl Workshop on Anthocyanins & Betalains",
+        "title": "Intl Workshop on Anthocyanins & Betalains IWA&B",
         "url": "https://eu.eventscloud.com/website/12992/home/",
         "start_date": "17 Sep 2024",
         "end_date": "19 Sep 2024",
@@ -3642,6 +3662,28 @@
     },
     {
         "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Green Technology for Sustainable Environment 2024 GTSE24",
+        "url": "https://gtse24.com/",
+        "start_date": "22 Sep 2024",
+        "end_date": "26 Sep 2024",
+        "locations": [
+            "Poznan, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greentechnologyforsu22Sep2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4130,6 +4172,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Congress of the Society of Chemists & Technologists of Macedonia SCTM",
+        "url": "https://congress.sctm.mk/event/4/",
+        "start_date": "25 Sep 2024",
+        "end_date": "28 Sep 2024",
+        "locations": [
+            "Ohrid, North Macedonia"
+        ],
+        "countries": [
+            "North Macedonia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "congressofthesociety25Sep2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "law/policy",
             "pharma industry",
@@ -4179,6 +4263,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pharmacrystallizatio26Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Meeting Facing Challenges: Subnanometric Metal & Metal-Oxide Catalysts & Photocatalysts CATCOSY 2024",
+        "url": "https://cost-cosy.eu/activity/workshop-facing-challenges/",
+        "start_date": "26 Sep 2024",
+        "end_date": "27 Sep 2024",
+        "locations": [
+            "Madrid, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "meetingfacingchallen26Sep2024_0"
     },
     {
         "themes": [
@@ -4647,10 +4755,12 @@
     },
     {
         "themes": [
-            "computational/data"
+            "catalysis",
+            "med chem",
+            "synthesis"
         ],
         "regions": [
-            "Asia"
+            "Western Europe"
         ],
         "title": "The Art & Science of Total Synthesis of Natural & Designed Molecules for Biology & Medicine: Synthetic Strategies & Methods ASTS-NDM 2024",
         "url": "https://riceglobalparisorganicsynthesis.org/",
@@ -5015,6 +5125,29 @@
         "non_member_fee": "£1,699–2,039",
         "max_fee": "£1,699–2,039",
         "uid": "moleculetomedicinetr07Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "STEM-CPD Summer School",
+        "url": "https://ectn.eu/summer-school/",
+        "start_date": "07 Oct 2024",
+        "end_date": "11 Oct 2024",
+        "locations": [
+            "Palermo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "stemcpdsummerschool07Oct2024_0"
     },
     {
         "themes": [
@@ -7720,6 +7853,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Solutions in Chemistry",
+        "url": "https://solutionsinchemistry.hkd.hr/",
+        "start_date": "11 Nov 2024",
+        "end_date": "15 Nov 2024",
+        "locations": [
+            "Sveti Martin na Muri, Croatia"
+        ],
+        "countries": [
+            "Croatia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "solutionsinchemistry11Nov2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "catalysis",
@@ -9714,6 +9889,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "CPACT Process Spectroscopy course",
+        "url": "https://www.cpact.com/Events/Event?eid=363",
+        "start_date": "28 Jan 2025",
+        "end_date": "30 Jan 2025",
+        "locations": [
+            "Northampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cpactprocessspectros28Jan2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -9784,6 +9982,30 @@
         "non_member_fee": "$1,249",
         "max_fee": "$1,249",
         "uid": "scientificupdate17th02Feb2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Winter School on Physical Organic Chemistry E-WISPOC",
+        "url": "https://www.ewispoc.com/",
+        "start_date": "02 Feb 2025",
+        "end_date": "07 Feb 2025",
+        "locations": [
+            "Bressanone, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanwinterschool02Feb2025_0"
     },
     {
         "themes": [
@@ -9928,6 +10150,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "highlightsincatalysi11Feb2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "GREENERING International Conference",
+        "url": "https://greenering.org/greenering-conference.html",
+        "start_date": "12 Feb 2025",
+        "end_date": "14 Feb 2025",
+        "locations": [
+            "Abu Dhabi, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greeneringinternatio12Feb2025_0"
     },
     {
         "themes": [
@@ -11590,6 +11836,29 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Conference on Chemistry & the Environment ICCE 2025",
+        "url": "https://icce2025.com/",
+        "start_date": "08 Jun 2025",
+        "end_date": "12 Jun 2025",
+        "locations": [
+            "Belgrade, Serbia"
+        ],
+        "countries": [
+            "Serbia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonchem08Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -11695,6 +11964,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on the History of Chemistry",
+        "url": "https://esdeveniments.uv.es/116631/detail/14th-international-conference-on-the-history-of-chemistry-14ichc.html",
+        "start_date": "11 Jun 2025",
+        "end_date": "14 Jun 2025",
+        "locations": [
+            "Valencia, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceontheh11Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "med chem",
@@ -11740,6 +12031,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer15Jun2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Formula XII (formulation)",
+        "url": "https://formula12.org/",
+        "start_date": "16 Jun 2025",
+        "end_date": "18 Jun 2025",
+        "locations": [
+            "Sofia, Bulgaria"
+        ],
+        "countries": [
+            "Bulgaria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "formulaxiiformulatio16Jun2025_0"
     },
     {
         "themes": [
@@ -11847,6 +12162,28 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Molecular Beams ISMB2025",
+        "url": "https://ismb25.epfl.ch/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "St Moritz, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonmolec22Jun2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers",
             "pharma industry",
@@ -11894,6 +12231,71 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer29Jun2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bienales de la RSEQ Real Sociedad Española de Química",
+        "url": "https://rseq.org/quienes-somos/bienales-rseq/",
+        "start_date": "30 Jun 2025",
+        "end_date": "03 Jul 2025",
+        "locations": [
+            "Bilbao, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bienalesdelarseqreal30Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Conference on Atoms, Molecules & Photons",
+        "url": "https://ecamp15.org/",
+        "start_date": "30 Jun 2025",
+        "end_date": "04 Jul 2025",
+        "locations": [
+            "Innsbruck, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanconferenceon30Jun2025_0"
     },
     {
         "themes": [
@@ -12239,6 +12641,28 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Euroanalysis 2025",
+        "url": "https://www.euroanalysis2025.com/",
+        "start_date": "31 Aug 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "euroanalysis202531Aug2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -12272,8 +12696,8 @@
         ],
         "title": "5th Intl Solar Fuels Conference",
         "url": "https://www.rsc.org/events/detail/78693/5th-international-solar-fuels-conference",
-        "start_date": "02 Sep 2024",
-        "end_date": "05 Sep 2024",
+        "start_date": "02 Sep 2025",
+        "end_date": "05 Sep 2025",
         "locations": [
             "Newcastle, UK"
         ],
@@ -12283,7 +12707,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "5thintlsolarfuelscon02Sep2024_0"
+        "uid": "5thintlsolarfuelscon02Sep2025_0"
     },
     {
         "themes": [
@@ -12925,6 +13349,48 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceoncoor28Jun2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "10th EuChemS Chemistry Congress ECC10",
+        "url": "https://euchems2026.eu/",
+        "start_date": "12 Jul 2026",
+        "end_date": "16 Jul 2026",
+        "locations": [
+            "Antwerp, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "10theuchemschemistry12Jul2026_0"
     },
     {
         "themes": [
