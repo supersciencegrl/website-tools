@@ -1,81 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "European Conference on Organic Free Radicals ECOFR XV",
-        "url": "https://www.ecofr-xv2024.net/",
-        "start_date": "01 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£550",
-        "non_member_fee": "£550",
-        "max_fee": "£550",
-        "uid": "europeanconferenceon01Sep2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Asian Conference on Molecular Magnetism ACMM",
-        "url": "https://acmm2024.com/",
-        "start_date": "01 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Busan, South Korea"
-        ],
-        "countries": [
-            "South Korea"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "asianconferenceonmol01Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "17th Intl Meeting of the European Calcium Society ECS",
-        "url": "https://cambridge2024.calciumsociety.com/",
-        "start_date": "01 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "17thintlmeetingofthe01Sep2024_0"
-    },
-    {
-        "themes": [
             "med chem"
         ],
         "regions": [
@@ -260,101 +185,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Open Meeting",
-        "url": "https://www.dmdg.org/events/20240902/Default.asp",
-        "start_date": "02 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£999",
-        "non_member_fee": "£999",
-        "max_fee": "£999",
-        "uid": "drugmetabolismdiscus02Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "11th Intl Meeting on Antimicrobial Peptides IMAP",
-        "url": "http://peptideconferences.org/imap-2024",
-        "start_date": "02 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "11thintlmeetingonant02Sep2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "11th Intl Conference on Conveying & Handling of Particulate Solids CHoPS",
-        "url": "https://www.chops2024.ed.ac.uk/",
-        "start_date": "02 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "11thintlconferenceon02Sep2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Recent Appointees in Physical Chemistry RAPC",
-        "url": "https://www.rsc.org/events/detail/79258/recent-appointees-in-physical-chemistry-rapc-2024",
-        "start_date": "02 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "recentappointeesinph02Sep2024_0"
-    },
-    {
-        "themes": [
             "analytical"
         ],
         "regions": [
@@ -446,29 +276,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonhigh02Sep2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "ChemLife Working Group 2 meeting: Chemistry of Life",
-        "url": "https://www.linxs.se/events/2024/09/3-4/chemlife-working-group-2-meeting-linxs-event",
-        "start_date": "03 Sep 2024",
-        "end_date": "04 Sep 2024",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemlifeworkinggroup03Sep2024_0"
     },
     {
         "themes": [
@@ -572,54 +379,6 @@
         "non_member_fee": "€400",
         "max_fee": "€400",
         "uid": "intlcongressonanalyt03Sep2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education",
-            "safety"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "UK National Conference for Science Technicians 2024",
-        "url": "https://www.rsc.org/events/detail/78126/national-conference-for-science-technicians-2024",
-        "start_date": "04 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "uknationalconference04Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Sir Geoffrey Wilkinson Dalton Poster Symposium",
-        "url": "https://www.rsc.org/events/detail/78425/rsc-sir-geoffrey-wilkinson-dalton-poster-symposium",
-        "start_date": "04 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "rscsirgeoffreywilkin04Sep2024_0"
     },
     {
         "themes": [
@@ -3401,6 +3160,31 @@
         "non_member_fee": "€750",
         "max_fee": "€750",
         "uid": "ischiaadvancedschool19Sep2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Highlighting Organic Chemistry in Sweden",
+        "url": "https://www.eventbrite.ie/e/highlighting-organic-chemistry-in-sweden-tickets-1006814859347",
+        "start_date": "20 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "highlightingorganicc20Sep2024_0"
     },
     {
         "themes": [
@@ -7474,6 +7258,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Frankfurt job exchange for natural scientists",
+        "url": "https://www.jobboerse-ffm.de/ target=",
+        "start_date": "06 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "frankfurtjobexchange06Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -9889,6 +9695,32 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Catalysing sustainability: CIG-EFCATS PhD Winter School",
+        "url": "https://www.gic-efcats2025.eu/",
+        "start_date": "27 Jan 2025",
+        "end_date": "31 Jan 2025",
+        "locations": [
+            "L'Aquila, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "catalysingsustainabi27Jan2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "process/engineering"
         ],
@@ -11492,6 +11324,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "16thpacificrimconfer04May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "The Global Synthetic Biology Conference",
+        "url": "https://www.synbiobeta.com/",
+        "start_date": "05 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "San Jose, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "theglobalsyntheticbi05May2025_0"
     },
     {
         "themes": [
