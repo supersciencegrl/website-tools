@@ -3517,6 +3517,32 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advanced alkaline electrolysis",
+        "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/trade_fairs_and_events/Workshop_Electrolysis_2024.html",
+        "start_date": "27 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancedalkalineelec27Sep2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -4514,6 +4540,33 @@
     },
     {
         "themes": [
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "CMC (Chemistry, Manufacturing & Controls) Summit",
+        "url": "https://iqconsortium.org/iq-week/iq-cmc-summit/",
+        "start_date": "09 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Washington, DC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cmcchemistrymanufact09Oct2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -4602,6 +4655,35 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "usassociationforwome10Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Artificial Intelligence: Unlocking the Future of Drug Discovery and Development",
+        "url": "https://iqconsortium.org/iq-week/iq-symposium/",
+        "start_date": "10 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Washington, DC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "artificialintelligen10Oct2024_0"
     },
     {
         "themes": [
@@ -8056,6 +8138,32 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ChemIndix 2024: Shaping the future through sustainability solutions",
+        "url": "https://chemindix2024.com/",
+        "start_date": "27 Sep 2024",
+        "end_date": null,
+        "locations": [
+            "Dhahran, Saudi Arabia"
+        ],
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemindix2024shaping27Sep2024_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "physical/phys org"
@@ -8207,6 +8315,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "grignardchemistrytra02Dec2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Gulf Petrochemicals & Chemicals Association GPCA Meeting",
+        "url": "https://www.gpcaforum.com/",
+        "start_date": "02 Dec 2024",
+        "end_date": "05 Dec 2024",
+        "locations": [
+            "Muscat, Oman"
+        ],
+        "countries": [
+            "Oman"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gulfpetrochemicalsch02Dec2024_0"
     },
     {
         "themes": [
@@ -8502,6 +8634,29 @@
     },
     {
         "themes": [
+            "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Indonesia Refining & Petrochemical FOrum IRPF",
+        "url": "https://www.indonesiarnp.com/",
+        "start_date": "04 Dec 2024",
+        "end_date": "05 Dec 2024",
+        "locations": [
+            "Bali, Indonesia"
+        ],
+        "countries": [
+            "Indonesia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "indonesiarefiningpet04Dec2024_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers",
@@ -8751,8 +8906,8 @@
         ],
         "title": "Applied Biocatalysis & Enzyme Engineering Summit",
         "url": "https://applied-biocatalysis.com/",
-        "start_date": "18 Nov 2024",
-        "end_date": "20 Nov 2024",
+        "start_date": "10 Dec 2024",
+        "end_date": "12 Dec 2024",
         "locations": [
             "Philadelphia, PA, USA"
         ],
@@ -8765,7 +8920,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "appliedbiocatalysise18Nov2024_0"
+        "uid": "appliedbiocatalysise10Dec2024_0"
     },
     {
         "themes": [
@@ -8835,6 +8990,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscsciangloitalianch15Dec2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Macrocyclic and Supramolecular Chemistry MASC Conference",
+        "url": "https://mascgroup.co.uk/masc2024/",
+        "start_date": "16 Dec 2024",
+        "end_date": "17 Dec 2024",
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscmacrocyclicandsup16Dec2024_0"
     },
     {
         "themes": [
