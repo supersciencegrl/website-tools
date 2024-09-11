@@ -1,50 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SETAC/GDCh-Fachgruppe Umweltchemie und Ökotoxikologie Umwelt 2024 (German language)",
-        "url": "https://www.setac-glb.de/tagung-2024",
-        "start_date": "08 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Gießen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€220",
-        "non_member_fee": "€260",
-        "max_fee": "€260",
-        "uid": "setacgdchfachgruppeu08Sep2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Colloquium on Inorganic Reaction Mechanisms ECIRM2024",
-        "url": "https://ecirm2024.sciencesconf.org/",
-        "start_date": "08 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Toulouse, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeancolloquiumon08Sep2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -139,194 +95,6 @@
         "non_member_fee": "CZK16,000",
         "max_fee": "CZK16,000",
         "uid": "intlconferenceonsoli08Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Chemical Probes for Lysosomal Biology",
-        "url": "https://royalsociety.org/science-events-and-lectures/2024/09/lysosomal-probes/",
-        "start_date": "09 Sep 2024",
-        "end_date": "10 Sep 2024",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemicalprobesforlys09Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Oligonucleotide Therapeutics & Delivery",
-        "url": "https://praguesummerschool.cz/",
-        "start_date": "09 Sep 2024",
-        "end_date": "10 Sep 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "oligonucleotidethera09Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Organocatalysis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/organocatalysis-short-course/",
-        "start_date": "09 Sep 2024",
-        "end_date": "10 Sep 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£599–719",
-        "non_member_fee": "£599–719",
-        "max_fee": "£599–719",
-        "uid": "organocatalysistrain09Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "3rd RSC/SCI New Therapeutics for Global Health",
-        "url": "https://www.rscbmcs.org/events/ntgh24/",
-        "start_date": "09 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£320",
-        "non_member_fee": "£400",
-        "max_fee": "£400",
-        "uid": "3rdrscscinewtherapeu09Sep2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Meeting of Inorganic Chemists Recently Appointed MICRA 2024",
-        "url": "https://le.ac.uk/chemistry/research/micra-2024",
-        "start_date": "09 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "meetingofinorganicch09Sep2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Physical Aspects of Polymer Science PAPS 2024",
-        "url": "https://iop.eventsair.com/paps2024/",
-        "start_date": "09 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "physicalaspectsofpol09Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Symposium for High-Performance Thin-Layer Chromatography HPTLC 2024",
-        "url": "https://akcongress.com/hptlc2024/",
-        "start_date": "09 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Budapest, Hungary"
-        ],
-        "countries": [
-            "Hungary"
-        ],
-        "member_fee": "€350",
-        "non_member_fee": "€490",
-        "max_fee": "€490",
-        "uid": "intlsymposiumforhigh09Sep2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Physical Organic Chemistry Concepts for Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/physical-organic-chemistry-concepts-for-process-development/",
-        "start_date": "09 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,499–1,799",
-        "non_member_fee": "£1,499–1,799",
-        "max_fee": "£1,499–1,799",
-        "uid": "physicalorganicchemi09Sep2024_0"
     },
     {
         "themes": [
@@ -499,124 +267,6 @@
     },
     {
         "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ELRIG Early Career Professional Networking: Beyond the Lab: Innovation skills to boost your career",
-        "url": "https://elrig.org/portfolio/webinar-june-24-beyond-the-lab-innovation-skills-to-boost-your-career/",
-        "start_date": "10 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "elrigearlycareerprof10Sep2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Iberoamerican Organic Chemistry Symposium for Young Researchers IBEQO-I",
-        "url": "https://sibeaqov.com/",
-        "start_date": "10 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Santiago de Compostela, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "iberoamericanorganic10Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "40 Years of ISIS Science Roadshow",
-        "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
-        "start_date": "10 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "40yearsofisisscience10Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "NFDI4Chem (Nationale ForschungsDatenInfrastruktur für Chemie) Consortium Meeting 5.0",
-        "url": "https://www.nfdi4chem.de/event/nfdi4chem-consortium-meeting-5-0/",
-        "start_date": "10 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "Halle, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nfdi4chemnationalefo10Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Agilent Prep LC User Group Meeting",
-        "url": "https://www.virscidian.com/event/agilent-prep-lc-user-group-meeting-seminar",
-        "start_date": "10 Sep 2024",
-        "end_date": "11 Sep 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "agilentpreplcusergro10Sep2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "computational/data",
             "materials/polymers",
@@ -738,56 +388,6 @@
         "non_member_fee": "£1,135",
         "max_fee": "£1,135",
         "uid": "microencapsulationtr10Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Infrared & Raman Discussion Group Meeting",
-        "url": "https://www.irdg.org/meeting/irdg-232-sponsors-meeting",
-        "start_date": "11 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Nuneaton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "infraredramandiscuss11Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Bioseparations in the pharmaceutical industry",
-        "url": "https://www.icheme.org/knowledge-networks/communities/special-interest-groups/fluid-separations/events/11-09-2024-bioseparations-in-the-pharmaceutical-industry/",
-        "start_date": "11 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioseparationsinthep11Sep2024_0"
     },
     {
         "themes": [
@@ -5955,6 +5555,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "syngentascsconferenc24Oct2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "LGBTQ+ Leadership, Innovation, & Investment in Biomedical Research",
+        "url": "https://www.eventbrite.co.uk/e/lgbtq-leadership-innovation-and-investment-tickets-1010367886547",
+        "start_date": "24 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lgbtqleadershipinnov24Oct2024_0"
     },
     {
         "themes": [
