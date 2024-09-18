@@ -1,79 +1,6 @@
 [
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl School on Mass Spectrometry intSMS 2024",
-        "url": "https://www.spettrometriadimassa.it/intsms2024/",
-        "start_date": "09 Sep 2024",
-        "end_date": "14 Sep 2024",
-        "locations": [
-            "Erice, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlschoolonmassspec09Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Iberoamerican Symposium on Organic Chemistry SIBEAQO-V",
-        "url": "https://sibeaqov.com/",
-        "start_date": "11 Sep 2024",
-        "end_date": "14 Sep 2024",
-        "locations": [
-            "Santiago de Compostela, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "iberoamericansymposi11Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/20240911/",
-        "start_date": "12 Sep 2024",
-        "end_date": "17 Sep 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "practicalmanagemento12Sep2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels"
         ],
@@ -216,85 +143,6 @@
         "non_member_fee": "PLN1,000–1,950",
         "max_fee": "PLN1,000–1,950",
         "uid": "zjezacutedzienaukowy15Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Advances in Machine Learning for Protein Design US Workshop (members only)",
-        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2024/09/advances-in-machine-learning-for-protein-design-ii-us/",
-        "start_date": "16 Sep 2024",
-        "end_date": "17 Sep 2024",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "—",
-        "max_fee": "—",
-        "uid": "advancesinmachinelea16Sep2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Regulatory Summit North America 2024",
-        "url": "https://events.chemicalwatch.com/945202/regulatory-summit-north-america-2024",
-        "start_date": "16 Sep 2024",
-        "end_date": "17 Sep 2024",
-        "locations": [
-            "Alexandria, VA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "$1,509",
-        "non_member_fee": "$1,775",
-        "max_fee": "$1,775",
-        "uid": "regulatorysummitnort16Sep2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Safety & Selectivity in the Scale-Up of Chemical Reactions (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/safety-selectivity-in-the-scale-up-of-chemical-reactions/",
-        "start_date": "16 Sep 2024",
-        "end_date": "17 Sep 2024",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€2,200",
-        "non_member_fee": "€2,200",
-        "max_fee": "€2,200",
-        "uid": "safetyselectivityint16Sep2024_0"
     },
     {
         "themes": [
@@ -10865,6 +10713,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "patentinginlifescien04Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemspec Europe (trade fair)",
+        "url": "https://www.chemspeceurope.com/en-gb.html#/",
+        "start_date": "04 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemspeceuropetradef04Jun2025_0"
     },
     {
         "themes": [
