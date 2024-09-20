@@ -1,76 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Symposium on Persistent Toxic Substances & Health ISPTS",
-        "url": "https://www.ispts2024.gr/en/home",
-        "start_date": "14 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Crete, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "€300–600",
-        "non_member_fee": "€300–600",
-        "max_fee": "€300–600",
-        "uid": "intlsymposiumonpersi14Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "3rd European Sample Preparation Conference EuSP2024 & 2nd Green & Sustainable Analytical Chemistry Conference GSAC2024",
-        "url": "https://flowchemistryeurope.com/",
-        "start_date": "15 Sep 2024",
-        "end_date": "18 Sep 2024",
-        "locations": [
-            "Crete, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "€200–420",
-        "non_member_fee": "€200–420",
-        "max_fee": "€200–420",
-        "uid": "3rdeuropeansamplepre15Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "SMASH Small molecule NMR Conference",
-        "url": "https://smashnmr.org/",
-        "start_date": "15 Sep 2024",
-        "end_date": "18 Sep 2024",
-        "locations": [
-            "Burlington, VT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "smashsmallmoleculenm15Sep2024_0"
-    },
-    {
-        "themes": [
             "careers",
             "formulation/particle science",
             "process/engineering",
@@ -146,257 +76,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England",
-            "Online"
-        ],
-        "title": "7th Artificial Intelligence AI in Chemistry",
-        "url": "https://www.rscbmcs.org/events/aichem7/",
-        "start_date": "16 Sep 2024",
-        "end_date": "18 Sep 2024",
-        "locations": [
-            "Cambridge, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "£235–340",
-        "non_member_fee": "£282–430",
-        "max_fee": "£282–430",
-        "uid": "7thartificialintelli16Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "50th North American Thermal Analysis Society NATAS Annual Conference & Baekeland Symposium",
-        "url": "https://www.natasinfo.org/site_page.cfm?pk_association_webpage_menu=2008&pk_association_webpage=25637",
-        "start_date": "16 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Knoxville, TN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TN"
-        ],
-        "member_fee": "$380–680",
-        "non_member_fee": "$380–740",
-        "max_fee": "$380–740",
-        "uid": "50thnorthamericanthe16Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Boulder Peptide Symposium BPS",
-        "url": "https://www.boulderpeptide.org/",
-        "start_date": "16 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Boulder, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "$525–2,250",
-        "non_member_fee": "$525&nadsh2,250",
-        "max_fee": "$525&nadsh2,250",
-        "uid": "boulderpeptidesympos16Sep2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "BioTechX USA",
-        "url": "https://www.terrapinn.com/conference/biotechxusa/index.stm",
-        "start_date": "17 Sep 2024",
-        "end_date": "18 Sep 2024",
-        "locations": [
-            "Pennsylvania, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biotechxusa17Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "UK XFEL Townhall: Advanced materials & manufacturing",
-        "url": "https://www.eventbrite.co.uk/e/uk-xfel-townhall-advanced-materials-and-manufacturing-tickets-891550901747?aff=oddtdtcreator",
-        "start_date": "17 Sep 2024",
-        "end_date": "18 Sep 2024",
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukxfeltownhalladvanc17Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Nordic Life Science Days NLSDays 2023",
-        "url": "https://www.nlsdays.com/",
-        "start_date": "17 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Malmö, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "€750–1,100",
-        "non_member_fee": "€750–1,100",
-        "max_fee": "€750–1,100",
-        "uid": "nordiclifescienceday17Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Nanotechnology Symposium: Sensing with mechanical systems SMS",
-        "url": "https://www.beilstein-institut.de/en/symposia/sensing-with-mechanical-systems/",
-        "start_date": "17 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Rüdesheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "beilsteinnanotechnol17Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Intl Workshop on Anthocyanins & Betalains IWA&B",
-        "url": "https://eu.eventscloud.com/website/12992/home/",
-        "start_date": "17 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£450",
-        "non_member_fee": "£450",
-        "max_fee": "£450",
-        "uid": "intlworkshoponanthoc17Sep2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Baltic Polymer Symposium 2024",
-        "url": "https://bps2024.ktu.edu/",
-        "start_date": "17 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Birštonas, Lithuania"
-        ],
-        "countries": [
-            "Lithuania"
-        ],
-        "member_fee": "€330",
-        "non_member_fee": "€330",
-        "max_fee": "€330",
-        "uid": "balticpolymersymposi17Sep2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Powder characterization workshop",
-        "url": "https://constableandsmith.com/events/powder-characterisation-workshop-2024",
-        "start_date": "17 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "powdercharacterizati17Sep2024_0"
-    },
-    {
-        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -465,251 +144,6 @@
         "non_member_fee": "€600",
         "max_fee": "€600",
         "uid": "intlconferenceonunco17Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "A Celebration of Organic Chemistry 2024",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/a-celebration-of-organic-chemistry-2024",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£80",
-        "non_member_fee": "£110",
-        "max_fee": "£110",
-        "uid": "acelebrationoforgani18Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Quantum Mechanics QM in Pharma",
-        "url": "https://qminpharma.wordpress.com/",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "quantummechanicsqmin18Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Chemical Watch: PFAS Updates North America 2024",
-        "url": "https://events.chemicalwatch.com/977334/pfas-updates-north-america-2024",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Alexandria, VA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "$825",
-        "non_member_fee": "$970",
-        "max_fee": "$970",
-        "uid": "chemicalwatchpfasupd18Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK Pharma Industry Awards",
-        "url": "https://pharmaawards.co.uk/",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukpharmaindustryawar18Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Next Generation Biophysics Symposium",
-        "url": "https://www3.mrc-lmb.cam.ac.uk/sites/nextgen/",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nextgenerationbiophy18Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Community for Analytical Measurement Science CAMS Conference & Networking Event",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUMTI4QTRVWlhWRDFEQUhDTTY3WDVSVVk2RiQlQCN0PWcu",
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "communityforanalytic18Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Murphy's Law & Common Mistakes in Applied Spectroscopy",
-        "url": null,
-        "start_date": "18 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Bremen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "murphyslawcommonmist18Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Nordic Life Science Days",
-        "url": "https://www.nlsdays.com/",
-        "start_date": "18 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Malmö, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "€750–1,100",
-        "non_member_fee": "€750–1,100",
-        "max_fee": "€750–1,100",
-        "uid": "nordiclifescienceday18Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "ILMAC trade fair",
-        "url": "https://www.ilmac.ch/en/lausanne/visit/",
-        "start_date": "18 Sep 2024",
-        "end_date": "19 Sep 2024",
-        "locations": [
-            "Lausanne, Switzerland",
-            "Online"
-        ],
-        "countries": [
-            "Switzerland",
-            "Online"
-        ],
-        "member_fee": "CHF65–85",
-        "non_member_fee": "CHF65–85",
-        "max_fee": "CHF65–85",
-        "uid": "ilmactradefair18Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Engineering Porous Materials at Multiple Scales EPoMM",
-        "url": "https://www.bath.ac.uk/events/engineering-porous-materials-at-multiple-scales-epomm-conference/",
-        "start_date": "18 Sep 2024",
-        "end_date": "29 Sep 2024",
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "engineeringporousmat18Sep2024_0"
     },
     {
         "themes": [
@@ -877,30 +311,6 @@
         "non_member_fee": "€2,699",
         "max_fee": "€2,699",
         "uid": "chemicaldevelopments18Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "PharmaTech Integrates 2024",
-        "url": "https://lifescienceintegrates.com/event/pharmatech-integrates-2024/",
-        "start_date": "19 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmatechintegrates19Sep2024_0"
     },
     {
         "themes": [
@@ -4488,6 +3898,31 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Drug discovery biology & bioinformatics strategy meeting Europe",
+        "url": "https://proventainternational.com/events/rd/europe/london/drug-discovery-biology-bioinformatics-strategy-meeting-europe-2024/",
+        "start_date": "22 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdiscoverybiology22Oct2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "med chem",
@@ -4611,6 +4046,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscenergyenvironment23Oct2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Medicinal chemistry strategy meeting Europe",
+        "url": "https://proventainternational.com/events/rd/europe/london/medicinal-chemistry-strategy-meeting-europe-2024/",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "medicinalchemistryst23Oct2024_0"
     },
     {
         "themes": [
@@ -5979,6 +5438,34 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Bioinformatics & IT strategy meeting USA",
+        "url": "https://proventainternational.com/events/rd/usa-east/boston/bioinformatics-and-it-strategy-meeting-east-coast-2024/",
+        "start_date": "11 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioinformaticsitstra11Nov2024_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "synthesis"
@@ -6334,6 +5821,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "matsusmaterialsforsu12Nov2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Medicinal chemistry strategy meeting USA",
+        "url": "https://proventainternational.com/events/rd/usa-east/boston/medicinal-chemistry-strategy-meeting-east-coast-2024/",
+        "start_date": "13 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "medicinalchemistryst13Nov2024_0"
     },
     {
         "themes": [
