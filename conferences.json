@@ -25,30 +25,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Pharma MES Manufacturing Execution Systems",
-        "url": "https://www.pharma-manufacturing-execution-system.com/",
-        "start_date": "22 Sep 2024",
-        "end_date": "24 Sep 2024",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmamesmanufacturi22Sep2024_0"
-    },
-    {
-        "themes": [
             "med chem"
         ],
         "regions": [
