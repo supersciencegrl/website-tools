@@ -25,145 +25,6 @@
     },
     {
         "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Fragment-based lead discovery conference FBLD",
-        "url": "https://fbldconference.org/",
-        "start_date": "22 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "AUD1,512",
-        "non_member_fee": "AUD1,512",
-        "max_fee": "AUD1,512",
-        "uid": "fragmentbasedleaddis22Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SMARTER 8: Structural elucidation",
-        "url": "https://smarter8.events.chemistry.pt/",
-        "start_date": "22 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Aveiro, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€300",
-        "non_member_fee": "€340",
-        "max_fee": "€340",
-        "uid": "smarter8structuralel22Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Separation Sciences",
-        "url": "https://www.sepscisoc.com/isss2024",
-        "start_date": "22 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Messina, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€100–350",
-        "non_member_fee": "€100–350",
-        "max_fee": "€100–350",
-        "uid": "intlsymposiumonsepar22Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Separation Sciences",
-        "url": "https://www.sepscisoc.com/isss2024",
-        "start_date": "22 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Messina, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€100–350",
-        "non_member_fee": "€100–350",
-        "max_fee": "€100–350",
-        "uid": "intlsymposiumonsepar22Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "24th EuroQSAR",
-        "url": "https://www.euroqsar.org/",
-        "start_date": "22 Sep 2024",
-        "end_date": "26 Sep 2024",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€640–935",
-        "non_member_fee": "€640–935",
-        "max_fee": "€640–935",
-        "uid": "24theuroqsar22Sep2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Green Technology for Sustainable Environment 2024 GTSE24",
-        "url": "https://gtse24.com/",
-        "start_date": "22 Sep 2024",
-        "end_date": "26 Sep 2024",
-        "locations": [
-            "Poznan, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "greentechnologyforsu22Sep2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -185,101 +46,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "mcaddimedicinalchemi22Sep2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Scientific Update: 52nd Organic Process Research & Development OPRD",
-        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/",
-        "start_date": "23 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "€2,639",
-        "non_member_fee": "€2,639",
-        "max_fee": "€2,639",
-        "uid": "scientificupdate52nd23Sep2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Global Research Conference on Magnetism, Magnetic Materials, & Spintronics GRCMMS2024",
-        "url": "https://magnetismresearch2024.com/",
-        "start_date": "23 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "$449–899",
-        "non_member_fee": "$449–899",
-        "max_fee": "$449–899",
-        "uid": "globalresearchconfer23Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biobased chemistry & technology Chemietage 2024",
-        "url": "https://chemietage.at/",
-        "start_date": "23 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Graz, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biobasedchemistrytec23Sep2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20240923/",
-        "start_date": "23 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "€2,599",
-        "non_member_fee": "€2,599",
-        "max_fee": "€2,599",
-        "uid": "secretsofbatchproces23Sep2024_0"
     },
     {
         "themes": [
@@ -306,171 +72,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "40 Years of ISIS Science Roadshow",
-        "url": "https://www.isis.stfc.ac.uk/Pages/science_roadshows.aspx",
-        "start_date": "24 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "40yearsofisisscience24Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Revvity Signals Accelerating Drug Discovery: The power of a unified lab ecosystem",
-        "url": "https://revvitysignals.com/roadshow-series-overview",
-        "start_date": "24 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "revvitysignalsaccele24Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Virtual ChemBio Talks",
-        "url": "https://www.chemistryviews.org/4th-virtual-chembiotalk/",
-        "start_date": "24 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "virtualchembiotalks24Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Machine Learning in Molecular Modelling (workshop)",
-        "url": "https://www.rsc.org/events/detail/79361/machine-learning-in-molecular-modelling-student-led-workshop",
-        "start_date": "24 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "machinelearninginmol24Sep2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "IPEC Europe Excipient Conference",
-        "url": "https://www.apv-mainz.de/no_cache/en/seminare/events/event/seminar/3292/",
-        "start_date": "24 Sep 2024",
-        "end_date": "25 Sep 2024",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ipeceuropeexcipientc24Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "5th EnzymeML Workshop",
-        "url": "https://www.beilstein-institut.de/en/projects/strenda/meetings/5th-enzymeml-workshop/",
-        "start_date": "24 Sep 2024",
-        "end_date": "26 Sep 2024",
-        "locations": [
-            "Rüdesheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "5thenzymemlworkshop24Sep2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ArabLab Live",
-        "url": "https://www.arablab.com/",
-        "start_date": "24 Sep 2024",
-        "end_date": "26 Sep 2024",
-        "locations": [
-            "Dubai, UAE"
-        ],
-        "countries": [
-            "UAE"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "arablablive24Sep2024_0"
-    },
-    {
-        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -490,107 +91,6 @@
         "non_member_fee": "€550",
         "max_fee": "€550",
         "uid": "4theuropeansymposium24Sep2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Robotics-4-Labautomation Symposium 2024",
-        "url": "https://www.biolago.org/de/veranstaltung/robotics-4-labautomation-symposium-2024-for-the-smart-digitalised-lab-of-the-future.html",
-        "start_date": "25 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Konstanz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "robotics4labautomati25Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ChemTalks: How can technology bridge silos within drug discovery?",
-        "url": "https://chemaxon.com/chemtalks-2024",
-        "start_date": "25 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "chemtalkshowcantechn25Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Amsterdam Chemistry Network Industry Meeting",
-        "url": "https://www.eventbrite.nl/e/acn-industry-meeting-tickets-803000234317",
-        "start_date": "25 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "amsterdamchemistryne25Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "law/policy",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 1)",
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
-        "start_date": "25 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "West Point, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "merckusahbcudayhisto25Sep2024_0"
     },
     {
         "themes": [
@@ -666,31 +166,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "congressofthesociety25Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC-JPAG Continuous manufacturing & analytical strategy",
-        "url": "https://www.jpag.org/?p=meetings&r=173",
-        "start_date": "26 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscjpagcontinuousman26Sep2024_0"
     },
     {
         "themes": [
@@ -1568,7 +1043,7 @@
         "regions": [
             "Northern England"
         ],
-        "title": "#ALATM2024\n Advances in long-acting therapeutics",
+        "title": "Advances in long-acting therapeutics",
         "url": "https://www.liverpool.ac.uk/centre-of-excellence-for-long-acting-therapeutics/events/advances-in-long-acting-therapeutics-meeting/",
         "start_date": "07 Oct 2024",
         "end_date": "08 Oct 2024",
@@ -1581,7 +1056,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "alatm2024\nadvancesin07Oct2024_0"
+        "uid": "advancesinlongacting07Oct2024_0"
     },
     {
         "themes": [
@@ -6746,7 +6221,7 @@
         "regions": [
             "Western USA"
         ],
-        "title": "#RNABench2Bedside\n RNA at the bench & bedside",
+        "title": "RNA at the bench & bedside",
         "url": "https://conferences.nature.com/event/RNAbenchtobedside4/summary",
         "start_date": "09 Dec 2024",
         "end_date": "11 Dec 2024",
@@ -6762,7 +6237,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "rnabench2bedside\nrna09Dec2024_0"
+        "uid": "rnaatthebenchbedside09Dec2024_0"
     },
     {
         "themes": [
