@@ -1,328 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Nanochemistry Camp",
-        "url": "https://www.istiseo.org/courses/doctoral-nanochemistry-camp/",
-        "start_date": "21 Sep 2024",
-        "end_date": "28 Sep 2024",
-        "locations": [
-            "Iseo, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nanochemistrycamp21Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "MCADDI Medicinal Chemistry & Drug Discovery & Development in India",
-        "url": "https://mcaddi-course.com/",
-        "start_date": "22 Sep 2024",
-        "end_date": "27 Sep 2024",
-        "locations": [
-            "Bangalore, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mcaddimedicinalchemi22Sep2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Innovation Centre in Digital Molecular Technologies iDMT Summer School",
-        "url": "https://www.idmt.online/summerschool",
-        "start_date": "23 Sep 2024",
-        "end_date": "27 Sep 2024",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "innovationcentreindi23Sep2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "4th European Symposium on Chemical Bonding CBOND2024",
-        "url": "https://www.theochem.nl/cbond2024",
-        "start_date": "24 Sep 2024",
-        "end_date": "27 Sep 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€550",
-        "non_member_fee": "€550",
-        "max_fee": "€550",
-        "uid": "4theuropeansymposium24Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "materials/polymers",
-            "med chem",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Panhellenic Chemistry Conference",
-        "url": "https://chemconference.gr/2024",
-        "start_date": "25 Sep 2024",
-        "end_date": "28 Sep 2024",
-        "locations": [
-            "Athens, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "panhellenicchemistry25Sep2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Congress of the Society of Chemists & Technologists of Macedonia SCTM",
-        "url": "https://congress.sctm.mk/event/4/",
-        "start_date": "25 Sep 2024",
-        "end_date": "28 Sep 2024",
-        "locations": [
-            "Ohrid, North Macedonia"
-        ],
-        "countries": [
-            "North Macedonia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "congressofthesociety25Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pharma Crystallization Summit",
-        "url": "https://crystallizationsummit.com/",
-        "start_date": "26 Sep 2024",
-        "end_date": "27 Sep 2024",
-        "locations": [
-            "Princeton, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmacrystallizatio26Sep2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Meeting Facing Challenges: Subnanometric Metal & Metal-Oxide Catalysts & Photocatalysts CATCOSY 2024",
-        "url": "https://cost-cosy.eu/activity/workshop-facing-challenges/",
-        "start_date": "26 Sep 2024",
-        "end_date": "27 Sep 2024",
-        "locations": [
-            "Madrid, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "meetingfacingchallen26Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "analytica India",
-        "url": "https://analytica.de/en/india/",
-        "start_date": "26 Sep 2024",
-        "end_date": "28 Sep 2024",
-        "locations": [
-            "Hyderabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "analyticaindia26Sep2024_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Burlington Consensus 3: A UN science policy panel for chemicals, waste, & pollution prevention",
-        "url": "https://www.rsc.org/events/detail/79360/",
-        "start_date": "27 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "burlingtonconsensus327Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "law/policy",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 2)",
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
-        "start_date": "27 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Durham, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "merckusahbcudayhisto27Sep2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advanced alkaline electrolysis",
-        "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/trade_fairs_and_events/Workshop_Electrolysis_2024.html",
-        "start_date": "27 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancedalkalineelec27Sep2024_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -394,37 +72,6 @@
         "non_member_fee": "$1,200",
         "max_fee": "$1,200",
         "uid": "associationforcrysta29Sep2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity",
-            "law/policy",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Merck USA HBCU Day (Historically Black Colleges and Universities, USA only; Day 3)",
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7097121880704237568/",
-        "start_date": "30 Sep 2024",
-        "end_date": null,
-        "locations": [
-            "Elkton, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "merckusahbcudayhisto30Sep2024_0"
     },
     {
         "themes": [
@@ -1084,6 +731,33 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "The Battery Show",
+        "url": "https://www.thebatteryshow.com/en/home.html",
+        "start_date": "07 Oct 2024",
+        "end_date": "10 Oct 2024",
+        "locations": [
+            "Detroit, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thebatteryshow07Oct2024_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
@@ -1198,6 +872,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "discnginemeetinginno08Oct2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Decarbonizing the Teesside Cluter",
+        "url": "https://www.soci.org/events/energy-group/2024/decarbonising-the-teesside-cluster",
+        "start_date": "08 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Middlesbrough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "decarbonizingthetees08Oct2024_0"
     },
     {
         "themes": [
@@ -2198,6 +1896,29 @@
     },
     {
         "themes": [
+            "careers",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Research Data Management Workshop for Chemists in Potsdam",
+        "url": "https://www.nfdi4chem.de/event/research-data-management-workshop-for-chemists-in-potsdam/",
+        "start_date": "16 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Potsdam, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "researchdatamanageme16Oct2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -2674,6 +2395,33 @@
     },
     {
         "themes": [
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Emerging materials for contemporary challenges (workshop)",
+        "url": "https://hybrid3.duke.edu/2024-training-workshop-emerging-materials-contemporary-challenges",
+        "start_date": "21 Oct 2024",
+        "end_date": "22 Oct 2024",
+        "locations": [
+            "Raleigh, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emergingmaterialsfor21Oct2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation"
         ],
@@ -2787,6 +2535,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "drugdiscoverybiology22Oct2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Wood Coatings Congress",
+        "url": "https://www.european-coatings.com/events/conference/woodcoatings-congress-2024/",
+        "start_date": "22 Oct 2024",
+        "end_date": "23 Oct 2024",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "woodcoatingscongress22Oct2024_0"
     },
     {
         "themes": [
@@ -2937,6 +2707,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "medicinalchemistryst23Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemotion ELN Hands-On Workshop",
+        "url": "https://www.nfdi4chem.de/event/chemotion-eln-hands-on-workshop/",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemotionelnhandsonw23Oct2024_0"
     },
     {
         "themes": [
@@ -3541,6 +3334,33 @@
     },
     {
         "themes": [
+            "analytical",
+            "business",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Lab Innovations 2024",
+        "url": "https://www.lab-innovations.com/",
+        "start_date": "30 Oct 2024",
+        "end_date": "31 Oct 2024",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labinnovations202430Oct2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -3600,8 +3420,8 @@
         ],
         "title": "Broad Institute Machine Learning in Drug Discovery Symposium",
         "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/machine-learning-drug-discovery",
-        "start_date": "31 Sep 2024",
-        "end_date": "01 Oct 2024",
+        "start_date": "31 Oct 2024",
+        "end_date": "01 Nov 2024",
         "locations": [
             "Cambridge, MA, USA",
             "Online"
@@ -3616,7 +3436,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "broadinstitutemachin31Sep2024_0"
+        "uid": "broadinstitutemachin31Oct2024_0"
     },
     {
         "themes": [
@@ -3949,6 +3769,50 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "SCI Industry Recruitment Showcase",
+        "url": "https://www.soci.org/events/hq-events/2024/sci-industry-recruitment-showcase",
+        "start_date": "06 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciindustryrecruitme06Nov2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "LabIMotion ELN Hands-On Workshop",
+        "url": "https://www.nfdi4chem.de/event/labimotion-online-hands-on-workshop/",
+        "start_date": "06 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labimotionelnhandson06Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -4183,6 +4047,29 @@
     {
         "themes": [
             "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "UCL/PSDI Physical Sciences Data Infrastructure Hackathon",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=_oivH5ipW0yTySEKEdmlwt1OJx2rtThMvYTeE4OkihpUQzhWNVhPOVpUOFEzR1IyOEZDRFNEV1YwTi4u&route=shorturl&s=09",
+        "start_date": "07 Nov 2024",
+        "end_date": "08 Nov 2024",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "uclpsdiphysicalscien07Nov2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "pharma industry",
             "process/engineering"
         ],
@@ -4330,6 +4217,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "bioinformaticsitstra11Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Leverhulme Research Centre for Functional Materials Design Early Career Colloquium",
+        "url": "https://www.liverpool.ac.uk/leverhulme-research-centre/events/",
+        "start_date": "11 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "leverhulmeresearchce11Nov2024_0"
     },
     {
         "themes": [
@@ -5258,8 +5169,8 @@
         ],
         "title": "Phase Engineering of Nanomaterials PEN",
         "url": "https://conferences.nature.com/event/pen2024/summary",
-        "start_date": "15 Nov 2024",
-        "end_date": "17 Nov 2024",
+        "start_date": "20 Nov 2024",
+        "end_date": "22 Nov 2024",
         "locations": [
             "Kowloon, Hong Kong"
         ],
@@ -5269,7 +5180,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "phaseengineeringofna15Nov2024_0"
+        "uid": "phaseengineeringofna20Nov2024_0"
     },
     {
         "themes": [
@@ -5317,6 +5228,58 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "newfrontiersinsynthe21Nov2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "New Jersey ACS OTG Creativity in Molecular Design & Synthesis",
+        "url": "https://www.njacs.org/event/2024-njacs-otg-award-for-creativity-in-molecular-design-synthesis/",
+        "start_date": "21 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Somerset, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newjerseyacsotgcreat21Nov2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in Process Chemistry & Technology",
+        "url": "https://www.rsc.org/events/detail/79514/innovations-in-process-chemistry-and-technology-2024",
+        "start_date": "22 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "innovationsinprocess22Nov2024_0"
     },
     {
         "themes": [
@@ -5458,6 +5421,30 @@
     {
         "themes": [
             "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Scaleup of chemical processes (training course, in-person)",
+        "url": "https://www.icheme.org/training-events/training/courses-a-z/scale-up-of-chemical-processes/",
+        "start_date": "26 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scaleupofchemicalpro26Nov2024_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
             "safety"
         ],
         "regions": [
@@ -5501,6 +5488,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biotechoutsourcingst26Nov2024_0"
+    },
+    {
+        "themes": [
+            "business",
+            "law/policy"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "SCI Early Career Business Training Workshop 2024",
+        "url": "https://www.soci.org/events/hq-events/2024/early-career-business-training-workshops-2024",
+        "start_date": "26 Nov 2024",
+        "end_date": "27 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciearlycareerbusine26Nov2024_0"
     },
     {
         "themes": [
@@ -5845,6 +5855,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "slaselrignetworkingf03Dec2024_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scaleup of chemical processes (training course, online)",
+        "url": "https://www.icheme.org/training-events/training/courses-a-z/scale-up-of-chemical-processes/",
+        "start_date": "03 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scaleupofchemicalpro03Dec2024_0"
     },
     {
         "themes": [
@@ -6238,6 +6272,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rnaatthebenchbedside09Dec2024_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Ontologies4Chem",
+        "url": "https://www.nfdi4chem.de/event/3-workshop-ontologies4chem-ontologies-for-chemistry/",
+        "start_date": "09 Dec 2024",
+        "end_date": "11 Dec 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ontologies4chem09Dec2024_0"
     },
     {
         "themes": [
@@ -7102,6 +7158,30 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC-SCI Demystifying Reaction Kinetics",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/sci-rsc-demystifying-reaction-kinetics",
+        "start_date": "06 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscscidemystifyingre06Feb2025_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -7669,6 +7749,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Ionic liquids & the future of soft materials",
+        "url": "https://royalsociety.org/science-events-and-lectures/2025/02/ionic-liquids/",
+        "start_date": "03 Mar 2025",
+        "end_date": "04 Mar 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ionicliquidsthefutur03Mar2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -8156,6 +8259,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Road surface characteristics & measurement",
+        "url": "https://www.soci.org/events/construction-materials-group/2025/road-surface-characteristics-and-measurement",
+        "start_date": "26 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "roadsurfacecharacter26Mar2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8225,6 +8351,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "transitionmetalcatal31Mar2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Graham Award Symposium: Colloidal Collaborations",
+        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2025/graham-award-symposium-2025-colloidal-collaborations",
+        "start_date": "01 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "grahamawardsymposium01Apr2025_0"
     },
     {
         "themes": [
@@ -8919,6 +9068,28 @@
     },
     {
         "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in crop protection",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2025/innovations-in-crop-protection",
+        "start_date": "14 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "innovationsincroppro14May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -8993,6 +9164,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Asian-European Symposium on Metal-Mediated Organic Synthesis SMOS-12",
+        "url": "https://www.smos-12.org/Home.html",
+        "start_date": "21 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Bologna, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "asianeuropeansymposi21May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -9003,7 +9197,7 @@
         "title": "Future Labs Live",
         "url": "https://www.terrapinn.com/conference/future-labs-live/index.stm",
         "start_date": "27 May 2025",
-        "end_date": "27 May 2025",
+        "end_date": "28 May 2025",
         "locations": [
             "Basel, Switzerland"
         ],
