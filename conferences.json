@@ -1,246 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Hazards Australasia",
-        "url": "https://www.icheme.org/training-events/hazards-australasia/",
-        "start_date": "29 Sep 2024",
-        "end_date": "01 Oct 2024",
-        "locations": [
-            "Gold Coast, QLD, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "hazardsaustralasia29Sep2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Chemeca 2024 (process chemists & engineers)",
-        "url": "https://www.chemeca.org/",
-        "start_date": "29 Sep 2024",
-        "end_date": "01 Oct 2024",
-        "locations": [
-            "Gold Coast, QLD, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemeca2024processch29Sep2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Association for Crystallization Technology ACT Larson Workshop",
-        "url": "https://25thlarsonworkshop.comfre.iastate.edu/",
-        "start_date": "29 Sep 2024",
-        "end_date": "02 Oct 2024",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$1,200",
-        "non_member_fee": "$1,200",
-        "max_fee": "$1,200",
-        "uid": "associationforcrysta29Sep2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "PhysChem Forum",
-        "url": "http://physchem.org.uk/pcf2024/pcf2024.html",
-        "start_date": "30 Sep 2024",
-        "end_date": "01 Oct 2024",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "physchemforum30Sep2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Discovery on Target",
-        "url": "https://www.discoveryontarget.com/",
-        "start_date": "30 Sep 2024",
-        "end_date": "03 Oct 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "$1,699–2,799",
-        "non_member_fee": "$1,699–2,799",
-        "max_fee": "$1,699–2,799",
-        "uid": "discoveryontarget30Sep2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "NOBCChE US National Organization for the Professional Advancement of Black Chemistry & Chemical Engineers Annual Meeting",
-        "url": "https://www.nobcche.org/conference",
-        "start_date": "30 Sep 2024",
-        "end_date": "03 Oct 2024",
-        "locations": [
-            "Orlando, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nobccheusnationalorg30Sep2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Highlights in Medicinal Chemistry V",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/highlights-in-medicinal-chemistry-v",
-        "start_date": "01 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£95",
-        "non_member_fee": "£125",
-        "max_fee": "£125",
-        "uid": "highlightsinmedicina01Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab of the Future Europe",
-        "url": "https://www.lab-of-the-future.com/europe/",
-        "start_date": "01 Oct 2024",
-        "end_date": "02 Oct 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "€399–999",
-        "non_member_fee": "€399–999",
-        "max_fee": "€399–999",
-        "uid": "labofthefutureeurope01Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "ChEMBL 15-Year Symposium",
-        "url": "https://www.eventsforce.net/embl/frontend/reg/thome.csp?pageID=96136&eventID=151&traceRedir=2",
-        "start_date": "01 Oct 2024",
-        "end_date": "02 Oct 2024",
-        "locations": [
-            "Hinxton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chembl15yearsymposiu01Oct2024_0"
-    },
-    {
-        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -284,77 +44,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pfmacademypiezorespo01Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Black Pharma Annual Summit: Together we can",
-        "url": "https://www.blackpharma.org/event-details/annual-summit",
-        "start_date": "02 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "blackpharmaannualsum02Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Clear Air Conference 2024",
-        "url": "https://www.ukcleanair.org/2024/04/05/2024-clean-air-conference-edgbaston-park-hotel-conference-centre-2nd-amd-3rd-october-2024/",
-        "start_date": "02 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "clearairconference2002Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "ELRIG Drug Discovery 2024",
-        "url": "https://elrig.org/portfolio/drug-discovery-2024/",
-        "start_date": "02 Oct 2024",
-        "end_date": "03 Oct 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "elrigdrugdiscovery2002Oct2024_0"
     },
     {
         "themes": [
@@ -2039,6 +1728,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "mediterraneanorganic16Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#SciWri24\n ScienceWriters2024 Early Access (online)",
+        "url": "https://www.nasw.org/events/sciencewriters2024-early-access",
+        "start_date": "16 Oct 2024",
+        "end_date": "18 Oct 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciwri24\nsciencewrit16Oct2024_0"
     },
     {
         "themes": [
@@ -4168,6 +3879,31 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "#SciWri24\n ScienceWriters2024",
+        "url": "https://sciencewriters2024.org/",
+        "start_date": "08 Nov 2024",
+        "end_date": "11 Nov 2024",
+        "locations": [
+            "Raleigh, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciwri24\nsciencewrit08Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "process/engineering"
@@ -4404,6 +4140,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "bigpharmachemistryco12Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Future Labs, Automation, & Technology West",
+        "url": "https://www.amg-world.co.uk/future-labs-automation-technology-west/",
+        "start_date": "12 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurelabsautomation12Nov2024_0"
     },
     {
         "themes": [
@@ -7697,6 +7460,28 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Lab Facilities Summit Europe",
+        "url": "https://www.amg-world.co.uk/lab-facilities-europe/",
+        "start_date": "27 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labfacilitiessummite27Feb2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business"
         ],
@@ -8093,6 +7878,31 @@
         "non_member_fee": "$399–899",
         "max_fee": "$399–899",
         "uid": "intlcongressexpoonfo17Mar2025_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Lab Facilities Summit East",
+        "url": "https://www.amg-world.co.uk/lab-facilities/",
+        "start_date": "18 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labfacilitiessummite18Mar2025_0"
     },
     {
         "themes": [
@@ -8971,6 +8781,33 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "ACS MEDI-EFMC Medicinal Chemistry Frontiers 2025",
+        "url": "https://www.medchemfrontiers.org/",
+        "start_date": "12 May 2025",
+        "end_date": "15 May 2025",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsmediefmcmedicinal12May2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano",
@@ -9134,6 +8971,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionadv14May2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs, Automation, & Technology East",
+        "url": "https://www.amg-world.co.uk/future-labs-automation-technology/",
+        "start_date": "20 May 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurelabsautomation20May2025_0"
     },
     {
         "themes": [
