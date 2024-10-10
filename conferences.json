@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Slovak-Czech Conference: Polymers",
-        "url": "https://polymer.sav.sk/polymery2024/index.php/polymers-2024/",
-        "start_date": "01 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "Bratislava, Slovakia"
-        ],
-        "countries": [
-            "Slovakia"
-        ],
-        "member_fee": "€550",
-        "non_member_fee": "€505",
-        "max_fee": "€505",
-        "uid": "slovakczechconferenc01Oct2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -44,256 +22,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pfmacademypiezorespo01Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "9th RSC/SCI Symposium on GPCR's in Medicinal Chemistry",
-        "url": "https://www.rscbmcs.org/events/gpcrs24/",
-        "start_date": "02 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "Verona, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "£575",
-        "non_member_fee": "£800",
-        "max_fee": "£800",
-        "uid": "9thrscscisymposiumon02Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "The Art & Science of Total Synthesis of Natural & Designed Molecules for Biology & Medicine: Synthetic Strategies & Methods ASTS-NDM 2024",
-        "url": "https://riceglobalparisorganicsynthesis.org/",
-        "start_date": "02 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "theartscienceoftotal02Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Drug Discovery 2024",
-        "url": "https://www.elrig.org/portfolio/drug-discovery-2024/",
-        "start_date": "03 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "drugdiscovery202403Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Biologics US 2024",
-        "url": "https://oxfordglobal.com/biologics/events/biologics-us-2024",
-        "start_date": "03 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biologicsus202403Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Centre de Compétences Chimie et Toxicologie Analytiques CCCTA Journées Scientifiques 2024",
-        "url": "https://cccta.ch/journees-scientifiques-2024/",
-        "start_date": "03 Oct 2024",
-        "end_date": "04 Oct 2024",
-        "locations": [
-            "Villars-sur-Ollon, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "centredecompétencesc03Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Computational Drug Design Symposium: A tribute to Frank Blaney",
-        "url": "https://irinatkhnv.wixsite.com/fb-symposium",
-        "start_date": "04 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "computationaldrugdes04Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "computational/data",
-            "education",
-            "materials/polymers",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Canadian Chemical Engineering Conference CSChE 2024",
-        "url": "https://www.cheminst.ca/conference/canadian-chemical-engineering-conference-csche-2024/",
-        "start_date": "06 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "CAD170–800",
-        "non_member_fee": "CAD420–1,150",
-        "max_fee": "CAD420–1,150",
-        "uid": "canadianchemicalengi06Oct2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "20th Annual Meeting of the Oligonucleotide Therapeutics Society",
-        "url": "https://www.2024oligomeeting.com/",
-        "start_date": "06 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "20thannualmeetingoft06Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Food structure & functionality symposium",
-        "url": "https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium",
-        "start_date": "06 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Bruges, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "€935",
-        "non_member_fee": "€935",
-        "max_fee": "€935",
-        "uid": "foodstructurefunctio06Oct2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "American Ceramic Society ACerS Annual Meeting & Materials Science & Technology 2024",
-        "url": "https://ceramics.org/event/acers-126th-annual-meeting-with-materials-science-and-technology-2024/",
-        "start_date": "06 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Pittsburgh, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "americanceramicsocie06Oct2024_0"
     },
     {
         "themes": [
@@ -347,76 +75,6 @@
         "non_member_fee": "$415–815",
         "max_fee": "$415–815",
         "uid": "pacificrimmeetingone06Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Pistoia Alliance: UX User Experience for Life Sciences Conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/uxls-for-life-sciences-conference-2024/",
-        "start_date": "07 Oct 2024",
-        "end_date": "08 Oct 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "$300",
-        "non_member_fee": "$500",
-        "max_fee": "$500",
-        "uid": "pistoiaallianceuxuse07Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Advances in long-acting therapeutics",
-        "url": "https://www.liverpool.ac.uk/centre-of-excellence-for-long-acting-therapeutics/events/advances-in-long-acting-therapeutics-meeting/",
-        "start_date": "07 Oct 2024",
-        "end_date": "08 Oct 2024",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancesinlongacting07Oct2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Green Chemistry – Towards More Sustainable Synthesis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/green-chemistry-towards-more-sustainable-synthesis/",
-        "start_date": "07 Oct 2024",
-        "end_date": "08 Oct 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£549–659",
-        "non_member_fee": "£549–659",
-        "max_fee": "£549–659",
-        "uid": "greenchemistry–towar07Oct2024_0"
     },
     {
         "themes": [
@@ -517,126 +175,6 @@
     },
     {
         "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Horticulture Group David Miller Awards",
-        "url": "https://soci.org/events/horticulture-group/2024/sci-horticulture-group-david-miller-awards",
-        "start_date": "08 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scihorticulturegroup08Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Discngine Meeting: Innovative strategies for biotherapeutic developability assessment",
-        "url": "https://www.discngine.com/discngine-meetup-2024",
-        "start_date": "08 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "discnginemeetinginno08Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Decarbonizing the Teesside Cluter",
-        "url": "https://www.soci.org/events/energy-group/2024/decarbonising-the-teesside-cluster",
-        "start_date": "08 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Middlesbrough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "decarbonizingthetees08Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Mettler-Toledo 2024 Biopharma Roundtable",
-        "start_date": "08 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "member_fee": "Invitation",
-        "non_member_fee": "Invitation",
-        "max_fee": "Invitation",
-        "uid": "mettlertoledo2024bio08Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Mini-APACT (Advances in Process Analytics & Control Technologies) Conference",
-        "url": "https://apact.co.uk/mini",
-        "start_date": "08 Oct 2024",
-        "end_date": "09 Oct 2024",
-        "locations": [
-            "Macclesfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "miniapactadvancesinp08Oct2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
@@ -706,100 +244,6 @@
         "non_member_fee": "£1,199",
         "max_fee": "£1,199",
         "uid": "fundamentalsofdmpktr08Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Revvity Signals Enhancing drug discovery collaboration with advanced scientific software",
-        "url": "https://revvitysignals.com/roadshow-series-overview",
-        "start_date": "09 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "revvitysignalsenhanc09Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "UK JMP User Group",
-        "url": "https://www.jmp.com/en_gb/events/seminars/user-group/uk-users-group-2024.html",
-        "start_date": "09 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukjmpusergroup09Oct2024_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "CMC (Chemistry, Manufacturing & Controls) Summit",
-        "url": "https://iqconsortium.org/iq-week/iq-cmc-summit/",
-        "start_date": "09 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Washington, DC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cmcchemistrymanufact09Oct2024_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scottish Initial Teacher Education Conference (student science teachers)",
-        "url": "https://www.rsc.org/events/detail/79834/scottish-initial-teacher-education-conference",
-        "start_date": "09 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scottishinitialteach09Oct2024_0"
     },
     {
         "themes": [
@@ -1736,7 +1180,7 @@
         "regions": [
             "Online"
         ],
-        "title": "#SciWri24\n ScienceWriters2024 Early Access (online)",
+        "title": "ScienceWriters2024 Early Access (online)",
         "url": "https://www.nasw.org/events/sciencewriters2024-early-access",
         "start_date": "16 Oct 2024",
         "end_date": "18 Oct 2024",
@@ -1749,7 +1193,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "sciwri24\nsciencewrit16Oct2024_0"
+        "uid": "sciencewriters2024ea16Oct2024_0"
     },
     {
         "themes": [
@@ -2444,6 +1888,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Advanced screening approaches in drug discovery",
+        "url": "https://oxfordglobal.com/discovery-development/events/advanced-screening-technologies-online-symposium",
+        "start_date": "23 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancedscreeningapp23Oct2024_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -2632,6 +2101,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Synthesis&Catalysis Workshop",
+        "url": "https://eventos.fct.unl.pt/synthesis_catalysis_2024",
+        "start_date": "24 Oct 2024",
+        "end_date": "25 Oct 2024",
+        "locations": [
+            "Caparica, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "synthesiscatalysiswo24Oct2024_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -2651,6 +2143,28 @@
         "non_member_fee": "$449–899",
         "max_fee": "$449–899",
         "uid": "globalresearchconfer24Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Science Communication Symposium",
+        "url": "https://sruk.org.uk/ceru-events/ii-sruk-ceru-science-communication-symposium/",
+        "start_date": "26 Oct 2024",
+        "end_date": "27 Oct 2024",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciencecommunication26Oct2024_0"
     },
     {
         "themes": [
@@ -3735,6 +3249,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "AnalytikTag: Digitalisierung, Automation, & Schnittstellen (German language)",
+        "url": "https://eveeno.com/250223898",
+        "start_date": "07 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Duisberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "analytiktagdigitalis07Nov2024_0"
+    },
+    {
+        "themes": [
             "law/policy"
         ],
         "regions": [
@@ -3777,6 +3315,35 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "uclpsdiphysicalscien07Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Discovery US 2024",
+        "url": "https://oxfordglobal.com/discovery-development/events/discovery-us-2024",
+        "start_date": "07 Nov 2024",
+        "end_date": "08 Nov 2024",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discoveryus202407Nov2024_0"
     },
     {
         "themes": [
@@ -3884,7 +3451,7 @@
         "regions": [
             "Southern USA"
         ],
-        "title": "#SciWri24\n ScienceWriters2024",
+        "title": "ScienceWriters2024",
         "url": "https://sciencewriters2024.org/",
         "start_date": "08 Nov 2024",
         "end_date": "11 Nov 2024",
@@ -3900,7 +3467,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "sciwri24\nsciencewrit08Nov2024_0"
+        "uid": "sciencewriters202408Nov2024_0"
     },
     {
         "themes": [
@@ -5138,6 +4705,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Winter School for Theoretical Chemistry and Spectroscopy",
+        "url": "https://www.han-sur-lesse-winterschool.nl/",
+        "start_date": "24 Nov 2024",
+        "end_date": "29 Nov 2024",
+        "locations": [
+            "Han-sur-Lesse, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "winterschoolfortheor24Nov2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -5621,6 +5212,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "business",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Future Labs, Automation & Technology Europe Summit 2024",
+        "url": "https://www.amg-world.co.uk/future-labs-europe/",
+        "start_date": "03 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurelabsautomation03Dec2024_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -5890,32 +5507,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "recenttrendsinmedici05Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Future Labs, Automation & Technology Europe Summit 2024",
-        "url": "https://www.amg-world.co.uk/future-labs-europe/",
-        "start_date": "05 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futurelabsautomation05Dec2024_0"
     },
     {
         "themes": [
@@ -8503,6 +8094,33 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Enabling Technologies in Pharmaceutical & Chemical Development (workshop)",
+        "url": "https://execed.fct.unl.pt/en/skills_building_prog/enabling-technologies-in-pharmaceutical-and-chemical-development/",
+        "start_date": "14 Apr 2025",
+        "end_date": "17 Apr 2025",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "enablingtechnologies14Apr2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -8998,6 +8616,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "futurelabsautomation20May2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Europe 2025",
+        "url": "https://www.slas.org/events-calendar/slas-europe-2025-conference-and-exhibition/",
+        "start_date": "20 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Hamburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory20May2025_0"
     },
     {
         "themes": [
@@ -10527,6 +10168,35 @@
     },
     {
         "themes": [
+            "business",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Discovery & Development US",
+        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-us-2025",
+        "start_date": "02 Oct 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discoverydevelopment02Oct2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -10696,6 +10366,32 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS 2026",
+        "url": "https://www.slas.org/events-calendar/slas2026-international-conference-exhibition/",
+        "start_date": "07 Feb 2026",
+        "end_date": "11 Feb 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory07Feb2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "inorganic/nano"
@@ -10791,6 +10487,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scsconferenceonstere03May2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Europe 2026",
+        "url": "https://www.slas.org/events-calendar/slas-europe-2026-conference-and-exhibition/",
+        "start_date": "19 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory19May2026_0"
     },
     {
         "themes": [
