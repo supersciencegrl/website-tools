@@ -25,28 +25,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Intl Symposium on Chromatography ISC 2024",
-        "url": "https://isc2024.org/",
-        "start_date": "06 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£500–845",
-        "non_member_fee": "£500–845",
-        "max_fee": "£500–845",
-        "uid": "intlsymposiumonchrom06Oct2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano",
             "physical/phys org",
@@ -75,33 +53,6 @@
         "non_member_fee": "$415–815",
         "max_fee": "$415–815",
         "uid": "pacificrimmeetingone06Oct2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "The Battery Show",
-        "url": "https://www.thebatteryshow.com/en/home.html",
-        "start_date": "07 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Detroit, MI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MI"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "thebatteryshow07Oct2024_0"
     },
     {
         "themes": [
@@ -175,129 +126,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Organic Chemistry Symposium: Harnessing Light Energy with Molecules",
-        "url": "https://www.beilstein-institut.de/en/symposia/harnessing-light-energy/",
-        "start_date": "08 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Limburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€200",
-        "non_member_fee": "€200",
-        "max_fee": "€200",
-        "uid": "beilsteinorganicchem08Oct2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "CPHI Europe (trade fair)",
-        "url": "https://www.cphi.com/europe/en/home.html",
-        "start_date": "08 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€59–;479",
-        "non_member_fee": "€59–;479",
-        "max_fee": "€59–;479",
-        "uid": "cphieuropetradefair08Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Fundamentals of DMPK (training course)",
-        "url": "https://www.dmdg.org/events/20241008/default.asp",
-        "start_date": "08 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,199",
-        "non_member_fee": "£1,199",
-        "max_fee": "£1,199",
-        "uid": "fundamentalsofdmpktr08Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BioTechX Europe",
-        "url": "https://www.terrapinn.com/conference/biotechx/index.stm",
-        "start_date": "09 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "biotechxeurope09Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Carbon capture, utilization, & storage conference 2024 CCUS",
-        "url": "https://www.woodmac.com/events/carbon-capture-utilization-storage-conference/",
-        "start_date": "09 Oct 2024",
-        "end_date": "10 Oct 2024",
-        "locations": [
-            "Houston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "carboncaptureutiliza09Oct2024_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -364,58 +192,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "particlesproteinaggr09Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "US Association for Women in Science AWIS Virtual Career Fair",
-        "url": "https://app.brazenconnect.com/a/awis/e/KEjel",
-        "start_date": "10 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "usassociationforwome10Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "law/policy",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Artificial Intelligence: Unlocking the Future of Drug Discovery and Development",
-        "url": "https://iqconsortium.org/iq-week/iq-symposium/",
-        "start_date": "10 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Washington, DC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "artificialintelligen10Oct2024_0"
     },
     {
         "themes": [
@@ -1049,6 +825,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "researchdatamanageme16Oct2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Women in Science & Engineering WISE Conference 2024",
+        "url": "https://www.eventbrite.co.uk/e/wise-conference-2024-tickets-891776737227",
+        "start_date": "16 Oct 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "womeninscienceengine16Oct2024_0"
     },
     {
         "themes": [
@@ -2923,6 +2722,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "drugdiscoverydenmark05Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Cloud lab, HTE, & Lab automation virtual conference",
+        "url": "https://www.20visioneers15.com/cloudlabhtelabautomation",
+        "start_date": "05 Nov 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cloudlabhtelabautoma05Nov2024_0"
     },
     {
         "themes": [
@@ -6509,6 +6331,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "materialsforai–aifor05Feb2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Meeting of Inorganic & Organometallic Chemistry of the Catalan Chemical Society 2RQIO-SCQ",
+        "url": "https://rqio-scq.iec.cat/en/home/",
+        "start_date": "05 Feb 2025",
+        "end_date": "07 Feb 2025",
+        "locations": [
+            "Tarragona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "meetingofinorganicor05Feb2025_0"
     },
     {
         "themes": [
