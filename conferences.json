@@ -25,28 +25,6 @@
     },
     {
         "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Novel Materials Fundamentals & Applications NFA 2024",
-        "url": "https://nfa.science.upjs.sk/",
-        "start_date": "13 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Štrbské Pleso, Slovakia"
-        ],
-        "countries": [
-            "Slovakia"
-        ],
-        "member_fee": "€570",
-        "non_member_fee": "€570",
-        "max_fee": "€570",
-        "uid": "novelmaterialsfundam13Oct2024_0"
-    },
-    {
-        "themes": [
             "med chem",
             "synthesis"
         ],
@@ -70,81 +48,6 @@
     },
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia",
-            "Online"
-        ],
-        "title": "Faraday discussion: New horizons in nanoelectrochemistry",
-        "url": "https://www.rsc.org/events/detail/75301/new-horizons-in-nanoelectrochemistry-faraday-discussion",
-        "start_date": "14 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Nanjing, China",
-            "Online"
-        ],
-        "countries": [
-            "China",
-            "Online"
-        ],
-        "member_fee": "CNY1,162–3,710",
-        "non_member_fee": "CNY1,386–4,738",
-        "max_fee": "CNY1,386–4,738",
-        "uid": "faradaydiscussionnew14Oct2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Perovskites & organic photovoltaics: From academia to industry",
-        "url": "https://conferences.nature.com/event/Photovoltaics/summary",
-        "start_date": "14 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Nanjing, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "perovskitesorganicph14Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl conference on plant nanotechnology",
-        "url": "https://icpn2024.pl/",
-        "start_date": "14 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Pozna&nacute, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonplan14Oct2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -165,102 +68,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "sãopauloschoolofadva14Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Targeting protein degradation 4",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/targeting-protein-degradation-4",
-        "start_date": "15 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£215",
-        "non_member_fee": "£295",
-        "max_fee": "£295",
-        "uid": "targetingproteindegr15Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Paperless Lab Academy Conference India",
-        "url": "https://www.paperlesslabacademy.com/india/",
-        "start_date": "15 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "paperlesslabacademyc15Oct2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pharma & Patient USA",
-        "url": "https://events.reutersevents.com/pharma/patient-usa",
-        "start_date": "15 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmapatientusa15Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Machine Learning to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
-        "start_date": "15 Oct 2024",
-        "end_date": "16 Oct 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£499–599",
-        "non_member_fee": "£499–599",
-        "max_fee": "£499–599",
-        "uid": "applicationsofmachin15Oct2024_0"
     },
     {
         "themes": [
@@ -307,156 +114,6 @@
         "non_member_fee": "€908",
         "max_fee": "€908",
         "uid": "19thinternationalsym15Oct2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "TechBio UK 2024",
-        "url": "https://www.bioindustry.org/event-listing/techbio-uk.html",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "techbiouk202416Oct2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Global Regulatory Updates 2024",
-        "url": "https://events.chemicalwatch.com/952281/global-regulatory-updates-2024",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Brussels, Belgium",
-            "Online"
-        ],
-        "countries": [
-            "Belgium",
-            "Online"
-        ],
-        "member_fee": "€752",
-        "non_member_fee": "€885",
-        "max_fee": "€885",
-        "uid": "globalregulatoryupda16Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "PFAS Updates Europe 2024",
-        "url": "https://events.chemicalwatch.com/952437/pfas-updates-europe-2024",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Brussels, Belgium",
-            "Online"
-        ],
-        "countries": [
-            "Belgium",
-            "Online"
-        ],
-        "member_fee": "€752",
-        "non_member_fee": "€885",
-        "max_fee": "€885",
-        "uid": "pfasupdateseurope20216Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Scientific Informatics Experience Exchange",
-        "url": "https://zifornd.com/event/siee-boston-2024/",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scientificinformatic16Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Research Data Management Workshop for Chemists in Potsdam",
-        "url": "https://www.nfdi4chem.de/event/research-data-management-workshop-for-chemists-in-potsdam/",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Potsdam, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "researchdatamanageme16Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Women in Science & Engineering WISE Conference 2024",
-        "url": "https://www.eventbrite.co.uk/e/wise-conference-2024-tickets-891776737227",
-        "start_date": "16 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "womeninscienceengine16Oct2024_0"
     },
     {
         "themes": [
@@ -5805,7 +5462,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EFMC Intl Symposium on Chemical Biology",
+        "title": "EFMC Intl Symposium on Chemical Biology ISCB",
         "url": "https://www.efmc-iscb.org/",
         "start_date": "29 Jan 2025",
         "end_date": "31 Jan 2025",
@@ -7353,6 +7010,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Short Course on Medicinal Chemistry: AI & medicinal chemistry",
+        "url": "https://www.efmcshortcourses.org/",
+        "start_date": "06 Apr 2025",
+        "end_date": "09 Apr 2025",
+        "locations": [
+            "Oegstgeest, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcshortcourseonmed06Apr2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "safety"
@@ -8690,6 +8371,33 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "EUA"
+        ],
+        "title": "Green Chemistry & Engineering GC&E",
+        "url": "https://www.gcande.org/",
+        "start_date": "23 Jun 2025",
+        "end_date": "26 Jun 2025",
+        "locations": [
+            "Pittsburgh, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greenchemistryengine23Jun2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers",
             "pharma industry",
@@ -9223,6 +8931,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "euroanalysis202531Aug2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Intl Symposium on Advances in Synthetic & Medicinal Chemistry",
+        "url": "https://www.efmc-asmc.org/",
+        "start_date": "31 Aug 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Porto, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcintlsymposiumona31Aug2025_0"
     },
     {
         "themes": [
