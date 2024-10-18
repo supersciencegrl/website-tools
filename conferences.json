@@ -25,29 +25,6 @@
     },
     {
         "themes": [
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "15th Swiss Course on Medicinal Chemistry 2024",
-        "url": "https://scmc24.scg.ch/",
-        "start_date": "13 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Leysin, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "CHF3,300",
-        "non_member_fee": "CHF3,700",
-        "max_fee": "CHF3,700",
-        "uid": "15thswisscourseonmed13Oct2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -68,348 +45,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "sãopauloschoolofadva14Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Festival of Biologics",
-        "url": "https://www.terrapinn.com/conference/festival-of-biologics/index.stm",
-        "start_date": "15 Oct 2024",
-        "end_date": "17 Oct 2024",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "festivalofbiologics15Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "19th International Symposium on Preparative & Industrial Chromatography & Allied Techniques SPICA 2024",
-        "url": "https://www.spica2024.org/",
-        "start_date": "15 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "€980",
-        "non_member_fee": "€908",
-        "max_fee": "€908",
-        "uid": "19thinternationalsym15Oct2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Formulation & Delivery US 2024",
-        "url": "https://oxfordglobal.com/formulation/events/formulation-delivery-us-2024",
-        "start_date": "16 Oct 2024",
-        "end_date": "17 Oct 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "formulationdeliveryu16Oct2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Lab Automation & Screening SLAS Sample Management Symposium",
-        "url": "https://www.slas.org/events-calendar/slas-2024-sample-management-symposium/",
-        "start_date": "16 Oct 2024",
-        "end_date": "17 Oct 2024",
-        "locations": [
-            "Toulouse, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "€350–475",
-        "non_member_fee": "€475–550",
-        "max_fee": "€475–550",
-        "uid": "societyforlabautomat16Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Integrating AI into chemical safety assessment",
-        "url": "https://www.ecetoc.org/event/ai-workshop/",
-        "start_date": "16 Oct 2024",
-        "end_date": "17 Oct 2024",
-        "locations": [
-            "Valbonne, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "integratingaiintoche16Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Frontiers in electron microscopy for physical & life sciences",
-        "url": "https://conferences.nature.com/event/FrontiersElecMicro3/summary",
-        "start_date": "16 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Princeton, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "frontiersinelectronm16Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Mediterranean Organic Chemistry Meeting REQOMED",
-        "url": "https://xireqomed.umh.es/",
-        "start_date": "16 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Elche, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mediterraneanorganic16Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "ScienceWriters2024 Early Access (online)",
-        "url": "https://www.nasw.org/events/sciencewriters2024-early-access",
-        "start_date": "16 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciencewriters2024ea16Oct2024_0"
-    },
-    {
-        "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Autumn UK-QSAR Meeting 2024",
-        "url": "https://ukqsar.org/index.php/2024/07/12/autumn-uk-qsar-2024-meeting/",
-        "start_date": "17 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "autumnukqsarmeeting217Oct2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Sygnature Discovery Medicinal Chemistry Workshop (PhD students & postdocs)",
-        "url": "https://www.linkedin.com/jobs/view/medicinal-chemistry-workshop-2024-at-sygnature-discovery-3981494521/",
-        "start_date": "17 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sygnaturediscoveryme17Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Pistoia Alliance Japan conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-japan-conference-2/",
-        "start_date": "17 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Tokyo, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pistoiaalliancejapan17Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Princeton ACS Fall Organic Symposium",
-        "url": "http://www.pacsfocs.org/wordpress/",
-        "start_date": "17 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Princeton, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "princetonacsfallorga17Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "GSK Science @ Scale Symposium (students/postdocs)",
-        "url": "https://www.linkedin.com/posts/rebeccajwiles_thrilled-to-announce-that-applications-for-activity-7199806500016373760-5ebP/?utm_source=share&utm_medium=member_android",
-        "start_date": "17 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gsksciencescalesympo17Oct2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scale-Up: What Goes Wrong? (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/20241017/",
-        "start_date": "17 Oct 2024",
-        "end_date": "18 Oct 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£499–599",
-        "non_member_fee": "£499–599",
-        "max_fee": "£499–599",
-        "uid": "scaleupwhatgoeswrong17Oct2024_0"
     },
     {
         "themes": [
@@ -1208,6 +843,29 @@
         "non_member_fee": "$449–899",
         "max_fee": "$449–899",
         "uid": "globalresearchconfer24Oct2024_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "R in Pharma",
+        "url": "https://events.zoom.us/ev/AvobJEOTVwkUnH6_TgLZDZJauk4dxfm5jCG8JFNN9zukOcsVLvTN~AmO5XY5HRBcxkKG6Hga1aXZaYtpBSER6jHms1seP-NNOA0dhcQZUGJ2NWg",
+        "start_date": "25 Oct 2024",
+        "end_date": "02 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rinpharma25Oct2024_0"
     },
     {
         "themes": [
@@ -4936,6 +4594,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscsciangloitalianch15Dec2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Postgraduate symposium on future directions for chemical synthesis",
+        "url": "https://cresswell-lab.wixsite.com/postgraduate-symposi",
+        "start_date": "16 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "postgraduatesymposiu16Dec2024_0"
     },
     {
         "themes": [
