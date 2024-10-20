@@ -1460,6 +1460,29 @@
     },
     {
         "themes": [
+            "education",
+            "safety"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Chemical management in secondary school laboratories (training course)",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=53a51406-bbe9-487c-b0e0-0191b08a8157",
+        "start_date": "04 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalmanagementin04Nov2024_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy",
             "safety"
@@ -1646,6 +1669,29 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "drugdiscoverydenmark05Nov2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "UK Innovation: The future of RNA therapeutics",
+        "url": "https://catsci.com/event/oligos-innovation-future-of-rna-therapeutics/",
+        "start_date": "05 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukinnovationthefutur05Nov2024_0"
     },
     {
         "themes": [
@@ -2338,6 +2384,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "workshoponlithiumsul11Nov2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Aus-NZ Natural Products Chemistry & Biology Symposium/RACI NSW Natural Products Symposium",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=f5ab8ec7-0fa3-4c1e-b240-019158dad0b4",
+        "start_date": "11 Nov 2024",
+        "end_date": "12 Nov 2024",
+        "locations": [
+            "Sydney, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ausnznaturalproducts11Nov2024_0"
     },
     {
         "themes": [
@@ -3166,6 +3235,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "GMP Forum 2024",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=1a384d6f-023e-4fb5-a761-0190c98e083d",
+        "start_date": "19 Nov 2024",
+        "end_date": "20 Nov 2024",
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gmpforum202419Nov2024_0"
+    },
+    {
+        "themes": [
             "business",
             "process/engineering"
         ],
@@ -3475,6 +3569,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCS Symposium on AI 2024: Critical use of AI in quantum chemistry",
+        "url": "https://ai24.scg.ch/",
+        "start_date": "25 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scssymposiumonai202425Nov2024_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -3687,6 +3803,96 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Queensland Annual Chemistry Symposium QACS 2024",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=3f49ca11-ad43-4c50-a1eb-018fecbab4c3",
+        "start_date": "29 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Brisbane, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "queenslandannualchem29Nov2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Annual Synthesis Symposium",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=3949f551-37c6-4a22-9209-01916d1fcb70",
+        "start_date": "29 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualsynthesissympo29Nov2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Victorian Inorganic Symposium",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=2550e785-9a68-49d4-aec2-01929d2631bd",
+        "start_date": "29 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "victorianinorganicsy29Nov2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "computational/data",
@@ -3715,6 +3921,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "R&D Topics Conference in Analytical & Environmental Chemistry",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=b756ba27-91ba-4c4d-aba4-018f03c6d04a",
+        "start_date": "01 Dec 2024",
+        "end_date": "04 Dec 2024",
+        "locations": [
+            "Sandy Bay, Tasmania, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rdtopicsconferencein01Dec2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -3739,6 +3968,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "organicchemistrypost02Dec2024_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Physical, Polymer, & Materials Symposium",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=dbc84b1b-6d71-4f3a-9426-019273d5f6db",
+        "start_date": "02 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Adelaide, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physicalpolymermater02Dec2024_0"
     },
     {
         "themes": [
@@ -4262,17 +4514,20 @@
             "synthesis"
         ],
         "regions": [
-            "Australasia"
+            "Australasia",
+            "Online"
         ],
         "title": "RACI Australasian Electrochemistry Symposium",
         "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7b6f7993-fc77-4d95-8266-018ecb88e2c0",
         "start_date": "05 Dec 2024",
         "end_date": "06 Dec 2024",
         "locations": [
-            "Bundoora, Victoria, Australia"
+            "Melbourne, Australia",
+            "Online"
         ],
         "countries": [
-            "Australia"
+            "Australia",
+            "Online"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -4324,6 +4579,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "raciinorganicchemist08Dec2024_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "education",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Australian Conference on Green & Sustainable Chemistry",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=8bb89063-5940-4acc-83e6-018ecaf3e4bf",
+        "start_date": "08 Dec 2024",
+        "end_date": "12 Dec 2024",
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "australianconference08Dec2024_0"
     },
     {
         "themes": [
@@ -5187,6 +5469,54 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Surface & Interface Symposium SAOG 2025",
+        "url": "https://saog.ch/",
+        "start_date": "31 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisssurfaceinterfac31Jan2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Rigi Workshop 2025: Microbiome meets metabolism (PhD students/postdocs)",
+        "url": "https://biol.scnat.ch/en/rigi_workshops/uuid/i/a82be0a4-5f90-550f-a79a-94e1c5a04bee-Rigi_Workshop_2025_Microbiome_Meets_Metabolism",
+        "start_date": "02 Feb 2025",
+        "end_date": "04 Feb 2024",
+        "locations": [
+            "Rigi Kulm, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rigiworkshop2025micr02Feb2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -5327,6 +5657,75 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscscidemystifyingre06Feb2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCS Division of Medicinal Chemistry & Chemical Biology DMCCB Symposium",
+        "url": "https://dmccb25.scg.ch/",
+        "start_date": "06 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scsdivisionofmedicin06Feb2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Heads of Chemistry Meeting",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=13d6f939-148f-4ca8-9444-0190808fbcfc",
+        "start_date": "06 Feb 2025",
+        "end_date": "07 Feb 2025",
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "raciheadsofchemistry06Feb2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Supramol25",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=60c00ccb-6d8f-4b3e-a434-0190330e2846",
+        "start_date": "06 Feb 2025",
+        "end_date": "07 Feb 2025",
+        "locations": [
+            "Canberra, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "supramol2506Feb2025_0"
     },
     {
         "themes": [
@@ -6117,6 +6516,52 @@
     {
         "themes": [
             "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Mechanics of bond breaking: From single molecules to polymer networks",
+        "url": "https://www.mbb2025.org/",
+        "start_date": "10 Mar 2025",
+        "end_date": "12 Mar 2025",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "mechanicsofbondbreak10Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ANAKON 2025",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11713&sp_id=2",
+        "start_date": "10 Mar 2025",
+        "end_date": "13 Mar 2025",
+        "locations": [
+            "Leipzig, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "anakon202510Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio",
             "formulation/particle science",
             "med chem",
@@ -6310,6 +6755,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "2ndnordicconferenceo18Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CHanalysis 2025: Meeting of the Swiss analytical scientists",
+        "url": "https://cha25.scg.ch/",
+        "start_date": "19 Mar 2025",
+        "end_date": "20 Mar 2025",
+        "locations": [
+            "Beatenberg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chanalysis2025meetin19Mar2025_0"
     },
     {
         "themes": [
@@ -6888,6 +7355,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "RACI Medicinal Chemistry & Chemical Biology Division 2025",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=8cd0e227-30e2-4193-b7fb-018eee6d4e1d",
+        "start_date": "13 Apr 2025",
+        "end_date": "16 Apr 2025",
+        "locations": [
+            "Darwin, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "racimedicinalchemist13Apr2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "safety"
@@ -6986,6 +7477,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCS Spring Meeting 2025: Electrocatalysis",
+        "url": "https://sm25.scg.ch/",
+        "start_date": "24 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Bern, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scsspringmeeting202524Apr2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -7048,6 +7563,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemrd202528Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Intl School of Chemometrics ISC",
+        "url": "https://www.hypertools.org/isc",
+        "start_date": "28 Apr 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlschoolofchemomet28Apr2025_0"
     },
     {
         "themes": [
@@ -7460,6 +8000,30 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Novalix Conference: Developing the Synergy between Biophysics and Medicinal Chemistry to Deliver Better Drugs",
+        "url": "https://www.novalix-conferences.org/",
+        "start_date": "20 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "novalixconferencedev20May2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "business",
@@ -7507,6 +8071,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "asianeuropeansymposi21May2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Annual meeting of the Belgian Polymer Group",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=English&cle_menus=1238918225",
+        "start_date": "26 May 2025",
+        "end_date": "27 May 2025",
+        "locations": [
+            "Houffalize, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualmeetingofthebe26May2025_0"
     },
     {
         "themes": [
@@ -7678,6 +8264,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemspeceuropetradef04Jun2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Peptide Therapeutics Forum 2025",
+        "url": "https://ptf25.scg.ch/",
+        "start_date": "07 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "peptidetherapeuticsf07Jun2025_0"
     },
     {
         "themes": [
@@ -8054,6 +8663,54 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Summer School on Materials Chemistry",
+        "url": "https://matsem25.scg.ch/",
+        "start_date": "23 Jun 2025",
+        "end_date": "24 Jun 2025",
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisssummerschoolonm23Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss MatChem Symposium MatChem25",
+        "url": "https://mat25.scg.ch/",
+        "start_date": "23 Jun 2025",
+        "end_date": "24 Jun 2025",
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swissmatchemsymposiu23Jun2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "synthesis"
@@ -8104,6 +8761,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "11thintlgranulationw23Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Biocatalysis & Biotransformations BIOTRANS 2025",
+        "url": "https://www.biotrans2025.com/",
+        "start_date": "29 Jun 2025",
+        "end_date": "03 Jul 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonbioca29Jun2025_0"
     },
     {
         "themes": [
@@ -8193,6 +8874,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanconferenceon30Jun2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Medicinal Chemistry RICT",
+        "url": "https://www.rict2025.org/",
+        "start_date": "02 Jul 2025",
+        "end_date": "04 Jul 2025",
+        "locations": [
+            "Orléans, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonmedi02Jul2025_0"
     },
     {
         "themes": [
@@ -8570,6 +9274,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Summer School: Organic Synthesis",
+        "url": "https://summer-school25.scg.ch/",
+        "start_date": "17 Aug 2025",
+        "end_date": "21 Aug 2025",
+        "locations": [
+            "Haute-Nendaz, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisssummerschoolorg17Aug2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry",
             "process/engineering",
@@ -8592,6 +9319,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "30theuropeancolloqui24Aug2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Intl Symposium on the Chemistry of Natural Products/Intl Congress on Biodiversity",
+        "url": "https://raci.org.au/events/event-description?CalendarEventKey=182f4026-0ebb-4e90-93cd-019177bebe22",
+        "start_date": "24 Aug 2025",
+        "end_date": "28 Aug 2025",
+        "locations": [
+            "Melbourne, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonthech24Aug2025_0"
     },
     {
         "themes": [
@@ -8743,7 +9493,7 @@
             "Western Europe"
         ],
         "title": "Swiss Chemical Society Fall Meeting",
-        "url": "https://scg.ch/component/eventbooking/fm25",
+        "url": "https://fm25.scg.ch/",
         "start_date": "04 Sep 2025",
         "end_date": null,
         "locations": [
@@ -8756,6 +9506,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "swisschemicalsociety04Sep2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "The future of chemical education ChemEdu 2025",
+        "url": "https://chemedu25.scg.ch/",
+        "start_date": "04 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thefutureofchemicale04Sep2025_0"
     },
     {
         "themes": [
@@ -8781,6 +9553,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "drugdiscoveryinnovat04Sep2024_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Young Medicinal Chemists' Symposium",
+        "url": "https://www.efmc-ymcs.org/",
+        "start_date": "04 Sep 2025",
+        "end_date": "05 Sep 2025",
+        "locations": [
+            "Porto, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcyoungmedicinalch04Sep2025_0"
     },
     {
         "themes": [
@@ -9037,6 +9832,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scientificupdate54th29Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Symposium on Preparative & Process Chromatography PREP 2025",
+        "url": "https://www.ldorganisation.com/produits.php?langue=english&cle_menus=1238918219&cle_data=1360153710",
+        "start_date": "29 Sep 2025",
+        "end_date": "02 Oct 2025",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonprepa29Sep2025_0"
     },
     {
         "themes": [
