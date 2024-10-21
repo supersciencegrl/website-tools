@@ -8120,6 +8120,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Flow Chemistry Japan",
+        "url": "https://flowchemistrysociety.com/flow-chemistry-europe-2021-virtual-conference-1-2-2/",
+        "start_date": "28 May 2025",
+        "end_date": "30 May 2025",
+        "locations": [
+            "Nagano, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "flowchemistryjapan28May2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem"
