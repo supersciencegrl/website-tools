@@ -48,107 +48,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "business",
-            "careers",
-            "chem bio",
-            "computational/data",
-            "formulation/particle science",
-            "law/policy",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "American Association of Pharmaceutical Scientists AAPS PharmSci 360",
-        "url": "http://peptideconferences.org/imap-2024",
-        "start_date": "20 Oct 2024",
-        "end_date": "23 Oct 2024",
-        "locations": [
-            "Salt Lake City, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "americanassociationo20Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "BioExcel Conference on Advances in Biomolecular Simulations",
-        "url": "https://bioexcel.eu/events/2nd-bioexcel-conference-on-advances-in-biomolecular-simulations/",
-        "start_date": "20 Oct 2024",
-        "end_date": "23 Oct 2024",
-        "locations": [
-            "Brno, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioexcelconferenceon20Oct2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "ACS Southwest Regional Meeting SWRM",
-        "url": "https://swrm.org/home",
-        "start_date": "20 Oct 2024",
-        "end_date": "23 Oct 2024",
-        "locations": [
-            "Waco, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "acssouthwestregional20Oct2024_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "physical/phys org"
         ],
@@ -220,121 +119,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "iDMT Making Digital Labs a Reality: Skills workshop",
-        "url": "https://www.idmt.online/makingdigitallabsskillsworkshop",
-        "start_date": "22 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£130",
-        "non_member_fee": "£130",
-        "max_fee": "£130",
-        "uid": "idmtmakingdigitallab22Oct2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Water damage in asphalt roads",
-        "url": "http://soci.org/events/construction-materials-group/2024/water-damage-in-asphalt-roads",
-        "start_date": "22 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "waterdamageinasphalt22Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biointelligence Congress",
-        "url": "https://www.ipa.fraunhofer.de/de/veranstaltungen-messen/veranstaltungen/2024/2nd-biointelligence-congress-in-stuttgart.html",
-        "start_date": "22 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Stuttgart, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biointelligencecongr22Oct2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Drug discovery biology & bioinformatics strategy meeting Europe",
-        "url": "https://proventainternational.com/events/rd/europe/london/drug-discovery-biology-bioinformatics-strategy-meeting-europe-2024/",
-        "start_date": "22 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdiscoverybiology22Oct2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Wood Coatings Congress",
-        "url": "https://www.european-coatings.com/events/conference/woodcoatings-congress-2024/",
-        "start_date": "22 Oct 2024",
-        "end_date": "23 Oct 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "woodcoatingscongress22Oct2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "med chem",
@@ -385,151 +169,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "commercializingflowc22Oct2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "What's New in Laboratory Technology",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=ee79cd31-8921-475f-8b35-018eef118284",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Lindfield, NSW, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "whatsnewinlaboratory23Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Revvity Signals Accelerating Drug Discovery: The power of a unified lab ecosystem",
-        "url": "https://revvitysignals.com/roadshow-series-overview",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "revvitysignalsaccele23Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Energy & Environmental Science symposium",
-        "url": "https://www.rsc.org/events/detail/79585/ees-symposium",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscenergyenvironment23Oct2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Medicinal chemistry strategy meeting Europe",
-        "url": "https://proventainternational.com/events/rd/europe/london/medicinal-chemistry-strategy-meeting-europe-2024/",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "medicinalchemistryst23Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemotion ELN Hands-On Workshop",
-        "url": "https://www.nfdi4chem.de/event/chemotion-eln-hands-on-workshop/",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemotionelnhandsonw23Oct2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Advanced screening approaches in drug discovery",
-        "url": "https://oxfordglobal.com/discovery-development/events/advanced-screening-technologies-online-symposium",
-        "start_date": "23 Oct 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancedscreeningapp23Oct2024_0"
     },
     {
         "themes": [
@@ -1175,6 +814,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Pacific Coatings Show",
+        "url": "https://www.pacific-coatings-show.com/",
+        "start_date": "29 Oct 2025",
+        "end_date": "31 Oct 2025",
+        "locations": [
+            "Jakarta, Indonesia"
+        ],
+        "countries": [
+            "Indonesia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pacificcoatingsshow29Oct2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -1635,6 +1296,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "cloudlabhtelabautoma05Nov2024_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bio-based & water-based coatings 2024",
+        "url": "https://www.european-coatings.com/events/conference/biobased-waterbased-coatings-2024/",
+        "start_date": "05 Nov 2024",
+        "end_date": "06 Nov 2024",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biobasedwaterbasedco05Nov2024_0"
     },
     {
         "themes": [
@@ -2744,6 +2427,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Scottish Biological Mass Spectrometry Discussion Group",
+        "url": "https://www.bmss.org.uk/scotsig-2024/",
+        "start_date": "15 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scottishbiologicalma15Nov2024_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -2763,6 +2469,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "disruptivephotonicst15Nov2024_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Introduction to Mass Spectrometry (training course)",
+        "url": "https://www.bmss.org.uk/education/introduction-to-ms-course/",
+        "start_date": "17 Nov 2024",
+        "end_date": "18 Nov 2024",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "introductiontomasssp17Nov2024_0"
     },
     {
         "themes": [
@@ -3408,8 +3136,8 @@
         ],
         "title": "Large Molecules (training course)",
         "url": "https://www.dmdg.org/events/20241124/introduction.asp",
-        "start_date": "24 Nov 2025",
-        "end_date": "27 Nov 2025",
+        "start_date": "24 Nov 2024",
+        "end_date": "27 Nov 2024",
         "locations": [
             "Loughborough, UK"
         ],
@@ -3419,7 +3147,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "largemoleculestraini24Nov2025_0"
+        "uid": "largemoleculestraini24Nov2024_0"
     },
     {
         "themes": [
@@ -4475,6 +4203,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Merck Christmas Chemistry Symposium",
+        "url": "https://www.linkedin.com/posts/friberg_chemistry-symposium-gothenburg-activity-7254780531773489153-mpOZ/",
+        "start_date": "05 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "merckchristmaschemis05Dec2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "inorganic/nano",
             "materials/polymers",
@@ -5145,6 +4896,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "The Coatings Summit 2025",
+        "url": "https://www.european-coatings.com/events/conference/coatings-summit-2025/",
+        "start_date": "15 Jan 2025",
+        "end_date": "17 Jan 2025",
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thecoatingssummit20215Jan2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5459,6 +5232,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "PaintIndia 2025",
+        "url": "https://www.european-coatings.com/events/exhibition/paintindia-2025/",
+        "start_date": "30 Jan 2025",
+        "end_date": "31 Jan 2025",
+        "locations": [
+            "Delhi, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "paintindia202530Jan2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "med chem",
             "pharma industry",
@@ -5601,6 +5396,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gettingthefoodsystem05Feb2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "British MS Society Ambient Ionization Group Meeting 2025",
+        "url": "https://www.bmss.org.uk/bmss-ambient-ionisation-sig-meeting-2025/",
+        "start_date": "05 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishmssocietyambi05Feb2025_0"
     },
     {
         "themes": [
@@ -6185,6 +6002,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "High-end anti-corrosion coatings",
+        "url": "https://www.european-coatings.com/events/conference/high-end-anti-corrosion-coatings/",
+        "start_date": "25 Feb 2025",
+        "end_date": "26 Feb 2025",
+        "locations": [
+            "Dusseldorf, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "highendanticorrosion25Feb2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -6600,6 +6439,28 @@
     },
     {
         "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "STEM for Britain",
+        "url": "https://stemforbritain.org.uk/",
+        "start_date": "11 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "stemforbritain11Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -6890,6 +6751,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Coatings Show & Conference",
+        "url": "https://www.european-coatings-show.com/",
+        "start_date": "24 Mar 2025",
+        "end_date": "27 Mar 2025",
+        "locations": [
+            "Nuremberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeancoatingsshow24Mar2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -7075,6 +6958,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "grahamawardsymposium01Apr2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Battery Conference 2025",
+        "url": "https://battery-power.eu/en/",
+        "start_date": "01 Apr 2025",
+        "end_date": "03 Apr 2025",
+        "locations": [
+            "Aachen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "batteryconference20201Apr2025_0"
     },
     {
         "themes": [
@@ -7746,6 +7653,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "theglobalsyntheticbi05May2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bio-based & water-based coatings",
+        "url": "https://www.european-coatings.com/events/conference/bio-based-water-based-coatings-2025/",
+        "start_date": "06 Mar 2025",
+        "end_date": "07 Mar 2025",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biobasedwaterbasedco06Mar2025_0"
     },
     {
         "themes": [
@@ -8526,6 +8455,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceontheh11Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on High Performance Liquid Phase Separations & Related Techniques HPLC 2025",
+        "url": "https://hplc2025-bruges.org/",
+        "start_date": "15 Jun 2025",
+        "end_date": "19 Jun 2025",
+        "locations": [
+            "Bruges, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonhighp15Jun2025_0"
     },
     {
         "themes": [
@@ -9830,6 +9781,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "ABRAFATI SHOW 2025",
+        "url": "https://home.abrafatishow.com.br/",
+        "start_date": "23 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "São Paolo, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "abrafatishow202523Sep2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -10054,6 +10027,119 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aicheannualmeeting02Nov2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Digitalization in coatings formulation",
+        "url": "https://www.european-coatings.com/events/conference/digitalisation-2025/",
+        "start_date": "05 Nov 2025",
+        "end_date": "06 Nov 2025",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "digitalizationincoat05Nov2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Powder coatings: Low temperature application",
+        "url": "https://www.european-coatings.com/events/conference/powder-coatings-2025/",
+        "start_date": "11 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "powdercoatingslowtem11Nov2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Smart barrier coatings",
+        "url": "https://www.european-coatings.com/events/conference/smart-barrier-coatings-2025/",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "smartbarriercoatings12Nov2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Gulf Coatings Show & Conference",
+        "url": "https://www.gulf-coatings-show.com/",
+        "start_date": "24 Nov 2025",
+        "end_date": "26 Nov 2025",
+        "locations": [
+            "Dubai, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PFAS & reformulating PFAS-free coatings 2025",
+        "url": "https://www.european-coatings.com/events/conference/pfas-2025/",
+        "start_date": "03 Dec 2025",
+        "end_date": "04 Dec 2025",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pfasreformulatingpfa03Dec2025_0"
     },
     {
         "themes": [
