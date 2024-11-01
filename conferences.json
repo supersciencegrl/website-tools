@@ -24,109 +24,6 @@
     },
     {
         "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "AIChE Food Innovation & Engineering FOODIE",
-        "url": "https://www.aiche.org/conferences/food-innovation-and-engineering-conference/2024",
-        "start_date": "31 Oct 2024",
-        "end_date": "01 Nov 2024",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aichefoodinnovatione31Oct2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Joint RSC-CSJ Chemical Science symposium: Materials for energy storage & conversion",
-        "url": "https://www.rsc.org/events/detail/78765/chemical-science-symposium-2024-materials-for-energy-storage-and-conversion",
-        "start_date": "31 Oct 2024",
-        "end_date": "01 Nov 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "jointrsccsjchemicals31Oct2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Broad Institute Machine Learning in Drug Discovery Symposium",
-        "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/machine-learning-drug-discovery",
-        "start_date": "31 Oct 2024",
-        "end_date": "01 Nov 2024",
-        "locations": [
-            "Cambridge, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "broadinstitutemachin31Oct2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "McBain Medal: Particles from model interfaces to soft matter formulations",
-        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2024/mcbain-medal-2024-particles-from-model-interfaces-to-soft-matter-formulations",
-        "start_date": "01 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mcbainmedalparticles01Nov2024_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -658,6 +555,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "hydrogenconference2006Nov2024_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Century of Chemistry in India",
+        "url": "https://commonwealthchemistry.org/event/century-of-chemistry-in-india-2024/",
+        "start_date": "06 Nov 2024",
+        "end_date": "07 Nov 2024",
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "centuryofchemistryin06Nov2024_0"
     },
     {
         "themes": [
@@ -1331,6 +1254,34 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "futurelabsautomation12Nov2024_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Pharma Integrates 2024",
+        "url": "https://lifescienceintegrates.com/event/pharma-integrates-2024/",
+        "start_date": "12 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharmaintegrates202412Nov2024_0"
     },
     {
         "themes": [
@@ -2134,6 +2085,31 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Congrès ELRIGfr European Laboratory Research & Innovation Group France",
+        "url": "https://www.elrigfr.com/notre-dernier-congres/nos-congres-2-2/",
+        "start_date": "20 Nov 2024",
+        "end_date": "21 Nov 2024",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "congrèselrigfreurope20Nov2024_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -2507,6 +2483,53 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scaleupofchemicalpro26Nov2024_0"
+    },
+    {
+        "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Science & the Scottish Parliament",
+        "url": "https://www.rsc.org/events/detail/79875/science-and-the-parliament-2024",
+        "start_date": "26 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciencethescottishpa26Nov2024_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Advanced Therapies Integrates 2024",
+        "url": "https://lifescienceintegrates.com/event/advanced-therapies-integrates-2024/",
+        "start_date": "26 Nov 2024",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancedtherapiesint26Nov2024_0"
     },
     {
         "themes": [
@@ -3893,6 +3916,29 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Society of Rheology Midwinter Meeting",
+        "url": "https://www.bsr.org.uk/events/bsr-2024-mid-winter-meeting",
+        "start_date": "16 Dec 2024",
+        "end_date": "18 Dec 2024",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishsocietyofrheo16Dec2024_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -4954,6 +5000,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Main Group Synthesis & Catalysis",
+        "url": "https://www.icmgsc2025.com/",
+        "start_date": "13 Feb 2025",
+        "end_date": "16 Feb 2025",
+        "locations": [
+            "Thiruvananthapuram, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonmain13Feb2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem"
@@ -5884,6 +5954,30 @@
     },
     {
         "themes": [
+            "business",
+            "careers",
+            "law/policy"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "FemHealth Integrates 2024",
+        "url": "https://lifescienceintegrates.com/event/femhealth-integrates-2025/",
+        "start_date": "18 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "femhealthintegrates218Mar2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -6760,6 +6854,48 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Portuguese Young Chemists' Meeting PYCheM",
+        "url": "https://9pychem.events.chemistry.pt/",
+        "start_date": "28 Apr 2025",
+        "end_date": "30 Apr 2025",
+        "locations": [
+            "Faro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "portugueseyoungchemi28Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "physical/phys org",
@@ -6923,6 +7059,48 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biobasedwaterbasedco06Mar2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "3rd Commonwealth Chemistry Congress",
+        "url": "https://commonwealthchemistry.org/event/ccc2025/",
+        "start_date": "11 May 2025",
+        "end_date": "14 May 2025",
+        "locations": [
+            "Stellenbosch, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "3rdcommonwealthchemi11May2025_0"
     },
     {
         "themes": [
@@ -8048,6 +8226,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlsymposiumonbioca29Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Reusable Libraries in Quantum Chemistry",
+        "url": "https://www.helsinki.fi/en/beta/conferences/reusable-libraries-quantum-chemistry-2025",
+        "start_date": "29 Jun 2025",
+        "end_date": "03 Jul 2025",
+        "locations": [
+            "Masala, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "reusablelibrariesinq29Jun2025_0"
     },
     {
         "themes": [
