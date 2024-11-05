@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "R in Pharma",
-        "url": "https://events.zoom.us/ev/AvobJEOTVwkUnH6_TgLZDZJauk4dxfm5jCG8JFNN9zukOcsVLvTN~AmO5XY5HRBcxkKG6Hga1aXZaYtpBSER6jHms1seP-NNOA0dhcQZUGJ2NWg",
-        "start_date": "25 Oct 2024",
-        "end_date": "02 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rinpharma25Oct2024_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -69,29 +46,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "acsrscqatarregionalm03Nov2024_0"
-    },
-    {
-        "themes": [
-            "education",
-            "safety"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Chemical management in secondary school laboratories (training course)",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=53a51406-bbe9-487c-b0e0-0191b08a8157",
-        "start_date": "04 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalmanagementin04Nov2024_0"
     },
     {
         "themes": [
@@ -3991,6 +3945,48 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "conferenceonadvances16Dec2024_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Annual Convention of Chemists ACC & Intl Conference on Emerging Trends in Cheimstry to Revolutionize Indian Chemical Industries",
+        "url": "https://conference.jecrcuniversity.edu.in/ACC2024/",
+        "start_date": "19 Dec 2024",
+        "end_date": "21 Dec 2024",
+        "locations": [
+            "Rajasthan, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualconventionofch19Dec2024_0"
     },
     {
         "themes": [
