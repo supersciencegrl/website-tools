@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "education",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Global"
-        ],
-        "title": "Chemistry Week",
-        "url": "https://www.rsc.org/policy-evidence-campaigns/outreach/get-involved/",
-        "start_date": "04 Nov 2024",
-        "end_date": "10 Nov 2024",
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemistryweek04Nov2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "pharma industry",
             "process/engineering"
@@ -51,55 +28,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CO2 Conversion by Renewable Energy",
-        "url": "https://conferences.nature.com/event/CO2Conversion/summary",
-        "start_date": "08 Nov 2024",
-        "end_date": "10 Nov 2024",
-        "locations": [
-            "Wuhan, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "co2conversionbyrenew08Nov2024_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "ScienceWriters2024",
-        "url": "https://sciencewriters2024.org/",
-        "start_date": "08 Nov 2024",
-        "end_date": "11 Nov 2024",
-        "locations": [
-            "Raleigh, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciencewriters202408Nov2024_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "materials/polymers",
             "process/engineering"
@@ -121,129 +49,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "safesustainablebydes10Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Bioinformatics & IT strategy meeting USA",
-        "url": "https://proventainternational.com/events/rd/usa-east/boston/bioinformatics-and-it-strategy-meeting-east-coast-2024/",
-        "start_date": "11 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioinformaticsitstra11Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Leverhulme Research Centre for Functional Materials Design Early Career Colloquium",
-        "url": "https://www.liverpool.ac.uk/leverhulme-research-centre/events/",
-        "start_date": "11 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "leverhulmeresearchce11Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Automated Synthesis Forum",
-        "url": "https://automatedsynthesisforum.com/",
-        "start_date": "11 Nov 2024",
-        "end_date": "12 Nov 2024",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£140",
-        "non_member_fee": "£140",
-        "max_fee": "£140",
-        "uid": "automatedsynthesisfo11Nov2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Workshop on lithium-sulfur batteries",
-        "url": "https://www.iws.fraunhofer.de/en/events/lithium-sulfur-batteries.html",
-        "start_date": "11 Nov 2024",
-        "end_date": "12 Nov 2024",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "workshoponlithiumsul11Nov2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Aus-NZ Natural Products Chemistry & Biology Symposium/RACI NSW Natural Products Symposium",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=f5ab8ec7-0fa3-4c1e-b240-019158dad0b4",
-        "start_date": "11 Nov 2024",
-        "end_date": "12 Nov 2024",
-        "locations": [
-            "Sydney, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ausnznaturalproducts11Nov2024_0"
     },
     {
         "themes": [
@@ -332,88 +137,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "solutionsinchemistry11Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "catalysis",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "[Big Pharma] Chemistry Connect (postdocs/students worldwide)",
-        "url": "https://www.pfizerchemistryconnect.com/",
-        "start_date": "12 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bigpharmachemistryco12Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Future Labs, Automation, & Technology West",
-        "url": "https://www.amg-world.co.uk/future-labs-automation-technology-west/",
-        "start_date": "12 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futurelabsautomation12Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Pharma Integrates 2024",
-        "url": "https://lifescienceintegrates.com/event/pharma-integrates-2024/",
-        "start_date": "12 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmaintegrates202412Nov2024_0"
     },
     {
         "themes": [
@@ -3627,6 +3350,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "49thintlconferencean26Jan2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Journées Chimie Coordination JCC",
+        "url": "https://jcc2025.sciencesconf.org/",
+        "start_date": "27 Jan 2025",
+        "end_date": "28 Jan 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "journéeschimiecoordi27Jan2025_0"
     },
     {
         "themes": [
