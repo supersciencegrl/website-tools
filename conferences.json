@@ -198,10 +198,13 @@
         "start_date": "12 Nov 2024",
         "end_date": "14 Nov 2024",
         "locations": [
-            "Philadelphia, PA, uSA"
+            "Philadelphia, PA, USA"
         ],
         "countries": [
-            "uSA"
+            "USA"
+        ],
+        "US_state": [
+            "PA"
         ],
         "member_fee": "",
         "non_member_fee": "—",
