@@ -37,6 +37,7 @@ def decode_themes(theme_list: list) -> list:
         'env': 'environment/fuels',
         'fuels': 'environment/fuels',
         'form': 'formulation/particle science',
+        'history': 'history/philosophy',
         'inorg': 'inorganic/nano',
         'policy': 'law/policy',
         'mat': 'materials/polymers',
@@ -281,7 +282,7 @@ def export_to_json(all_conferences: list[dict], output_file: str='conferences.js
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
-    proxies = set_proxy()
-    # proxies = {}
+    # proxies = set_proxy()
+    proxies = {}
     all_conferences = get_conferences()
     export_to_json(all_conferences)
