@@ -1,171 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Disruptive Photonics Technologies",
-        "url": "https://conferences.nature.com/event/DisruptivePhotonics/summary",
-        "start_date": "15 Nov 2024",
-        "end_date": "17 Nov 2024",
-        "locations": [
-            "Zhuhai, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "disruptivephotonicst15Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Introduction to Mass Spectrometry (training course)",
-        "url": "https://www.bmss.org.uk/education/introduction-to-ms-course/",
-        "start_date": "17 Nov 2024",
-        "end_date": "18 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "introductiontomasssp17Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Green Lab Symposium",
-        "url": "https://www.greenlab.ch/5-symposium",
-        "start_date": "18 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "greenlabsymposium18Nov2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "The quest for new medicines to slow the progression of disability in neurodegenerative disorders",
-        "url": "https://www.smr.org.uk/Meetings/20241118/",
-        "start_date": "18 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "thequestfornewmedici18Nov2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "ELRIG Protein Sciences in Drug Discovery 2024",
-        "url": "https://elrig.org/portfolio/protein-sciences-in-drug-discovery-2024/",
-        "start_date": "18 Nov 2024",
-        "end_date": "19 Nov 2024",
-        "locations": [
-            "Hinxton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "elrigproteinsciences18Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "American Pharma Manufacturing & Outsourcing Summit",
-        "url": "https://posummit.com/",
-        "start_date": "18 Nov 2024",
-        "end_date": "19 Nov 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "americanpharmamanufa18Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "AUTOMA+ Pharmaceutical Automation & Digitalization Congress 2024",
-        "url": "https://automa.plus/",
-        "start_date": "18 Nov 2024",
-        "end_date": "19 Nov 2024",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "automapharmaceutical18Nov2024_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "med chem",
             "synthesis"
@@ -351,31 +186,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "targettocandidateash18Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Challenges in Catalysis VIII",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2024/challenges-in-catalysis-viii",
-        "start_date": "19 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£120",
-        "non_member_fee": "£140",
-        "max_fee": "£140",
-        "uid": "challengesincatalysi19Nov2024_0"
     },
     {
         "themes": [
@@ -4628,6 +4438,31 @@
     {
         "themes": [
             "analytical",
+            "automation",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Centre for Process Analysis & Control CPACT Research Day",
+        "url": "https://www.cpact.com/Events/Event?eid=377",
+        "start_date": "11 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Huddersfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "centreforprocessanal11Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio",
             "formulation/particle science",
             "med chem",
@@ -4636,7 +4471,7 @@
         "regions": [
             "London"
         ],
-        "title": "Biologics & TIDES 2025",
+        "title": "NextGen Biomed 2025",
         "url": "https://oxfordglobal.com/biologics/events/biologics-2025",
         "start_date": "12 Mar 2025",
         "end_date": "14 Mar 2025",
@@ -4649,7 +4484,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "biologicstides202512Mar2025_0"
+        "uid": "nextgenbiomed202512Mar2025_0"
     },
     {
         "themes": [
@@ -5513,6 +5348,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scirscworkshoponcomp08Apr2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "German Biotech Days DBT",
+        "url": "https://www.biotechnologietage.de/",
+        "start_date": "09 Apr 2025",
+        "end_date": "10 Apr 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "germanbiotechdaysdbt09Apr2025_0"
     },
     {
         "themes": [
@@ -6507,6 +6365,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "flowchemistryjapan28May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Discovery & Development Europe",
+        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe-2025",
+        "start_date": "01 Jul 2025",
+        "end_date": "02 Jul 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discoverydevelopment01Jul2025_0"
     },
     {
         "themes": [
@@ -8175,6 +8058,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ilmac2025tradefair16Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Advances in Process Analytics & Control Technologies APACT",
+        "url": "https://www.cpact.com/Events/Event?eid=386",
+        "start_date": "22 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancesinprocessana22Sep2025_0"
     },
     {
         "themes": [
