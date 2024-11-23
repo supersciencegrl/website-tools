@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Solid State Surfaces & Interfaces",
-        "url": "https://www.savsssi.sk/",
-        "start_date": "18 Nov 2024",
-        "end_date": "21 Nov 2024",
-        "locations": [
-            "Smolenice, Slovakia"
-        ],
-        "countries": [
-            "Slovakia"
-        ],
-        "member_fee": "€760",
-        "non_member_fee": "€760",
-        "max_fee": "€760",
-        "uid": "solidstatesurfacesin18Nov2024_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -67,247 +45,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "targettocandidateash18Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "21st Annual bioProcessUK Conference 2024",
-        "url": "https://www.bioindustry.org/event-listing/21-bioprocessuk-annual-conference.html",
-        "start_date": "19 Nov 2024",
-        "end_date": "21 Nov 2024",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "21stannualbioprocess19Nov2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "3rd Hippo Pathway Targeted Drug Development Summit",
-        "url": "https://hippo-pathway.com/",
-        "start_date": "20 Nov 2024",
-        "end_date": "21 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "3rdhippopathwaytarge20Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Congrès ELRIGfr European Laboratory Research & Innovation Group France",
-        "url": "https://www.elrigfr.com/notre-dernier-congres/nos-congres-2-2/",
-        "start_date": "20 Nov 2024",
-        "end_date": "21 Nov 2024",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "congrèselrigfreurope20Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Bioanalysis Forum Open Symposium",
-        "url": "https://meetings.e-b-f.eu/open/",
-        "start_date": "20 Nov 2024",
-        "end_date": "22 Nov 2024",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanbioanalysisf20Nov2024_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Phase Engineering of Nanomaterials PEN",
-        "url": "https://conferences.nature.com/event/pen2024/summary",
-        "start_date": "20 Nov 2024",
-        "end_date": "22 Nov 2024",
-        "locations": [
-            "Kowloon, Hong Kong"
-        ],
-        "countries": [
-            "Hong Kong"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "phaseengineeringofna20Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS/CICAG Hot Topics: Robotics & Automation",
-        "url": "https://www.rscbmcs.org/events/hottopicsroboticsautomation24/",
-        "start_date": "21 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcscicaghottopic21Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "New frontiers in synthetic chemistry",
-        "url": "https://meetings.e-b-f.eu/open/",
-        "start_date": "21 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "newfrontiersinsynthe21Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "New Jersey ACS OTG Creativity in Molecular Design & Synthesis",
-        "url": "https://www.njacs.org/event/2024-njacs-otg-award-for-creativity-in-molecular-design-synthesis/",
-        "start_date": "21 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Somerset, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "newjerseyacsotgcreat21Nov2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Makeathon: Life Science innolab",
-        "url": "https://www.konstanz.farm/event/makeathon-life-science-innolab-bodensee/",
-        "start_date": "21 Nov 2024",
-        "end_date": "22 Nov 2024",
-        "locations": [
-            "Konstanz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "makeathonlifescience21Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Innovations in Process Chemistry & Technology",
-        "url": "https://www.rsc.org/events/detail/79514/innovations-in-process-chemistry-and-technology-2024",
-        "start_date": "22 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "innovationsinprocess22Nov2024_0"
     },
     {
         "themes": [
@@ -2388,6 +2125,34 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Chemical biology of nucleic acids",
+        "url": "https://events.nyas.org/event/nucleicacids/summary",
+        "start_date": "14 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "New York, NY, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalbiologyofnuc14Jan2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -2652,30 +2417,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées Chimie Coordination JCC",
-        "url": "https://jcc2025.sciencesconf.org/",
-        "start_date": "27 Jan 2025",
-        "end_date": "28 Jan 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "journéeschimiecoordi27Jan2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -2699,6 +2440,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer26Jan2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Journées Chimie Coordination JCC",
+        "url": "https://jcc2025.sciencesconf.org/",
+        "start_date": "27 Jan 2025",
+        "end_date": "28 Jan 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "journéeschimiecoordi27Jan2025_0"
     },
     {
         "themes": [
@@ -2747,6 +2512,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "catalysingsustainabi27Jan2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Virtual Winter School on Computational Chemistry",
+        "url": "https://winterschool.cc/",
+        "start_date": "27 Jan 2025",
+        "end_date": "31 Jan 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "virtualwinterschoolo27Jan2025_0"
     },
     {
         "themes": [
@@ -5101,6 +4889,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scirscworkshoponcomp08Apr2025_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Unchained Labs automation open house",
+        "url": "https://go.unchainedlabs.com/AutomationOpenHouse4-8-2025",
+        "start_date": "08 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Pleasanton, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "unchainedlabsautomat08Apr2025_0"
     },
     {
         "themes": [
