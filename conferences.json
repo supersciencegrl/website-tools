@@ -2101,6 +2101,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Chemical Nanoscience and Nanotechnology CNN Interest Group Annual Symposium",
+        "url": "https://www.rsc.org/events/detail/79199/rsc-chemical-nanoscience-and-nanotechnology-cnn-interest-group-annual-symposium",
+        "start_date": "13 Jan 2025",
+        "end_date": "14 Jan 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscchemicalnanoscien13Jan2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "education",
             "physical/phys org"
