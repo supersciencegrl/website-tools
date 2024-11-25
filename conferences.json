@@ -48,30 +48,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ChemLLMathon",
-        "url": "https://chemindix2024.com/chemllmathon-program/",
-        "start_date": "24 Nov 2024",
-        "end_date": "25 Nov 2024",
-        "locations": [
-            "Dhahran, Saudi Arabia"
-        ],
-        "countries": [
-            "Saudi Arabia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemllmathon24Nov2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -162,28 +138,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "winterschoolfortheor24Nov2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS Symposium on AI 2024: Critical use of AI in quantum chemistry",
-        "url": "https://ai24.scg.ch/",
-        "start_date": "25 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scssymposiumonai202425Nov2024_0"
     },
     {
         "themes": [
@@ -4249,6 +4203,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "#PLA2025\n Paperless Lab Academy Europe",
+        "url": "https://www.paperlesslabacademy.com/europe/",
+        "start_date": "18 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pla2025\npaperlesslab18Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -4385,6 +4361,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "designdevelopmentsca24Mar2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Pistoia Alliance conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-2025-london-conference/",
+        "start_date": "25 Mar 2025",
+        "end_date": "26 Mar 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pistoiaallianceconfe25Mar2025_0"
     },
     {
         "themes": [
@@ -4525,6 +4523,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "applicationsofmachin31Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "#IonChannels25\n RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
+        "url": "https://www.rscbmcs.org/events/ionchannels25/",
+        "start_date": "31 Mar 2025",
+        "end_date": "01 Apr 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ionchannels25\nrscbmc31Mar2025_0"
     },
     {
         "themes": [
@@ -5154,6 +5175,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scsspringmeeting202524Apr2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "#HatfieldMedChem25\n RSC BMCS Spring Symposium on Medicinal Chemistry \"Hatfield\"",
+        "url": "https://www.rscbmcs.org/events/hatfield25/",
+        "start_date": "24 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "hatfieldmedchem25\nrs24Apr2025_0"
     },
     {
         "themes": [
@@ -6080,6 +6124,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "syntheticorganicelec02Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#SDDD25\n RSC BMCS Synthesis in Drug Discovery & Development SDDD",
+        "url": "https://www.rscbmcs.org/events/sddd25/",
+        "start_date": "03 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sddd25\nrscbmcssynthe03Jun2025_0"
     },
     {
         "themes": [
@@ -7649,6 +7719,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ilmac2025tradefair16Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "#AIChem25\n Artificial Intelligence AI in Chemistry Symposium",
+        "url": "https://www.rscbmcs.org/events/aichem8/",
+        "start_date": "22 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "aichem25\nartificiali22Sep2025_0"
     },
     {
         "themes": [
