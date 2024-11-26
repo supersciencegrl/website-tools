@@ -998,33 +998,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "PharmaWorX: Accelerating Transformation of Life Science, Pharma and Biotech R&D with Automation, AI/ML & Robotics Tools",
-        "url": "https://pharmaworx.io/",
-        "start_date": "03 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmaworxaccelerati03Dec2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
