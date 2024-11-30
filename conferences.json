@@ -1,565 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20241121/",
-        "start_date": "18 Nov 2024",
-        "end_date": "26 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "£1,449–1,739",
-        "non_member_fee": "£1,449–1,739",
-        "max_fee": "£1,449–1,739",
-        "uid": "chemicalprocesssafet18Nov2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Target to Candidate: A short course in drug discovery (training course)",
-        "url": "https://wcair.dundee.ac.uk/training/short-courses/",
-        "start_date": "18 Nov 2024",
-        "end_date": "29 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "targettocandidateash18Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Large Molecules (training course)",
-        "url": "https://www.dmdg.org/events/20241124/introduction.asp",
-        "start_date": "24 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "largemoleculestraini24Nov2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "New Zealand Institute of Chemistry NZIC Conference 2024",
-        "url": "https://www.ivvy.com.au/event/NZIC2024/",
-        "start_date": "24 Nov 2024",
-        "end_date": "28 Nov 2024",
-        "locations": [
-            "Dunedin, New Zealand"
-        ],
-        "countries": [
-            "New Zealand"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "newzealandinstituteo24Nov2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Winter School for Theoretical Chemistry and Spectroscopy",
-        "url": "https://www.han-sur-lesse-winterschool.nl/",
-        "start_date": "24 Nov 2024",
-        "end_date": "29 Nov 2024",
-        "locations": [
-            "Han-sur-Lesse, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "winterschoolfortheor24Nov2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Food Chemistry & Technology",
-        "url": "https://foodchemconference.com/",
-        "start_date": "25 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "Valencia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "€749",
-        "non_member_fee": "€749",
-        "max_fee": "€749",
-        "uid": "intlconferenceonfood25Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI India",
-        "url": "https://www.cphi.com/india/en/home.html",
-        "start_date": "25 Nov 2024",
-        "end_date": "28 Nov 2024",
-        "locations": [
-            "Delhi, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "cphiindia25Nov2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Scaleup of chemical processes (training course, in-person)",
-        "url": "https://www.icheme.org/training-events/training/courses-a-z/scale-up-of-chemical-processes/",
-        "start_date": "26 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scaleupofchemicalpro26Nov2024_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Science & the Scottish Parliament",
-        "url": "https://www.rsc.org/events/detail/79875/science-and-the-parliament-2024",
-        "start_date": "26 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciencethescottishpa26Nov2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Advanced Therapies Integrates 2024",
-        "url": "https://lifescienceintegrates.com/event/advanced-therapies-integrates-2024/",
-        "start_date": "26 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancedtherapiesint26Nov2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AIChE Global Summit on Process Safety GSPS",
-        "url": "https://www.aiche.org/ccps/conferences/ccps-global-summit-on-process-safety/2024",
-        "start_date": "26 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aicheglobalsummitonp26Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Biotech Outsourcing Strategies BOS 2024",
-        "url": "https://www.bio2bevents.com/bosmanchester2024/",
-        "start_date": "26 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biotechoutsourcingst26Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "law/policy"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "SCI Early Career Business Training Workshop 2024",
-        "url": "https://www.soci.org/events/hq-events/2024/early-career-business-training-workshops-2024",
-        "start_date": "26 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciearlycareerbusine26Nov2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "An Introduction to Life Cycle Assessment LCA Methodology (training course)",
-        "url": "https://www.highvaluebiorenewables.net/events/",
-        "start_date": "26 Nov 2024",
-        "end_date": "27 Nov 2024",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "anintroductiontolife26Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ChemIndix 2024: Shaping the future through sustainability solutions",
-        "url": "https://chemindix2024.com/",
-        "start_date": "26 Nov 2024",
-        "end_date": "28 Nov 2024",
-        "locations": [
-            "Dhahran, Saudi Arabia"
-        ],
-        "countries": [
-            "Saudi Arabia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemindix2024shaping26Nov2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS Symposium on AI: Critical use of AI in quantum chemistry",
-        "url": "https://ai24.scg.ch/",
-        "start_date": "27 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scssymposiumonaicrit27Nov2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Energy and Material Flows in Sustainable Petrochemistry: Opportunities & implications",
-        "url": "https://dgmk.de/en/events-5/energy-and-material-flows-in-sustainable-petrochemicals/",
-        "start_date": "27 Nov 2024",
-        "end_date": "29 Nov 2024",
-        "locations": [
-            "Hamburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "energyandmaterialflo27Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Materials chemistry poster symposium",
-        "url": "https://www.rsc.org/events/detail/78986/materials-chemistry-poster-symposium",
-        "start_date": "29 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "materialschemistrypo29Nov2024_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Queensland Annual Chemistry Symposium QACS 2024",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=3f49ca11-ad43-4c50-a1eb-018fecbab4c3",
-        "start_date": "29 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Brisbane, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "queenslandannualchem29Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Annual Synthesis Symposium",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=3949f551-37c6-4a22-9209-01916d1fcb70",
-        "start_date": "29 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualsynthesissympo29Nov2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Victorian Inorganic Symposium",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=2550e785-9a68-49d4-aec2-01929d2631bd",
-        "start_date": "29 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "victorianinorganicsy29Nov2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Molecular Graphics & Modelling Society MGMS Young Modellers' Forum",
-        "url": "https://www.mgms.org/WordPress/conferences/ymf-2024-2-2/",
-        "start_date": "29 Nov 2024",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "moleculargraphicsmod29Nov2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "careers",
             "computational/data",
@@ -1123,6 +564,30 @@
     {
         "themes": [
             "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Genesis Conference: Maximising Returns from Life Science Innovation",
+        "url": "https://www.genesisconference.com/",
+        "start_date": "04 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "genesisconferencemax04Dec2024_0"
+    },
+    {
+        "themes": [
+            "business",
             "environment/fuels"
         ],
         "regions": [
@@ -1457,6 +922,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "infraredramandiscuss02Dec2024_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "youngSCS Visit to Novartis (students/postdocs)",
+        "url": "https://scg.ch/component/eventbooking/youngscs-industry-visit-to-novartis",
+        "start_date": "10 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "youngscsvisittonovar10Dec2024_0"
     },
     {
         "themes": [
@@ -2514,6 +2002,30 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "law/policy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Biotechnet: Biotech & ageing",
+        "url": "https://www.eventbrite.ch/e/biotechnet-meet-up-2025-biotech-and-aging-tickets-1056585237889",
+        "start_date": "28 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biotechnetbiotechage28Jan2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "process/engineering"
         ],
@@ -2911,6 +2423,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ChemMetBio 2025: Chemistry of metal ions & nanoparticles in biology",
+        "url": "http://frommgroup.ch/chemmetbio-2025/",
+        "start_date": "07 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemmetbio2025chemis07Feb2025_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -3076,6 +2613,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "greeneringinternatio12Feb2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "LS2 Life Sciences Switzerland Annual Meeting",
+        "url": "https://annual-meeting.ls2.ch/2025",
+        "start_date": "13 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ls2lifesciencesswitz13Feb2025_0"
     },
     {
         "themes": [
@@ -5428,6 +4989,29 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Biotech Day 2025",
+        "url": "https://swissbiotechday.ch/",
+        "start_date": "05 May 2025",
+        "end_date": "06 May 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swissbiotechday202505May2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -5948,6 +5532,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "futurelabslive27May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "RSC BMCS Hot Topics: PROTACs & Glues",
+        "url": "https://www.rscbmcs.org/events/hottopicsprotacsandglues2025/",
+        "start_date": "28 May 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscbmcshottopicsprot28May2025_0"
     },
     {
         "themes": [
@@ -6875,6 +6485,54 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "One Nucleus ON Helix: New Horizons for Bio Innovation",
+        "url": "https://www.onhelix.com/",
+        "start_date": "03 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "onenucleusonhelixnew03Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Conference on Organometallic Chemistry EuCOMC 2025",
+        "url": "https://eucomc2025.scg.ch/",
+        "start_date": "06 Jul 2025",
+        "end_date": "10 Jul 2025",
+        "locations": [
+            "Bern, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanconferenceon06Jul2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -7367,6 +7025,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "efmcintlsymposiumona31Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Contaminated Sediments ContaSed 2025",
+        "url": "https://www.oeschger.unibe.ch/services/events/conferences/contased_2025/announcement/index_eng.html",
+        "start_date": "02 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Bern, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceoncont02Sep2025_0"
     },
     {
         "themes": [
@@ -8062,6 +7744,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Conference on Safe & Sustainable by Design 2025 SSbD25",
+        "url": "https://scg.ch/component/eventbooking/ssbd25",
+        "start_date": "10 Nov 2025",
+        "end_date": "12 Nov 2025",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "conferenceonsafesust10Nov2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -8487,6 +8193,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Chemical Society SCS Fall Meeting",
+        "url": "https://scg.ch/component/eventbooking/fm26",
+        "start_date": "27 Aug 2026",
+        "end_date": "28 Aug 2026",
+        "locations": [
+            "Bern, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swisschemicalsociety27Aug2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -8529,6 +8278,49 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "efmcismcintlsymposiu06Sep2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ILMAC (trade fair)",
+        "url": "https://scg.ch/component/eventbooking/ilmac26",
+        "start_date": "23 Sep 2026",
+        "end_date": "24 Sep 2026",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ilmactradefair23Sep2026_0"
     },
     {
         "themes": [
