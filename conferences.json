@@ -52,80 +52,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "chem bio",
-            "environment/fuels",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Organic Chemistry Poster Symposium",
-        "url": "https://www.rsc.org/events/detail/79347/organic-chemistry-poster-symposium",
-        "start_date": "02 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "organicchemistrypost02Dec2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Physical, Polymer, & Materials Symposium",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=dbc84b1b-6d71-4f3a-9426-019273d5f6db",
-        "start_date": "02 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Adelaide, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "physicalpolymermater02Dec2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Active learning in pharma",
-        "url": "https://www.active-learning.uk/",
-        "start_date": "02 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "activelearninginphar02Dec2024_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "law/policy",
@@ -2542,6 +2468,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "understandingpolymor10Feb2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "#GWB2025\n IUPAC Global Women's Breakfast",
+        "url": "https://iupac.org/gwb/2025/",
+        "start_date": "11 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gwb2025\niupacglobalw11Feb2025_0"
     },
     {
         "themes": [
