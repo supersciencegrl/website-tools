@@ -1,133 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "careers",
-            "computational/data",
-            "inorganic/nano",
-            "med chem",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "RACI Research & Development Conference (postgrad students)",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=b756ba27-91ba-4c4d-aba4-018f03c6d04a",
-        "start_date": "01 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "Hobart, Tasmania, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "raciresearchdevelopm01Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "R&D Topics Conference in Analytical & Environmental Chemistry",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=b756ba27-91ba-4c4d-aba4-018f03c6d04a",
-        "start_date": "01 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "Sandy Bay, Tasmania, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rdtopicsconferencein01Dec2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "law/policy",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Biocides Europe 2024",
-        "url": "https://events.chemicalwatch.com/1000988/biocides-europe-2024",
-        "start_date": "02 Dec 2024",
-        "end_date": "03 Dec 2024",
-        "locations": [
-            "Vienna, Austria",
-            "Online"
-        ],
-        "countries": [
-            "Austria",
-            "Online"
-        ],
-        "member_fee": "€978",
-        "non_member_fee": "€1,150",
-        "max_fee": "€1,150",
-        "uid": "biocideseurope202402Dec2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Grignard Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/grignard-chemistry-short-course/",
-        "start_date": "02 Dec 2024",
-        "end_date": "03 Dec 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "grignardchemistrytra02Dec2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "PhotoReAct Final Conference: Advancing & implementing photochemistry",
-        "url": "https://www.eventbrite.com/e/photoreact-final-conference-tickets-957013000647",
-        "start_date": "02 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "photoreactfinalconfe02Dec2024_0"
-    },
-    {
-        "themes": [
             "business",
             "environment/fuels",
             "process/engineering"
@@ -172,196 +45,6 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "processsafetyweek02Dec2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Livestock horizons beyond food production",
-        "url": "https://www.soci.org/events/agrisciences-group/2024/livestock-horizons-beyond-food-production",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "livestockhorizonsbey03Dec2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Innovations in new drug modalities & biologics",
-        "url": "https://www.slas.org/events-calendar/slas-elrig-innovations-in-new-drug-modalities-biologics/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "innovationsinnewdrug03Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Drug Discovery Paris: Single-Cell Genomics",
-        "url": "https://elrig.org/portfolio/elrig-paris-forum/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdiscoveryparissi03Dec2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Bioprocess intensification for a sustainable future",
-        "url": "https://www.icheme.org/knowledge-networks/communities/special-interest-groups/biochemical-engineering/events/03-12-2024-bio-process-intensification-for-a-sustainable-future/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioprocessintensific03Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SLAS-ELRIG Networking Forum: Innovations in new drug modalities & biologics",
-        "url": "https://elrig.org/portfolio/elrig-slas-forum-24/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "slaselrignetworkingf03Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Future Labs, Automation & Technology Europe Summit 2024",
-        "url": "https://www.amg-world.co.uk/future-labs-europe/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futurelabsautomation03Dec2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scaleup of chemical processes (training course, online)",
-        "url": "https://www.icheme.org/training-events/training/courses-a-z/scale-up-of-chemical-processes/",
-        "start_date": "03 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scaleupofchemicalpro03Dec2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biofit: Fostering innovation & transfer",
-        "url": "https://www.biofit-event.com/",
-        "start_date": "03 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "Lille, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biofitfosteringinnov03Dec2024_0"
     },
     {
         "themes": [
@@ -3691,7 +3374,7 @@
         "regions": [
             "London"
         ],
-        "title": "#PLA2025\n Paperless Lab Academy Europe",
+        "title": "Paperless Lab Academy Europe",
         "url": "https://www.paperlesslabacademy.com/europe/",
         "start_date": "18 Mar 2025",
         "end_date": "19 Mar 2025",
@@ -3704,7 +3387,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "pla2025\npaperlesslab18Mar2025_0"
+        "uid": "paperlesslabacademye18Mar2025_0"
     },
     {
         "themes": [
@@ -4015,7 +3698,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#IonChannels25\n RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
+        "title": "RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
         "url": "https://www.rscbmcs.org/events/ionchannels25/",
         "start_date": "31 Mar 2025",
         "end_date": "01 Apr 2025",
@@ -4028,7 +3711,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "ionchannels25\nrscbmc31Mar2025_0"
+        "uid": "rscbmcsscisymposiumo31Mar2025_0"
     },
     {
         "themes": [
@@ -4667,7 +4350,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#HatfieldMedChem25\n RSC BMCS Spring Symposium on Medicinal Chemistry \"Hatfield\"",
+        "title": "RSC BMCS Spring Symposium on Medicinal Chemistry \"Hatfield\"",
         "url": "https://www.rscbmcs.org/events/hatfield25/",
         "start_date": "24 Apr 2025",
         "end_date": null,
@@ -4680,7 +4363,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "hatfieldmedchem25\nrs24Apr2025_0"
+        "uid": "rscbmcsspringsymposi24Apr2025_0"
     },
     {
         "themes": [
@@ -5668,7 +5351,7 @@
         "regions": [
             "Online"
         ],
-        "title": "#SDDD25\n RSC BMCS Synthesis in Drug Discovery & Development SDDD",
+        "title": "RSC BMCS Synthesis in Drug Discovery & Development SDDD",
         "url": "https://www.rscbmcs.org/events/sddd25/",
         "start_date": "03 Jun 2025",
         "end_date": "04 Jun 2025",
@@ -5681,7 +5364,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "sddd25\nrscbmcssynthe03Jun2025_0"
+        "uid": "rscbmcssynthesisindr03Jun2025_0"
     },
     {
         "themes": [
@@ -7332,7 +7015,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#AIChem25\n Artificial Intelligence AI in Chemistry Symposium",
+        "title": "#AIChem25\n AI in Chemistry",
         "url": "https://www.rscbmcs.org/events/aichem8/",
         "start_date": "22 Sep 2025",
         "end_date": "24 Sep 2025",
@@ -7345,7 +7028,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "aichem25\nartificiali22Sep2025_0"
+        "uid": "aichem25\naiinchemist22Sep2025_0"
     },
     {
         "themes": [
