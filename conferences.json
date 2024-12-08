@@ -1,370 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Global"
-        ],
-        "title": "Process Safety Week",
-        "url": "https://www.aiche.org/ccps/conferences/international-process-safety-week/2024",
-        "start_date": "02 Dec 2024",
-        "end_date": "06 Dec 2024",
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "processsafetyweek02Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Drug Discovery Chemistry Europe",
-        "url": "https://www.drugdiscoverychemistry.com/europe",
-        "start_date": "03 Dec 2024",
-        "end_date": "05 Dec 2024",
-        "locations": [
-            "Barcelona, Spain",
-            "Online"
-        ],
-        "countries": [
-            "Spain",
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdiscoverychemist03Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Advances & new horizons in glycobiology",
-        "url": "https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=114405&eventID=214&CSPCHD=000001000000WzQI9kkQKuUyhCoNotex2jEtNxdE68p0EB$p2O",
-        "start_date": "03 Dec 2024",
-        "end_date": "05 Dec 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancesnewhorizonsi03Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Sample preparation & data analysis in proteomics (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sdp24-01/",
-        "start_date": "03 Dec 2024",
-        "end_date": "06 Dec 2024",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "€1,100",
-        "non_member_fee": "€1,100",
-        "max_fee": "€1,100",
-        "uid": "samplepreparationdat03Dec2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Annual Review Meeting: New directions in organic chemistry",
-        "url": "http://soci.org/events/young-chemists-panel/2024/30th-sci-annual-review-meeting--new-directions-in-organic-chemistry",
-        "start_date": "04 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£125",
-        "non_member_fee": "£175",
-        "max_fee": "£175",
-        "uid": "sciannualreviewmeeti04Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "MIBio Stability of Biopharmaceuticals",
-        "url": "https://constableandsmith.com/events/mibio-2024",
-        "start_date": "04 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mibiostabilityofbiop04Dec2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Genesis Conference: Maximising Returns from Life Science Innovation",
-        "url": "https://www.genesisconference.com/",
-        "start_date": "04 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "genesisconferencemax04Dec2024_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Indonesia Refining & Petrochemical FOrum IRPF",
-        "url": "https://www.indonesiarnp.com/",
-        "start_date": "04 Dec 2024",
-        "end_date": "05 Dec 2024",
-        "locations": [
-            "Bali, Indonesia"
-        ],
-        "countries": [
-            "Indonesia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "indonesiarefiningpet04Dec2024_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Genotoxic Impurities Summit: Nitrosamines & beyond",
-        "url": "https://www.uventia.com/event/4th-annual-genotoxic-impurities-summit-nitrosamines-beyond-2024/",
-        "start_date": "04 Dec 2024",
-        "end_date": "05 Dec 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "genotoxicimpuritiess04Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Nano R&D ICNRD-2024",
-        "url": "https://istci.org/icnrd/",
-        "start_date": "04 Dec 2024",
-        "end_date": "06 Dec 2024",
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "member_fee": "$599–1,599",
-        "non_member_fee": "$599–1,599",
-        "max_fee": "$599–1,599",
-        "uid": "intlconferenceonnano04Dec2024_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Austrian Peptide Symposium",
-        "url": "https://austrianpeptides.org/",
-        "start_date": "05 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
-        "uid": "austrianpeptidesympo05Dec2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Recent Trends in Medicinal Chemistry and Enabling Technologies",
-        "url": "https://www.smr.org.uk/Meetings/20241205/",
-        "start_date": "05 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "recenttrendsinmedici05Dec2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Merck Christmas Chemistry Symposium",
-        "url": "https://www.linkedin.com/posts/friberg_chemistry-symposium-gothenburg-activity-7254780531773489153-mpOZ/",
-        "start_date": "05 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "merckchristmaschemis05Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia",
-            "Online"
-        ],
-        "title": "RACI Australasian Electrochemistry Symposium",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7b6f7993-fc77-4d95-8266-018ecb88e2c0",
-        "start_date": "05 Dec 2024",
-        "end_date": "06 Dec 2024",
-        "locations": [
-            "Melbourne, Australia",
-            "Online"
-        ],
-        "countries": [
-            "Australia",
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "raciaustralasianelec05Dec2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday Community chemistry poster symposium",
-        "url": "https://www.rsc.org/events/detail/78933/faraday-community-poster-symposium-2024",
-        "start_date": "06 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
-        "uid": "faradaycommunitychem06Dec2024_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers"
@@ -1050,6 +686,34 @@
     },
     {
         "themes": [
+            "analytical",
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "UK Catalysis Conference",
+        "url": "https://www.ukcatalysisconference.co.uk/",
+        "start_date": "08 Jan 2025",
+        "end_date": "10 Jan 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukcatalysisconferenc08Jan2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "process/engineering",
             "synthesis"
@@ -1198,6 +862,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments14Jan2025_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Matt Rosseinsky 60th Birthday Symposium",
+        "url": "https://www.eventbrite.com/e/matts-60th-birthday-symposium-tickets-948841910697?aff=oddtdtcreator",
+        "start_date": "15 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "mattrosseinsky60thbi15Jan2025_0"
     },
     {
         "themes": [
@@ -2855,6 +2541,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#RSCPoster\n #RSCPoster",
+        "url": "https://www.rsc.org/our-events/rsc-poster/",
+        "start_date": "04 Mar 2025",
+        "end_date": "05 Mar 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscposter\nrscposter04Mar2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -3052,6 +2781,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "mechanicsofbondbreak10Mar2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Computation for Applied Catalysis workshop",
+        "url": "https://eps.leeds.ac.uk/events-conferences/doc/computation-applied-catalysis-workshop",
+        "start_date": "10 Mar 2025",
+        "end_date": "12 Mar 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "computationforapplie10Mar2025_0"
     },
     {
         "themes": [
@@ -5858,6 +5613,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Intl Workshop on Calcium Sulfoaluminate Cements",
+        "url": "https://eps.leeds.ac.uk/events-conferences/doc/3rd-international-workshop-calcium-sulfoaluminate-cements",
+        "start_date": "23 Jun 2025",
+        "end_date": "25 Jun 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlworkshoponcalciu23Jun2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "synthesis"
@@ -6657,6 +6435,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceoncont02Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Leeds-Lyon Symposium on Tribology",
+        "url": "https://eps.leeds.ac.uk/events-conferences/doc/leeds-lyon-symposium-2025",
+        "start_date": "02 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "leedslyonsymposiumon02Sep2025_0"
     },
     {
         "themes": [
