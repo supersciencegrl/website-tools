@@ -101,7 +101,8 @@ def scrape_conference_list() -> list[bs4.element.Tag]:
     Scrape a list of conferences from the Conference Database.
 
     Returns:
-        list: A list of conference details extracted from the webpage.
+        list[bs4.element.Tag]: A list of conference details extracted from the 
+                               webpage.
 
     """
     url = 'http://supersciencegrl.co.uk/conferences'
@@ -202,9 +203,9 @@ def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[
 
     # Calculate the maximum fee, for sorting
     if all([char.isalpha() for char in non_member_fee]): # eg: Unkn
-        smaller_fee, sep, max_fee = member_fee.rpartition('-')
+        smaller_fee, _, max_fee = member_fee.rpartition('-')
     else:
-        smaller_fee, sep, max_fee = non_member_fee.rpartition('-') # Because non-member fees are higher
+        smaller_fee, _, max_fee = non_member_fee.rpartition('-') # Because non-member fees are higher
     if ' / ' in max_fee:
         for currency in ['£', '€', '$']: # In order of preferences
             if currency in max_fee:
