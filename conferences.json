@@ -1,400 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "RACI Inorganic Chemistry Conference 2024",
-        "url": "https://www.raci.org.au/events/event-description?CalendarEventKey=7ac8ffc6-914f-47d4-bb5b-018eeacaf975",
-        "start_date": "08 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Parramatta, NSW, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "raciinorganicchemist08Dec2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "education",
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Australian Conference on Green & Sustainable Chemistry",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=8bb89063-5940-4acc-83e6-018ecaf3e4bf",
-        "start_date": "08 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "australianconference08Dec2024_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Scientific Update: 10th Winter Process Chemistry Conference",
-        "url": "https://www.scientificupdate.com/conference_events/winter-process-chemistry-conference/",
-        "start_date": "09 Dec 2024",
-        "end_date": "11 Dec 2024",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£1,019",
-        "non_member_fee": "£1,019",
-        "max_fee": "£1,019",
-        "uid": "scientificupdate10th09Dec2024_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "RNA at the bench & bedside",
-        "url": "https://conferences.nature.com/event/RNAbenchtobedside4/summary",
-        "start_date": "09 Dec 2024",
-        "end_date": "11 Dec 2024",
-        "locations": [
-            "La Jolla, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rnaatthebenchbedside09Dec2024_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Ontologies4Chem",
-        "url": "https://www.nfdi4chem.de/event/3-workshop-ontologies4chem-ontologies-for-chemistry/",
-        "start_date": "09 Dec 2024",
-        "end_date": "11 Dec 2024",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ontologies4chem09Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Infrared & Raman Discussion Group IRDG Christmas meeting",
-        "url": "https://www.irdg.org/meeting/christmas-meeting-2024",
-        "start_date": "02 Dec 2024",
-        "end_date": "04 Dec 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "infraredramandiscuss02Dec2024_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "youngSCS Visit to Novartis (students/postdocs)",
-        "url": "https://scg.ch/component/eventbooking/youngscs-industry-visit-to-novartis",
-        "start_date": "10 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "youngscsvisittonovar10Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Pharmacology 2024",
-        "url": "https://my.bps.ac.uk/events/details/?id=3f7e8841-1015-ee11-9cbe-6045bdc1ee41",
-        "start_date": "10 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "£95–195",
-        "non_member_fee": "£445",
-        "max_fee": "£445",
-        "uid": "pharmacology202410Dec2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Applied Biocatalysis & Enzyme Engineering Summit",
-        "url": "https://applied-biocatalysis.com/",
-        "start_date": "10 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "appliedbiocatalysise10Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Covalent Drug Discovery & Development Summit",
-        "url": "https://covalent-drug-discovery.com/",
-        "start_date": "10 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "covalentdrugdiscover10Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Complement-Based Drug Development Summit",
-        "url": "https://complement-therapeutics.com/",
-        "start_date": "10 Dec 2024",
-        "end_date": "12 Dec 2024",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "complementbaseddrugd10Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SNAIA Conference on Research & Innovations in Science & Technology of Materials CRISTMAS",
-        "url": "https://cristmas.org/",
-        "start_date": "10 Dec 2024",
-        "end_date": "13 Dec 2024",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "snaiaconferenceonres10Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC BMCS Postgraduate Symposium",
-        "url": "https://www.rscbmcs.org/events/psxviii/",
-        "start_date": "12 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcspostgraduates12Dec2024_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Chemical feedstocks for sustainable industry",
-        "url": "https://www.rsc.org/events/detail/79853/chemical-feedstocks-for-sustainable-industry-2024/",
-        "start_date": "12 Dec 2024",
-        "end_date": "13 Dec 2024",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalfeedstocksfo12Dec2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Global Research Conference on Toxicology & Applied Pharmacology",
-        "url": "https://toxicologyresearch2024.org/",
-        "start_date": "12 Dec 2024",
-        "end_date": "14 Dec 2024",
-        "locations": [
-            "Rome, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "$449–899",
-        "non_member_fee": "$449–899",
-        "max_fee": "$449–899",
-        "uid": "globalresearchconfer12Dec2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Recent Advances in Synthesis and Chemical Biology XXIII (contact Pat Guiry)",
-        "url": null,
-        "start_date": "13 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "recentadvancesinsynt13Dec2024_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -562,6 +168,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "conferenceonadvances16Dec2024_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Infrared & Raman Discussion Group IRDG Christmas meeting",
+        "url": "https://www.irdg.org/meeting/christmas-meeting-2024",
+        "start_date": "19 Dec 2024",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "infraredramandiscuss19Dec2024_0"
     },
     {
         "themes": [
@@ -2567,7 +2197,7 @@
         "regions": [
             "Online"
         ],
-        "title": "#RSCPoster\n #RSCPoster",
+        "title": "#RSCPoster",
         "url": "https://www.rsc.org/our-events/rsc-poster/",
         "start_date": "04 Mar 2025",
         "end_date": "05 Mar 2025",
@@ -2580,7 +2210,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "rscposter\nrscposter04Mar2025_0"
+        "uid": "rscposter04Mar2025_0"
     },
     {
         "themes": [
@@ -3075,6 +2705,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "femhealthintegrates218Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Mass Spectrometry Society BMSS Inclusion & Diversity in MS Meeting",
+        "url": "https://www.bmss.org.uk/bmss-inclusion-and-diversity-meeting-2025/",
+        "start_date": "18 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishmassspectrome18Mar2025_0"
     },
     {
         "themes": [
@@ -6794,7 +6448,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "#AIChem25\n AI in Chemistry",
+        "title": "AI in Chemistry",
         "url": "https://www.rscbmcs.org/events/aichem8/",
         "start_date": "22 Sep 2025",
         "end_date": "24 Sep 2025",
@@ -6807,7 +6461,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "aichem25\naiinchemist22Sep2025_0"
+        "uid": "aiinchemistry22Sep2025_0"
     },
     {
         "themes": [
