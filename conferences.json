@@ -1,147 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "RSC-SCI Anglo-Italian Chemical Biology Bilateral Meeting AICBBM-1",
-        "url": "https://www.rsc.org/events/detail/78939/1st-rsc-sci-chemical-biology-bilateral-meeting-rsc-sci-cbbm-1",
-        "start_date": "15 Dec 2024",
-        "end_date": "17 Dec 2024",
-        "locations": [
-            "Perugia, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscsciangloitalianch15Dec2024_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Postgraduate symposium on future directions for chemical synthesis",
-        "url": "https://cresswell-lab.wixsite.com/postgraduate-symposi",
-        "start_date": "16 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "postgraduatesymposiu16Dec2024_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Macrocyclic and Supramolecular Chemistry MASC Conference",
-        "url": "https://mascgroup.co.uk/masc2024/",
-        "start_date": "16 Dec 2024",
-        "end_date": "17 Dec 2024",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscmacrocyclicandsup16Dec2024_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CompFlu 2024: Soft matter & beyond",
-        "url": "https://compflu2024.iith.ac.in/",
-        "start_date": "16 Dec 2024",
-        "end_date": "18 Dec 2024",
-        "locations": [
-            "Hyderabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "compflu2024softmatte16Dec2024_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Society of Rheology Midwinter Meeting",
-        "url": "https://www.bsr.org.uk/events/bsr-2024-mid-winter-meeting",
-        "start_date": "16 Dec 2024",
-        "end_date": "18 Dec 2024",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "britishsocietyofrheo16Dec2024_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Winter In-Person Organic Symposium WIPOS 2024",
-        "url": "https://wipos.org/",
-        "start_date": "16 Dec 2024",
-        "end_date": "19 Dec 2024",
-        "locations": [
-            "Honolulu, HI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "HI"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "winterinpersonorgani16Dec2024_0"
-    },
-    {
-        "themes": [
             "analytical",
             "business",
             "catalysis",
@@ -168,30 +27,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "conferenceonadvances16Dec2024_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Infrared & Raman Discussion Group IRDG Christmas meeting",
-        "url": "https://www.irdg.org/meeting/christmas-meeting-2024",
-        "start_date": "19 Dec 2024",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "infraredramandiscuss19Dec2024_0"
     },
     {
         "themes": [
@@ -514,6 +349,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "mattrosseinsky60thbi15Jan2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Smart spectroscopy: AI-driven insights for physics & chemistry applications",
+        "url": "https://www.eventbrite.co.uk/e/smart-spectroscopy-ai-driven-insights-for-physics-chemistry-applications-tickets-1104393112529",
+        "start_date": "15 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "smartspectroscopyaid15Jan2025_0"
     },
     {
         "themes": [
