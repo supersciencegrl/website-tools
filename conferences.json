@@ -1,35 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "business",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Conference on Advances in Chemsitry for Energy & Environment CACEE",
-        "url": "https://www.cacee2024.org/",
-        "start_date": "16 Dec 2024",
-        "end_date": "20 Dec 2024",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "conferenceonadvances16Dec2024_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -561,6 +532,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicalprocesssafet21Jan2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "RSC Organic Chemistry Community South-West Regional Meeting",
+        "url": "https://www.rsc.org/events/detail/80546/rsc-organic-chemistry-community-south-west-regional-meeting-2025",
+        "start_date": "24 Jan 2025",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscorganicchemistryc24Jan2025_0"
     },
     {
         "themes": [
@@ -1375,6 +1371,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "World Organoid & Organ-on-a-chip Research Day",
+        "url": "https://elrig.org/portfolio/word-2025/",
+        "start_date": "11 Feb 2025",
+        "end_date": "13 Feb 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "worldorganoidorganon11Feb2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -1587,6 +1605,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscchemicalbiologybi18Feb2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ELRIG Germany: Target innovation & novel screening technologies",
+        "url": "https://elrig.org/portfolio/elrigs-german-forum/",
+        "start_date": "18 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "elriggermanytargetin18Feb2025_0"
     },
     {
         "themes": [
@@ -2394,6 +2437,34 @@
     },
     {
         "themes": [
+            "chem bio",
+            "environment/fuels",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Driving sustainability in pharma & allied industries",
+        "url": "https://acsgcipr.org/learning/events/driving-sustainability-in-pharma-and-allied-industries/",
+        "start_date": "13 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drivingsustainabilit13Mar2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -2774,6 +2845,29 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Inclusion & Diversity Forum 2025",
+        "url": "https://www.rsc.org/events/detail/80493/inclusion-and-diversity-forum-2025",
+        "start_date": "25 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscinclusiondiversit25Mar2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -2885,30 +2979,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "springmeetingonthebi29Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Ion Channels as Therapeutic Targets",
-        "url": "https://www.rscbmcs.org/events/ionchannels23-2/",
-        "start_date": "31 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ionchannelsastherape31Mar2025_0"
     },
     {
         "themes": [
@@ -3370,6 +3440,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "unchainedlabsautomat08Apr2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Bristol Synthesis Meeting",
+        "url": "https://www.bristol.ac.uk/chemistry/research/bristol-synthesis-meeting/",
+        "start_date": "08 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bristolsynthesismeet08Apr2025_0"
     },
     {
         "themes": [
@@ -4192,6 +4285,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "londonlablive14May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Therapeutic Oligonucleotides 2025",
+        "url": "https://elrig.org/portfolio/therapeutic-oligonucleotides-2025-drugging-the-undruggable/",
+        "start_date": "14 May 2025",
+        "end_date": "15 May 2025",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "therapeuticoligonucl14May2025_0"
     },
     {
         "themes": [
@@ -6298,6 +6415,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ilmac2025tradefair16Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Drug Discovery Scotland",
+        "url": "https://elrig.org/portfolio/drug-discovery-in-scotland/",
+        "start_date": "17 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdiscoveryscotlan17Sep2025_0"
     },
     {
         "themes": [
