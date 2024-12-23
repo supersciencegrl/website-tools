@@ -1,49 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Annual Convention of Chemists ACC & Intl Conference on Emerging Trends in Cheimstry to Revolutionize Indian Chemical Industries",
-        "url": "https://conference.jecrcuniversity.edu.in/ACC2024/",
-        "start_date": "19 Dec 2024",
-        "end_date": "21 Dec 2024",
-        "locations": [
-            "Rajasthan, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualconventionofch19Dec2024_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2659,6 +2616,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "britishmassspectrome18Mar2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Bright SCIdea Challenge Final",
+        "url": "https://www.soci.org/events/hq-events/2025/bright-scidea-challenge-2025-final",
+        "start_date": "18 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "brightscideachalleng18Mar2025_0"
     },
     {
         "themes": [
