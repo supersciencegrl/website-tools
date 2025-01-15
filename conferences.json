@@ -2439,6 +2439,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AIchemy Annual Conference: AI in Chemistry",
+        "url": "https://aichemy.ac.uk/event/aichemy-annual-conference/",
+        "start_date": "17 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "aichemyannualconfere17Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science"
         ],
@@ -6858,6 +6881,53 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Chemeca 2025 (chemical & process engineers & chemists)",
+        "url": "https://www.chemeca.org/",
+        "start_date": "28 Sep 2025",
+        "end_date": "30 Sep 2025",
+        "locations": [
+            "Adelaide, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemeca2025chemicalp28Sep2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Hazards Australasia",
+        "url": "https://www.icheme.org/training-events/hazards-australasia/",
+        "start_date": "28 Sep 2025",
+        "end_date": "30 Sep 2025",
+        "locations": [
+            "Adelaide, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "hazardsaustralasia28Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -7087,6 +7157,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aicheannualmeeting02Nov2025_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Hazards Process Safety Conference",
+        "url": "https://www.icheme.org/training-events/hazards-process-safety-conference/",
+        "start_date": "04 Nov 2025",
+        "end_date": "06 Nov 2025",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "hazardsprocesssafety04Nov2025_0"
     },
     {
         "themes": [
