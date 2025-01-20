@@ -1,57 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Micro & Nanoscale Phase Change Phenomena",
-        "url": "https://www.grc.org/micro-and-nanoscale-phase-change-phenomena-conference/2025/",
-        "start_date": "12 Jan 2025",
-        "end_date": "17 Jan 2025",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer12Jan2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Recent Appointees in Physical Chemistry RAPC",
-        "url": "https://www.rsc.org/events/detail/79258/recent-appointees-in-physical-chemistry-rapc-2025/introduction",
-        "start_date": "13 Jan 2025",
-        "end_date": "15 Jan 2025",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "recentappointeesinph13Jan2025_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -72,140 +21,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments14Jan2025_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Matt Rosseinsky 60th Birthday Symposium",
-        "url": "https://www.eventbrite.com/e/matts-60th-birthday-symposium-tickets-948841910697?aff=oddtdtcreator",
-        "start_date": "15 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mattrosseinsky60thbi15Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Smart spectroscopy: AI-driven insights for physics & chemistry applications",
-        "url": "https://www.eventbrite.co.uk/e/smart-spectroscopy-ai-driven-insights-for-physics-chemistry-applications-tickets-1104393112529",
-        "start_date": "15 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "smartspectroscopyaid15Jan2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "The Coatings Summit 2025",
-        "url": "https://www.european-coatings.com/events/conference/coatings-summit-2025/",
-        "start_date": "15 Jan 2025",
-        "end_date": "17 Jan 2025",
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "thecoatingssummit20215Jan2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Snow Symposium 2025",
-        "url": "https://scg.ch/component/eventbooking/swiss-snow-symposium-2026",
-        "start_date": "16 Jan 2025",
-        "end_date": "18 Jan 2025",
-        "locations": [
-            "Saas-Almagell, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swisssnowsymposium2016Jan2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Drugging the multimorbidity associated with ageing",
-        "url": "https://www.rsc.org/events/detail/80398/drugging-the-multimorbidity-associated-with-ageing",
-        "start_date": "17 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "druggingthemultimorb17Jan2025_0"
     },
     {
         "themes": [
@@ -650,6 +465,29 @@
     {
         "themes": [
             "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Danish NMR meeting",
+        "url": "https://danish-nmr-meeting.dk/",
+        "start_date": "30 Jan 2025",
+        "end_date": "31 Jan 2025",
+        "locations": [
+            "Rebild, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "danishnmrmeeting30Jan2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "med chem",
             "pharma industry",
             "process/engineering"
@@ -792,6 +630,52 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanwinterschool02Feb2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Machine learning for non-globular proteins ML4NGP training school: NMR for intrinsically disordered proteins",
+        "url": "https://ml4ngp.eu/training-school-3/",
+        "start_date": "03 Feb 2025",
+        "end_date": "07 Feb 2025",
+        "locations": [
+            "Brno, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearningforno03Feb2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London Lab Automators' Meetup",
+        "url": "https://lu.ma/9fbvg7yj",
+        "start_date": "04 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "londonlabautomatorsm04Feb2025_0"
     },
     {
         "themes": [
@@ -1004,6 +888,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Lorne Proteins 2025",
+        "url": "https://www.lorneproteins.org/",
+        "start_date": "09 Feb 2025",
+        "end_date": "13 Feb 2025",
+        "locations": [
+            "Lorne, VIC, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lorneproteins202509Feb2025_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -1052,6 +959,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer09Feb2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "in situ CLEM at room temperature and in cryo (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/lem25-01/",
+        "start_date": "09 Feb 2025",
+        "end_date": "14 Feb 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "insituclematroomtemp09Feb2025_0"
     },
     {
         "themes": [
@@ -1124,6 +1054,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Collaborative Computational Project for NMR CCPN ResoN8 Workshop",
+        "url": "https://ccpn.ac.uk/outreach/workshops/",
+        "start_date": "11 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "collaborativecomputa11Feb2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "synthesis"
@@ -1190,6 +1143,34 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "worldorganoidorganon11Feb2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "diversity",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "North East Women in Life Sciences",
+        "url": "https://www.eventbrite.co.uk/e/north-east-women-in-life-sciences-2025-tickets-1095240035429",
+        "start_date": "12 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "northeastwomeninlife12Feb2025_0"
     },
     {
         "themes": [
@@ -1286,6 +1267,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ls2annualmeetingexpl14Feb2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Biophysical Society Annual Meeting",
+        "url": "https://www.biophysics.org/2025meeting#/",
+        "start_date": "15 Feb 2025",
+        "end_date": "19 Feb 2025",
+        "locations": [
+            "Los Angeles, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biophysicalsocietyan15Feb2025_0"
     },
     {
         "themes": [
@@ -1681,6 +1688,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Scuola di risonanza magnetica nucleare per lo studio di biomolecole",
+        "url": "https://www.gidrm.org/event/primo-corso-nmr-per-lo-studio-di-biomolecole-caserta/",
+        "start_date": "25 Feb 2025",
+        "end_date": "28 Feb 2025",
+        "locations": [
+            "Caserta, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scuoladirisonanzamag25Feb2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -1729,6 +1759,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Iberian Peptide Meeting EPI 2025",
+        "url": "https://www.epi2025.com/en/index.php",
+        "start_date": "26 Feb 2025",
+        "end_date": "28 Feb 2025",
+        "locations": [
+            "Iberia, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "iberianpeptidemeetin26Feb2025_0"
+    },
+    {
+        "themes": [
             "business"
         ],
         "regions": [
@@ -1773,6 +1827,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "extractablesleachabl27Feb2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ATP Binding Cassette ABC Proteins",
+        "url": "https://abc2025meeting.org/",
+        "start_date": "27 Feb 2025",
+        "end_date": "03 Mar 2025",
+        "locations": [
+            "Innsbruck, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "atpbindingcassetteab27Feb2025_0"
     },
     {
         "themes": [
@@ -2284,6 +2361,30 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "GSK Biopharm Postgraduate Symposium",
+        "url": "https://www.linkedin.com/posts/laura-f-west_gsk-uk-biopharm-postgraduate-symposium-ugcPost-7284494924362706946-L_eo/",
+        "start_date": "12 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gskbiopharmpostgradu12Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -2358,6 +2459,30 @@
         "non_member_fee": "$499–799",
         "max_fee": "$499–799",
         "uid": "annualinternationalc13Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "From fast-field cycling to ultrafast high-resolution relaxometry (workshop)",
+        "url": "https://hires-multidyn.chimie.ens.fr/workshop-from-fast-field-cycling-to-ultrafast-high-resolution-relaxometry/",
+        "start_date": "13 Mar 2025",
+        "end_date": "15 Mar 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fromfastfieldcycling13Mar2025_0"
     },
     {
         "themes": [
@@ -2439,6 +2564,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Theory of NMR: Hyperpolarization (summer school)",
+        "url": "https://www.cidnp.net/summerschools",
+        "start_date": "16 Mar 2025",
+        "end_date": "22 Mar 2025",
+        "locations": [
+            "Windischleuba, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "theoryofnmrhyperpola16Mar2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -2482,6 +2630,30 @@
         "non_member_fee": "$399–899",
         "max_fee": "$399–899",
         "uid": "intlcongressexpoonfo17Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Training school on high-resolution relaxometry",
+        "url": "https://hires-multidyn.chimie.ens.fr/training-school-on-high-resolution-relaxometry/",
+        "start_date": "17 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "trainingschoolonhigh17Mar2025_0"
     },
     {
         "themes": [
@@ -2625,6 +2797,79 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Praktische Probleme der Kernresonanzspektroskopie",
+        "url": "https://www.chemie.uni-hamburg.de/fachbereich/veranstaltungen/2025-46ppnmr.html",
+        "start_date": "18 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Hamburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "praktischeproblemede18Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Journées de l'Association fran&ccedillaaise de Résonance Paramagnétique Electronique ARPE",
+        "url": "https://www.a-rpe.fr/spip.php?article182",
+        "start_date": "18 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Bordeaux, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "journéesdelassociati18Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "UK High-field Solid-state NMR Facility Annual Symposium",
+        "url": "https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/nmr/850/annual-symposia/symposium-2025",
+        "start_date": "19 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukhighfieldsolidstat19Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -2761,6 +3006,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeancoatingsshow24Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "chem bio",
+            "education"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Biophysics Week",
+        "url": "https://www.biophysics.org/biophysics-week#/",
+        "start_date": "24 Mar 2025",
+        "end_date": "28 Mar 2025",
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biophysicsweek24Mar2025_0"
     },
     {
         "themes": [
@@ -2972,6 +3242,52 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
+        "url": "https://www.rscbmcs.org/events/ionchannels25/",
+        "start_date": "31 Mar 2025",
+        "end_date": "01 Apr 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscbmcsscisymposiumo31Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Frontiers of Magnetic Resonance",
+        "url": "https://www.rsc.org/events/detail/80063/frontiers-of-magnetic-resonance",
+        "start_date": "31 Mar 2025",
+        "end_date": "01 Apr 2025",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "frontiersofmagneticr31Mar2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "pharma industry",
             "process/engineering"
@@ -2993,29 +3309,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "applicationsofmachin31Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
-        "url": "https://www.rscbmcs.org/events/ionchannels25/",
-        "start_date": "31 Mar 2025",
-        "end_date": "01 Apr 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcsscisymposiumo31Mar2025_0"
     },
     {
         "themes": [
@@ -3183,6 +3476,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "frontiersinmedicinal01Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "French Membrane Group Meeting GEM",
+        "url": "https://gem-2025.sciencesconf.org/",
+        "start_date": "01 Apr 2025",
+        "end_date": "04 Apr 2025",
+        "locations": [
+            "Boulogne-sur-mer, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "frenchmembranegroupm01Apr2025_0"
     },
     {
         "themes": [
@@ -3550,6 +3867,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "rdkit North American UGM/Chemoinformatics Meeting",
+        "url": "https://bagimcommunications.blogspot.com/2025/01/rdkit-north-american-ugmcheminformatics.html",
+        "start_date": "10 Apr 2025",
+        "end_date": "11 Apr 2025",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rdkitnorthamericanug10Apr2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -3598,6 +3940,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "sciycpundergraduater11Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Society for Biochemistry & Molecular Biology ASBMB Annual Meeting",
+        "url": "https://www.asbmb.org/annual-meeting/",
+        "start_date": "12 Apr 2025",
+        "end_date": "15 Apr 2025",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "americansocietyforbi12Apr2025_0"
     },
     {
         "themes": [
@@ -3696,6 +4064,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionstr23Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Spring School in Computational Chemistry 2025",
+        "url": "https://bioexcel.eu/events/spring-school-in-computational-chemistry-2025/",
+        "start_date": "23 Apr 2025",
+        "end_date": "25 Apr 2025",
+        "locations": [
+            "Espoo, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "springschoolincomput23Apr2025_0"
     },
     {
         "themes": [
@@ -3905,6 +4296,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Helmholtz Drug Discovery Conference",
+        "url": "https://www.mdc-berlin.de/HDDC2025",
+        "start_date": "28 Apr 2025",
+        "end_date": "30 Apr 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlhelmholtzdrugdis28Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "physical/phys org",
@@ -3927,6 +4341,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlschoolofchemomet28Apr2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Sustainable Research: Fit for the future",
+        "url": "https://www.embl.org/about/info/sustainability/events/sustainable-research-fit-for-the-future/",
+        "start_date": "29 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sustainableresearchf29Apr2025_0"
     },
     {
         "themes": [
@@ -4121,6 +4560,54 @@
     {
         "themes": [
             "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Pharmaceutical powder X-ray diffraction PPXRD symposium",
+        "url": "https://www.icdd.com/ppxrd/",
+        "start_date": "06 May 2025",
+        "end_date": "09 May 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharmaceuticalpowder06May2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London Polymer Group Meeting",
+        "url": "https://www.seresearch.qmul.ac.uk/ccr/events/4795/london-polymer-group-meeting-2025/",
+        "start_date": "07 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "londonpolymergroupme07May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "careers",
             "catalysis",
             "computational/data",
@@ -4145,6 +4632,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scifinechemicalsgrou09May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Society for Magnetic Resonance in Medicine ISMRM & Intl Society for Magnetic Resonance Radiographers & Technologists ISMRT Annual Meeting",
+        "url": "https://www.ismrm.org/25m/",
+        "start_date": "10 May 2025",
+        "end_date": "15 May 2025",
+        "locations": [
+            "Honolulu, HI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "HI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsocietyformagnet10May2025_0"
     },
     {
         "themes": [
@@ -4479,6 +4993,131 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gateway NMR Conference",
+        "url": "https://u.osu.edu/gatewaynmr/",
+        "start_date": "15 May 2025",
+        "end_date": "16 May 2025",
+        "locations": [
+            "Columbus, OH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gatewaynmrconference15May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "NMR Valtice",
+        "url": "https://nmrvaltice.ncbr.muni.cz/",
+        "start_date": "18 May 2025",
+        "end_date": "21 May 2025",
+        "locations": [
+            "Valtice, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nmrvaltice18May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advanced fluorescence imaging techniques (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/eva25-01/",
+        "start_date": "18 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancedfluorescence18May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "PANIC NMR",
+        "url": "https://panicnmr.com/",
+        "start_date": "19 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Rockville, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "panicnmr19May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "DNP-enhanced solid-state NMR & paramagnetic NMR",
+        "url": "https://panacea-nmr.eu/events/eventdetail/46/-/workshop-on-paramagnetic-nmr-dnp-enhanced-solid-state-nmr",
+        "start_date": "19 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dnpenhancedsolidstat19May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -4550,6 +5189,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "novalixconferencedev20May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Federation of Asian & Oceanian Biochemists & Molecular Biologists FAOBMB Meeting",
+        "url": "https://faobmb2025.org/",
+        "start_date": "20 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Busan, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "federationofasianoce20May2025_0"
     },
     {
         "themes": [
@@ -4648,6 +5309,55 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "NMR: A tool for biology",
+        "url": "https://www.nmr2025.conferences-pasteur.org/",
+        "start_date": "26 May 2025",
+        "end_date": "28 May 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nmratoolforbiology26May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Theoretical Spectroscopy Facility ETSF Young Researchers' Meeting",
+        "url": "https://sites.google.com/view/yrm2025/home",
+        "start_date": "26 May 2025",
+        "end_date": "30 May 2025",
+        "locations": [
+            "Trieste, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeantheoreticals26May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -4669,6 +5379,55 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "futurelabslive27May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FEBS: Emerging insights from structural biology into molecular mechanisms of diseases",
+        "url": "https://molmechdisease2025.febsevents.org/",
+        "start_date": "27 May 2025",
+        "end_date": "31 May 2025",
+        "locations": [
+            "Gronigen, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "febsemerginginsights27May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "RNA Society Meeting",
+        "url": "https://www2.rnasociety.org/",
+        "start_date": "27 May 2025",
+        "end_date": "01 Jun 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rnasocietymeeting27May2025_0"
     },
     {
         "themes": [
@@ -4747,31 +5506,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Discovery & Development Europe",
-        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe-2025",
-        "start_date": "01 Jul 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "discoverydevelopment01Jul2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "materials/polymers",
             "med chem",
@@ -4818,6 +5552,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonchem01Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Annual Intl Meeting of the RSC ESR Spectroscopy Group",
+        "url": "https://www.esr-group.org/conferences/2025-conference-london/",
+        "start_date": "01 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualintlmeetingoft01Jun2025_0"
     },
     {
         "themes": [
@@ -4924,6 +5681,52 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Congrès du Groupement d'études de résonance magnetique GERM",
+        "url": "https://www.esr-group.org/conferences/2025-conference-london/",
+        "start_date": "02 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Autrans, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "congrèsdugroupementd02Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Interdisciplinary challenges in the physics of complexity & life",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/intcha25/",
+        "start_date": "02 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "interdisciplinarycha02Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "med chem",
             "pharma industry",
@@ -4947,6 +5750,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscbmcssynthesisindr03Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl meeting of the European Light Microscopy Initiative ELMI",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/elmi2025/",
+        "start_date": "03 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlmeetingoftheeuro03Jun2025_0"
     },
     {
         "themes": [
@@ -4995,6 +5823,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemspeceuropetradef04Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Intl Conference on Quantitative NMR",
+        "url": "https://pharmacognosy.pharmacy.uic.edu/pharmacognosy/icog/qnmrsummit/qnmr-summit-2025-halifax-canada/",
+        "start_date": "04 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Halifax, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonquan04Jun2025_0"
     },
     {
         "themes": [
@@ -5126,6 +5977,54 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Summer school on biomolecular simulations",
+        "url": "https://bioexcel.eu/events/summer-school-on-biomolecular-simulations-2025/",
+        "start_date": "08 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Sardinia, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "summerschoolonbiomol08Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Ampère NMR School",
+        "url": "https://school.web.amu.edu.pl/",
+        "start_date": "08 Jun 2025",
+        "end_date": "14 Jun 2025",
+        "locations": [
+            "Zakopane, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ampèrenmrschool08Jun2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -5218,6 +6117,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Canadian Chemistry Conference & Exhibition CSC CCCE",
+        "url": "https://www.cheminst.ca/conference/canadian-chemistry-conference-and-exhibition-csc-2025/",
+        "start_date": "15 Jun 2025",
+        "end_date": "19 Jun 2025",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "canadianchemistrycon15Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "med chem",
@@ -5266,6 +6208,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "In science we trust?",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sns25-01/",
+        "start_date": "16 Jun 2025",
+        "end_date": "17 Jun 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "insciencewetrust16Jun2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "process/engineering"
@@ -5287,6 +6251,74 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "formulaxiiformulatio16Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "NMR metabolomics symposium",
+        "url": "https://nmrmetabo.sciencesconf.org/",
+        "start_date": "16 Jun 2025",
+        "end_date": "18 Jun 2025",
+        "locations": [
+            "Nantes, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nmrmetabolomicssympo16Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Data science for life scientists (training course)",
+        "url": "https://www.ebi.ac.uk/training/events/data-science-for-life-scientists/",
+        "start_date": "16 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "datascienceforlifesc16Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Annual Meeting of the Protein Science Society of Japan",
+        "url": "https://aeplan.jp/pssj2025/en_index/",
+        "start_date": "18 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Himeji, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualmeetingofthepr18Jun2025_0"
     },
     {
         "themes": [
@@ -5316,6 +6348,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "acsdivisionoforganic22Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Metabolomics 2025",
+        "url": "https://www.metabolomics2025.org/",
+        "start_date": "22 Jun 2025",
+        "end_date": "26 Jun 2025",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "metabolomics202522Jun2025_0"
     },
     {
         "themes": [
@@ -5592,6 +6647,128 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Neuroimmunology in drug discovery",
+        "url": "https://elrig.org/portfolio/neuroimmunology-in-drug-discovery/",
+        "start_date": "24 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "neuroimmunologyindru24Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Data visualization for biology (training course)",
+        "url": "https://www.ebi.ac.uk/training/events/data-visualisation-biology-2025/",
+        "start_date": "24 Jun 2025",
+        "end_date": "26 Jun 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "datavisualizationfor24Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Asia-Pacific NMR & Indian National Magnetic Resonance Society APNMR-NMRS Conference",
+        "url": "https://sites.google.com/acads.iiserpune.ac.in/nmrs-apnmr-2025/home",
+        "start_date": "26 Jun 2025",
+        "end_date": "29 Jun 2025",
+        "locations": [
+            "Pune, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "asiapacificnmrindian26Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Protein Society Conference",
+        "url": "https://www.proteinsociety.org/annual-symposium",
+        "start_date": "26 Jun 2025",
+        "end_date": "29 Jun 2025",
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "proteinsocietyconfer26Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Microscale NMR & MRI Conference",
+        "url": "https://www.hyperion.kit.edu/496.php",
+        "start_date": "29 Jun 2025",
+        "end_date": "02 Jul 2025",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "microscalenmrmriconf29Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "synthesis"
@@ -5660,6 +6837,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer29Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Collaborative Computational Project for NMR CCPN Meeting",
+        "url": "https://ccpn.ac.uk/outreach/conferences/",
+        "start_date": "30 Jun 2025",
+        "end_date": "02 Jul 2025",
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "collaborativecomputa30Jun2025_0"
     },
     {
         "themes": [
@@ -5798,6 +6998,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Federation of European Biochemical Societies FEBS Meeting",
+        "url": "https://2025.febscongress.org/",
+        "start_date": "05 Jul 2025",
+        "end_date": "09 Jul 2025",
+        "locations": [
+            "Istanbul, Turkey"
+        ],
+        "countries": [
+            "Turkey"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "federationofeuropean05Jul2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -5819,6 +7041,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanconferenceon06Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "European Magnetic Resonance Congress EUROMAR",
+        "url": "https://euromar2025.org/",
+        "start_date": "06 Jul 2025",
+        "end_date": "10 Jul 2025",
+        "locations": [
+            "Oulu, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanmagneticreso06Jul2025_0"
     },
     {
         "themes": [
@@ -6012,6 +7257,57 @@
     {
         "themes": [
             "analytical",
+            "chem bio",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Biomolecular Dynamics in the age of Machine Learning",
+        "url": "https://www.cecam.org/workshop-details/biomolecular-dynamics-in-the-age-of-machine-learning-1442",
+        "start_date": "14 Jul 2025",
+        "end_date": "16 Jul 2025",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biomoleculardynamics14Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Fluorescence imaging beyond intensity (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/lef25-01/",
+        "start_date": "14 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fluorescenceimagingb14Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "automation",
             "chem bio",
             "environment/fuels",
@@ -6035,6 +7331,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "solutionsinsciencesi15Jul2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "2025 Future Faculty Workshop",
+        "url": "https://x.com/emilypentzner/status/18796464123021",
+        "start_date": "15 Mar 2025",
+        "end_date": "17 Mar 2025",
+        "locations": [
+            "Irvine, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "2025futurefacultywor15Mar2025_0"
     },
     {
         "themes": [
@@ -6168,6 +7490,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Rocky Mountain Conference on Magnetic Resonance RMCMR",
+        "url": "https://rockychem.com/",
+        "start_date": "03 Aug 2025",
+        "end_date": "07 Aug 2025",
+        "locations": [
+            "Snowbird, UT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "UT"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rockymountainconfere03Aug2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "physical/phys org"
         ],
@@ -6221,6 +7569,31 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "2025 Accelerate Conference (AI for science)",
+        "url": "https://2025.accelerateconf.ca/",
+        "start_date": "11 Aug 2025",
+        "end_date": "14 Aug 2025",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "2025accelerateconfer11Aug2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -6241,6 +7614,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "swisssummerschoolorg17Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Magnetic Resonance Microscopy ICMRM",
+        "url": "https://icmrm.physik.uni-wuerzburg.de/",
+        "start_date": "17 Aug 2025",
+        "end_date": "21 Aug 2025",
+        "locations": [
+            "Würzburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonmagn17Aug2025_0"
     },
     {
         "themes": [
@@ -6292,6 +7688,29 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Joint European Magnetic Symposia JEMS",
+        "url": "https://jems2025.sciencesconf.org/",
+        "start_date": "24 Aug 2025",
+        "end_date": "29 Aug 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "jointeuropeanmagneti24Aug2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -6338,6 +7757,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "efmcintlsymposiumona31Aug2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Benzon Symposium: Protein structure prediction & design in biology & pharmacology",
+        "url": "https://benzon-foundation.dk/benzon-symposium-no-69-protein-structure-prediction-and-design-in-biology-and-pharmacology/",
+        "start_date": "01 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "benzonsymposiumprote01Sep2025_0"
     },
     {
         "themes": [
@@ -6576,6 +8019,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Spectroscopy & Electronic Structure of Transition Metal Complexes (summer school)",
+        "url": "https://summerschool.cec.mpg.de/en/home",
+        "start_date": "07 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Mülheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "spectroscopyelectron07Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "materials/polymers",
             "synthesis"
@@ -6597,6 +8065,53 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionpol08Sep2025_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Soft Magnetic Materials SMM27",
+        "url": "https://smm27.polito.it/",
+        "start_date": "08 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Torino, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "softmagneticmaterial08Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Charged soft matter: Bridging theory & experiment",
+        "url": "https://www.esi.ac.at/events/e571/",
+        "start_date": "08 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chargedsoftmatterbri08Sep2025_0"
     },
     {
         "themes": [
@@ -6672,6 +8187,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Alpine Conference on Magnetic Resonance in Solids",
+        "url": "https://alpine-conference.org/",
+        "start_date": "14 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Chamonix-Mont-Blanc, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "alpineconferenceonma14Sep2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6715,6 +8254,53 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GDCh Division of Magnetic Resonance FGMR Annual Discussion Meeting",
+        "url": "https://en.gdch.de/network-structures/gdch-structures/magnetic-resonance/events.html",
+        "start_date": "16 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Bonn, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gdchdivisionofmagnet16Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Cheminformatics, Automation, & Machine Learning in Chemistry CAMLC25",
+        "url": "https://camlcworkshop.github.io/",
+        "start_date": "16 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Zaragoza, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cheminformaticsautom16Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio",
             "med chem",
@@ -6740,6 +8326,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI New Synthetic Methods III",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2025/new-synthetic-methods--design-and-application-iii",
+        "start_date": "18 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scinewsyntheticmetho18Sep2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem"
         ],
@@ -6760,6 +8369,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aiinchemistry22Sep2025_0"
+    },
+    {
+        "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Responsible Research in Action Unconference",
+        "url": "https://rr-in-action2025.org/",
+        "start_date": "22 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "responsibleresearchi22Sep2025_0"
     },
     {
         "themes": [
@@ -6928,6 +8559,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "EMBO Integrative modelling of biomolecular interactions (training course)",
+        "url": "https://meetings.embo.org/event/25-biomol-interactions",
+        "start_date": "28 Sep 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Izmir, Turkey"
+        ],
+        "countries": [
+            "Turkey"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "embointegrativemodel28Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -7040,6 +8694,52 @@
             "chem bio"
         ],
         "regions": [
+            "South America"
+        ],
+        "title": "NMR User Meeting",
+        "url": "https://auremn.org/wp/en/20th-nmr-users-meeting/",
+        "start_date": "06 Oct 2025",
+        "end_date": "10 Oct 2025",
+        "locations": [
+            "Rio de Janeiro, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nmrusermeeting06Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Society for Magnetic Resonance in Medicine & Biology ESMRMB meeting",
+        "url": "https://www.esmrmb.org/congress/esmrmb-2025/",
+        "start_date": "08 Oct 2025",
+        "end_date": "11 Oct 2025",
+        "locations": [
+            "Marseille, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeansocietyforma08Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
             "Western Europe",
             "Online"
         ],
@@ -7082,6 +8782,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "foodchemistryconfere14Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advances in Magnetic Resonance",
+        "url": "https://www.ceitec.eu/advances-in-magnetic-resonance/a4783",
+        "start_date": "17 Oct 2025",
+        "end_date": "18 Oct 2025",
+        "locations": [
+            "Brno, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancesinmagneticre17Oct2025_0"
     },
     {
         "themes": [
@@ -7131,6 +8855,52 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "elrigdrugdiscovery21Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advances in Structural Analysis of Biomolecules",
+        "url": "http://cbc-cpc2025.org/",
+        "start_date": "23 Oct 2025",
+        "end_date": "24 Oct 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancesinstructural23Oct2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Annual Meeting of the Society of Electron Spin Science & Technology SEST",
+        "url": "https://annual-meeting.sest.gr.jp/",
+        "start_date": "02 Nov 2025",
+        "end_date": "04 Nov 2025",
+        "locations": [
+            "Fukui, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualmeetingoftheso02Nov2025_0"
     },
     {
         "themes": [
@@ -7206,6 +8976,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Dutch NMR Discussion Group meeting",
+        "url": "https://sac.kncv.nl/nmr/annual-meeting",
+        "start_date": "08 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Enschede, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dutchnmrdiscussiongr08Nov2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "environment/fuels",
             "safety"
@@ -7274,6 +9068,59 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Solution scattering from biological macromolecules (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sbm25-01/",
+        "start_date": "17 Nov 2025",
+        "end_date": "21 Nov 2025",
+        "locations": [
+            "Hamburg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "solutionscatteringfr17Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Eastern Analytical Symposium",
+        "url": "https://eas.org/",
+        "start_date": "18 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Plainsboro, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "easternanalyticalsym18Nov2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -7293,6 +9140,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Australia & New Zealand Society for Magnetic Resonance ANZMAG Conference",
+        "url": "https://anzmag.com.au/conferences-and-events/conferences/",
+        "start_date": "30 Nov 2025",
+        "end_date": "04 Dec 2025",
+        "locations": [
+            "Moreton Island, QLD, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "australianewzealands30Nov2025_0"
     },
     {
         "themes": [
@@ -7652,6 +9524,53 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biennialconferenceon26Jul2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Intl Union of Crystallography IUCr Conference",
+        "url": "https://www.iucr2026.org/",
+        "start_date": "11 Aug 2026",
+        "end_date": "18 Aug 2026",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlunionofcrystallo11Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Magnetic Resonance in Biological Systems ICMRBS",
+        "url": "https://icmrbs2026.org/",
+        "start_date": "23 Aug 2026",
+        "end_date": "27 Aug 2026",
+        "locations": [
+            "Davos, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonmagn23Aug2026_0"
     },
     {
         "themes": [
