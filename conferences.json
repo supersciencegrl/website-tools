@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20250114/",
-        "start_date": "14 Jan 2025",
-        "end_date": "23 Jan 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicaldevelopments14Jan2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio"
         ],
@@ -75,29 +52,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer19Jan2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Formulation Forum",
-        "url": "http://soci.org/events/formulation-forum/2025/sci-formulation-forum-6th-annual-event-creative-formulation-for-future-challenges",
-        "start_date": "21 Jan 2025",
-        "end_date": "22 Jan 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciformulationforum21Jan2025_0"
     },
     {
         "themes": [
@@ -1037,7 +991,7 @@
         "regions": [
             "Global"
         ],
-        "title": "#GWB2025\n IUPAC Global Women's Breakfast",
+        "title": "IUPAC Global Women's Breakfast",
         "url": "https://iupac.org/gwb/2025/",
         "start_date": "11 Feb 2025",
         "end_date": null,
@@ -1050,7 +1004,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "gwb2025\niupacglobalw11Feb2025_0"
+        "uid": "iupacglobalwomensbre11Feb2025_0"
     },
     {
         "themes": [
@@ -4825,6 +4779,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlsymposiumongreen12May2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Workshop on Open Molecular Informatics IWOMI",
+        "url": "https://www.iwomi.net/",
+        "start_date": "12 May 2025",
+        "end_date": "16 May 2025",
+        "locations": [
+            "South Tyrol, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlworkshoponopenmo12May2025_0"
     },
     {
         "themes": [
