@@ -101,7 +101,7 @@ def run(pages: list[str], oldhtml: list[str], newhtml: list[str]):
 
 # Set list of desired pages to change
 pages = glob.glob('../**/*.html', recursive=True)
-exclusions = ['googlec9a765a08c18ee51.html', 'pinterest-fc74e.html']
+exclusions = ['..\\googlec9a765a08c18ee51.html', '..\\pinterest-fc74e.html']
 for exc in exclusions:
     idx = pages.index(exc)
     _ = pages.pop(idx)
