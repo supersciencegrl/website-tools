@@ -1,161 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Metals in Biology",
-        "url": "https://www.grc.org/metals-in-biology-conference/2025/",
-        "start_date": "19 Jan 2025",
-        "end_date": "24 Jan 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer19Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Peptide Materials",
-        "url": "https://www.grc.org/peptide-materials-conference/2025/",
-        "start_date": "19 Jan 2025",
-        "end_date": "24 Jan 2025",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer19Jan2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20250121/",
-        "start_date": "21 Jan 2025",
-        "end_date": "28 Jan 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalprocesssafet21Jan2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Organic Chemistry Community South-West Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/80546/rsc-organic-chemistry-community-south-west-regional-meeting-2025",
-        "start_date": "24 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscorganicchemistryc24Jan2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "SiLA-AnIML-SPLASH",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeYObeA3AfDCEnS_PZQhzBXaAaDsR5NqeB2x-kVyhlmYAHvZA/viewform",
-        "start_date": "25 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "silaanimlsplash25Jan2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Society for Lab Automation & Screening SLAS2025",
-        "url": "https://www.slas.org/events-calendar/slas2025-international-conference-exhibition/",
-        "start_date": "25 Jan 2025",
-        "end_date": "29 Jan 2025",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "societyforlabautomat25Jan2025_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -208,52 +53,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées Chimie Coordination JCC",
-        "url": "https://jcc2025.sciencesconf.org/",
-        "start_date": "27 Jan 2025",
-        "end_date": "28 Jan 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "journéeschimiecoordi27Jan2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Empowering Chemists with AI & ML: Transformative Tools & Techniques (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques/",
-        "start_date": "27 Jan 2025",
-        "end_date": "29 Jan 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "empoweringchemistswi27Jan2025_0"
-    },
-    {
-        "themes": [
             "careers",
             "catalysis",
             "environment/fuels",
@@ -300,54 +99,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "virtualwinterschoolo27Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Reaction Monitoring Symposium",
-        "url": "https://www.eventbrite.co.uk/e/reaction-monitoring-symposium-2025-tickets-1021599841627",
-        "start_date": "28 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "reactionmonitoringsy28Jan2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "law/policy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biotechnet: Biotech & ageing",
-        "url": "https://www.eventbrite.ch/e/biotechnet-meet-up-2025-biotech-and-aging-tickets-1056585237889",
-        "start_date": "28 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biotechnetbiotechage28Jan2025_0"
     },
     {
         "themes": [
@@ -1492,6 +1243,53 @@
     },
     {
         "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Midlands",
+            "Online"
+        ],
+        "title": "STEM, LGBTQ, & You",
+        "url": "https://www.gidrm.org/event/primo-corso-nmr-per-lo-studio-di-biomolecole-caserta/",
+        "start_date": "21 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "stemlgbtqyou21Feb2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Quantum chemistry public engagement training for early career chemists",
+        "url": "https://www.imperial.ac.uk/events/188358/quantum-chemistry-public-engagement-training-for-early-career-chemists/",
+        "start_date": "21 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "quantumchemistrypubl21Feb2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -2336,6 +2134,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gskbiopharmpostgradu12Mar2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Quantum chemistry outreach demonstration training for early career chemists",
+        "url": "https://www.imperial.ac.uk/events/188358/quantum-chemistry-public-engagement-training-for-early-career-chemists/",
+        "start_date": "12 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "quantumchemistryoutr12Mar2025_0"
     },
     {
         "themes": [
