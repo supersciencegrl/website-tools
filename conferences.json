@@ -1,247 +1,6 @@
 [
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "49th Intl Conference and Expo on Advanced Ceramics & Composites ICACC2025",
-        "url": "https://ceramics.org/event/49th-international-conference-and-expo-on-advanced-ceramics-and-composites-icacc2025/",
-        "start_date": "26 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Daytona Beach, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "49thintlconferencean26Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Complex Active & Adaptive Material Systems",
-        "url": "https://www.grc.org/complex-active-and-adaptive-material-systems-conference/2025/",
-        "start_date": "26 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer26Jan2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Catalysing sustainability: CIG-EFCATS PhD Winter School",
-        "url": "https://www.gic-efcats2025.eu/",
-        "start_date": "27 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "L'Aquila, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "catalysingsustainabi27Jan2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Virtual Winter School on Computational Chemistry",
-        "url": "https://winterschool.cc/",
-        "start_date": "27 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "virtualwinterschoolo27Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "CPACT Process Spectroscopy course",
-        "url": "https://www.cpact.com/Events/Event?eid=363",
-        "start_date": "28 Jan 2025",
-        "end_date": "30 Jan 2025",
-        "locations": [
-            "Northampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cpactprocessspectros28Jan2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EFMC Intl Symposium on Chemical Biology ISCB",
-        "url": "https://www.efmc-iscb.org/",
-        "start_date": "29 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "efmcintlsymposiumonc29Jan2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "PaintIndia 2025",
-        "url": "https://www.european-coatings.com/events/exhibition/paintindia-2025/",
-        "start_date": "30 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Delhi, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "paintindia202530Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Danish NMR meeting",
-        "url": "https://danish-nmr-meeting.dk/",
-        "start_date": "30 Jan 2025",
-        "end_date": "31 Jan 2025",
-        "locations": [
-            "Rebild, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "danishnmrmeeting30Jan2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Industrial Chemistry Symposium SICS 2025",
-        "url": "https://scg.ch/component/eventbooking/5-sup-th-sup-swiss-industrial-chemistry-symposium-sics-2025",
-        "start_date": "31 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swissindustrialchemi31Jan2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Surface & Interface Symposium SAOG 2025",
-        "url": "https://saog.ch/",
-        "start_date": "31 Jan 2025",
-        "end_date": null,
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swisssurfaceinterfac31Jan2025_0"
-    },
-    {
-        "themes": [
             "diversity",
             "education"
         ],
@@ -522,6 +281,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "materials/polymers",
+            "safety"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "PFAS Alternatives Workshop",
+        "url": "https://www.rsc.org/events/detail/79689/",
+        "start_date": "06 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pfasalternativeswork06Feb2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -590,6 +374,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemmetbio2025chemis07Feb2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Cosmetic Chemistry Symposium",
+        "url": "https://bsky.app/profile/waynestatechem.bsky.social/post/3lgtbkycgec2h",
+        "start_date": "08 Feb 2025",
+        "end_date": null,
+        "locations": [
+            "Detroit, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cosmeticchemistrysym08Feb2025_0"
     },
     {
         "themes": [
@@ -1535,6 +1344,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Indian Peptide Symposium",
+        "url": "https://indianpeptidesociety.com/10th-indian-peptide-symposium",
+        "start_date": "26 Feb 2025",
+        "end_date": "28 Feb 2025",
+        "locations": [
+            "Pune, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "indianpeptidesymposi26Feb2025_0"
+    },
+    {
+        "themes": [
             "business"
         ],
         "regions": [
@@ -2113,6 +1945,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Zeta Symposium (pharma transformation)",
+        "url": "https://zeta-symposium.com/",
+        "start_date": "11 Mar 2025",
+        "end_date": "12 Mar 2025",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "zetasymposiumpharmat11Mar2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "computational/data"
@@ -2210,6 +2065,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "drivingsustainabilit13Mar2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Association for Women in Science AWIS Virtual Career Fair",
+        "url": "https://app.brazenconnect.com/a/awis/e/8Lrod",
+        "start_date": "13 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "associationforwomeni13Mar2025_0"
     },
     {
         "themes": [
@@ -3475,6 +3353,53 @@
     },
     {
         "themes": [
+            "analytical",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bristol Electrosynthesis Meeting",
+        "url": "https://www.lennoxlab.com/bem25",
+        "start_date": "07 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bristolelectrosynthe07Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PFAS Workshop",
+        "url": "https://www.sfb1349.de/veranstaltungen/Zukuenftige-Veranstaltungen/PFAS-Meeting/index.html",
+        "start_date": "07 Apr 2025",
+        "end_date": "08 Apr 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pfasworkshop07Apr2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "process/engineering"
         ],
@@ -4093,6 +4018,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "British Zeolite Association Annual Meeting",
+        "url": "https://www.britishzeolite.org/annual-meeting",
+        "start_date": "28 Apr 2025",
+        "end_date": "30 Apr 2025",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishzeoliteassoci28Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "physical/phys org",
@@ -4285,6 +4234,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Machine learning for materials discovery",
+        "url": "https://sites.utu.fi/ml4md2025/",
+        "start_date": "05 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "Espoo, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearningforma05May2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -4330,6 +4302,35 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biobasedwaterbasedco06May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "PD2M Conference on new frontiers in pharmaceutical drug substance & drug product CMC for new modalities",
+        "url": "https://www.aiche.org/conferences/new-frontiers-pharmaceutical-drug-substance/2025",
+        "start_date": "06 May 2025",
+        "end_date": "07 May 2025",
+        "locations": [
+            "Lexington, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pd2mconferenceonnewf06May2025_0"
     },
     {
         "themes": [
@@ -4406,6 +4407,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scifinechemicalsgrou09May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Emerging Analytical Professionals EAP 2025",
+        "url": "https://www.analyticalsciencenetwork.co.uk/",
+        "start_date": "09 May 2025",
+        "end_date": "11 May 2025",
+        "locations": [
+            "Knutsford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emerginganalyticalpr09May2025_0"
     },
     {
         "themes": [
@@ -5083,6 +5107,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Dresden polymer discussion",
+        "url": "https://dpd.ipfdd.de/home/",
+        "start_date": "25 May 2025",
+        "end_date": "28 May 2025",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dresdenpolymerdiscus25May2025_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -5642,6 +5690,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonquan04Jun2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Mech'cheM: New forces in mechanochemistry",
+        "url": "https://mechchem-2025.sciencesconf.org/",
+        "start_date": "04 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Montpellier, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "mechchemnewforcesinm04Jun2025_0"
     },
     {
         "themes": [
@@ -7052,6 +7124,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Clay Conference",
+        "url": "https://icc.aipea.org/",
+        "start_date": "13 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlclayconference13Jul2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data",
@@ -7287,6 +7383,33 @@
     {
         "themes": [
             "analytical",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "North American solid state chemistry conference NASSCC",
+        "url": "https://group.chem.iastate.edu/Kovnir/NASSCC2025/NASSCC2025.html",
+        "start_date": "28 Jul 2025",
+        "end_date": "31 Jul 2025",
+        "locations": [
+            "Ames, IA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "northamericansolidst28Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "physical/phys org"
         ],
         "regions": [
@@ -7507,6 +7630,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Variety in Chemistry Education/Physics Higher Education ViCEPHEC",
+        "url": "https://vicephec2025.weebly.com/",
+        "start_date": "28 Aug 2025",
+        "end_date": "29 Aug 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "varietyinchemistryed28Aug2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -7553,6 +7698,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "efmcintlsymposiumona31Aug2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EuropaCat: European Congress on Catalysis",
+        "url": "https://www.ntnu.edu/europacat2025",
+        "start_date": "31 Aug 2025",
+        "end_date": "05 Sep 2025",
+        "locations": [
+            "Trondheim, Norway"
+        ],
+        "countries": [
+            "Norway"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europacateuropeancon31Aug2025_0"
     },
     {
         "themes": [
@@ -7861,6 +8032,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionpol08Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Main group elements reactivity conference",
+        "url": "https://mgerc.unamur.be/",
+        "start_date": "08 Sep 2025",
+        "end_date": "10 Sep 2025",
+        "locations": [
+            "Namur, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "maingroupelementsrea08Sep2025_0"
     },
     {
         "themes": [
