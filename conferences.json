@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "BRIDGES Broadening Research & Instructional Designs for Greater Equity in STEM",
-        "url": "https://events.zoom.us/ev/AtnaLdDxlhe1X6_JxlLFejvrvLIQwBMidJuQy5FU1iWSQoodlphp~Akbh0XjD2IAhx3KvM9CrPQYTWU45jIcjxcr1S_SbfpW372E0Ye89r_cevA",
-        "start_date": "31 Jan 2025",
-        "end_date": "02 Feb 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bridgesbroadeningres31Jan2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels"
         ],
@@ -2309,6 +2286,29 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bio-Europe Spring (partnering)",
+        "url": "https://informaconnect.com/bioeurope-spring/",
+        "start_date": "17 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioeuropespringpartn17Mar2025_0"
+    },
+    {
+        "themes": [
             "business"
         ],
         "regions": [
@@ -2567,6 +2567,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Journées Francophones de la Médecine Nucléaire JFMN",
+        "url": "https://www.cnp-mn.fr/sfmn-accueil/jfmn-2025/",
+        "start_date": "20 Mar 2025",
+        "end_date": "22 Mar 2025",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "journéesfrancophones20Mar2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -2774,6 +2797,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scaleupwhatgoeswrong25Mar2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bio-Europe Spring (partnering)",
+        "url": "https://informaconnect.com/bioeurope-spring/",
+        "start_date": "17 Mar 2025",
+        "end_date": "19 Mar 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioeuropespringpartn17Mar2025_0"
     },
     {
         "themes": [
@@ -3520,6 +3566,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "In-Cosmetics Global",
+        "url": "https://www.in-cosmetics.com/global/en-gb.html",
+        "start_date": "08 Apr 2025",
+        "end_date": "10 Apr 2025",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "incosmeticsglobal08Apr2025_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -3563,6 +3631,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "emeraldisleconferenc09Apr2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI Japan",
+        "url": "https://www.cphi.com/japan/en/home.html",
+        "start_date": "09 Apr 2025",
+        "end_date": "11 Apr 2025",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphijapan09Apr2025_0"
     },
     {
         "themes": [
@@ -5012,6 +5103,32 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "CPHI Americas",
+        "url": "https://www.cphi.com/americas/en/home.html",
+        "start_date": "20 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphiamericas20May2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -5946,6 +6063,28 @@
         "regions": [
             "Western Europe"
         ],
+        "title": "Biotech Outsourcing Strategies BOS Basel",
+        "url": "https://www.bio2bevents.com/bosbasel2025/",
+        "start_date": "11 Jun 2025",
+        "end_date": "12 Jun 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biotechoutsourcingst11Jun2025_0"
+    },
+    {
+        "themes": [
+            "history/philosophy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
         "title": "Intl Conference on the History of Chemistry ICHC",
         "url": "https://esdeveniments.uv.es/116631/detail/14th-international-conference-on-the-history-of-chemistry-14ichc.html",
         "start_date": "11 Jun 2025",
@@ -6187,6 +6326,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "annualmeetingofthepr18Jun2025_0"
+    },
+    {
+        "themes": [
+            "history/philosophy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society of Nuclear Medicine & Molecular Imaging SNMMI Annual Meeting",
+        "url": "https://snmmi.org/AM/AM/Home.aspx",
+        "start_date": "21 Jun 2025",
+        "end_date": "24 Jun 2025",
+        "locations": [
+            "New Orleans, LA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "LA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyofnuclearmedi21Jun2025_0"
     },
     {
         "themes": [
@@ -6541,6 +6705,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI China",
+        "url": "https://www.cphi.com/china/en/home.html",
+        "start_date": "24 Jun 2025",
+        "end_date": "26 Jun 2025",
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphichina24Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -6561,6 +6748,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "datavisualizationfor24Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Cyclic voltammetry boot camp",
+        "url": "https://tarheels.live/cvbootcamp/",
+        "start_date": "25 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Chapel Hill, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cyclicvoltammetryboo25Jun2025_0"
     },
     {
         "themes": [
@@ -7233,9 +7446,9 @@
             "Western USA"
         ],
         "title": "2025 Future Faculty Workshop",
-        "url": "https://x.com/emilypentzner/status/18796464123021",
-        "start_date": "15 Mar 2025",
-        "end_date": "17 Mar 2025",
+        "url": "https://www.linkedin.com/posts/emily-pentzer-0444bbb_timlodge-activity-7285411096117624833-sdD2/",
+        "start_date": "15 Jul 2025",
+        "end_date": "17 Jul 2025",
         "locations": [
             "Irvine, CA, USA"
         ],
@@ -7248,7 +7461,30 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "2025futurefacultywor15Mar2025_0"
+        "uid": "2025futurefacultywor15Jul2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI SouthEast Asia",
+        "url": "https://www.cphi.com/sea/en/home.html",
+        "start_date": "16 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Kuala Lumpur, Malaysia"
+        ],
+        "countries": [
+            "Malaysia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphisoutheastasia16Jul2025_0"
     },
     {
         "themes": [
@@ -7630,6 +7866,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI SouthEast Asia",
+        "url": "https://www.cphi.com/korea/en/home.html",
+        "start_date": "26 Aug 2025",
+        "end_date": "28 Aug 2025",
+        "locations": [
+            "Seoul, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphisoutheastasia26Aug2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -7724,6 +7983,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europacateuropeancon31Aug2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI Shenzhen",
+        "url": "https://www.cphi.com/china/en-gb/home.html",
+        "start_date": "01 Sep 2025",
+        "end_date": "03 Sep 2025",
+        "locations": [
+            "Shenzhen, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphishenzhen01Sep2025_0"
     },
     {
         "themes": [
@@ -8102,6 +8384,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chargedsoftmatterbri08Sep2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Symposium on Organic Reactivity ESOR",
+        "url": "https://www.esor2025.com/",
+        "start_date": "09 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Padova, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeansymposiumono09Sep2025_0"
     },
     {
         "themes": [
@@ -8686,6 +8991,29 @@
         "regions": [
             "South America"
         ],
+        "title": "European Association of Nuclear Medicine EANM Annual Congress",
+        "url": "https://eanm.org/congress-scientific-events/eanm25/",
+        "start_date": "04 Oct 2025",
+        "end_date": "08 Oct 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanassociationo04Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "South America"
+        ],
         "title": "NMR User Meeting",
         "url": "https://auremn.org/wp/en/20th-nmr-users-meeting/",
         "start_date": "06 Oct 2025",
@@ -8749,6 +9077,53 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "seeingisbelievingima08Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "NMR User Meeting",
+        "url": "https://auremn.org/wp/en/20th-nmr-users-meeting/",
+        "start_date": "06 Oct 2025",
+        "end_date": "10 Oct 2025",
+        "locations": [
+            "Rio de Janeiro, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nmrusermeeting06Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Nordic Life Science NLS Days",
+        "url": "https://www.nlsdays.com/",
+        "start_date": "13 Oct 2025",
+        "end_date": "14 Oct 2025",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nordiclifesciencenls13Oct2025_0"
     },
     {
         "themes": [
@@ -8869,6 +9244,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "advancesinstructural23Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CPHI SouthEast Asia",
+        "url": "https://www.cphi.com/europe/en/home.html",
+        "start_date": "28 Oct 2025",
+        "end_date": "30 Oct 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphisoutheastasia28Oct2025_0"
     },
     {
         "themes": [
@@ -9130,6 +9528,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI SouthEast Asia",
+        "url": "https://www.cphi.com/india/en/home.html",
+        "start_date": "25 Nov 2025",
+        "end_date": "27 Nov 2025",
+        "locations": [
+            "New Delhi, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphisoutheastasia25Nov2025_0"
     },
     {
         "themes": [
