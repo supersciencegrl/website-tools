@@ -499,6 +499,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Intl Love Data Week",
+        "url": "https://www.icpsr.umich.edu/web/about/cms/5224",
+        "start_date": "10 Feb 2025",
+        "end_date": "14 Feb 2025",
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intllovedataweek10Feb2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
