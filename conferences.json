@@ -2,29 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Rigi Workshop 2025: Microbiome meets metabolism (PhD students/postdocs)",
-        "url": "https://biol.scnat.ch/en/rigi_workshops/uuid/i/a82be0a4-5f90-550f-a79a-94e1c5a04bee-Rigi_Workshop_2025_Microbiome_Meets_Metabolism",
-        "start_date": "02 Feb 2025",
-        "end_date": "04 Feb 2024",
-        "locations": [
-            "Rigi Kulm, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rigiworkshop2025micr02Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "med chem"
         ],
         "regions": [
@@ -94,29 +71,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "machinelearningforno03Feb2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "London Lab Automators' Meetup",
-        "url": "https://lu.ma/9fbvg7yj",
-        "start_date": "04 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "londonlabautomatorsm04Feb2025_0"
     },
     {
         "themes": [
@@ -908,6 +862,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Digital Curation Conference IDCC25",
+        "url": "https://dcc.ac.uk/events/idcc25",
+        "start_date": "17 Feb 2025",
+        "end_date": "19 Feb 2025",
+        "locations": [
+            "The Hague, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intldigitalcurationc17Feb2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data"
         ],
@@ -1535,6 +1511,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lehrgang zum Erwerb des Sachkundenachweises zur Durchführung von Potentialfeldmessungen (training course; Germany language)",
+        "url": "https://www.bam-akademie.de/kursangebot/kurs/lehrgang-zum-erwerb-des-sachkundenachweises-zur-durchf%C3%BChrung-von-potentialfeldmessungen-5.html",
+        "start_date": "03 Mar 2025",
+        "end_date": "05 Mar 2025",
+        "locations": [
+            "Aachen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lehrgangzumerwerbdes03Mar2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -1964,6 +1963,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "zetasymposiumpharmat11Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Applied Biophysics Forum in Drug Delivery",
+        "url": "https://events.malvernpanalytical.com/W240311MainzLNP",
+        "start_date": "11 Mar 2025",
+        "end_date": "12 Mar 2025",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "appliedbiophysicsfor11Mar2025_0"
     },
     {
         "themes": [
@@ -2424,6 +2449,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "brightscideachalleng18Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Sustainable Analytical Science",
+        "url": "https://www.rsc.org/events/detail/80631/sustainable-analytical-science",
+        "start_date": "18 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sustainableanalytica18Mar2025_0"
     },
     {
         "themes": [
@@ -3151,6 +3199,29 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Dalton 2025",
+        "url": "https://www.rsc.org/events/detail/80569/dalton-2025",
+        "start_date": "01 Apr 2025",
+        "end_date": "03 Apr 2025",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dalton202501Apr2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -3633,6 +3704,30 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Chemical Nanoscience early career spring symposium 2025",
+        "url": "https://www.rsc.org/events/detail/80156/chemical-nanoscience-early-career-spring-symposium-2025",
+        "start_date": "09 Apr 2025",
+        "end_date": "10 Apr 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalnanosciencee09Apr2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -3829,6 +3924,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Crystallography Association BCA Spring Meeting",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=119990&ef_sel_menu=2308&eventID=304",
+        "start_date": "14 Apr 2025",
+        "end_date": "17 Apr 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "britishcrystallograp14Apr2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -3853,6 +3971,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "enablingtechnologies14Apr2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "GreenChemAfrica",
+        "url": "https://susmat.um6p.ma/greenchemafrica-2025/",
+        "start_date": "20 Apr 2025",
+        "end_date": "26 Apr 2025",
+        "locations": [
+            "Ben Guerir, Morocco"
+        ],
+        "countries": [
+            "Morocco"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greenchemafrica20Apr2025_0"
     },
     {
         "themes": [
@@ -4660,6 +4800,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer11May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Gordon Research Conference: Self-Assembly & Supramolecular Chemistry",
+        "url": "https://www.rsc.org/events/detail/80402/chemical-biology-symposium-2025",
+        "start_date": "12 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer12May2025_0"
     },
     {
         "themes": [
@@ -5856,6 +6018,52 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "ACS Great Lakes Regional Meeting GLRM",
+        "url": "https://greatlakesregion-acs.org/event-welcome/glrm-2025",
+        "start_date": "04 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Appleton, WI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsgreatlakesregiona04Jun2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -6102,6 +6310,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "LOBSTER School on Chemical Bonding Analysis",
+        "url": "https://www.bam-akademie.de/kursangebot/kurs/lobster-schule-zur-chemischen-bindungsanalyse-54.html?lang=en",
+        "start_date": "11 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lobsterschoolonchemi11Jun2025_0"
+    },
+    {
+        "themes": [
             "history/philosophy"
         ],
         "regions": [
@@ -6326,6 +6557,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "datascienceforlifesc16Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Analytical Research Forum ARF25",
+        "url": "https://www.rsc.org/events/detail/80490/analytical-research-forum-2025",
+        "start_date": "17 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "analyticalresearchfo17Jun2025_0"
     },
     {
         "themes": [
@@ -7032,6 +7285,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Machine Learning Summer School on Drug & Materials Discovery MLSSD",
+        "url": "https://mlss2025.mlinpl.org/",
+        "start_date": "01 Jul 2025",
+        "end_date": "06 Jul 2024",
+        "locations": [
+            "Kraków, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearningsumme01Jul2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -7408,6 +7685,35 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biomoleculardynamics14Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "computational/data",
+            "formulation/particle science",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Summer HTE Workshop",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfaILlV7bOXpGvFP73n884BqARXMmL8D4X2fQGAl9iEROyDew/viewform",
+        "start_date": "14 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Newark, DE, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "summerhteworkshop14Jul2025_0"
     },
     {
         "themes": [
