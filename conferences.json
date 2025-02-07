@@ -1,32 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Scientific Update: 17th Winter Conference on Medicinal & Bioorganic Chemistry",
-        "url": "https://www.scientificupdate.com/conference_events/winter-conference-on-medicinal-bioorganic-chemistry/",
-        "start_date": "02 Feb 2025",
-        "end_date": "06 Feb 2025",
-        "locations": [
-            "Steamboat Springs, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "$1,249",
-        "non_member_fee": "$1,249",
-        "max_fee": "$1,249",
-        "uid": "scientificupdate17th02Feb2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
@@ -1667,6 +1641,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "12thuknationalscirsc07Mar2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Celebrating Women in STEM",
+        "url": "https://pc-womeninchemistry.wixsite.com/wicuon",
+        "start_date": "07 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "celebratingwomeninst07Mar2025_0"
     },
     {
         "themes": [
