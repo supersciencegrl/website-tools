@@ -98,29 +98,6 @@
     },
     {
         "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RNA Therapeutics",
-        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/rna-therapeutics",
-        "start_date": "10 Feb 2025",
-        "end_date": "11 Feb 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rnatherapeutics10Feb2025_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -163,99 +140,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "understandingpolymor10Feb2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Global"
-        ],
-        "title": "IUPAC Global Women's Breakfast",
-        "url": "https://iupac.org/gwb/2025/",
-        "start_date": "11 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "iupacglobalwomensbre11Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Collaborative Computational Project for NMR CCPN ResoN8 Workshop",
-        "url": "https://ccpn.ac.uk/outreach/workshops/",
-        "start_date": "11 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "collaborativecomputa11Feb2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Highlights in catalysis, photo-, & electrochemistry",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/highlights-in-catalysis-photo--electrochemistry",
-        "start_date": "11 Feb 2025",
-        "end_date": "12 Feb 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "highlightsincatalysi11Feb2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "1st ICIQ High-Throughput Experimentation Symposium",
-        "url": "https://mcusercontent.com/f69af349fe1478314bc88989b/files/d95363f8-9a4e-dd0d-2ced-6b6cb908161d/1st_ICIQ_High_Throughput_Experimentation_Symposium._Accelerating_synthetic_development_FINAL2.pdf",
-        "start_date": "11 Feb 2025",
-        "end_date": "12 Feb 2025",
-        "locations": [
-            "Tarragona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "1sticiqhighthroughpu11Feb2025_0"
     },
     {
         "themes": [
@@ -2538,6 +2422,52 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Labor Impuls Forum (German language)",
+        "url": "https://labor-impuls-forum.de/",
+        "start_date": "25 Mar 2025",
+        "end_date": "26 Mar 2025",
+        "locations": [
+            "Hamburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "laborimpulsforumgerm25Mar2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bio-Europe Spring (partnering)",
+        "url": "https://informaconnect.com/bioeurope-spring/",
+        "start_date": "25 Mar 2025",
+        "end_date": "26 Mar 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioeuropespringpartn25Mar2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -2558,29 +2488,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scaleupwhatgoeswrong25Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bio-Europe Spring (partnering)",
-        "url": "https://informaconnect.com/bioeurope-spring/",
-        "start_date": "17 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioeuropespringpartn17Mar2025_0"
     },
     {
         "themes": [
