@@ -2,30 +2,6 @@
     {
         "themes": [
             "analytical",
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Main Group Synthesis & Catalysis",
-        "url": "https://www.icmgsc2025.com/",
-        "start_date": "13 Feb 2025",
-        "end_date": "16 Feb 2025",
-        "locations": [
-            "Thiruvananthapuram, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonmain13Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio"
         ],
         "regions": [
@@ -192,53 +168,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "deeplearningforimage17Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC Chemical Biology & Bioorganic Group CBBG Forum",
-        "url": "https://www.rsc.org/events/detail/80333/2025-rsc-chemical-biology-and-bio-organic-group-cbbg-forum",
-        "start_date": "18 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscchemicalbiologybi18Feb2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ELRIG Germany: Target innovation & novel screening technologies",
-        "url": "https://elrig.org/portfolio/elrigs-german-forum/",
-        "start_date": "18 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "elriggermanytargetin18Feb2025_0"
     },
     {
         "themes": [
@@ -2363,6 +2292,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "materialssciencemega27Mar2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Organic Chemistry Community South & East Regional Meeting 2025",
+        "url": "https://www.rsc.org/events/detail/80911/rsc-organic-chemistry-community-south-and-east-regional-meeting-2025",
+        "start_date": "28 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscorganicchemistryc28Mar2025_0"
     },
     {
         "themes": [
@@ -6619,6 +6572,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "datavisualizationfor24Jun2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SiLA Conference 2025",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRTj3qrXhbm3rA4lDOlb6K5HeeLMraPDyKxVBnkhDVL5v0SA/viewform",
+        "start_date": "25 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "silaconference202525Jun2025_0"
     },
     {
         "themes": [
