@@ -1852,6 +1852,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Continuous Manufacturing and Advanced Crystallisation CMAC Hub Open Days",
+        "url": "https://cmac.ac.uk/open-days-2025",
+        "start_date": "18 Mar 2025",
+        "end_date": "20 Mar 2025",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "continuousmanufactur18Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science",
@@ -2647,6 +2670,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments01Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Crystallization Science & Engineering (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20250401/",
+        "start_date": "01 Apr 2025",
+        "end_date": "03 Apr 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "crystallizationscien01Apr2025_0"
     },
     {
         "themes": [
