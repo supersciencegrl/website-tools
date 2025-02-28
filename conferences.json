@@ -1,296 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Biophysical Society Annual Meeting",
-        "url": "https://www.biophysics.org/2025meeting#/",
-        "start_date": "15 Feb 2025",
-        "end_date": "19 Feb 2025",
-        "locations": [
-            "Los Angeles, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biophysicalsocietyan15Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Molecular Pharmacology",
-        "url": "https://www.grc.org/molecular-pharmacology-conference/2025/",
-        "start_date": "16 Feb 2025",
-        "end_date": "21 Feb 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer16Feb2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Drug Discovery Mission (training course)",
-        "url": "https://wcair.dundee.ac.uk/training/short-courses/",
-        "start_date": "16 Feb 2025",
-        "end_date": "21 Feb 2025",
-        "locations": [
-            "Buenos Aires, Argentina"
-        ],
-        "countries": [
-            "Argentina"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdiscoverymission16Feb2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday Discussion: Atmospheric Chemistry in Cold Environments",
-        "url": "https://www.rsc.org/events/detail/77611/atmospheric-chemistry-in-cold-environments-faraday-discussion",
-        "start_date": "17 Feb 2025",
-        "end_date": "19 Feb 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "faradaydiscussionatm17Feb2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Introduction to Data Science and Python for Biomanufacturing",
-        "url": "https://www.ucl.ac.uk/biochemical-engineering/study/industrial-training/mbi-modules/introduction-data-science-and-python-biomanufacturing",
-        "start_date": "17 Feb 2025",
-        "end_date": "19 Feb 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "introductiontodatasc17Feb2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Digital Curation Conference IDCC25",
-        "url": "https://dcc.ac.uk/events/idcc25",
-        "start_date": "17 Feb 2025",
-        "end_date": "19 Feb 2025",
-        "locations": [
-            "The Hague, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intldigitalcurationc17Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Deep learning for image analysis (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/mac25-01/",
-        "start_date": "17 Feb 2025",
-        "end_date": "21 Feb 2025",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "deeplearningforimage17Feb2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "inorganic/nano",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemist in Industry",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/chemist-in-industry",
-        "start_date": "19 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Alderley Park, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemistinindustry19Feb2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Controlled Release Society Asia Satellite Meeting: CRSingapore",
-        "url": "https://www.controlledreleasesociety.org/events/asia-satellite-2025",
-        "start_date": "19 Feb 2025",
-        "end_date": "21 Feb 2025",
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "controlledreleasesoc19Feb2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Intl Congress on Sustainability Science & Engineering ICOSSE",
-        "url": "https://icosse.org/2025",
-        "start_date": "20 Feb 2025",
-        "end_date": "21 Feb 2025",
-        "locations": [
-            "Auckland, New Zealand"
-        ],
-        "countries": [
-            "New Zealand"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlcongressonsustai20Feb2025_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "Midlands",
-            "Online"
-        ],
-        "title": "STEM, LGBTQ, & You",
-        "url": "https://www.gidrm.org/event/primo-corso-nmr-per-lo-studio-di-biomolecole-caserta/",
-        "start_date": "21 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "stemlgbtqyou21Feb2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Quantum chemistry public engagement training for early career chemists",
-        "url": "https://www.imperial.ac.uk/events/188358/quantum-chemistry-public-engagement-training-for-early-career-chemists/",
-        "start_date": "21 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "quantumchemistrypubl21Feb2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -346,76 +56,6 @@
     {
         "themes": [
             "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Work Up & Product Isolation (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/work-up-and-product-isolation/",
-        "start_date": "24 Feb 2025",
-        "end_date": "25 Feb 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "workupproductisolati24Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "What a chemist needs to know about biology 1: in vitro biology",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/what-a-chemist-needs-to-know-about-biology-1-in-vitro-biology",
-        "start_date": "25 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "whatachemistneedstok25Feb2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "High-end anti-corrosion coatings",
-        "url": "https://www.european-coatings.com/events/conference/high-end-anti-corrosion-coatings/",
-        "start_date": "25 Feb 2025",
-        "end_date": "26 Feb 2025",
-        "locations": [
-            "Dusseldorf, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "highendanticorrosion25Feb2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
             "pharma industry"
         ],
         "regions": [
@@ -461,30 +101,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scuoladirisonanzamag25Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "ADMET 2025",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/admet-2025",
-        "start_date": "26 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "admet202526Feb2025_0"
     },
     {
         "themes": [
@@ -556,28 +172,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "indianpeptidesymposi26Feb2025_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Lab Facilities Summit Europe",
-        "url": "https://www.amg-world.co.uk/lab-facilities-europe/",
-        "start_date": "27 Feb 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "labfacilitiessummite27Feb2025_0"
     },
     {
         "themes": [
@@ -4736,6 +4330,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "futurelabsautomation20May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Sustainability Symposium",
+        "url": "https://www.rsc.org/events/detail/80813/rsc-sustainability-symposium-2025",
+        "start_date": "20 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscsustainabilitysym20May2025_0"
     },
     {
         "themes": [
