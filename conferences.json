@@ -2,205 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Antimicrobial Peptides",
-        "url": "https://www.grc.org/antimicrobial-peptides-conference/2025/",
-        "start_date": "23 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer23Feb2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Nanomaterials for Applications in Energy Technology",
-        "url": "https://www.grc.org/nanomaterials-for-applications-in-energy-technology-conference/2025/",
-        "start_date": "23 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer23Feb2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Intl Symposium on Recent Advances in Drug Delivery Systems",
-        "url": "https://na.eventscloud.com/ehome/radds25/",
-        "start_date": "25 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Salt Lake City, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumonrecen25Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Scuola di risonanza magnetica nucleare per lo studio di biomolecole",
-        "url": "https://www.gidrm.org/event/primo-corso-nmr-per-lo-studio-di-biomolecole-caserta/",
-        "start_date": "25 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Caserta, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scuoladirisonanzamag25Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "TIDES Asia: Oligonucleotide & Peptide Therapeutics",
-        "url": "https://informaconnect.com/asia-tides/",
-        "start_date": "26 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Kyoto, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tidesasiaoligonucleo26Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Iberian Peptide Meeting EPI 2025",
-        "url": "https://www.epi2025.com/en/index.php",
-        "start_date": "26 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Iberia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "iberianpeptidemeetin26Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Indian Peptide Symposium",
-        "url": "https://indianpeptidesociety.com/10th-indian-peptide-symposium",
-        "start_date": "26 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Pune, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "indianpeptidesymposi26Feb2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Extractables & leachables summit",
-        "url": "https://www.uventia.com/event/5th-annual-extractables-leachables-summit-2025/",
-        "start_date": "27 Feb 2025",
-        "end_date": "28 Feb 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "extractablesleachabl27Feb2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "pharma industry"
         ],
         "regions": [
@@ -365,6 +166,37 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "designofexperimentsf03Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "law/policy",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA",
+            "Online"
+        ],
+        "title": "49th Intl GMP Conference",
+        "url": "https://internationalgmp.com/",
+        "start_date": "03 Mar 2025",
+        "end_date": "06 Mar 2025",
+        "locations": [
+            "Athens, GA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "49thintlgmpconferenc03Mar2025_0"
     },
     {
         "themes": [
@@ -653,6 +485,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemistry Development Kit CDK User Group Meeting",
+        "url": "https://cdk.github.io/nwo-openscience-2024/",
+        "start_date": "10 Mar 2025",
+        "end_date": "11 Mar 2025",
+        "locations": [
+            "Maastricht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemistrydevelopment10Mar2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -749,6 +603,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "anakon202510Mar2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Centre for Diffraction Data ICDD Spring Meeting",
+        "url": "https://www.icdd.com/spring-meetings/",
+        "start_date": "10 Mar 2025",
+        "end_date": "14 Mar 2025",
+        "locations": [
+            "Newtown Square, PA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlcentrefordiffrac10Mar2025_0"
     },
     {
         "themes": [
@@ -1727,6 +1608,31 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Centre for Diffraction Data ICDD X-ray Fluorescence Course",
+        "url": "https://www.icdd.com/xrf/",
+        "start_date": "24 Mar 2025",
+        "end_date": "28 Mar 2025",
+        "locations": [
+            "Newtown Square, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlcentrefordiffrac24Mar2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "diversity"
         ],
@@ -2437,6 +2343,32 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Nebraska Women in STEM",
+        "url": "https://www.nebraskawomeninstem.com/2025-nebraska-women-in-stem-conference/",
+        "start_date": "03 Apr 2025",
+        "end_date": "04 Apr 2025",
+        "locations": [
+            "La Vista, NE, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nebraskawomeninstem03Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem"
         ],
@@ -2723,6 +2655,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "incosmeticsglobal08Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FAIR Research Data Management: Basics for Chemists",
+        "url": "https://www.nfdi4chem.de/event/fair-research-data-management-basics-for-chemists-in-stuttgart/",
+        "start_date": "09 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Stuttgart, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fairresearchdatamana09Apr2025_0"
     },
     {
         "themes": [
@@ -3016,6 +2970,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "enablingtechnologies14Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Deutschland Nationale Forschungsdateninfrastruktur NFDI4Chem Consortium Meeting 5.5",
+        "url": "https://www.nfdi4chem.de/event/consortium-meeting-5-5/",
+        "start_date": "16 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "deutschlandnationale16Apr2025_0"
     },
     {
         "themes": [
@@ -3700,6 +3676,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "londonpolymergroupme07May2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemotion ELN Hands-on Workshop",
+        "url": "https://www.nfdi4chem.de/event/chemotion-eln-hands-on-workshop/",
+        "start_date": "07 May 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemotionelnhandsonw07May2025_0"
     },
     {
         "themes": [
@@ -4574,6 +4572,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "LabIMotion: Online Hands-on Workshop",
+        "url": "https://www.nfdi4chem.de/event/labimotion-online-hands-on-workshop/",
+        "start_date": "26 May 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labimotiononlinehand26May2025_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -5087,6 +5107,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemistry Data Days: Research Data Management in Chemistry & Physical Sciences",
+        "url": "https://www.nfdi4chem.de/event/chemistry-data-days-2025/",
+        "start_date": "03 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemistrydatadaysres03Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -5566,6 +5609,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceontheh11Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "New England Glyochemistry Meeting",
+        "url": "https://negcmu.sites.northeastern.edu/",
+        "start_date": "14 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newenglandglyochemis14Jun2025_0"
     },
     {
         "themes": [
@@ -6409,6 +6478,52 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Machine Learning Summer School on Drug & Materials Discovery MLSSD",
+        "url": "https://mlss2025.mlinpl.org/",
+        "start_date": "29 Jun 2025",
+        "end_date": "03 Jul 2025",
+        "locations": [
+            "Krakow, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "machinelearningsumme29Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "23rd European Symposium on Organic Chemistry ESOC 2025",
+        "url": "https://www.esoc2025.com/",
+        "start_date": "29 Jun 2025",
+        "end_date": "03 Jul 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "23rdeuropeansymposiu29Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem"
@@ -6519,6 +6634,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanconferenceon30Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "8th Machine Learning & AI in Bio(Chemical) Engineering Conference",
+        "url": "https://www.mabc-cambridge.ai/",
+        "start_date": "01 Jul 2025",
+        "end_date": "02 Jul 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "8thmachinelearningai01Jul2025_0"
     },
     {
         "themes": [
@@ -7289,6 +7428,31 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "CESA"
+        ],
+        "title": "Denver X-Ray Conference",
+        "url": "https://www.dxcicdd.com/",
+        "start_date": "04 Aug 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "Rockville, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "denverxrayconference04Aug2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "inorganic/nano",
@@ -7559,7 +7723,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EFMC Intl Symposium on Advances in Synthetic & Medicinal Chemistry",
+        "title": "Intl Symposium on Advances in Synthetic & Medicinal Chemistry EFMC-ASMC",
         "url": "https://www.efmc-asmc.org/",
         "start_date": "31 Aug 2025",
         "end_date": "04 Sep 2025",
@@ -7572,7 +7736,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "efmcintlsymposiumona31Aug2025_0"
+        "uid": "intlsymposiumonadvan31Aug2025_0"
     },
     {
         "themes": [
@@ -7889,7 +8053,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EFMC Young Medicinal Chemists' Symposium",
+        "title": "Young Medicinal Chemists' Symposium EFMC-YMCS",
         "url": "https://www.efmc-ymcs.org/",
         "start_date": "04 Sep 2025",
         "end_date": "05 Sep 2025",
@@ -7902,7 +8066,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "efmcyoungmedicinalch04Sep2025_0"
+        "uid": "youngmedicinalchemis04Sep2025_0"
     },
     {
         "themes": [
@@ -8118,6 +8282,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionfro10Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Computational Medicinal Chemistry School",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918363",
+        "start_date": "10 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "computationalmedicin10Sep2025_0"
     },
     {
         "themes": [
@@ -9172,6 +9363,33 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Novalix Conference: Developing the Synergy between Biophysics and Medicinal Chemistry to Deliver Better Drugs",
+        "url": "https://www.novalix-conferences-us.org/",
+        "start_date": "19 Nov 2025",
+        "end_date": "21 Nov 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "novalixconferencedev19Nov2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -9483,6 +9701,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonhigh31May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Reaction Mechanisms Conference RMC",
+        "url": "https://hope.edu/academics/chemistry/rmc2026/",
+        "start_date": "07 Jun 2026",
+        "end_date": "10 Jun 2026",
+        "locations": [
+            "Holland, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "reactionmechanismsco07Jun2026_0"
     },
     {
         "themes": [
