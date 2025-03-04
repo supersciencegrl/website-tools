@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ATP Binding Cassette ABC Proteins",
-        "url": "https://abc2025meeting.org/",
-        "start_date": "27 Feb 2025",
-        "end_date": "03 Mar 2025",
-        "locations": [
-            "Innsbruck, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "atpbindingcassetteab27Feb2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "business"
         ],
@@ -73,30 +50,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlfoundationofproc02Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC BMCS: Conformational Design in Drug Discovery 2025",
-        "url": "https://www.rscbmcs.org/events/conformationaldesign25/",
-        "start_date": "03 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcsconformationa03Mar2025_0"
     },
     {
         "themes": [
@@ -1468,6 +1421,49 @@
             "synthesis"
         ],
         "regions": [
+            "Western Europe"
+        ],
+        "title": "Amsterdam Chemistry Innovation Day ACID",
+        "url": "https://www.amsterdamsciencepark.nl/event/amsterdam-chemistry-innovation-day-2024/",
+        "start_date": "22 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "amsterdamchemistryin22Mar2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
             "Western USA",
             "Online"
         ],
@@ -2170,6 +2166,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments01Apr2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Nasal Formulation & Delivery Summit",
+        "url": "https://www.nasal-formulation-delivery.com/",
+        "start_date": "01 Apr 2025",
+        "end_date": "03 Apr 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nasalformulationdeli01Apr2025_0"
     },
     {
         "themes": [
@@ -3701,6 +3723,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Analytical Horizons in Oligonucleotide Separation Science",
+        "url": "https://www.rsc.org/events/detail/80926/analytical-horizons-in-oligonucleotide-separation-science",
+        "start_date": "07 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "analyticalhorizonsin07May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "catalysis",
             "synthesis"
@@ -4278,6 +4323,35 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "panicnmr19May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "TIDES USA",
+        "url": "https://informaconnect.com/tides/",
+        "start_date": "19 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "tidesusa19May2025_0"
     },
     {
         "themes": [
@@ -5010,6 +5084,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "empoweringwomeninorg02Jun2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Delivery & Formulation DDF Summit",
+        "url": "https://ddfevent.com/2025/en/page/home",
+        "start_date": "02 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdeliveryformulat02Jun2025_0"
     },
     {
         "themes": [
@@ -8658,6 +8755,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionhig24Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Symposium on Separation Sciences ISSS",
+        "url": "https://cegss.ptchem.pl/isss-2025",
+        "start_date": "25 Sep 2025",
+        "end_date": "27 Sep 2025",
+        "locations": [
+            "Belgrade, Serbia"
+        ],
+        "countries": [
+            "Serbia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonsepar25Sep2025_0"
     },
     {
         "themes": [
