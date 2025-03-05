@@ -53,29 +53,6 @@
     },
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Ionic liquids & the future of soft materials",
-        "url": "https://royalsociety.org/science-events-and-lectures/2025/02/ionic-liquids/",
-        "start_date": "03 Mar 2025",
-        "end_date": "04 Mar 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ionicliquidsthefutur03Mar2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -2071,6 +2048,56 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Graham Award Symposium: Colloidal Collaborations",
+        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2025/graham-award-symposium-2025-colloidal-collaborations",
+        "start_date": "01 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "grahamawardsymposium01Apr2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Bio-IT World Hackathon",
+        "url": "https://www.bio-itworldexpo.com/fair-data-hackathon",
+        "start_date": "01 Apr 2025",
+        "end_date": "02 Apr 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioitworldhackathon01Apr2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -2166,32 +2193,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments01Apr2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Nasal Formulation & Delivery Summit",
-        "url": "https://www.nasal-formulation-delivery.com/",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nasalformulationdeli01Apr2025_0"
     },
     {
         "themes": [
@@ -2313,6 +2314,36 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "analyticavietnam02Apr2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Bio-IT World",
+        "url": "https://www.bio-itworldexpo.com/fair-data-hackathon",
+        "start_date": "01 Apr 2025",
+        "end_date": "02 Apr 2025",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioitworld01Apr2025_0"
     },
     {
         "themes": [
@@ -3014,6 +3045,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "deutschlandnationale16Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Technology-Enhanced Chemical Synthesis TECS CDT Digital Chemistry Festival",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG2pzeMiWYg5Gr7f160jaEcJUN1JYVTdFQ1g1M0w4NkY4UURYWVdEN09aSS4u&route=shorturl",
+        "start_date": "16 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "technologyenhancedch16Apr2025_0"
     },
     {
         "themes": [
@@ -5959,6 +6012,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "analyticalresearchfo17Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Persistent Challenges in Chemoinformatics",
+        "url": "https://www.pistoiaalliance.org/eventdetails/persistent-challenges-in-cheminformatics/",
+        "start_date": "18 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "persistentchallenges18Jun2025_0"
     },
     {
         "themes": [
