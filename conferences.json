@@ -1,175 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Design of Experiments for Chemists & Engineers (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/20250303/",
-        "start_date": "03 Mar 2025",
-        "end_date": "06 Mar 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "designofexperimentsf03Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "49th Intl GMP Conference",
-        "url": "https://internationalgmp.com/",
-        "start_date": "03 Mar 2025",
-        "end_date": "06 Mar 2025",
-        "locations": [
-            "Athens, GA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "49thintlgmpconferenc03Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Research data in the physical sciences: A forum for librarians & research support professionals",
-        "url": "https://www.psdi.ac.uk/event/research-data-forum-2025/",
-        "start_date": "05 Mar 2025",
-        "end_date": "06 Mar 2025",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "researchdatainthephy05Mar2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20250305/",
-        "start_date": "05 Mar 2025",
-        "end_date": "07 Mar 2025",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicaldevelopments05Mar2025_0"
-    },
-    {
-        "themes": [
-            "catalysis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "UK Catalysis Hub Celebration",
-        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-celebration-tickets-1106423375099",
-        "start_date": "06 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukcatalysishubcelebr06Mar2025_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "12th UK National SCI-RSC Retrosynthesis Competition",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/12th-sci-rsc-national-retrosynthesis-competition",
-        "start_date": "07 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "12thuknationalscirsc07Mar2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Celebrating Women in STEM",
-        "url": "https://pc-womeninchemistry.wixsite.com/wicuon",
-        "start_date": "07 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "celebratingwomeninst07Mar2025_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -219,6 +50,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer09Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SUPRAlife Third School: Supramolecular multifunctional biomaterials to interface with living systems",
+        "url": "https://www.supralife.eu/thirdschool/",
+        "start_date": "09 Mar 2025",
+        "end_date": "14 Mar 2025",
+        "locations": [
+            "Aveiro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "supralifethirdschool09Mar2025_0"
     },
     {
         "themes": [
@@ -608,6 +462,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "quantumchemistryoutr12Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Biologics Manufacturing Asia",
+        "url": "https://www.imapac.com/events/biologics-manufacturing-asia-2025",
+        "start_date": "12 Mar 2025",
+        "end_date": "13 Mar 2025",
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biologicsmanufacturi12Mar2025_0"
     },
     {
         "themes": [
@@ -1188,6 +1067,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Discngine Labs Live",
+        "url": "https://www.discngine.com/discngine-labs-live-in-cambridge",
+        "start_date": "19 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discnginelabslive19Mar2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -1646,6 +1549,54 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "roadsurfacecharacter26Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "ELIXIR Toxicology Community Workshop",
+        "url": "https://www.aanmelder.nl/intoxicom-ws-2/wiki/1152036/save-date-ws-3",
+        "start_date": "26 Mar 2025",
+        "end_date": "27 Mar 2025",
+        "locations": [
+            "Uppsala, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "elixirtoxicologycomm26Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Biologics World Taiwan",
+        "url": "https://www.imapac.com/events/biologics-world-taiwan-2025",
+        "start_date": "12 Mar 2025",
+        "end_date": "13 Mar 2025",
+        "locations": [
+            "Taipei, Taiwan"
+        ],
+        "countries": [
+            "Taiwan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biologicsworldtaiwan12Mar2025_0"
     },
     {
         "themes": [
@@ -2451,6 +2402,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Conscience Symposium on Open Drug Discovery",
+        "url": "https://conscience.ca/symposium2025",
+        "start_date": "07 Apr 2025",
+        "end_date": "08 Apr 2025",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "consciencesymposiumo07Apr2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "process/engineering"
         ],
@@ -2708,6 +2683,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Focussing on Targeted Covalent Drugs",
+        "url": "https://www.dmdg.org/events/20250410/introduction.asp",
+        "start_date": "10 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "focussingontargetedc10Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -2878,6 +2877,38 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "britishcrystallograp14Apr2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA",
+            "Online"
+        ],
+        "title": "Drug Discovery Chemistry",
+        "url": "https://www.drugdiscoverychemistry.com/",
+        "start_date": "14 Apr 2025",
+        "end_date": "17 Apr 2025",
+        "locations": [
+            "San Diego, CA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdiscoverychemist14Apr2025_0"
     },
     {
         "themes": [
@@ -3293,6 +3324,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "britishzeoliteassoci28Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "AIChemist Workshop (AI & drug discovery)",
+        "url": "https://www.cecam.org/workshop-details/aichemist-1374",
+        "start_date": "28 Apr 2025",
+        "end_date": "02 May 2025",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "aichemistworkshopaid28Apr2025_0"
     },
     {
         "themes": [
@@ -4021,6 +4077,35 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "PEGS Summit: Protein & Antibody Engineering",
+        "url": "https://www.pegsummit.com/",
+        "start_date": "12 May 2025",
+        "end_date": "16 May 2025",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pegssummitproteinant12May2025_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -4314,6 +4399,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "tidesusa19May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Pharmacokinetics in drug discovery ourse",
+        "url": "https://www.dmdg.org/events/20250519/introduction.asp",
+        "start_date": "19 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharmacokineticsindr19May2025_0"
     },
     {
         "themes": [
@@ -4872,6 +4981,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug-Drug Interaction DDI Marburg Workshop",
+        "url": "https://www.ddi-workshop-marbach.org/",
+        "start_date": "01 Jun 2025",
+        "end_date": "03 Jun 2025",
+        "locations": [
+            "Marburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugdruginteractiond01Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "materials/polymers",
             "med chem",
@@ -5137,6 +5270,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "interdisciplinarycha02Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Drug Metabolism Discussion Group DMDG Early Career Meeting",
+        "url": "https://www.dmdg.org/events/20250603/introduction.asp",
+        "start_date": "03 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugmetabolismdiscus03Jun2025_0"
     },
     {
         "themes": [
@@ -6344,6 +6502,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Biologics Manufacturing Korea",
+        "url": "https://www.imapac.com/events/biologics-manufacturing-korea-2025",
+        "start_date": "24 Jun 2025",
+        "end_date": "25 Jun 2025",
+        "locations": [
+            "Incheon, South Korea"
+        ],
+        "countries": [
+            "South Korea"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biologicsmanufacturi24Jun2025_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -6387,6 +6570,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "datavisualizationfor24Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Methods for bioanalysis & drug metabolism course",
+        "url": "https://www.dmdg.org/events/20250624/introduction.asp",
+        "start_date": "24 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "methodsforbioanalysi24Jun2025_0"
     },
     {
         "themes": [
@@ -6742,6 +6949,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Société des Experts Chimistes de France SECF Sustainable Nancy",
+        "url": "https://www.secf-sustainable-nancy.com/",
+        "start_date": "01 Jul 2025",
+        "end_date": "02 Jul 2025",
+        "locations": [
+            "Nancy, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sociétédesexpertschi01Jul2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "pharma industry"
@@ -6997,6 +7228,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "17thintlconferenceon07Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "From AI & ML to agent-based science (students & early career scientists)",
+        "url": "https://www.emsl.pnnl.gov/events/2025-emsl-summer-school",
+        "start_date": "07 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Richland, WA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "WA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fromaimltoagentbased07Jul2025_0"
     },
     {
         "themes": [
@@ -7270,6 +7528,60 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "cphisoutheastasia16Jul2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "ACS Division of Organic Chemistry Graduate Research Symposium",
+        "url": "https://www.organicdivision.org/graduate-research-symposium/",
+        "start_date": "17 Jul 2025",
+        "end_date": "20 Jul 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsdivisionoforganic17Jul2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "ChemEd2025",
+        "url": "https://learn.mines.edu/chemed2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "24 Jul 2025",
+        "locations": [
+            "Golden, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemed202520Jul2025_0"
     },
     {
         "themes": [
@@ -7632,6 +7944,28 @@
     },
     {
         "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Summer School on Green Chemistry",
+        "url": "https://www.tu.berlin/en/international/summer-school/summer-school/summer-school-on-campus/green-chemistry",
+        "start_date": "18 Aug 2025",
+        "end_date": "29 Aug 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "summerschoolongreenc18Aug2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry",
             "process/engineering",
@@ -7967,6 +8301,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Drug Metabolism Discussion Group DMDG Open Meeting",
+        "url": "https://www.dmdg.org/events/",
+        "start_date": "02 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drugmetabolismdiscus02Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -8292,6 +8650,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chargedsoftmatterbri08Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Antibody Engineering Europe",
+        "url": "https://www.imapac.com/events/antibody-engineering-europe-2025",
+        "start_date": "09 Sep 2025",
+        "end_date": "10 Sep 2025",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "antibodyengineeringe09Sep2025_0"
     },
     {
         "themes": [
@@ -8647,6 +9030,36 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Discovery on Target",
+        "url": "https://www.discoveryontarget.com/",
+        "start_date": "22 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "discoveryontarget22Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "process/engineering"
@@ -8884,6 +9297,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SUPRAlife Intl Conference: Supramolecular multifunctional biomaterials to interface with living systems",
+        "url": "https://www.supralife.eu/finalconference/",
+        "start_date": "29 Sep 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Aveiro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "supralifeintlconfere29Sep2025_0"
+    },
+    {
+        "themes": [
             "business",
             "formulation/particle science",
             "med chem",
@@ -8985,6 +9421,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "nmrusermeeting06Oct2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Fundamentals of DMPK course",
+        "url": "https://www.dmdg.org/events/20251007/introduction.asp",
+        "start_date": "07 Oct 2025",
+        "end_date": "09 Oct 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fundamentalsofdmpkco07Oct2025_0"
     },
     {
         "themes": [
@@ -9437,6 +9897,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "in vitro Technology course",
+        "url": "https://www.dmdg.org/events/20251117/introduction.asp",
+        "start_date": "17 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "invitrotechnologycou17Nov2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -9487,6 +9971,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "easternanalyticalsym18Nov2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Contract Manufacturing Europe",
+        "url": "https://www.imapac.com/events/contract-manufacturing-europe-2025",
+        "start_date": "19 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "contractmanufacturin19Nov2025_0"
     },
     {
         "themes": [
