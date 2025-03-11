@@ -7433,6 +7433,30 @@
     {
         "themes": [
             "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Transmission Electron Microscopy of Nanomaterials Workshop TEM-UCA",
+        "url": "https://tem.uca.es/",
+        "start_date": "14 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Cadiz, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "transmissionelectron14Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio"
         ],
         "regions": [
