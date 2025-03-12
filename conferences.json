@@ -76,103 +76,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "AI in Drug Discovery",
-        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/drug-discovery",
-        "start_date": "10 Mar 2025",
-        "end_date": "11 Mar 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aiindrugdiscovery10Mar2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "ELRIG Research & Innovation 2025",
-        "url": "https://elrig.org/portfolio/research-innovation-2025-big-molecules-to-big-data-thinking-big-to-drive-innovative-research/",
-        "start_date": "10 Mar 2025",
-        "end_date": "11 Mar 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "elrigresearchinnovat10Mar2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Lab of the Future USA",
-        "url": "https://www.lab-of-the-future.com/USA/",
-        "start_date": "10 Mar 2025",
-        "end_date": "11 Mar 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "labofthefutureusa10Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemistry Development Kit CDK User Group Meeting",
-        "url": "https://cdk.github.io/nwo-openscience-2024/",
-        "start_date": "10 Mar 2025",
-        "end_date": "11 Mar 2025",
-        "locations": [
-            "Maastricht, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemistrydevelopment10Mar2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -296,53 +199,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlcentrefordiffrac10Mar2025_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "STEM for Britain",
-        "url": "https://stemforbritain.org.uk/",
-        "start_date": "11 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "stemforbritain11Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Centre for Process Analysis & Control CPACT Research Day",
-        "url": "https://www.cpact.com/Events/Event?eid=377",
-        "start_date": "11 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Huddersfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "centreforprocessanal11Mar2025_0"
     },
     {
         "themes": [
@@ -564,6 +420,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "associationforwomeni13Mar2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Units, Symbols, & Terminology in the Physical Sciences in & for the Digital Era",
+        "url": "https://www.psdi.ac.uk/event/ust-03-13/",
+        "start_date": "13 Mar 2025",
+        "end_date": "14 Mar 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "unitssymbolsterminol13Mar2025_0"
     },
     {
         "themes": [
@@ -1585,8 +1463,8 @@
         ],
         "title": "Biologics World Taiwan",
         "url": "https://www.imapac.com/events/biologics-world-taiwan-2025",
-        "start_date": "12 Mar 2025",
-        "end_date": "13 Mar 2025",
+        "start_date": "26 Mar 2025",
+        "end_date": "27 Mar 2025",
         "locations": [
             "Taipei, Taiwan"
         ],
@@ -1596,7 +1474,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "biologicsworldtaiwan12Mar2025_0"
+        "uid": "biologicsworldtaiwan26Mar2025_0"
     },
     {
         "themes": [
@@ -2426,6 +2304,29 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "Health Tech Spring Conference",
+        "url": "https://hira-ni.com/health-tech-spring/",
+        "start_date": "07 Apr 2025",
+        "end_date": "08 Apr 2025",
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "healthtechspringconf07Apr2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "process/engineering"
         ],
@@ -2980,6 +2881,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "technologyenhancedch16Apr2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EFMC-YSN Publishing Academy",
+        "url": "https://www.efmc.info/publishing-academy",
+        "start_date": "16 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcysnpublishingaca16Apr2025_0"
     },
     {
         "themes": [
@@ -5298,6 +5222,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCF/SCT Spring Meeting: Advancing Medicinal Chemistry & Chemical Biology",
+        "url": "https://www.sct-asso.fr/spring-meeting",
+        "start_date": "03 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Lille, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scfsctspringmeetinga03Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "med chem",
             "pharma industry",
@@ -5807,6 +5755,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Joint Medicinal Chemistry Congress – Group for the Promotion of Pharmaceutical Chemistry in Academia GP2A",
+        "url": "https://gp2a.org/index.php/gp2a-2025-paul-ehrlich-medchem-2025-nantes-france-june-11th-to-13th-2025/",
+        "start_date": "11 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Nantes, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "jointmedicinalchemis11Jun2025_0"
+    },
+    {
+        "themes": [
             "history/philosophy"
         ],
         "regions": [
@@ -5826,6 +5798,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceontheh11Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Chemical Biology & Bioorganic Group CBBG Postgraduate Symposium",
+        "url": "https://www.rsc.org/events/detail/81029/2025-rsc-chemical-biology-and-bio-organic-group-postgraduate-symposium",
+        "start_date": "13 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Aberdeen, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscchemicalbiologybi13Jun2025_0"
     },
     {
         "themes": [
@@ -5852,6 +5848,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "newenglandglyochemis14Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "environment/fuels",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "XXI National Meeting of the Spanish Society of Medicinal Chemistry",
+        "url": "https://www.congresoseqtsevilla2025.es/SEQT2025",
+        "start_date": "15 Jun 2025",
+        "end_date": "18 Jun 2025",
+        "locations": [
+            "Seville, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "xxinationalmeetingof15Jun2025_0"
     },
     {
         "themes": [
@@ -6034,6 +6055,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "nmrmetabolomicssympo16Jun2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Green chemistry meets drug discovery & development",
+        "url": "https://www.gcd3.it/",
+        "start_date": "16 Jun 2025",
+        "end_date": "19 Jun 2025",
+        "locations": [
+            "Siena, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "greenchemistrymeetsd16Jun2025_0"
     },
     {
         "themes": [
@@ -9661,6 +9708,36 @@
         "non_member_fee": "0",
         "max_fee": "0",
         "uid": "elrigdrugdiscovery21Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "environment/fuels",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Biopharma Sustainability Roundtable BSRT",
+        "url": "https://biopharmasustainability.com/all-events/",
+        "start_date": "21 Oct 2025",
+        "end_date": "22 Oct 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biopharmasustainabil21Oct2025_0"
     },
     {
         "themes": [
