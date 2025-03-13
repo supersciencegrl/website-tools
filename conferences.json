@@ -76,83 +76,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Scientific Update: 53rd Organic Process Research & Development OPRD",
-        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/20250310/",
-        "start_date": "10 Mar 2025",
-        "end_date": "12 Mar 2025",
-        "locations": [
-            "Charleston, SC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "SC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scientificupdate53rd10Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Mechanics of bond breaking: From single molecules to polymer networks",
-        "url": "https://www.mbb2025.org/",
-        "start_date": "10 Mar 2025",
-        "end_date": "12 Mar 2025",
-        "locations": [
-            "Brussels, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "mechanicsofbondbreak10Mar2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Computation for Applied Catalysis workshop",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/computation-applied-catalysis-workshop",
-        "start_date": "10 Mar 2025",
-        "end_date": "12 Mar 2025",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "computationforapplie10Mar2025_0"
-    },
-    {
-        "themes": [
             "analytical"
         ],
         "regions": [
@@ -199,125 +122,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlcentrefordiffrac10Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Zeta Symposium (pharma transformation)",
-        "url": "https://zeta-symposium.com/",
-        "start_date": "11 Mar 2025",
-        "end_date": "12 Mar 2025",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "zetasymposiumpharmat11Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Applied Biophysics Forum in Drug Delivery",
-        "url": "https://events.malvernpanalytical.com/W240311MainzLNP",
-        "start_date": "11 Mar 2025",
-        "end_date": "12 Mar 2025",
-        "locations": [
-            "Mainz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "appliedbiophysicsfor11Mar2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "GSK Biopharm Postgraduate Symposium",
-        "url": "https://www.linkedin.com/posts/laura-f-west_gsk-uk-biopharm-postgraduate-symposium-ugcPost-7284494924362706946-L_eo/",
-        "start_date": "12 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gskbiopharmpostgradu12Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Polymer workshop: FAIR access for everyone",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=wE8mz7iun0SQVILORFQIS-NBCewIZOtHokjZz4AahyZUN0RZRkVNWEZNTUZVSzVGREVSQ0NVMzY1My4u",
-        "start_date": "12 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "polymerworkshopfaira12Mar2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Quantum chemistry outreach demonstration training for early career chemists",
-        "url": "https://www.imperial.ac.uk/events/188358/quantum-chemistry-public-engagement-training-for-early-career-chemists/",
-        "start_date": "12 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "quantumchemistryoutr12Mar2025_0"
     },
     {
         "themes": [
@@ -5662,6 +5466,30 @@
     },
     {
         "themes": [
+            "automation",
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Go with the Flow",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3sSFEOlZdslnKFQa_bww2RpUcK9JVIIgdNBPyd65qCorRqQ/viewform",
+        "start_date": "09 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gowiththeflow09Jun2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -6690,6 +6518,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "cyclicvoltammetryboo25Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Undergraduate industrial placement (IP) & apprenticeship symposium 2025",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/ycp-undergraduate-ip-and-apprenticeship-symposium-2025",
+        "start_date": "26 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "undergraduateindustr26Jun2025_0"
     },
     {
         "themes": [
@@ -9659,6 +9514,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "advancesinmagneticre17Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Risk Assessment of Pharmaceuticals in the Environment ICRAPHE",
+        "url": "https://www.eternalproject.eu/news/icraphe6/",
+        "start_date": "20 Oct 2025",
+        "end_date": "21 Oct 2025",
+        "locations": [
+            "Aveiro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonrisk20Oct2025_0"
     },
     {
         "themes": [
