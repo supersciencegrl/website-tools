@@ -1,33 +1,6 @@
 [
     {
         "themes": [
-            "business",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "EEUSA"
-        ],
-        "title": "Drug, Chemical & Associated Technologies Association DCAT Week (bio)pharma manufacturing value chain",
-        "url": "https://dcatweek.org/",
-        "start_date": "16 Mar 2025",
-        "end_date": "20 Mar 2025",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugchemicalassociat16Mar2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -48,381 +21,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "theoryofnmrhyperpola16Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress & Expo on Food Science & Technology",
-        "url": "https://signatureconferences.com/icefst2025/",
-        "start_date": "17 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "$399–899",
-        "non_member_fee": "$399–899",
-        "max_fee": "$399–899",
-        "uid": "intlcongressexpoonfo17Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Training school on high-resolution relaxometry",
-        "url": "https://hires-multidyn.chimie.ens.fr/training-school-on-high-resolution-relaxometry/",
-        "start_date": "17 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "trainingschoolonhigh17Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bio-Europe Spring (partnering)",
-        "url": "https://informaconnect.com/bioeurope-spring/",
-        "start_date": "17 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioeuropespringpartn17Mar2025_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Lab Facilities Summit East",
-        "url": "https://www.amg-world.co.uk/lab-facilities/",
-        "start_date": "18 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "labfacilitiessummite18Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers",
-            "law/policy"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "FemHealth Integrates 2024",
-        "url": "https://lifescienceintegrates.com/event/femhealth-integrates-2025/",
-        "start_date": "18 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "femhealthintegrates218Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "British Mass Spectrometry Society BMSS Inclusion & Diversity in MS Meeting",
-        "url": "https://www.bmss.org.uk/bmss-inclusion-and-diversity-meeting-2025/",
-        "start_date": "18 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "britishmassspectrome18Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Bright SCIdea Challenge Final",
-        "url": "https://www.soci.org/events/hq-events/2025/bright-scidea-challenge-2025-final",
-        "start_date": "18 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "brightscideachalleng18Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Sustainable Analytical Science",
-        "url": "https://www.rsc.org/events/detail/80631/sustainable-analytical-science",
-        "start_date": "18 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sustainableanalytica18Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "2nd Nordic Conference on Computational Chemistry",
-        "url": "https://www.apotekarsocieteten.se/kalendarium/the-2nd-nordic-conference-on-computational-chemistry/",
-        "start_date": "18 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "2ndnordicconferenceo18Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Paperless Lab Academy Europe",
-        "url": "https://www.paperlesslabacademy.com/europe/",
-        "start_date": "18 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "paperlesslabacademye18Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Praktische Probleme der Kernresonanzspektroskopie",
-        "url": "https://www.chemie.uni-hamburg.de/fachbereich/veranstaltungen/2025-46ppnmr.html",
-        "start_date": "18 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Hamburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "praktischeproblemede18Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées de l'Association fran&ccedillaaise de Résonance Paramagnétique Electronique ARPE",
-        "url": "https://www.a-rpe.fr/spip.php?article182",
-        "start_date": "18 Mar 2025",
-        "end_date": "19 Mar 2025",
-        "locations": [
-            "Bordeaux, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "journéesdelassociati18Mar2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Continuous Manufacturing and Advanced Crystallisation CMAC Hub Open Days",
-        "url": "https://cmac.ac.uk/open-days-2025",
-        "start_date": "18 Mar 2025",
-        "end_date": "20 Mar 2025",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "continuousmanufactur18Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK High-field Solid-state NMR Facility Annual Symposium",
-        "url": "https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/nmr/850/annual-symposia/symposium-2025",
-        "start_date": "19 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukhighfieldsolidstat19Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Discngine Labs Live",
-        "url": "https://www.discngine.com/discngine-labs-live-in-cambridge",
-        "start_date": "19 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "discnginelabslive19Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "CHanalysis 2025: Meeting of the Swiss analytical scientists",
-        "url": "https://cha25.scg.ch/",
-        "start_date": "19 Mar 2025",
-        "end_date": "20 Mar 2025",
-        "locations": [
-            "Beatenberg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chanalysis2025meetin19Mar2025_0"
     },
     {
         "themes": [
@@ -1970,6 +1568,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicalnanosciencee09Apr2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Emerging Technologies in Organic Chemistry ETOC Symposium",
+        "url": "https://www.noelresearchgroup.com/etoc/",
+        "start_date": "09 Apr 2025",
+        "end_date": "10 Apr 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emergingtechnologies09Apr2025_0"
     },
     {
         "themes": [
@@ -7660,6 +7283,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "varietyinchemistryed28Aug2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Dream reactions with (& without) light",
+        "url": "https://www.uni-muenster.de/Chemie.oc/glorius/dream_reactions.html",
+        "start_date": "29 Aug 2025",
+        "end_date": null,
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dreamreactionswithwi29Aug2025_0"
     },
     {
         "themes": [
