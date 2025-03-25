@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Theory of NMR: Hyperpolarization (summer school)",
-        "url": "https://www.cidnp.net/summerschools",
-        "start_date": "16 Mar 2025",
-        "end_date": "22 Mar 2025",
-        "locations": [
-            "Windischleuba, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "theoryofnmrhyperpola16Mar2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -44,72 +21,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "medicinalchemistry1019Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Journées Francophones de la Médecine Nucléaire JFMN",
-        "url": "https://www.cnp-mn.fr/sfmn-accueil/jfmn-2025/",
-        "start_date": "20 Mar 2025",
-        "end_date": "22 Mar 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "journéesfrancophones20Mar2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Amsterdam Chemistry Innovation Day ACID",
-        "url": "https://www.amsterdamsciencepark.nl/event/amsterdam-chemistry-innovation-day-2024/",
-        "start_date": "22 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "amsterdamchemistryin22Mar2025_0"
     },
     {
         "themes": [
@@ -511,6 +422,29 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Annual Meeting of the Pharmaceutical Society of Japan",
+        "url": "https://pub.confit.atlas.jp/en/event/pharm145",
+        "start_date": "26 Mar 2025",
+        "end_date": "29 Mar 2025",
+        "locations": [
+            "Fukuoka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "annualmeetingoftheph26Mar2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "materials/polymers"
@@ -532,6 +466,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "materialssciencemega27Mar2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Protein Metrics North American UGM",
+        "url": "https://www.proteinmetrics.com/events/north-american-ugm-2025",
+        "start_date": "27 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "San Francisco, CA< USA"
+        ],
+        "countries": [
+            "CA< USA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "proteinmetricsnortha27Mar2025_0"
     },
     {
         "themes": [
@@ -602,6 +559,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlactivitybasedpro30Mar2025_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Opentrons: Elevating automation in liquid handling",
+        "url": "https://www.tickettailor.com/events/universityofleeds64/1549262",
+        "start_date": "31 Mar 2025",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "opentronselevatingau31Mar2025_0"
     },
     {
         "themes": [
@@ -1009,6 +988,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "frenchmembranegroupm01Apr2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Symphogen Biotherapeutic Characterization Symposium",
+        "url": "https://www.proteinmetrics.com/events/copenhagen-symposium-2025",
+        "start_date": "02 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "symphogenbiotherapeu02Apr2025_0"
     },
     {
         "themes": [
@@ -1642,6 +1644,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Pharma 2025",
+        "url": "https://events.reutersevents.com/pharma/pharma-europe",
+        "start_date": "09 Apr 2025",
+        "end_date": "11 Apr 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pharma202509Apr2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -1663,6 +1688,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "focussingontargetedc10Apr2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Applied Pharmaceutical Chemistry 2025",
+        "url": "https://www.bostonsociety.org/APC/",
+        "start_date": "10 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "appliedpharmaceutica10Apr2025_0"
     },
     {
         "themes": [
@@ -2127,6 +2179,32 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "John K Stille Symposium: Frontiers in Organic Chemistry",
+        "url": "https://www.chem.colostate.edu/alumni-friends/stille-symposium-2025/",
+        "start_date": "26 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Fort Collins, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "johnkstillesymposium26Apr2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -2384,6 +2462,32 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Innovation in Oligonucleotide Manufacturing Symposium",
+        "url": "https://www.uk-cpi.com/events/oligonucleotide-symposium",
+        "start_date": "29 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "innovationinoligonuc29Apr2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "computational/data",
@@ -2408,6 +2512,52 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "makingpharmaceutical29Apr2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Sustainable innovation & industry",
+        "url": "https://www.soci.org/events/canada-group/2025/sustainable-innovation-and-industry",
+        "start_date": "30 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sustainableinnovatio30Apr2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Protein Metrics London Symposium",
+        "url": "https://www.proteinmetrics.com/events/london-symposium-2025",
+        "start_date": "30 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "proteinmetricslondon30Apr2025_0"
     },
     {
         "themes": [
@@ -2743,6 +2893,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "analyticalhorizonsin07May2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "CDMO Live",
+        "url": "https://pharmasource.global/events/cdmolive/",
+        "start_date": "07 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "Rotterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cdmolive07May2025_0"
     },
     {
         "themes": [
@@ -3085,6 +3259,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pegssummitproteinant12May2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Construction materials group AGM",
+        "url": "https://www.soci.org/events/construction-materials-group/2025/construction-materials-group-agm-2025",
+        "start_date": "13 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciconstructionmater13May2025_0"
     },
     {
         "themes": [
@@ -4353,6 +4550,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "RSC Porous Materials Interest Group Annual UKPorMat Conference",
+        "url": "https://www.rscbmcs.org/events/sddd25/",
+        "start_date": "03 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscporousmaterialsin03Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -4744,6 +4965,80 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemistry Spotlight @ [Big Pharma Company]",
+        "url": "https://pfizer.recsolu.com/app/collect/event/eIEmR1aYSaSHUM61e0MtOw",
+        "start_date": "09 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemistryspotlightbi09Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Scientific Informatics Exchange SiEE",
+        "url": "https://zifornd.com/event/siee-basel-2025/",
+        "start_date": "10 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scientificinformatic10Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Macro Group UK: Young Researchers' Meeting",
+        "url": "https://www.macrogroup.org.uk/yrm-annual-meeting",
+        "start_date": "10 Jun 2025",
+        "end_date": "12 Jun 2025",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "macrogroupukyoungres10Jun2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -4792,7 +5087,34 @@
     },
     {
         "themes": [
-            "history/philosophy"
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New modalities: Innovations in RNA therapeutics",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2025/new-modalities-innovations-in-rna-therapeutics",
+        "start_date": "11 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newmodalitiesinnovat11Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "chem bio",
+            "process/engineering"
         ],
         "regions": [
             "Western Europe"
@@ -5140,6 +5462,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Swedish Chemical Society Meeting SCS2025",
+        "url": "https://scs2025.se/",
+        "start_date": "16 Jun 2025",
+        "end_date": "18 Jun 2025",
+        "locations": [
+            "Västerås, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "swedishchemicalsocie16Jun2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "med chem",
@@ -5233,6 +5598,30 @@
     },
     {
         "themes": [
+            "careers",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Foundation Medicinal Chemistry Workshop",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2025/sci-foundation-medicinal-chemistry-workshop",
+        "start_date": "18 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scifoundationmedicin18Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -5255,7 +5644,9 @@
     },
     {
         "themes": [
-            "history/philosophy"
+            "analytical",
+            "chem bio",
+            "computational/data"
         ],
         "regions": [
             "Western Europe"
@@ -5992,6 +6383,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lindau Nobel Laureate Meeting",
+        "url": "https://www.lindau-nobel.org/",
+        "start_date": "29 Jun 2025",
+        "end_date": "04 Jul 2025",
+        "locations": [
+            "Lindau, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lindaunobellaureatem29Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -6438,6 +6872,29 @@
     },
     {
         "themes": [
+            "history/philosophy",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Society for the Philosophy of Chemistry ISPC Conference",
+        "url": "https://sites.google.com/site/socphilchem/symposia",
+        "start_date": "09 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Antwerp, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsocietyforthephi09Jul2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6737,6 +7194,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "acsdivisionoforganic17Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Early career materials industrial revolution: AI in materials science",
+        "url": "https://www.soci.org/events/materials-ecc/2025/sci-early-career-materials-2025-industrial-revolution-40-ai-in-materials-science",
+        "start_date": "18 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sciearlycareermateri18Jul2025_0"
     },
     {
         "themes": [
@@ -7310,6 +7792,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "catalysis",
+            "environment/fuels",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Electrochem 2025",
+        "url": "https://www.soci.org/events/electrochemical-technology-group/2025/electrochem-2025",
+        "start_date": "31 Aug 2025",
+        "end_date": "02 Sep 2025",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "electrochem202531Aug2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -7738,6 +8245,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "European Colloid & Interface Society ECIS UK Colloids Conference",
+        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2025/39th-ecis-uk-colloids-2025-conference",
+        "start_date": "07 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeancolloidinter07Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data",
             "inorganic/nano",
@@ -7854,6 +8385,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chargedsoftmatterbri08Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "AiMat summer school: Machine learning for materials",
+        "url": "https://aimat.iti.kit.edu/ml4mat2025.php",
+        "start_date": "08 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "aimatsummerschoolmac08Sep2025_0"
     },
     {
         "themes": [
@@ -8025,6 +8579,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "alpineconferenceonma14Sep2025_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Horticulture Group David Miller Awards",
+        "url": "https://www.soci.org/events/horticulture-group/2025/sci-horticulture-group-david-miller-2025-awards",
+        "start_date": "16 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scihorticulturegroup16Sep2025_0"
     },
     {
         "themes": [
@@ -8261,6 +8837,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "discoveryontarget22Sep2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data",
+            "environment/fuels",
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Beaker to bulk: Introduction to scalable synthesis",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/beaker-to-bulk-introduction-to-scalable-synthesis",
+        "start_date": "23 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "beakertobulkintroduc23Sep2025_0"
     },
     {
         "themes": [
@@ -8628,6 +9231,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Future feedstocks for sustainable chemistry",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2025/future-feedstocks-for-sustainable-chemistry",
+        "start_date": "07 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "futurefeedstocksfors07Oct2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8748,6 +9375,54 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PhysChem Forum",
+        "url": "http://www.physchem.org.uk/",
+        "start_date": "13 Oct 2025",
+        "end_date": "14 Oct 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physchemforum13Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "What drug hunters need to know about computational chemistry",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/what-drug-hunters-need-to-know-about-computational-chemistry-2025",
+        "start_date": "14 Oct 2025",
+        "end_date": "15 Oct 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "whatdrughuntersneedt14Oct2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science"
         ],
@@ -8768,6 +9443,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "foodchemistryconfere14Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Advances in the Digitalization of the Process Industries Conference",
+        "url": "https://www.icheme.org/advances?Account_id=500103012",
+        "start_date": "16 Oct 2025",
+        "end_date": "17 Oct 2025",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancesinthedigital16Oct2025_0"
     },
     {
         "themes": [
@@ -9018,6 +9716,31 @@
     },
     {
         "themes": [
+            "careers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Young chemist in industry",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/32nd-sci-young-chemist-in-industry-2025",
+        "start_date": "04 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "youngchemistinindust04Nov2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -9153,6 +9876,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "smartbarriercoatings12Nov2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New approaches in medicinal chemistry",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/new-approaches-in-medicinal-chemistry",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "newapproachesinmedic12Nov2025_0"
     },
     {
         "themes": [
@@ -9332,6 +10078,30 @@
         "themes": [
             "analytical",
             "chem bio",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Lipids in diet & health",
+        "url": "https://www.soci.org/events/lipids-group/2025/lipids-in-diet-and-health",
+        "start_date": "27 Nov 2025",
+        "end_date": "28 Nov 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lipidsindiethealth27Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
             "materials/polymers",
             "physical/phys org"
         ],
@@ -9376,6 +10146,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pfasreformulatingpfa03Dec2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Recent Clinical Candidates & Society for Medicine Research SMR Award",
+        "url": "https://smr.org.uk/Meetings/",
+        "start_date": "04 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "recentclinicalcandid04Dec2025_0"
     },
     {
         "themes": [
@@ -9645,6 +10438,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceoncoor28Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Introduction to ion exchange design & operation for industrial water treatment (training course)",
+        "url": "https://www.soci.org/events/separation-science-and-technology-group/2025/iex-2026-technical-training-introductory-course-introduction-to-ion-exchange-design-and-operation-fo",
+        "start_date": "07 Jul 2026",
+        "end_date": "08 Jul 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "introductiontoionexc07Jul2026_0"
     },
     {
         "themes": [
