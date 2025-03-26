@@ -213,29 +213,6 @@
     },
     {
         "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Inclusion & Diversity Forum 2025",
-        "url": "https://www.rsc.org/events/detail/80493/inclusion-and-diversity-forum-2025",
-        "start_date": "25 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscinclusiondiversit25Mar2025_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
