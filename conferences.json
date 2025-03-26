@@ -2922,6 +2922,32 @@
     {
         "themes": [
             "analytical",
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Conference on Biotechnological & Biomedical Applications of Porous Materials",
+        "url": "https://icmol.es/bbpore2025/",
+        "start_date": "08 May 2025",
+        "end_date": "09 May 2025",
+        "locations": [
+            "Valencia, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "conferenceonbiotechn08May2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "careers",
             "catalysis",
             "computational/data",
