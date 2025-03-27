@@ -96,28 +96,6 @@
     },
     {
         "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Science Meets Parliament Ontario",
-        "url": "https://sciencepolicy.ca/programs/science-meets-parliament/smp-on-2025/",
-        "start_date": "24 Mar 2025",
-        "end_date": "26 Mar 2025",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciencemeetsparliame24Mar2025_0"
-    },
-    {
-        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -213,97 +191,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Pistoia Alliance conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-2025-london-conference/",
-        "start_date": "25 Mar 2025",
-        "end_date": "26 Mar 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pistoiaallianceconfe25Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Labor Impuls Forum (German language)",
-        "url": "https://labor-impuls-forum.de/",
-        "start_date": "25 Mar 2025",
-        "end_date": "26 Mar 2025",
-        "locations": [
-            "Hamburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "laborimpulsforumgerm25Mar2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bio-Europe Spring (partnering)",
-        "url": "https://informaconnect.com/bioeurope-spring/",
-        "start_date": "25 Mar 2025",
-        "end_date": "26 Mar 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioeuropespringpartn25Mar2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scale-Up: What Goes Wrong? (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/20250325/",
-        "start_date": "25 Mar 2025",
-        "end_date": "26 Mar 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scaleupwhatgoeswrong25Mar2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "synthesis"
@@ -325,29 +212,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "novelenzymes202525Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Road surface characteristics & measurement",
-        "url": "https://www.soci.org/events/construction-materials-group/2025/road-surface-characteristics-and-measurement",
-        "start_date": "26 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "roadsurfacecharacter26Mar2025_0"
     },
     {
         "themes": [
@@ -1695,6 +1559,30 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Regional Meetup: Gothenburg",
+        "url": "https://www.slas.org/events-calendar/meet-up-gothenburg/",
+        "start_date": "10 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "societyforlaboratory10Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -2538,6 +2426,32 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Management Group: Rare Disease Treatments with AI & the role of chemistry in digital printing",
+        "url": "https://www.rsc.org/events/detail/81434/rare-disease-treatments-with-ai-and-the-role-of-chemistry-in-digital-printing",
+        "start_date": "30 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscmanagementgroupra30Apr2025_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -2894,6 +2808,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "cdmolive07May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "ELRIG UK Forum: Advanced cell models in drug discovery & toxicology",
+        "url": "https://elrig.org/portfolio/advanced-cell-models-in-drug-discovery-and-toxicology/",
+        "start_date": "08 May 2025",
+        "end_date": null,
+        "locations": [
+            "Leicester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "elrigukforumadvanced08May2025_0"
     },
     {
         "themes": [
@@ -6659,6 +6598,29 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Management Group: Leveraging Artificial Intelligence AI for Management Success",
+        "url": "https://www.rsc.org/events/detail/81466/leveraging-artificial-intelligence-for-management-success",
+        "start_date": "03 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscmanagementgrouple03Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -10218,6 +10180,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pacifichem202515Dec2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Centre for Process Analytics & Control Technology CPACT Process Spectroscopy Course",
+        "url": "https://www.cpact.com/Portals/5/downloads/repositories/118/412/2545/Process%20Spectroscopy%20Course%20flyer%202026%20-%20Horizontal.pdf",
+        "start_date": "27 Jan 2026",
+        "end_date": "29 Jan 2026",
+        "locations": [
+            "Northampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "centreforprocessanal27Jan2026_0"
     },
     {
         "themes": [
