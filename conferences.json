@@ -1482,6 +1482,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "UK QSAR & Chemoinformatics Society Spring Meeting",
+        "url": "https://ukqsar.org/index.php/2025/03/05/spring-meeting-2025/",
+        "start_date": "15 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukqsarchemoinformati15Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -6902,6 +6925,30 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Intl Symposium on the Synthesis & Application of Curved Organic π-Molecules & Materials",
+        "url": "https://curopi06.wixsite.com/home",
+        "start_date": "23 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "St John's, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonthesy23Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "materials/polymers",
             "synthesis"
@@ -8043,6 +8090,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ab initio modelling in solid state chemistry",
+        "url": "https://mssc.crystalsolutions.eu/",
+        "start_date": "08 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Torino, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "abinitiomodellingins08Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry",
@@ -8371,6 +8443,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scinewsyntheticmetho18Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "European Conference on Metal Organic Frameworks & Porous Polymers EUROMOF",
+        "url": "https://www.euromof2025.com/Home/Welcome",
+        "start_date": "21 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Heraklion, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanconferenceon21Sep2025_0"
     },
     {
         "themes": [
