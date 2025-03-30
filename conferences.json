@@ -1,51 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Annual Meeting of the Pharmaceutical Society of Japan",
-        "url": "https://pub.confit.atlas.jp/en/event/pharm145",
-        "start_date": "26 Mar 2025",
-        "end_date": "29 Mar 2025",
-        "locations": [
-            "Fukuoka, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualmeetingoftheph26Mar2025_0"
-    },
-    {
-        "themes": [
-            "history/philosophy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Spring meeting on the biographies of alchemists & chemists",
-        "url": "https://www.ambix.org/2025-spring-meeting-on-the-biographies-of-alchemists-and-chemists/",
-        "start_date": "29 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "springmeetingonthebi29Mar2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
