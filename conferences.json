@@ -25,28 +25,6 @@
     },
     {
         "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Opentrons: Elevating automation in liquid handling",
-        "url": "https://www.tickettailor.com/events/universityofleeds64/1549262",
-        "start_date": "31 Mar 2025",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "opentronselevatingau31Mar2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -3034,6 +3012,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "faradaydiscussionadv14May2025_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Scientific Apprenticeship Conference",
+        "url": "https://www.icr.ac.uk/study-and-careers/careers-at-the-icr/apprenticeships/scientific-apprenticeship-conference",
+        "start_date": "15 May 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scientificapprentice15May2025_0"
     },
     {
         "themes": [
