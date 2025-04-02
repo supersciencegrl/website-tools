@@ -26,76 +26,6 @@
     {
         "themes": [
             "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC-BMCS/SCI Symposium on Ion Channels as Therapeutic Targets",
-        "url": "https://www.rscbmcs.org/events/ionchannels25/",
-        "start_date": "31 Mar 2025",
-        "end_date": "01 Apr 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcsscisymposiumo31Mar2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Frontiers of Magnetic Resonance",
-        "url": "https://www.rsc.org/events/detail/80063/frontiers-of-magnetic-resonance",
-        "start_date": "31 Mar 2025",
-        "end_date": "01 Apr 2025",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "frontiersofmagneticr31Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Machine Learning to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/20250331/",
-        "start_date": "31 Mar 2025",
-        "end_date": "01 Apr 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "applicationsofmachin31Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "computational/data",
             "formulation/particle science",
             "med chem",
@@ -186,52 +116,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "transitionmetalcatal31Mar2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Graham Award Symposium: Colloidal Collaborations",
-        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2025/graham-award-symposium-2025-colloidal-collaborations",
-        "start_date": "01 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "grahamawardsymposium01Apr2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Graham Award Symposium: Colloidal Collaborations",
-        "url": "https://www.soci.org/events/colloid-and-surface-chemistry-group/2025/graham-award-symposium-2025-colloidal-collaborations",
-        "start_date": "01 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "grahamawardsymposium01Apr2025_0"
     },
     {
         "themes": [
@@ -8520,6 +8404,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "discoveryontarget22Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Innovation Centre in Digital Molecular Technologies iDMT Summer School",
+        "url": "https://www.idmt.online/copy-of-idmt-summer-school",
+        "start_date": "22 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "innovationcentreindi22Sep2025_0"
     },
     {
         "themes": [
