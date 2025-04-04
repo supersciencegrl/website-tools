@@ -1,3 +1,5 @@
+__version__ = '1.3.0'
+
 import html
 
 from bs4 import BeautifulSoup
@@ -323,14 +325,12 @@ def create_output_html(event):
     price_html_nonmember = price_html_nonmember.replace('€', '&euro;')
 
     event['title'] = event['title'].replace(' - ', ' &ndash; ')
-    certificate = '<span class="new-fa"><i class="fa fa-certificate" aria-hidden="true"></i></span> '
     
     html_out = []
     html_out.append('<tr class="body ">')
     html_out.append('\t' * 13 + \
                     f'<td class="column1"><a class="table-link" href="{event["url"]}" target="_blank" rel="noopener">')
     html_out.append('\t' * 14 + \
-                    certificate + \
                     f'{event["title"]}</a></td>')
     html_out.append('\t' * 13 + \
                     f'<td class="column2"><nobr>{event["start_date"]}</nobr></td>')
