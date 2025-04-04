@@ -1,4 +1,4 @@
-__version__ = '1.3.0'
+__version__ = '1.4.0'
 
 import html
 
@@ -325,6 +325,7 @@ def create_output_html(event):
     price_html_nonmember = price_html_nonmember.replace('€', '&euro;')
 
     event['title'] = event['title'].replace(' - ', ' &ndash; ')
+    event['title'] = event['title'].replace('  ', ' ') # Remove double spaces
     
     html_out = []
     html_out.append('<tr class="body ">')
