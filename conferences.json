@@ -1,78 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Intl Activity Based Protein Profiling Meeting",
-        "url": "https://www.eventcreate.com/e/abpp2025/",
-        "start_date": "30 Mar 2025",
-        "end_date": "02 Apr 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlactivitybasedpro30Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "AI in drug discovery & biomedicine",
-        "url": "https://www.irbbarcelona.org/en/events/ai-drug-discovery-and-biomedicine",
-        "start_date": "31 Mar 2025",
-        "end_date": "02 Apr 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "aiindrugdiscoverybio31Mar2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "37th Molecular Modelling Workshop",
-        "url": "https://mmws2025.mgms-ds.de/",
-        "start_date": "31 Mar 2025",
-        "end_date": "02 Apr 2025",
-        "locations": [
-            "Erlangen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "37thmolecularmodelli31Mar2025_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -116,154 +44,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "transitionmetalcatal31Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Bio-IT World Hackathon",
-        "url": "https://www.bio-itworldexpo.com/fair-data-hackathon",
-        "start_date": "01 Apr 2025",
-        "end_date": "02 Apr 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioitworldhackathon01Apr2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Battery Conference 2025",
-        "url": "https://battery-power.eu/en/",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Aachen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "batteryconference20201Apr2025_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Dalton 2025",
-        "url": "https://www.rsc.org/events/detail/80569/dalton-2025",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "dalton202501Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Peptide-based Therapeutics Summit",
-        "url": "https://peptide-based-therapeutics-summit.com/",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "peptidebasedtherapeu01Apr2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20250401/",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicaldevelopments01Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Crystallization Science & Engineering (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20250401/",
-        "start_date": "01 Apr 2025",
-        "end_date": "03 Apr 2025",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "crystallizationscien01Apr2025_0"
     },
     {
         "themes": [
@@ -313,29 +93,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "frenchmembranegroupm01Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Symphogen Biotherapeutic Characterization Symposium",
-        "url": "https://www.proteinmetrics.com/events/copenhagen-symposium-2025",
-        "start_date": "02 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "symphogenbiotherapeu02Apr2025_0"
     },
     {
         "themes": [
@@ -397,9 +154,9 @@
             "Online"
         ],
         "title": "Bio-IT World",
-        "url": "https://www.bio-itworldexpo.com/fair-data-hackathon",
-        "start_date": "01 Apr 2025",
-        "end_date": "02 Apr 2025",
+        "url": "https://www.bio-itworldexpo.com/",
+        "start_date": "02 Apr 2025",
+        "end_date": "04 Apr 2025",
         "locations": [
             "Boston, MA, USA",
             "Online"
@@ -414,7 +171,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "bioitworld01Apr2025_0"
+        "uid": "bioitworld02Apr2025_0"
     },
     {
         "themes": [
@@ -593,6 +350,34 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Carbon Capture, Utilization & Storage",
+        "url": "https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/",
+        "start_date": "06 Apr 2025",
+        "end_date": "11 Apr 2025",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "$945–1,720",
+        "non_member_fee": "$945–1,720",
+        "max_fee": "$945–1,720",
+        "uid": "gordonresearchconfer06Apr2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "synthesis"
         ],
@@ -684,6 +469,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "healthtechspringconf07Apr2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/",
+        "start_date": "07 Apr 2025",
+        "end_date": "09 Apr 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "secretsofbatchproces07Apr2025_0"
     },
     {
         "themes": [
@@ -1585,7 +1397,7 @@
         ],
         "title": "Gordon Research Conference: Hybrid Superconductor-Semiconductor Devices",
         "url": "https://www.grc.org/hybrid-superconductor-semiconductor-devices-conference/2025/",
-        "start_date": "26 Apr 2025",
+        "start_date": "27 Apr 2025",
         "end_date": "02 May 2025",
         "locations": [
             "Les Diablerets, Switzerland"
@@ -1596,7 +1408,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "gordonresearchconfer26Apr2025_0"
+        "uid": "gordonresearchconfer27Apr2025_0"
     },
     {
         "themes": [
@@ -2050,6 +1862,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "16thpacificrimconfer04May2025_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Superconductivity",
+        "url": "https://www.grc.org/superconductivity-conference/2025/",
+        "start_date": "04 May 2025",
+        "end_date": "09 May 2025",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer04May2025_0"
     },
     {
         "themes": [
@@ -2608,6 +2443,29 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Filtration & Drying (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/filtration-and-drying-course/",
+        "start_date": "12 May 2025",
+        "end_date": "14 May 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "filtrationdryingtrai12May2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -2632,6 +2490,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "acsmediefmcmedicinal12May2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Biocatalysis as a Tool for the Synthetic Chemist (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-as-a-tool-for-the-synthetic-chemist/",
+        "start_date": "12 May 2025",
+        "end_date": "15 May 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biocatalysisasatoolf12May2025_0"
     },
     {
         "themes": [
@@ -2992,6 +2875,52 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "advancedfluorescence18May2025_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical & Process Safety for Development Chemists (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
+        "start_date": "19 May 2025",
+        "end_date": "20 May 2025",
+        "locations": [
+            "Antwerp, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalprocesssafet19May2025_0"
+    },
+    {
+        "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Understanding Process Plant Cleaning for More Efficient Changeovers (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/understanding-process-plant-cleaning-for-more-efficient-changeovers/",
+        "start_date": "19 May 2025",
+        "end_date": "21 May 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "understandingprocess19May2025_0"
     },
     {
         "themes": [
@@ -3364,6 +3293,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "dresdenpolymerdiscus25May2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Mechanisms of Membrane Transport",
+        "url": "https://www.grc.org/mechanisms-of-membrane-transport-conference/2025/",
+        "start_date": "25 May 2025",
+        "end_date": "30 May 2025",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer25May2025_0"
     },
     {
         "themes": [
@@ -3804,6 +3755,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Physics & Chemistry of Microfluidics",
+        "url": "https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2025/",
+        "start_date": "01 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "diversity",
@@ -3920,6 +3895,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "interdisciplinarycha02Jun2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Medicinal Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/medicinal-chemistry/",
+        "start_date": "02 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "medicinalchemistrytr02Jun2025_0"
     },
     {
         "themes": [
@@ -4211,6 +4209,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Grignard Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/grignard-chemistry-short-course/",
+        "start_date": "05 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "grignardchemistrytra05Jun2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "education",
@@ -4460,6 +4482,58 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemistryspotlightbi09Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Quality by Design in Pharmaceutical Development (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/quality-by-design-in-pharmaceutical-development/",
+        "start_date": "09 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "qualitybydesigninpha09Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "law/policy",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Molecule to Medicine (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/molecule-to-medicine/",
+        "start_date": "09 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "moleculetomedicinetr09Jun2025_0"
     },
     {
         "themes": [
@@ -4841,6 +4915,31 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Carbohydrates",
+        "url": "https://www.grc.org/carbohydrates-conference/2025/",
+        "start_date": "15 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -4856,6 +4955,85 @@
         ],
         "countries": [
             "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Mycotoxins & Phycotoxins",
+        "url": "https://www.grc.org/mycotoxins-and-phycotoxins-conference/2025/",
+        "start_date": "15 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Jun2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Water Electrolysis",
+        "url": "https://www.grc.org/water-electrolysis-conference/2025/",
+        "start_date": "15 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Bioorganic Chemistry",
+        "url": "https://www.grc.org/bioorganic-chemistry-conference/2025/",
+        "start_date": "15 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -5022,6 +5200,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "datascienceforlifesc16Jun2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20250616/",
+        "start_date": "16 Jun 2025",
+        "end_date": "20 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "secretsofbatchproces16Jun2025_0"
     },
     {
         "themes": [
@@ -5244,6 +5446,59 @@
     },
     {
         "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Catchment Science: Interactions of Hydrology, Biology & Geochemistry",
+        "url": "https://www.grc.org/catchment-science-interactions-of-hydrology-biology-and-geochemistry-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Crystal Growth & Assembly",
+        "url": "https://www.grc.org/crystal-growth-and-assembly-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
             "synthesis"
         ],
         "regions": [
@@ -5261,6 +5516,131 @@
         ],
         "US_state": [
             "RI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Hydrogen-Metal Systems",
+        "url": "https://www.grc.org/hydrogen-metal-systems-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Nucleic Acids",
+        "url": "https://www.grc.org/nucleic-acids-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Physical Organic Chemistry",
+        "url": "https://www.grc.org/physical-organic-chemistry-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Preclinical Form & Formulation for Drug Discovery",
+        "url": "https://www.grc.org/preclinical-form-and-formulation-for-drug-discovery-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Alzheimer's Disease",
+        "url": "https://www.grc.org/alzheimer-s-disease-conference/2025/",
+        "start_date": "22 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -5391,6 +5771,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Photoredox Catalysis in Organic Synthesis (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/photoredox-catalysis-in-organic-synthesis/",
+        "start_date": "23 Jun 2025",
+        "end_date": "24 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "photoredoxcatalysisi23Jun2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers"
         ],
@@ -5515,6 +5918,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biologicsmanufacturi24Jun2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "An Introduction to Powder Technology (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/an-introduction-to-powder-technology/",
+        "start_date": "24 Jun 2025",
+        "end_date": "25 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "anintroductiontopowd24Jun2025_0"
     },
     {
         "themes": [
@@ -5854,6 +6281,29 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Spin Dynamics in Nanostructures",
+        "url": "https://www.grc.org/spin-dynamics-in-nanostructures-conference/2025/",
+        "start_date": "29 Jun 2025",
+        "end_date": "04 Jul 2025",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer29Jun2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6150,6 +6600,31 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Seminar: Chemistry Education Research & Practice",
+        "url": "https://www.grc.org/chemistry-education-research-and-practice-grs-conference/2025/",
+        "start_date": "05 Jul 2025",
+        "end_date": "06 Jul 2025",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchsemina05Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -6216,6 +6691,134 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanmagneticreso06Jul2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry Education Research & Practice",
+        "url": "https://www.grc.org/chemistry-education-research-and-practice-conference/2025/",
+        "start_date": "06 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer06Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Drug Metabolism",
+        "url": "https://www.grc.org/drug-metabolism-conference/2025/",
+        "start_date": "06 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer06Jul2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Liquid Crystals",
+        "url": "https://www.grc.org/liquid-crystals-conference/2025/",
+        "start_date": "06 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer06Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nucleosides, Nucleotides & Oligonucleotides",
+        "url": "https://www.grc.org/nucleosides-nucleotides-and-oligonucleotides-conference/2025/",
+        "start_date": "06 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer06Jul2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Physical Metallurgy",
+        "url": "https://www.grc.org/physical-metallurgy-conference/2025/",
+        "start_date": "06 Jul 2025",
+        "end_date": "11 Jul 2025",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
         "themes": [
@@ -6366,6 +6969,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Empowering Chemists with AI & ML: Transformative Tools & Techniques (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques/",
+        "start_date": "08 Jul 2025",
+        "end_date": "10 Jul 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "empoweringchemistswi08Jul2025_0"
+    },
+    {
+        "themes": [
             "history/philosophy",
             "physical/phys org"
         ],
@@ -6432,6 +7057,33 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Computer Aided Drug Design",
+        "url": "https://www.grc.org/computer-aided-drug-design-conference/2025/",
+        "start_date": "13 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer13Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -6450,6 +7102,85 @@
         ],
         "US_state": [
             "RI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer13Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organometallic Chemistry",
+        "url": "https://www.grc.org/organometallic-chemistry-conference/2025/",
+        "start_date": "13 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer13Jul2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Plastics Recycling & Upcycling",
+        "url": "https://www.grc.org/plastics-recycling-and-upcycling-conference/2025/",
+        "start_date": "13 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer13Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Visualization in Science & Education",
+        "url": "https://www.grc.org/visualization-in-science-and-education-conference/2025/",
+        "start_date": "13 Jul 2025",
+        "end_date": "18 Jul 2025",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -6583,6 +7314,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "fluorescenceimagingb14Jul2025_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/",
+        "start_date": "14 Jul 2025",
+        "end_date": "21 Jul 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicaldevelopments14Jul2025_0"
     },
     {
         "themes": [
@@ -6741,6 +7495,283 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Carbohydrate-Active Enzymes for Glycan Conversions",
+        "url": "https://www.grc.org/carbohydrate-active-enzymes-for-glycan-conversions-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemical Oceanography",
+        "url": "https://www.grc.org/chemical-oceanography-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Dynamics at Surfaces",
+        "url": "https://www.grc.org/dynamics-at-surfaces-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Enzymes, Coenzymes & Metabolic Pathways",
+        "url": "https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: High Temperature Corrosion",
+        "url": "https://www.grc.org/high-temperature-corrosion-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Histone & DNA Modifications",
+        "url": "https://www.grc.org/histone-and-dna-modifications-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organic Reactions & Processes",
+        "url": "https://www.grc.org/organic-reactions-and-processes-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Smithfield, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Science of Adhesion",
+        "url": "https://www.grc.org/science-of-adhesion-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Synthetic Biology",
+        "url": "https://www.grc.org/synthetic-biology-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Tuberculosis Drug Discovery & Development",
+        "url": "https://www.grc.org/tuberculosis-drug-discovery-and-development-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: X-Ray Science",
+        "url": "https://www.grc.org/x-ray-science-conference/2025/",
+        "start_date": "20 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer20Jul2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -6868,6 +7899,33 @@
     {
         "themes": [
             "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemical Imaging",
+        "url": "https://www.grc.org/chemical-imaging-conference/2025/",
+        "start_date": "27 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "automation",
             "chem bio",
             "synthesis"
@@ -6887,6 +7945,85 @@
         ],
         "US_state": [
             "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Natural Products & Bioactive Compounds",
+        "url": "https://www.grc.org/natural-products-and-bioactive-compounds-conference/2025/",
+        "start_date": "27 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Photochemistry",
+        "url": "https://www.grc.org/photochemistry-conference/2025/",
+        "start_date": "27 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Protein Engineering",
+        "url": "https://www.grc.org/protein-engineering-conference/2025/",
+        "start_date": "27 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Smithfield, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -6974,6 +8111,32 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry & Physics of Liquids",
+        "url": "https://www.grc.org/chemistry-and-physics-of-liquids-conference/2025/",
+        "start_date": "03 Aug 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer03Aug2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "physical/phys org"
@@ -6993,6 +8156,56 @@
         ],
         "US_state": [
             "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer03Aug2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nanoporous Materials & Their Applications",
+        "url": "https://www.grc.org/nanoporous-materials-and-their-applications-conference/2025/",
+        "start_date": "03 Aug 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer03Aug2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Quantum Control of Light & Matter",
+        "url": "https://www.grc.org/quantum-control-of-light-and-matter-conference/2025/",
+        "start_date": "03 Aug 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -7023,6 +8236,57 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "denverxrayconference04Aug2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Barrier Function of Mammalian Skin",
+        "url": "https://www.grc.org/barrier-function-of-mammalian-skin-conference/2025/",
+        "start_date": "10 Aug 2025",
+        "end_date": "15 Aug 2025",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer10Aug2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Soft Condensed Matter Physics",
+        "url": "https://www.grc.org/soft-condensed-matter-physics-conference/2025/",
+        "start_date": "10 Aug 2025",
+        "end_date": "15 Aug 2025",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer10Aug2025_0"
     },
     {
         "themes": [
@@ -7214,6 +8478,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "jointeuropeanmagneti24Aug2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Catecholamines",
+        "url": "https://www.grc.org/catecholamines-conference/2025/",
+        "start_date": "24 Aug 2025",
+        "end_date": "29 Aug 2025",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer24Aug2025_0"
     },
     {
         "themes": [
@@ -8077,6 +9366,53 @@
     },
     {
         "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Design of Experiments for Chemists & Engineers (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/",
+        "start_date": "10 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "designofexperimentsf10Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Organocatalysis (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/organocatalysis-short-course/",
+        "start_date": "11 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "organocatalysistrain11Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8122,6 +9458,78 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "alpineconferenceonma14Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Machine Learning to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
+        "start_date": "15 Sep 2025",
+        "end_date": "16 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "applicationsofmachin15Sep2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Physical Organic Chemistry Concepts for Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/physical-organic-chemistry-concepts-for-process-development/",
+        "start_date": "15 Sep 2025",
+        "end_date": "17 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physicalorganicchemi15Sep2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20250915/",
+        "start_date": "15 Sep 2025",
+        "end_date": "17 Sep 2025",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "secretsofbatchproces15Sep2025_0"
     },
     {
         "themes": [
@@ -8351,6 +9759,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "responsibleresearchi22Sep2025_0"
+    },
+    {
+        "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Organofluorine Chemistry: Synthesis, Applications, Sources & Sustainability (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/organofluorine-chemistry-synthesis-applications-sources-and-sustainability/",
+        "start_date": "22 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "organofluorinechemis22Sep2025_0"
     },
     {
         "themes": [
@@ -8798,6 +10228,55 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scale-Up: What Goes Wrong? (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/",
+        "start_date": "06 Oct 2025",
+        "end_date": "07 Oct 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scaleupwhatgoeswrong06Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/",
+        "start_date": "06 Oct 2025",
+        "end_date": "09 Oct 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "practicalmanagemento06Oct2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -9187,6 +10666,32 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20251022/",
+        "start_date": "22 Oct 2025",
+        "end_date": "24 Oct 2025",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicaldevelopments22Oct2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -9354,6 +10859,29 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20251104/",
+        "start_date": "04 Nov 2025",
+        "end_date": "06 Nov 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicaldevelopments04Nov2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science"
         ],
@@ -9422,6 +10950,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "conferenceonsafesust10Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Flow Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/flow-chemistry/",
+        "start_date": "10 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "flowchemistrytrainin10Nov2025_0"
     },
     {
         "themes": [
@@ -9543,6 +11096,30 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical & Process Safety for Development Chemists (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20251117/",
+        "start_date": "17 Nov 2025",
+        "end_date": "25 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalprocesssafet17Nov2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -9566,6 +11143,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "easternanalyticalsym18Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Understanding Polymorphism & Crystallisation Issues in the Pharmaceutical Industry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/understanding-polymorphism-crystallisation-issues-in-the-pharmaceutical-industry/",
+        "start_date": "18 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "understandingpolymor18Nov2025_0"
     },
     {
         "themes": [
@@ -9740,6 +11341,29 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Scientific Update: 11th Winter Process Chemistry Conference",
+        "url": "https://www.scientificupdate.com/conference_events/winter-process-chemistry-conference/",
+        "start_date": "01 Dec 2025",
+        "end_date": "03 Dec 2025",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "scientificupdate11th01Dec2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "safety"
@@ -9833,6 +11457,131 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Electrochemistry",
+        "url": "https://www.grc.org/electrochemistry-conference/2026/",
+        "start_date": "04 Jan 2026",
+        "end_date": "09 Jan 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer04Jan2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Protein Folding Dynamics",
+        "url": "https://www.grc.org/protein-folding-dynamics-conference/2026/",
+        "start_date": "04 Jan 2026",
+        "end_date": "09 Jan 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer04Jan2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Mechanical Systems in the Quantum Regime",
+        "url": "https://www.grc.org/mechanical-systems-in-the-quantum-regime-conference/2026/",
+        "start_date": "18 Jan 2026",
+        "end_date": "23 Jan 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer18Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Liquid Phase Electron Microscopy",
+        "url": "https://www.grc.org/liquid-phase-electron-microscopy-conference/2026/",
+        "start_date": "25 Jan 2026",
+        "end_date": "30 Jan 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer25Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Multifunctional Materials & Structures",
+        "url": "https://www.grc.org/multifunctional-materials-and-structures-conference/2026/",
+        "start_date": "25 Jan 2026",
+        "end_date": "30 Jan 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer25Jan2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "process/engineering"
         ],
@@ -9853,6 +11602,111 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "centreforprocessanal27Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Gordon Research Conference: AI for Materials, Energy, & Chemical Sciences",
+        "url": "https://www.grc.org/ai-for-materials-energy-and-chemical-sciences-conference/2026/",
+        "start_date": "01 Feb 2026",
+        "end_date": "06 Feb 2026",
+        "locations": [
+            "Galveston, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Feb2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Atomically Precise Nanochemistry",
+        "url": "https://www.grc.org/atomically-precise-nanochemistry-conference/2026/",
+        "start_date": "01 Feb 2026",
+        "end_date": "06 Feb 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Feb2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry & Biology of Peptides",
+        "url": "https://www.grc.org/chemistry-and-biology-of-peptides-conference/2026/",
+        "start_date": "01 Feb 2026",
+        "end_date": "06 Feb 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Feb2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Colloidal, Macromolecular & Polyelectrolyte Solutions",
+        "url": "https://www.grc.org/colloidal-macromolecular-and-polyelectrolyte-solutions-conference/2026/",
+        "start_date": "01 Feb 2026",
+        "end_date": "06 Feb 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Feb2026_0"
     },
     {
         "themes": [
@@ -9879,6 +11733,157 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "societyforlaboratory07Feb2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Advanced Materials for Sustainable Infrastructure Development",
+        "url": "https://www.grc.org/advanced-materials-for-sustainable-infrastructure-development-conference/2026/",
+        "start_date": "15 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Feb2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Batteries",
+        "url": "https://www.grc.org/batteries-conference/2026/",
+        "start_date": "15 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Feb2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Transmission Electron Microscopy for Materials Research",
+        "url": "https://www.grc.org/transmission-electron-microscopy-for-materials-research-conference/2026/",
+        "start_date": "15 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer15Feb2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Gordon Research Conference: Structures, Energetics & Reaction Dynamics of Gaseous Ions",
+        "url": "https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/",
+        "start_date": "22 Feb 2026",
+        "end_date": "27 Feb 2026",
+        "locations": [
+            "Galveston, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer22Feb2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: DNA Damage, Mutation & Cancer",
+        "url": "https://www.grc.org/dna-damage-mutation-and-cancer-conference/2026/",
+        "start_date": "01 Mar 2026",
+        "end_date": "06 Mar 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer01Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: New Antibacterial Discovery & Development",
+        "url": "https://www.grc.org/new-antibacterial-discovery-and-development-conference/2026/",
+        "start_date": "08 Mar 2026",
+        "end_date": "13 Mar 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer08Mar2026_0"
     },
     {
         "themes": [
@@ -9980,6 +11985,51 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Oscillations & Dynamic Instabilities in Chemical Systems",
+        "url": "https://www.grc.org/oscillations-and-dynamic-instabilities-in-chemical-systems-conference/2026/",
+        "start_date": "03 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer03May2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Renewable Energy – Solar Fuels",
+        "url": "https://www.grc.org/renewable-energy-solar-fuels-conference/2026/",
+        "start_date": "03 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer03May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -10057,6 +12107,111 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Environmental Sciences – Water",
+        "url": "https://www.grc.org/environmental-sciences-water-conference/2026/",
+        "start_date": "14 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organic Reactions & Processes",
+        "url": "https://www.grc.org/organic-reactions-and-processes-conference/2026/",
+        "start_date": "14 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Induced Proximity Modalities & Therapeutics",
+        "url": "https://www.grc.org/induced-proximity-modalities-and-therapeutics-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Systems Chemistry",
+        "url": "https://www.grc.org/systems-chemistry-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano"
         ],
         "regions": [
@@ -10076,6 +12231,77 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceoncoor28Jun2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nanoscale Science & Engineering for Agriculture & Food Systems",
+        "url": "https://www.grc.org/nanoscale-science-and-engineering-for-agriculture-and-food-systems-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Single Molecule Approaches to Biology",
+        "url": "https://www.grc.org/single-molecule-approaches-to-biology-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Colloidal Semiconductor Nanocrystals",
+        "url": "https://www.grc.org/colloidal-semiconductor-nanocrystals-conference/2026/",
+        "start_date": "05 Jul 2026",
+        "end_date": "10 Jul 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer05Jul2026_0"
     },
     {
         "themes": [
@@ -10145,6 +12371,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Computational Chemistry",
+        "url": "https://www.grc.org/computational-chemistry-conference/2026/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -10192,6 +12440,60 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biennialconferenceon26Jul2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Unconventional Semiconductors & Their Applications",
+        "url": "https://www.grc.org/unconventional-semiconductors-and-their-applications-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Ionic Liquids",
+        "url": "https://www.grc.org/ionic-liquids-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gordonresearchconfer02Aug2026_0"
     },
     {
         "themes": [
