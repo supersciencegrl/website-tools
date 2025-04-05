@@ -3606,31 +3606,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Tetrahedron Symposium",
-        "url": "https://www.elsevier.com/events/conferences/all/tetrahedron-symposium",
-        "start_date": "01 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Bruges, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tetrahedronsymposium01Jun2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "med chem"
@@ -6481,6 +6456,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "sociétédesexpertschi01Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Tetrahedron Symposium",
+        "url": "https://www.elsevier.com/events/conferences/all/tetrahedron-symposium",
+        "start_date": "01 Jul 2025",
+        "end_date": "04 Jul 2025",
+        "locations": [
+            "Bruges, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "tetrahedronsymposium01Jul2025_0"
     },
     {
         "themes": [
