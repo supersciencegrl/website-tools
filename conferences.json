@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemical & materials machine learning school CAMMLS",
-        "url": "https://www.psdi.ac.uk/event/cammls-2025/",
-        "start_date": "31 Mar 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalmaterialsmac31Mar2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -44,232 +22,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "transitionmetalcatal31Mar2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Frontiers in Medicinal Chemistry",
-        "url": "https://www.chemistryviews.org/frontiers-in-medicinal-chemistry-2025/",
-        "start_date": "01 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Erlangen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "frontiersinmedicinal01Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "French Membrane Group Meeting GEM",
-        "url": "https://gem-2025.sciencesconf.org/",
-        "start_date": "01 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Boulogne-sur-mer, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "frenchmembranegroupm01Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "41st SCI Process Development Symposium",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/41st-sci-process-development-symposium",
-        "start_date": "02 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "41stsciprocessdevelo02Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "analytica Vietnam",
-        "url": "https://analytica.de/en/vietnam/",
-        "start_date": "02 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Ho Chi Minh City, Vietnam"
-        ],
-        "countries": [
-            "Vietnam"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "analyticavietnam02Apr2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Bio-IT World",
-        "url": "https://www.bio-itworldexpo.com/",
-        "start_date": "02 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bioitworld02Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Freiburger Symposium 2025 (process development & production)",
-        "url": "https://scg.ch/component/eventbooking/fs25",
-        "start_date": "03 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "freiburgersymposium203Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Flow Chemistry Europe",
-        "url": "https://flowchemistryeurope.com/",
-        "start_date": "03 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "Malaga, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "flowchemistryeurope03Apr2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Nebraska Women in STEM",
-        "url": "https://www.nebraskawomeninstem.com/2025-nebraska-women-in-stem-conference/",
-        "start_date": "03 Apr 2025",
-        "end_date": "04 Apr 2025",
-        "locations": [
-            "La Vista, NE, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NE"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nebraskawomeninstem03Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Hellenic Symposium on Medicinal Chemistry",
-        "url": "https://www.helmedchem2025.gr/",
-        "start_date": "03 Apr 2025",
-        "end_date": "05 Apr 2025",
-        "locations": [
-            "Ioannina, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "hellenicsymposiumonm03Apr2025_0"
     },
     {
         "themes": [
@@ -375,29 +127,6 @@
         "non_member_fee": "$945–1,720",
         "max_fee": "$945–1,720",
         "uid": "gordonresearchconfer06Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bristol Electrosynthesis Meeting",
-        "url": "https://www.lennoxlab.com/bem25",
-        "start_date": "07 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bristolelectrosynthe07Apr2025_0"
     },
     {
         "themes": [
@@ -1669,6 +1398,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "innovationinoligonuc29Apr2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "4th London Lab Automator Community Meetup",
+        "url": "https://lu.ma/a3sv1yib",
+        "start_date": "29 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "4thlondonlabautomato29Apr2025_0"
     },
     {
         "themes": [
