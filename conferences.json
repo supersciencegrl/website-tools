@@ -1,30 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Transition-Metal Catalysis in the Pharma Industry: An Indispensable Tool (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/transition-metal-catalysis-in-the-pharma-industry-an-indispensable-tool/",
-        "start_date": "31 Mar 2025",
-        "end_date": "08 Apr 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "transitionmetalcatal31Mar2025_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -130,77 +106,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "PFAS Workshop",
-        "url": "https://www.sfb1349.de/veranstaltungen/Zukuenftige-Veranstaltungen/PFAS-Meeting/index.html",
-        "start_date": "07 Apr 2025",
-        "end_date": "08 Apr 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pfasworkshop07Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Conscience Symposium on Open Drug Discovery",
-        "url": "https://conscience.ca/symposium2025",
-        "start_date": "07 Apr 2025",
-        "end_date": "08 Apr 2025",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "consciencesymposiumo07Apr2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern Ireland"
-        ],
-        "title": "Health Tech Spring Conference",
-        "url": "https://hira-ni.com/health-tech-spring/",
-        "start_date": "07 Apr 2025",
-        "end_date": "08 Apr 2025",
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "healthtechspringconf07Apr2025_0"
-    },
-    {
-        "themes": [
             "formulation/particle science",
             "process/engineering",
             "synthesis"
@@ -274,77 +179,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chem4energy202507Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "SCI-RSC Workshop on Computational Tools for Drug Discovery 2025",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/sci-rsc-workshop-on-computational-tools-for-drug-discovery-2025",
-        "start_date": "08 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scirscworkshoponcomp08Apr2025_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Unchained Labs automation open house",
-        "url": "https://go.unchainedlabs.com/AutomationOpenHouse4-8-2025",
-        "start_date": "08 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Pleasanton, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "unchainedlabsautomat08Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Bristol Synthesis Meeting",
-        "url": "https://www.bristol.ac.uk/chemistry/research/bristol-synthesis-meeting/",
-        "start_date": "08 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bristolsynthesismeet08Apr2025_0"
     },
     {
         "themes": [
@@ -5620,6 +5454,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "neuroimmunologyindru24Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Centre for Process Analytics & Control Technology CPACT Research & Technology Day",
+        "url": "https://www.cpact.com/Events/Event?eid=409",
+        "start_date": "24 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Groton, CT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CT"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "centreforprocessanal24Jun2025_0"
     },
     {
         "themes": [
