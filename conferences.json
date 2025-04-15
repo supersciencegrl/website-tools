@@ -1,205 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Carbon Capture, Utilization & Storage",
-        "url": "https://www.grc.org/carbon-capture-utilization-and-storage-conference/2025/",
-        "start_date": "06 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "$945–1,720",
-        "non_member_fee": "$945–1,720",
-        "max_fee": "$945–1,720",
-        "uid": "gordonresearchconfer06Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "Chem4Energy 2025",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/chem4energy-2025",
-        "start_date": "07 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Walvis Bay, Namibia"
-        ],
-        "countries": [
-            "Namibia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chem4energy202507Apr2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Emerald Isle Conference on Sustainable Chemistry & Engineering",
-        "url": "https://www.qub.ac.uk/sites/eic2025/",
-        "start_date": "09 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "emeraldisleconferenc09Apr2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI Japan",
-        "url": "https://www.cphi.com/japan/en/home.html",
-        "start_date": "09 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Tokyo, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cphijapan09Apr2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Pharma 2025",
-        "url": "https://events.reutersevents.com/pharma/pharma-europe",
-        "start_date": "09 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharma202509Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "rdkit North American UGM/Chemoinformatics Meeting",
-        "url": "https://bagimcommunications.blogspot.com/2025/01/rdkit-north-american-ugmcheminformatics.html",
-        "start_date": "10 Apr 2025",
-        "end_date": "11 Apr 2025",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rdkitnorthamericanug10Apr2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Conference on environmental integration on sustainable perspective & beyond",
-        "url": "https://www.ierek.com/events/environmental-integration-on-sustainable-perspective-and-beyond-eispb",
-        "start_date": "10 Apr 2025",
-        "end_date": "12 Apr 2025",
-        "locations": [
-            "Manila, Philippines"
-        ],
-        "countries": [
-            "Philippines"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "conferenceonenvironm10Apr2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "SCI YCP undergraduate research symposium & career fair",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/ycp-undergraduate-research-symposium-and-careers-fair",
-        "start_date": "11 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciycpundergraduater11Apr2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -2633,6 +2434,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "journéesdechimiesupr22May2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Developing your analytical mindset",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUOVVHVE02S0pWNUtQV0NVNVRQR0kxQkFLVCQlQCN0PWcu",
+        "start_date": "22 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "developingyouranalyt22May2025_0"
     },
     {
         "themes": [
@@ -5095,6 +4918,33 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "BMS Women in Chemical Engineering Event",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=uEzjcVY61U-iWUrK2rbkrEkohYl24_JDuxhjx95QMaBURTdNSlYzR1gxSVFXSDNRRU4zR043VDc2OC4u&route=shorturl",
+        "start_date": "23 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "New Brunswick, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bmswomeninchemicalen23Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -5917,7 +5767,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "8th Machine Learning & AI in Bio(Chemical) Engineering Conference",
+        "title": "8th Machine Learning & AI in Bio(Chemical) Engineering Conference MABC",
         "url": "https://www.mabc-cambridge.ai/",
         "start_date": "01 Jul 2025",
         "end_date": "02 Jul 2025",
@@ -10389,7 +10239,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "CPHI SouthEast Asia",
+        "title": "CPHI Frankfurt",
         "url": "https://www.cphi.com/europe/en/home.html",
         "start_date": "28 Oct 2025",
         "end_date": "30 Oct 2025",
@@ -10402,7 +10252,32 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "cphisoutheastasia28Oct2025_0"
+        "uid": "cphifrankfurt28Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Lab Innovations",
+        "url": "https://www.lab-innovations.com/",
+        "start_date": "29 Oct 2025",
+        "end_date": "30 Oct 2025",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labinnovations29Oct2025_0"
     },
     {
         "themes": [
