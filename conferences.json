@@ -1,32 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "American Society for Biochemistry & Molecular Biology ASBMB Annual Meeting",
-        "url": "https://www.asbmb.org/annual-meeting/",
-        "start_date": "12 Apr 2025",
-        "end_date": "15 Apr 2025",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "americansocietyforbi12Apr2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -1123,6 +1097,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscorganicchemistryi06May2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Life Science Informatics Forum German Chapter Meeting: LLM's & knowledge graphs",
+        "url": "https://www.pistoiaalliance.org/eventdetails/european-life-science-informatics-forum-german-chapter/",
+        "start_date": "06 May 2025",
+        "end_date": null,
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanlifesciencei06May2025_0"
     },
     {
         "themes": [
@@ -4467,6 +4463,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "analyticalresearchfo17Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "ELIXIR Bioinformatics Industry Forum",
+        "url": "https://www.pistoiaalliance.org/eventdetails/elixir-bioinformatics-industry-forum-ebif-2025/",
+        "start_date": "17 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "elixirbioinformatics17Jun2025_0"
     },
     {
         "themes": [
@@ -9210,6 +9229,31 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "User Experience for Life Science UXLS Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/user-experience-for-life-science-uxls-conference/",
+        "start_date": "22 Sep 2025",
+        "end_date": "23 Sep 2025",
+        "locations": [
+            "Rahway, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "userexperienceforlif22Sep2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem"
         ],
@@ -9641,6 +9685,30 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lab of the Future Congress Europe",
+        "url": "https://www.pistoiaalliance.org/eventdetails/the-lab-of-the-future-congress-europe-2025/",
+        "start_date": "30 Sep 2025",
+        "end_date": "01 Oct 2025",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "labofthefuturecongre30Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -9649,8 +9717,8 @@
         ],
         "title": "SUPRAlife Intl Conference: Supramolecular multifunctional biomaterials to interface with living systems",
         "url": "https://www.supralife.eu/finalconference/",
-        "start_date": "29 Sep 2025",
-        "end_date": "03 Oct 2025",
+        "start_date": "30 Sep 2025",
+        "end_date": "01 Oct 2025",
         "locations": [
             "Aveiro, Portugal"
         ],
@@ -9660,7 +9728,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "supralifeintlconfere29Sep2025_0"
+        "uid": "supralifeintlconfere30Sep2025_0"
     },
     {
         "themes": [
@@ -9719,6 +9787,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biologicsus02Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Controlled Substance Compliance & Shipping Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/the-1st-european-controlled-substance-compliance-shipping-conference/",
+        "start_date": "02 Oct 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeancontrolledsu02Oct2025_0"
     },
     {
         "themes": [
@@ -10539,6 +10630,54 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "powdercoatingslowtem11Nov2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Powder coatings: Low temperature application",
+        "url": "https://www.european-coatings.com/events/conference/powder-coatings-2025/",
+        "start_date": "11 Nov 2025",
+        "end_date": "12 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "powdercoatingslowtem11Nov2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pistoia Alliance USA Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-boston-conference-2025/",
+        "start_date": "11 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pistoiaallianceusaco11Nov2025_0"
     },
     {
         "themes": [
