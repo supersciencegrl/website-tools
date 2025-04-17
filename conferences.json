@@ -1,54 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "RACI Medicinal Chemistry & Chemical Biology Division 2025",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=8cd0e227-30e2-4193-b7fb-018eee6d4e1d",
-        "start_date": "13 Apr 2025",
-        "end_date": "16 Apr 2025",
-        "locations": [
-            "Darwin, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "racimedicinalchemist13Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "TAC 2025: Thermal Methods Group anniversary conference",
-        "url": "https://www.rsc.org/events/detail/78888/tac-2025-60th-anniversary-conference",
-        "start_date": "14 Apr 2025",
-        "end_date": "16 Apr 2025",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tac2025thermalmethod14Apr2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "formulation/particle science"
         ],
@@ -128,96 +80,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "enablingtechnologies14Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "UK QSAR & Chemoinformatics Society Spring Meeting",
-        "url": "https://ukqsar.org/index.php/2025/03/05/spring-meeting-2025/",
-        "start_date": "15 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukqsarchemoinformati15Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Deutschland Nationale Forschungsdateninfrastruktur NFDI4Chem Consortium Meeting 5.5",
-        "url": "https://www.nfdi4chem.de/event/consortium-meeting-5-5/",
-        "start_date": "16 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "deutschlandnationale16Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Technology-Enhanced Chemical Synthesis TECS CDT Digital Chemistry Festival",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG2pzeMiWYg5Gr7f160jaEcJUN1JYVTdFQ1g1M0w4NkY4UURYWVdEN09aSS4u&route=shorturl",
-        "start_date": "16 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "technologyenhancedch16Apr2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EFMC-YSN Publishing Academy",
-        "url": "https://www.efmc.info/publishing-academy",
-        "start_date": "16 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "efmcysnpublishingaca16Apr2025_0"
     },
     {
         "themes": [
@@ -403,6 +265,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "teachingchemistrytod24Apr2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Zifo & Sapio Sciences: Data management & AI in the pharmaceutical/biotechnology industry",
+        "url": "https://zifornd.com/event/zifo-sapio-seminar/",
+        "start_date": "24 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "zifosapiosciencesdat24Apr2025_0"
     },
     {
         "themes": [
@@ -639,6 +524,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Virtual school on machine learning for molecules",
+        "url": "https://www.i-comse.org/workshops/",
+        "start_date": "28 Apr 2025",
+        "end_date": "02 May 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "virtualschoolonmachi28Apr2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "physical/phys org",
@@ -735,6 +642,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "4thlondonlabautomato29Apr2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Enabling chemical technologies to foster innovation & sustainability in pharmaceutical sciences",
+        "url": "https://dsf.unipg.it/files/dottoratodiricerca/workshop_-_enabling_technologies_-_april_29_2025.pdf",
+        "start_date": "29 Apr 2025",
+        "end_date": null,
+        "locations": [
+            "Perugia, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "enablingchemicaltech29Apr2025_0"
     },
     {
         "themes": [
@@ -1119,6 +1049,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanlifesciencei06May2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "miniCUP (Orion software)",
+        "url": "https://www.eyesopen.com/events/minicup-cambridge-2025",
+        "start_date": "06 May 2025",
+        "end_date": null,
+        "locations": [
+            "Hinxton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "minicuporionsoftware06May2025_0"
     },
     {
         "themes": [
@@ -2165,6 +2118,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Big data, AI, & Machine Learning in Drug Safety (training course)",
+        "url": "https://www.atriumcph.com/courses-and-programmes/course/Big-Data-AI-and-Machine-Learning-in-Drug-Safety/143411",
+        "start_date": "19 May 2025",
+        "end_date": "23 May 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bigdataaimachinelear19May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -2333,6 +2310,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "federationofasianoce20May2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Methods in Chemistry Education Research MICER",
+        "url": "https://micerportal.wordpress.com/",
+        "start_date": "21 May 2025",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "methodsinchemistryed21May2025_0"
     },
     {
         "themes": [
@@ -3255,6 +3254,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "State of the nation on sensors & photonics",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUOUhGWjFWOFNHUlo3SVBJR0NUSDVHMUwwOSQlQCN0PWcu",
+        "start_date": "04 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "stateofthenationonse04Jun2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "law/policy"
         ],
@@ -3593,6 +3615,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "summerschoolonbiomol08Jun2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Conference on Chemical Kinetics",
+        "url": "https://icck2025.lbl.gov/",
+        "start_date": "08 Jun 2025",
+        "end_date": "13 Jun 2025",
+        "locations": [
+            "Tahoe City, CA< USA"
+        ],
+        "countries": [
+            "CA< USA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonchem08Jun2025_0"
     },
     {
         "themes": [
@@ -5137,6 +5181,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "QM/MM & ab initio molecular dynamics (workshop)",
+        "url": "https://www.i-comse.org/workshops/",
+        "start_date": "23 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "qmmmabinitiomolecula23Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -6016,6 +6082,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Japanese-German Symposium on Frontiers in Future Materials Design",
+        "url": "https://www.fkf.mpg.de/8650896",
+        "start_date": "03 Jul 2025",
+        "end_date": "05 Jul 2025",
+        "locations": [
+            "Stuttgart, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "japanesegermansympos03Jul2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -6309,6 +6398,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "UK Catalysis Hub summer showcase",
+        "url": "https://www.eventbrite.com/e/summer-showcase-2025-tickets-1307856125879",
+        "start_date": "07 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukcatalysishubsummer07Jul2025_0"
     },
     {
         "themes": [
@@ -6753,6 +6864,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicaldevelopments14Jul2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Medicinal & Biological Chemistry Ireland",
+        "url": "http://medicinalchemistryireland.wordpress.com/",
+        "start_date": "15 Jul 2025",
+        "end_date": "16 Jul 2025",
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "medicinalbiologicalc15Jul2025_0"
     },
     {
         "themes": [
@@ -7468,6 +7602,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Theoretical Chemistry & Computational Modelling Workshop TCCM",
+        "url": "https://tccm25.dipc.org/",
+        "start_date": "28 Jul 2025",
+        "end_date": "30 Jul 2025",
+        "locations": [
+            "Donostia, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "theoreticalchemistry28Jul2025_0"
     },
     {
         "themes": [
@@ -8209,6 +8366,52 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on Organometallic Chemistry directed towards Organic Synthesis OMCOS",
+        "url": "https://omcos22.org/",
+        "start_date": "01 Sep 2025",
+        "end_date": "05 Sep 2025",
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonorgan01Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Association Francophone de la Chimie Acc´l´r´e Digitalis´e AFCAD Annual Conference",
+        "url": "https://www.afcad.org/collect/description/553932-z-inscriptions-journees-annuelles-2-et-3-septembre-2025",
+        "start_date": "02 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "associationfrancopho02Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "law/policy"
@@ -8704,6 +8907,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "antibodyengineeringe09Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "careers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Introduction to pharma in the nordics (training course)",
+        "url": "https://www.atriumcph.com/courses-and-programmes/course/Introduction-to-Pharma-in-the-Nordics/100805",
+        "start_date": "09 Sep 2025",
+        "end_date": "10 Sep 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "introductiontopharma09Sep2025_0"
     },
     {
         "themes": [
@@ -10681,6 +10908,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Ontologies4Chem",
+        "url": "https://www.nfdi4chem.de/event/4-workshop-ontologies4chem/",
+        "start_date": "11 Nov 2025",
+        "end_date": "14 Nov 2025",
+        "locations": [
+            "Limburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ontologies4chem11Nov2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -10723,6 +10972,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "newapproachesinmedic12Nov2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Automated Synthesis Forum ASF",
+        "url": "https://automatedsynthesisforum.com/",
+        "start_date": "17 Nov 2025",
+        "end_date": "18 Nov 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "automatedsynthesisfo17Nov2025_0"
     },
     {
         "themes": [
@@ -10798,6 +11070,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "chemicalprocesssafet17Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Chemical Science Symposium: Chemistry of imaging, biosensing, & diagnostics",
+        "url": "https://www.rsc.org/events/detail/81053/chemical-science-symposium",
+        "start_date": "18 Nov 2025",
+        "end_date": "19 Nov 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "chemicalsciencesympo18Nov2025_0"
     },
     {
         "themes": [
@@ -10973,6 +11269,30 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Driving digitalization in pharma (training course)",
+        "url": "https://www.atriumcph.com/courses-and-programmes/course/Driving-Digitalisation-in-Pharma/130599",
+        "start_date": "26 Nov 2025",
+        "end_date": "28 Nov 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "drivingdigitalizatio26Nov2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "formulation/particle science"
@@ -11042,6 +11362,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scientificupdate11th01Dec2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Biopharmaceuticals: Quality development & documentation (training course)",
+        "url": "https://www.atriumcph.com/courses-and-programmes/course/Biopharmaceuticals---Quality-Development-and-Documentation/21650",
+        "start_date": "01 Dec 2025",
+        "end_date": "02 Dec 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "biopharmaceuticalsqu01Dec2025_0"
     },
     {
         "themes": [
