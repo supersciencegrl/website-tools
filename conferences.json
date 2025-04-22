@@ -1138,6 +1138,29 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Sustainable Plastics Europe",
+        "url": "https://www.europe.sustainable-plastics-conference.com/",
+        "start_date": "07 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sustainableplasticse07May2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry",
