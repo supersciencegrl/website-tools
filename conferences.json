@@ -1021,6 +1021,29 @@
     },
     {
         "themes": [
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "mRNA Process development & manufacturing summit",
+        "url": "https://mrna-processandmanufacturing-europe.com/5",
+        "start_date": "06 May 2025",
+        "end_date": "08 May 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "mrnaprocessdevelopme06May2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "pharma industry",
@@ -4288,6 +4311,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "insciencewetrust16Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European mRNA Conference",
+        "url": "https://www.europe.the-mrna-conference.com/",
+        "start_date": "16 Jun 2025",
+        "end_date": "17 Jun 2025",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanmrnaconferen16Jun2025_0"
     },
     {
         "themes": [
