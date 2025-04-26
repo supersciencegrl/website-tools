@@ -23,169 +23,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday Discussion: Structural & functional asymmetry of plasma membranes",
-        "url": "https://www.rsc.org/events/detail/77759/structural-and-functional-asymmetry-of-plasma-membranes-faraday-discussion",
-        "start_date": "23 Apr 2025",
-        "end_date": "25 Apr 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "faradaydiscussionstr23Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Spring School in Computational Chemistry 2025",
-        "url": "https://bioexcel.eu/events/spring-school-in-computational-chemistry-2025/",
-        "start_date": "23 Apr 2025",
-        "end_date": "25 Apr 2025",
-        "locations": [
-            "Espoo, Finland"
-        ],
-        "countries": [
-            "Finland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "springschoolincomput23Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Organic Division Midlands Regional Meeting 2025",
-        "url": "https://www.rsc.org/events/detail/79680/rsc-organic-division-midlands-regional-meeting-2025",
-        "start_date": "24 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscorganicdivisionmi24Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS Spring Meeting 2025: Electrocatalysis",
-        "url": "https://sm25.scg.ch/",
-        "start_date": "24 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Bern, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scsspringmeeting202524Apr2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC BMCS Spring Symposium on Medicinal Chemistry \"Hatfield\"",
-        "url": "https://www.rscbmcs.org/events/hatfield25/",
-        "start_date": "24 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Hatfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcsspringsymposi24Apr2025_0"
-    },
-    {
-        "themes": [
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Teaching chemistry to D/deaf students",
-        "url": "https://rsccerg.wordpress.com/2025/02/10/teaching-chemistry-to-deaf-students-a-symposium-in-honour-of-dr-audrey-cameron/",
-        "start_date": "24 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "teachingchemistrytod24Apr2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Zifo & Sapio Sciences: Data management & AI in the pharmaceutical/biotechnology industry",
-        "url": "https://zifornd.com/event/zifo-sapio-seminar/",
-        "start_date": "24 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "zifosapiosciencesdat24Apr2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -5459,6 +5296,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "undergraduateindustr26Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "European in silico Pharmaceutical & Healthcare Summit",
+        "url": "https://www.ansys.com/events/european-pharma-summit-2025",
+        "start_date": "26 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeaninsilicophar26Jun2025_0"
     },
     {
         "themes": [
