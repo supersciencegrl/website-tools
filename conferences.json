@@ -1,54 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "GreenChemAfrica",
-        "url": "https://susmat.um6p.ma/greenchemafrica-2025/",
-        "start_date": "20 Apr 2025",
-        "end_date": "26 Apr 2025",
-        "locations": [
-            "Ben Guerir, Morocco"
-        ],
-        "countries": [
-            "Morocco"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "greenchemafrica20Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "John K Stille Symposium: Frontiers in Organic Chemistry",
-        "url": "https://www.chem.colostate.edu/alumni-friends/stille-symposium-2025/",
-        "start_date": "26 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Fort Collins, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "johnkstillesymposium26Apr2025_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "physical/phys org"
         ],
@@ -69,32 +21,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer27Apr2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Stanford Drug Discovery Symposium SDDS",
-        "url": "https://med.stanford.edu/cvi/events/sdds2025-stanford-drug-discovery-symposium.html",
-        "start_date": "28 Apr 2025",
-        "end_date": "29 Apr 2025",
-        "locations": [
-            "Stanford, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "stanforddrugdiscover28Apr2025_0"
     },
     {
         "themes": [
@@ -300,103 +226,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlschoolofchemomet28Apr2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Sustainable Research: Fit for the future",
-        "url": "https://www.embl.org/about/info/sustainability/events/sustainable-research-fit-for-the-future/",
-        "start_date": "29 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Heidelberg, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sustainableresearchf29Apr2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Innovation in Oligonucleotide Manufacturing Symposium",
-        "url": "https://www.uk-cpi.com/events/oligonucleotide-symposium",
-        "start_date": "29 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "innovationinoligonuc29Apr2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "4th London Lab Automator Community Meetup",
-        "url": "https://lu.ma/a3sv1yib",
-        "start_date": "29 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "4thlondonlabautomato29Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Enabling chemical technologies to foster innovation & sustainability in pharmaceutical sciences",
-        "url": "https://dsf.unipg.it/files/dottoratodiricerca/workshop_-_enabling_technologies_-_april_29_2025.pdf",
-        "start_date": "29 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Perugia, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "enablingchemicaltech29Apr2025_0"
     },
     {
         "themes": [
@@ -2243,7 +2072,7 @@
             "Online"
         ],
         "title": "Edelris 20th Anniversity Symposium on Drug Discovery",
-        "url": "https://jcs2025.sciencesconf.org/",
+        "url": "https://edelrissymposium.zohobackstage.eu/Symposium2025",
         "start_date": "23 May 2025",
         "end_date": null,
         "locations": [
@@ -3219,6 +3048,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Freiberger Universitätsforum (German language)",
+        "url": "https://tu-freiberg.de/en/bht",
+        "start_date": "04 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Freiberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "freibergeruniversitä04Jun2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -3265,6 +3116,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "newstartersinsynthes06Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Freiberg PhD Conference (German language)",
+        "url": "https://tu-freiberg.de/events/9th-freiberg-phd-conference",
+        "start_date": "06 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Freiberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "freibergphdconferenc06Jun2025_0"
     },
     {
         "themes": [
@@ -8270,7 +8144,7 @@
         "title": "Association Francophone de la Chimie Acc´l´r´e Digitalis´e AFCAD Annual Conference",
         "url": "https://www.afcad.org/collect/description/553932-z-inscriptions-journees-annuelles-2-et-3-septembre-2025",
         "start_date": "02 Sep 2025",
-        "end_date": "04 Sep 2025",
+        "end_date": "03 Sep 2025",
         "locations": [
             "Lausanne, Switzerland"
         ],
@@ -8851,6 +8725,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "drugdiscoveryinnovat10Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Nationale Forschungsdateninfrastruktur NFDI4Chem Consortium Meeting",
+        "url": "https://www.nfdi4chem.de/event/consortium-meeting-6-0/",
+        "start_date": "10 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nationaleforschungsd10Sep2025_0"
     },
     {
         "themes": [
