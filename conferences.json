@@ -24,139 +24,6 @@
     },
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chem R&D 2025",
-        "url": "https://chemrd.unitedscientificgroup.org/",
-        "start_date": "28 Apr 2025",
-        "end_date": "30 Apr 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemrd202528Apr2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Portuguese Young Chemists' Meeting PYCheM",
-        "url": "https://9pychem.events.chemistry.pt/",
-        "start_date": "28 Apr 2025",
-        "end_date": "30 Apr 2025",
-        "locations": [
-            "Faro, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "portugueseyoungchemi28Apr2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Helmholtz Drug Discovery Conference",
-        "url": "https://www.mdc-berlin.de/HDDC2025",
-        "start_date": "28 Apr 2025",
-        "end_date": "30 Apr 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlhelmholtzdrugdis28Apr2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "British Zeolite Association Annual Meeting",
-        "url": "https://www.britishzeolite.org/annual-meeting",
-        "start_date": "28 Apr 2025",
-        "end_date": "30 Apr 2025",
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "britishzeoliteassoci28Apr2025_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "med chem",
             "pharma industry",
@@ -229,105 +96,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "business",
-            "computational/data",
-            "law/policy",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Making Pharmaceuticals & Distributing Pharmaceuticals",
-        "url": "https://www.makingpharma.com/",
-        "start_date": "29 Apr 2025",
-        "end_date": "30 Apr 2025",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "makingpharmaceutical29Apr2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Sustainable innovation & industry",
-        "url": "https://www.soci.org/events/canada-group/2025/sustainable-innovation-and-industry",
-        "start_date": "30 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sustainableinnovatio30Apr2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Protein Metrics London Symposium",
-        "url": "https://www.proteinmetrics.com/events/london-symposium-2025",
-        "start_date": "30 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "proteinmetricslondon30Apr2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "computational/data",
-            "formulation/particle science",
-            "med chem"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Management Group: Rare Disease Treatments with AI & the role of chemistry in digital printing",
-        "url": "https://www.rsc.org/events/detail/81434/rare-disease-treatments-with-ai-and-the-role-of-chemistry-in-digital-printing",
-        "start_date": "30 Apr 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscmanagementgroupra30Apr2025_0"
-    },
-    {
-        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -373,30 +141,6 @@
         "non_member_fee": "Unkn",
         "max_fee": "Unkn",
         "uid": "americancoatingsshow30Apr2024_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Crash course: Python for chemoinformatics-driven molecular docking",
-        "url": "https://www.rcsb.org/news/feature/67d9853eaddf75595bd158f7",
-        "start_date": "01 May 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "crashcoursepythonfor01May2025_0"
     },
     {
         "themes": [
@@ -9197,6 +8941,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scinewsyntheticmetho18Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Automation for Chemistry",
+        "url": "https://natureconferences.streamgo.live/automation-for-chemistry/register",
+        "start_date": "21 Sep 2025",
+        "end_date": "23 Sep 2025",
+        "locations": [
+            "Hefei, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "automationforchemist21Sep2025_0"
     },
     {
         "themes": [
