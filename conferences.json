@@ -95,29 +95,6 @@
     },
     {
         "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Biotech Day 2025",
-        "url": "https://swissbiotechday.ch/",
-        "start_date": "05 May 2025",
-        "end_date": "06 May 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swissbiotechday202505May2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano",
@@ -188,77 +165,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "machinelearningforma05May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Ireland"
-        ],
-        "title": "RSC Organic Chemistry Ireland Regional Meeting 2025",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=6ner6qW040mh6NbdI6HyhryIgV2Ql-JDipOrJOajHBFUNzREUThBSERDSklDVkxWSEdSWlRQRDJYMS4u&route=shorturl",
-        "start_date": "06 May 2025",
-        "end_date": null,
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscorganicchemistryi06May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Life Science Informatics Forum German Chapter Meeting: LLM's & knowledge graphs",
-        "url": "https://www.pistoiaalliance.org/eventdetails/european-life-science-informatics-forum-german-chapter/",
-        "start_date": "06 May 2025",
-        "end_date": null,
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanlifesciencei06May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "miniCUP (Orion software)",
-        "url": "https://www.eyesopen.com/events/minicup-cambridge-2025",
-        "start_date": "06 May 2025",
-        "end_date": null,
-        "locations": [
-            "Hinxton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "minicuporionsoftware06May2025_0"
     },
     {
         "themes": [
