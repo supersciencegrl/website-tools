@@ -27,581 +27,6 @@
     {
         "themes": [
             "analytical",
-            "careers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Emerging Analytical Professionals EAP 2025",
-        "url": "https://www.analyticalsciencenetwork.co.uk/",
-        "start_date": "09 May 2025",
-        "end_date": "11 May 2025",
-        "locations": [
-            "Knutsford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "emerginganalyticalpr09May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Intl Society for Magnetic Resonance in Medicine ISMRM & Intl Society for Magnetic Resonance Radiographers & Technologists ISMRT Annual Meeting",
-        "url": "https://www.ismrm.org/25m/",
-        "start_date": "10 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Honolulu, HI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "HI"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsocietyformagnet10May2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "3rd Commonwealth Chemistry Congress",
-        "url": "https://commonwealthchemistry.org/event/ccc2025/",
-        "start_date": "11 May 2025",
-        "end_date": "14 May 2025",
-        "locations": [
-            "Stellenbosch, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "3rdcommonwealthchemi11May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "26th RSC Heterocyclic & Synthesis Group Lakeland Symposium \"Grasmere\"",
-        "url": "https://www.rsc.org/events/detail/80261/26th-lakeland-symposium-grasmere-2025",
-        "start_date": "11 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Grasmere, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "26thrscheterocyclics11May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Self-Assembly & Supramolecular Chemistry",
-        "url": "https://www.grc.org/self-assembly-and-supramolecular-chemistry-conference/2025/",
-        "start_date": "11 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer11May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Chemical Biology Symposium",
-        "url": "https://www.rsc.org/events/detail/80402/chemical-biology-symposium-2025",
-        "start_date": "12 May 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalbiologysympo12May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC/SCI Symposium on Kinase Inhibitor Design",
-        "url": "https://www.rscbmcs.org/events/kinase2025/",
-        "start_date": "12 May 2025",
-        "end_date": "13 May 2025",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscscisymposiumonkin12May2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Filtration & Drying (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/filtration-and-drying-course/",
-        "start_date": "12 May 2025",
-        "end_date": "14 May 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "filtrationdryingtrai12May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "ACS MEDI-EFMC Medicinal Chemistry Frontiers 2025",
-        "url": "https://www.medchemfrontiers.org/",
-        "start_date": "12 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "acsmediefmcmedicinal12May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biocatalysis as a Tool for the Synthetic Chemist (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-as-a-tool-for-the-synthetic-chemist/",
-        "start_date": "12 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biocatalysisasatoolf12May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Green Chemistry ISGC",
-        "url": "https://www.isgc-symposium.com/",
-        "start_date": "12 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "La Rochelle, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumongreen12May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Workshop on Open Molecular Informatics IWOMI",
-        "url": "https://www.iwomi.net/",
-        "start_date": "12 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "South Tyrol, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlworkshoponopenmo12May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "PEGS Summit: Protein & Antibody Engineering",
-        "url": "https://www.pegsummit.com/",
-        "start_date": "12 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pegssummitproteinant12May2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Construction materials group AGM",
-        "url": "https://www.soci.org/events/construction-materials-group/2025/construction-materials-group-agm-2025",
-        "start_date": "13 May 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sciconstructionmater13May2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Commercializing industrial biotechnology",
-        "url": "https://www.aiche.org/sbe/conferences/commercializing-industrial-biotechnology/2025",
-        "start_date": "13 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "commercializingindus13May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Biomolecular condensates: From fundamental principles to applications in health & biotech",
-        "url": "https://events.au.dk/biomolecular-condensates-2025/conference",
-        "start_date": "13 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biomolecularcondensa13May2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Defect-mediated engineering of nanomaterials for energy & quantum applications",
-        "url": "https://www.beilstein-institut.de/en/symposia/defect-mediated-engineering-of-nanomaterials/",
-        "start_date": "13 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Rüdesheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "defectmediatedengine13May2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Innovations in crop protection",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/innovations-in-crop-protection",
-        "start_date": "14 May 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "innovationsincroppro14May2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "London Lab Live",
-        "url": "https://www.terrapinn.com/exhibition/london-lab-live/index.stm",
-        "start_date": "14 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "londonlablive14May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Therapeutic Oligonucleotides 2025",
-        "url": "https://elrig.org/portfolio/therapeutic-oligonucleotides-2025-drugging-the-undruggable/",
-        "start_date": "14 May 2025",
-        "end_date": "15 May 2025",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "therapeuticoligonucl14May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Faraday Discussion: Advanced imaging techniques in biomineralization research",
-        "url": "https://www.rsc.org/events/detail/77784/advanced-imaging-techniques-in-biomineralisation-research-faraday-discussionn",
-        "start_date": "14 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "faradaydiscussionadv14May2025_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Scientific Apprenticeship Conference",
-        "url": "https://www.icr.ac.uk/study-and-careers/careers-at-the-icr/apprenticeships/scientific-apprenticeship-conference",
-        "start_date": "15 May 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scientificapprentice15May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gateway NMR Conference",
-        "url": "https://u.osu.edu/gatewaynmr/",
-        "start_date": "15 May 2025",
-        "end_date": "16 May 2025",
-        "locations": [
-            "Columbus, OH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gatewaynmrconference15May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio",
             "physical/phys org"
         ],
@@ -1570,6 +995,52 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Mid-Atlantic Regional Meeting MARM",
+        "url": "https://marm2025.com/",
+        "start_date": "28 May 2025",
+        "end_date": "31 May 2025",
+        "locations": [
+            "S Orange Village, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "midatlanticregionalm28May2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "process/engineering"
@@ -2052,6 +1523,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscporousmaterialsin03Jun2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "The Battery Show Europe",
+        "url": "https://www.thebatteryshow.eu/en/lp-attendee.html",
+        "start_date": "03 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "Stuttgart, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thebatteryshoweurope03Jun2025_0"
     },
     {
         "themes": [
@@ -2783,6 +2278,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Global Reaxys User Day",
+        "url": "https://www.elsevier.com/events/conferences/all/global-reaxys-user-day-2025",
+        "start_date": "11 Jun 2025",
+        "end_date": "12 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "globalreaxysuserday11Jun2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "physical/phys org"
         ],
@@ -3452,6 +2969,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EFMC-YSN MedChemBioOnline: Best practices in discoving PROTACs",
+        "url": "https://www.medchembio.online/",
+        "start_date": "17 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "efmcysnmedchembioonl17Jun2025_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -3517,6 +3058,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "annualmeetingofthepr18Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Amgen Chemistry Career Day",
+        "url": "https://www.linkedin.com/posts/margaret-faul-08376a6_3rd-amgen-chemistry-career-day-ugcPost-7327054957604495360-vNSd/",
+        "start_date": "20 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "amgenchemistrycareer20Jun2025_0"
     },
     {
         "themes": [
@@ -4075,7 +3641,7 @@
             "synthesis"
         ],
         "regions": [
-            "EUA"
+            "Eastern USA"
         ],
         "title": "Green Chemistry & Engineering GC&E",
         "url": "https://www.gcande.org/",
@@ -4094,6 +3660,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "greenchemistryengine23Jun2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Centre for Natural Products Discovery CNPD Conference",
+        "url": "https://ysm2018.wixsite.com/cnpd2025",
+        "start_date": "23 Jun 2025",
+        "end_date": "26 Jun 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "centrefornaturalprod23Jun2025_0"
     },
     {
         "themes": [
@@ -4166,6 +3755,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlsymposiumonthesy23Jun2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Life Science Week (expo)",
+        "url": "https://www.siemens.com/ch/de/unternehmen/messen-events/life-science-week.html",
+        "start_date": "23 Jun 2025",
+        "end_date": "27 Jun 2025",
+        "locations": [
+            "Zug, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "lifescienceweekexpo23Jun2025_0"
     },
     {
         "themes": [
@@ -4242,6 +3855,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rscorganiccommunityn24Jun2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London Lab Automation Community Meetup",
+        "url": "https://lu.ma/10y82mai",
+        "start_date": "24 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "londonlabautomationc24Jun2025_0"
     },
     {
         "themes": [
@@ -6196,6 +5833,30 @@
     },
     {
         "themes": [
+            "careers",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Symposium of Medicinal Chemistry Young Researchers YRS2025",
+        "url": "https://sites.google.com/view/xi-young-researchers-symposium/home",
+        "start_date": "18 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Bilbao, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "symposiumofmedicinal18Jul2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -6545,10 +6206,36 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Women in Manufacturing Association Summer Leadership Conference",
+        "url": "https://www.womeninmanufacturing.org/events/summer-leadership-conference-slc2025",
+        "start_date": "24 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "womeninmanufacturing24Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "education"
         ],
-        "regions": [],
+        "regions": [
+            "Midwest USA"
+        ],
         "title": "Transforming undergraduate education in the molecular life sciences",
         "url": "https://www.asbmb.org/meetings-events/transforming-undergraduate-education-2025",
         "start_date": "24 Jul 2025",
@@ -7185,6 +6872,55 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlsymposiumonprote17Aug2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "ACS US Fall National Meeting",
+        "url": "https://www.acs.org/events/fall.html",
+        "start_date": "17 Aug 2025",
+        "end_date": "21 Aug 2025",
+        "locations": [
+            "Washington, DC, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "DC"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsusfallnationalmee17Aug2025_0"
     },
     {
         "themes": [
@@ -8460,7 +8196,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EUROPIN Summer school on drug design",
+        "title": "EUROPIN Vienna summer school on drug design",
         "url": "https://pharminfo.univie.ac.at/summerschool/2025/",
         "start_date": "14 Sep 2025",
         "end_date": "19 Sep 2025",
@@ -8473,7 +8209,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "europinsummerschoolo14Sep2025_0"
+        "uid": "europinviennasummers14Sep2025_0"
     },
     {
         "themes": [
@@ -8972,6 +8708,32 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "US National Organization for the Professional Advancement of Black Chemists and Chemical Engineers NOBCChE Conference",
+        "url": "https://www.discoveryontarget.com/",
+        "start_date": "22 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Atlanta, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "usnationalorganizati22Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -9230,6 +8992,49 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scientificupdate54th29Sep2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GDCh Science Forum Chemistry",
+        "url": "https://www.gdch.science/",
+        "start_date": "29 Sep 2025",
+        "end_date": "01 Oct 2025",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "gdchscienceforumchem29Sep2025_0"
     },
     {
         "themes": [
@@ -9506,6 +9311,33 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "The Battery Show North America",
+        "url": "https://www.thebatteryshow.com/en/home.html",
+        "start_date": "06 Ot 2025",
+        "end_date": "09 Oct 2025",
+        "locations": [
+            "Detroit, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thebatteryshownortha06Ot2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -9649,6 +9481,81 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "ACS Midwest Regional Meeting MWRM",
+        "url": "https://www.mwrm2025.org/",
+        "start_date": "12 Oct 2025",
+        "end_date": "14 Oct 2025",
+        "locations": [
+            "Columbia, MO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MO"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsmidwestregionalme12Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Women in Manufacturing Summit",
+        "url": "https://www.womeninmanufacturing.org/events/summit-2025",
+        "start_date": "12 Oct 2025",
+        "end_date": "14 Oct 2025",
+        "locations": [
+            "Chicago, IL, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "womeninmanufacturing12Oct2025_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "computational/data"
@@ -9764,6 +9671,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "advancesinthedigital16Oct2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Medicinal & Crop Protection Chemistry",
+        "url": "https://www.mcps.it/",
+        "start_date": "16 Oct 2025",
+        "end_date": "17 Oct 2025",
+        "locations": [
+            "Como, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "medicinalcropprotect16Oct2025_0"
     },
     {
         "themes": [
@@ -9945,6 +9878,144 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "ACS Rocky Mountain Regional Meeting",
+        "url": "https://rockymountainregion.org/rocky-mountain-regional-meeting-2025/",
+        "start_date": "23 Oct 2025",
+        "end_date": "25 Oct 2025",
+        "locations": [
+            "Albuquerque, NM, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NM"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsrockymountainregi23Oct2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "ACS Western Regional Meeting",
+        "url": "https://wrm2025.org/",
+        "start_date": "25 Oct 2025",
+        "end_date": "28 Oct 2025",
+        "locations": [
+            "San Jose, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acswesternregionalme25Oct2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "ACS Southeastern & Southwest Joint Regional Meeting SERMACS/SWRM",
+        "url": "https://www.sermacs2025.org/",
+        "start_date": "25 Oct 2025",
+        "end_date": "28 Oct 2025",
+        "locations": [
+            "Orlando, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acssoutheasternsouth25Oct2025_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -9990,6 +10061,76 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "labinnovations29Oct2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "The Battery Show India",
+        "url": "https://www.thebatteryshowindia.com/",
+        "start_date": "30 Oct 2025",
+        "end_date": "01 Nov 2025",
+        "locations": [
+            "Greater Noida, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thebatteryshowindia30Oct2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ACS Northeast Regional Discussion NERD",
+        "url": "https://www.acsnerd2025.org/",
+        "start_date": "01 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Worcester, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "acsnortheastregional01Nov2025_0"
     },
     {
         "themes": [
@@ -10299,6 +10440,49 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "pistoiaallianceusaco11Nov2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Saudi Chapter of ACS Intl Conference: Chemical innovations for sustainable future industries",
+        "url": "https://www.chem-conf2025.com/",
+        "start_date": "11 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Dhahran, Saudi Arabia"
+        ],
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "saudichapterofacsint11Nov2025_0"
     },
     {
         "themes": [
