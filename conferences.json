@@ -3086,6 +3086,31 @@
     },
     {
         "themes": [
+            "catalysis",
+            "physical/phys org",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Physical Organic Chemistry Postgraduate Meeting 2025",
+        "url": "https://www.rsc.org/events/detail/80987/rsc-poc-postgraduate-meeting-2025",
+        "start_date": "20 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscphysicalorganicch20Jun2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
