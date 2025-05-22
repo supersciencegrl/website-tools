@@ -27,30 +27,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "NMR Valtice",
-        "url": "https://nmrvaltice.ncbr.muni.cz/",
-        "start_date": "18 May 2025",
-        "end_date": "21 May 2025",
-        "locations": [
-            "Valtice, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nmrvaltice18May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio"
         ],
         "regions": [
@@ -70,52 +46,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "advancedfluorescence18May2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
-        "start_date": "19 May 2025",
-        "end_date": "20 May 2025",
-        "locations": [
-            "Antwerp, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemicalprocesssafet19May2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Understanding Process Plant Cleaning for More Efficient Changeovers (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/understanding-process-plant-cleaning-for-more-efficient-changeovers/",
-        "start_date": "19 May 2025",
-        "end_date": "21 May 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "understandingprocess19May2025_0"
     },
     {
         "themes": [
@@ -274,82 +204,6 @@
     {
         "themes": [
             "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs, Automation, & Technology East",
-        "url": "https://www.amg-world.co.uk/future-labs-automation-technology/",
-        "start_date": "20 May 2025",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futurelabsautomation20May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Sustainability Symposium",
-        "url": "https://www.rsc.org/events/detail/80813/rsc-sustainability-symposium-2025",
-        "start_date": "20 May 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscsustainabilitysym20May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Designing for circularity in biodegradable chemicals & polymers",
-        "url": "https://www.eventbrite.com/e/designing-for-circularity-in-biodegradable-chemicals-and-polymers-tickets-1263834405729",
-        "start_date": "20 May 2025",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "designingforcircular20May2025_0"
-    },
-    {
-        "themes": [
-            "automation",
             "chem bio"
         ],
         "regions": [
@@ -441,28 +295,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "federationofasianoce20May2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Methods in Chemistry Education Research MICER",
-        "url": "https://micerportal.wordpress.com/",
-        "start_date": "21 May 2025",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "methodsinchemistryed21May2025_0"
     },
     {
         "themes": [
@@ -4122,6 +3954,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeaninsilicophar26Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Semantic Data Europe 2025",
+        "url": "https://www.pistoiaalliance.org/eventdetails/partner-event-semantic-data-europe-2025-taxonomy-ontology-and-knowledge-graphs/",
+        "start_date": "26 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "semanticdataeurope2026Jun2025_0"
     },
     {
         "themes": [
@@ -10420,25 +10274,28 @@
     },
     {
         "themes": [
-            "formulation/particle science"
+            "computational/data"
         ],
         "regions": [
-            "Online"
+            "Eastern USA"
         ],
-        "title": "Powder coatings: Low temperature application",
-        "url": "https://www.european-coatings.com/events/conference/powder-coatings-2025/",
+        "title": "Pistoia Alliance Data-driven innovations conference",
+        "url": "",
         "start_date": "11 Nov 2025",
         "end_date": "12 Nov 2025",
         "locations": [
-            "Online"
+            "Boston, MA, USA"
         ],
         "countries": [
-            "Online"
+            "USA"
+        ],
+        "US_state": [
+            "MA"
         ],
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "powdercoatingslowtem11Nov2025_0"
+        "uid": "pistoiaalliancedatad11Nov2025_0"
     },
     {
         "themes": [
