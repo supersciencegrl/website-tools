@@ -50,87 +50,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "PANIC NMR",
-        "url": "https://panicnmr.com/",
-        "start_date": "19 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Rockville, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "panicnmr19May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "TIDES USA",
-        "url": "https://informaconnect.com/tides/",
-        "start_date": "19 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tidesusa19May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Pharmacokinetics in drug discovery ourse",
-        "url": "https://www.dmdg.org/events/20250519/introduction.asp",
-        "start_date": "19 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmacokineticsindr19May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "physical/phys org"
         ],
         "regions": [
@@ -203,79 +122,6 @@
     },
     {
         "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS Europe 2025",
-        "url": "https://www.slas.org/events-calendar/slas-europe-2025-conference-and-exhibition/",
-        "start_date": "20 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Hamburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "societyforlaboratory20May2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Novalix Conference: Developing the Synergy between Biophysics and Medicinal Chemistry to Deliver Better Drugs",
-        "url": "https://www.novalix-conferences.org/",
-        "start_date": "20 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Strasbourg, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "novalixconferencedev20May2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "CPHI Americas",
-        "url": "https://www.cphi.com/americas/en/home.html",
-        "start_date": "20 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cphiamericas20May2025_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -295,33 +141,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "federationofasianoce20May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business",
-            "formulation/particle science",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "CHEMUK (trade fair)",
-        "url": "https://www.chemicalukexpo.com/",
-        "start_date": "21 May 2025",
-        "end_date": "22 May 2025",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemuktradefair21May2025_0"
     },
     {
         "themes": [
@@ -1145,6 +964,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Understanding ubiquitylation: From molecular mechanisms to disease",
+        "url": "https://www.ubiquitin-wuerzburg-2025.de/",
+        "start_date": "02 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Würzburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "understandingubiquit02Jun2025_0"
+    },
+    {
+        "themes": [
             "synthesis"
         ],
         "regions": [
@@ -1164,6 +1005,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "syntheticorganicelec02Jun2025_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EMBO Lab leadership for scientists in the Americas (training course)",
+        "url": "https://www.embolableadership.org/course/embolableadership-americas/",
+        "start_date": "02 Jun 2025",
+        "end_date": "05 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "embolableadershipfor02Jun2025_0"
     },
     {
         "themes": [
@@ -1590,6 +1453,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "freibergeruniversitä04Jun2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Bioorthogonal & Bioresponsive",
+        "url": "https://www.rsc.org/events/detail/81213/bioorthogonal-and-bioresponsive-2025\"",
+        "start_date": "05 Jun 2025",
+        "end_date": "06 Jun 2025",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioorthogonalbioresp05Jun2025_0"
     },
     {
         "themes": [
@@ -4591,6 +4476,29 @@
     {
         "themes": [
             "business",
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EMBO Project management for scientists (training course)",
+        "url": "https://www.embolableadership.org/course/project-management-for-scientists/",
+        "start_date": "02 Jun 2025",
+        "end_date": "04 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emboprojectmanagemen02Jun2025_0"
+    },
+    {
+        "themes": [
+            "business",
             "chem bio",
             "pharma industry"
         ],
@@ -6185,6 +6093,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchsemina26Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Phosphatases: From basic research to translation",
+        "url": "https://meetings.embo.org/event/25-phosphatases",
+        "start_date": "27 Jul 2025",
+        "end_date": "31 Jul 2025",
+        "locations": [
+            "Würzburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "phosphatasesfrombasi27Jul2025_0"
     },
     {
         "themes": [
@@ -7821,6 +7752,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Image processing for cryo-electron microscopy cryoEM",
+        "url": "https://meetings.embo.org/event/25-cryo-em",
+        "start_date": "08 Sep 2025",
+        "end_date": "16 Sep 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "imageprocessingforcr08Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "med chem",
@@ -7942,6 +7897,29 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EMBO Self-leadership for women scientists (training course)",
+        "url": "https://www.embolableadership.org/course/self-leadership-women-scientists/",
+        "start_date": "10 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Leimen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emboselfleadershipfo10Sep2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "process/engineering"
@@ -8019,6 +7997,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Thiol-based redox switches",
+        "url": "https://meetings.embo.org/event/25-thiol-switches",
+        "start_date": "13 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Sant Feliu de Guixols, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "thiolbasedredoxswitc13Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8089,6 +8089,33 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europinviennasummers14Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Advanced methods in bioimage analysis (training course)",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/bia25-01/",
+        "start_date": "14 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "advancedmethodsinbio14Sep2025_0"
     },
     {
         "themes": [
@@ -8348,6 +8375,29 @@
     },
     {
         "themes": [
+            "business",
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EMBO Project management for scientists (training course)",
+        "url": "https://www.embolableadership.org/course/project-management-for-scientists/",
+        "start_date": "17 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emboprojectmanagemen17Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -8368,6 +8418,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "scinewsyntheticmetho18Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EMBO Self-leadership for women scientists (training course)",
+        "url": "https://www.embolableadership.org/course/negotiation-for-scientists/",
+        "start_date": "18 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emboselfleadershipfo18Sep2025_0"
     },
     {
         "themes": [
@@ -9116,6 +9189,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Targeted proteomics: Advanced tools for biomedical research",
+        "url": "https://meetings.embo.org/event/25-targeted-proteomics",
+        "start_date": "05 Oct 2025",
+        "end_date": "10 Oct 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "targetedproteomicsad05Oct2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -9199,7 +9295,7 @@
         ],
         "title": "The Battery Show North America",
         "url": "https://www.thebatteryshow.com/en/home.html",
-        "start_date": "06 Ot 2025",
+        "start_date": "06 Oct 2025",
         "end_date": "09 Oct 2025",
         "locations": [
             "Detroit, MI, USA"
@@ -9213,7 +9309,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "thebatteryshownortha06Ot2025_0"
+        "uid": "thebatteryshownortha06Oct2025_0"
     },
     {
         "themes": [
@@ -9527,6 +9623,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "foodchemistryconfere14Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EMBO Self-leadership for women scientists (training course)",
+        "url": "https://www.embolableadership.org/course/self-leadership-women-scientists/",
+        "start_date": "14 Oct 2025",
+        "end_date": "16 Oct 2025",
+        "locations": [
+            "Leimen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "emboselfleadershipfo14Oct2025_0"
     },
     {
         "themes": [
@@ -10085,6 +10204,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Latin American workshop on AI for protein design AI4PD",
+        "url": "hhttps://coming-soon.embo.org/gpc25-02",
+        "start_date": "03 Nov 2025",
+        "end_date": "09 Nov 2025",
+        "locations": [
+            "Puerto Varas, Chile"
+        ],
+        "countries": [
+            "Chile"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "latinamericanworksho03Nov2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "med chem",
             "process/engineering",
@@ -10107,6 +10249,49 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "youngchemistinindust04Nov2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Design principles for schematic figures (training course)",
+        "url": "https://www.embolableadership.org/course/applying-design-principles-to-schematic-figures/",
+        "start_date": "04 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "designprinciplesfors04Nov2025_0"
     },
     {
         "themes": [
@@ -10869,6 +11054,75 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biopharmaceuticalsqu01Dec2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Design principles for schematic figures (training course)",
+        "url": "https://www.embolableadership.org/course/applying-design-principles-to-schematic-figures/",
+        "start_date": "02 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "designprinciplesfors02Dec2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Computational structural biology",
+        "url": "https://www.embl.org/about/info/course-and-conference-office/events/csb25-01/#vf-tabs__section-overview",
+        "start_date": "02 Dec 2025",
+        "end_date": "05 Dec 2025",
+        "locations": [
+            "Heidelberg, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "computationalstructu02Dec2025_0"
     },
     {
         "themes": [
