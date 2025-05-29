@@ -1,317 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Intl School of Chemometrics ISC",
-        "url": "https://www.hypertools.org/isc",
-        "start_date": "28 Apr 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlschoolofchemomet28Apr2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advanced fluorescence imaging techniques (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/eva25-01/",
-        "start_date": "18 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "advancedfluorescence18May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "DNP-enhanced solid-state NMR & paramagnetic NMR",
-        "url": "https://panacea-nmr.eu/events/eventdetail/46/-/workshop-on-paramagnetic-nmr-dnp-enhanced-solid-state-nmr",
-        "start_date": "19 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Lyon, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "dnpenhancedsolidstat19May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Big data, AI, & Machine Learning in Drug Safety (training course)",
-        "url": "https://www.atriumcph.com/courses-and-programmes/course/Big-Data-AI-and-Machine-Learning-in-Drug-Safety/143411",
-        "start_date": "19 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bigdataaimachinelear19May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Appalachian Regional Electron Microscopy Society AREMS ML in STEM workshop",
-        "url": "https://arems.org/workshop-info",
-        "start_date": "19 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Knoxville, TN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TN"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "appalachianregionale19May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Federation of Asian & Oceanian Biochemists & Molecular Biologists FAOBMB Meeting",
-        "url": "https://faobmb2025.org/",
-        "start_date": "20 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Busan, South Korea"
-        ],
-        "countries": [
-            "South Korea"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "federationofasianoce20May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Asian-European Symposium on Metal-Mediated Organic Synthesis SMOS-12",
-        "url": "https://www.smos-12.org/Home.html",
-        "start_date": "21 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "asianeuropeansymposi21May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "HPC-CONEXS Intl Conference (high-performance computing for X-ray spectroscopy simulation)",
-        "url": "https://www.diamond.ac.uk/Home/Events/2025/HPC-CONEXS-Conference-2025.html",
-        "start_date": "21 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "hpcconexsintlconfere21May2025_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Pharma Smart Manufacturing Summit",
-        "url": "https://www.uventia.com/event/pharma-smart-manufacturing-summit-2025/",
-        "start_date": "22 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pharmasmartmanufactu22May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées de Chimie Supramoléculaire",
-        "url": "https://jcs2025.sciencesconf.org/",
-        "start_date": "22 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Strasbourg, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "journéesdechimiesupr22May2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Developing your analytical mindset",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUOVVHVE02S0pWNUtQV0NVNVRQR0kxQkFLVCQlQCN0PWcu",
-        "start_date": "22 May 2025",
-        "end_date": "23 May 2025",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "developingyouranalyt22May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Edelris 20th Anniversity Symposium on Drug Discovery",
-        "url": "https://edelrissymposium.zohobackstage.eu/Symposium2025",
-        "start_date": "23 May 2025",
-        "end_date": null,
-        "locations": [
-            "Lyon, France",
-            "Online"
-        ],
-        "countries": [
-            "France",
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "edelris20thanniversi23May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Dresden polymer discussion",
-        "url": "https://dpd.ipfdd.de/home/",
-        "start_date": "25 May 2025",
-        "end_date": "28 May 2025",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "dresdenpolymerdiscus25May2025_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -331,101 +20,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "gordonresearchconfer25May2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "LabIMotion: Online Hands-on Workshop",
-        "url": "https://www.nfdi4chem.de/event/labimotion-online-hands-on-workshop/",
-        "start_date": "26 May 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "labimotiononlinehand26May2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Annual meeting of the Belgian Polymer Group",
-        "url": "https://www.ldorganisation.com/v2/produits.php?langue=English&cle_menus=1238918225",
-        "start_date": "26 May 2025",
-        "end_date": "27 May 2025",
-        "locations": [
-            "Houffalize, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualmeetingofthebe26May2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Spanish Workshop on Phosphorus Chemistry",
-        "url": "http://www.phoschem-spain.com/SWPC",
-        "start_date": "26 May 2025",
-        "end_date": "27 May 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "spanishworkshoponpho26May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "NMR: A tool for biology",
-        "url": "https://www.nmr2025.conferences-pasteur.org/",
-        "start_date": "26 May 2025",
-        "end_date": "28 May 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nmratoolforbiology26May2025_0"
     },
     {
         "themes": [
@@ -476,30 +70,6 @@
     },
     {
         "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Future Labs Live",
-        "url": "https://www.terrapinn.com/conference/future-labs-live/index.stm",
-        "start_date": "27 May 2025",
-        "end_date": "28 May 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futurelabslive27May2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -546,55 +116,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "rnasocietymeeting27May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS Hot Topics: PROTACs & Glues",
-        "url": "https://www.rscbmcs.org/events/hottopicsprotacsandglues2025/",
-        "start_date": "28 May 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcshottopicsprot28May2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Future Directions of Advanced Materials Workshop",
-        "url": "https://brockhouse.mcmaster.ca/events/2025-future-directions-of-advanced-materials-workshop/",
-        "start_date": "28 May 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "futuredirectionsofad28May2025_0"
     },
     {
         "themes": [
@@ -2108,6 +1629,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceontheh11Jun2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Materials Science Mega Webinar",
+        "url": "https://www.20visioneers15.com/materialssciencemegawebinar",
+        "start_date": "12 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "materialssciencemega12Jun2025_0"
     },
     {
         "themes": [
@@ -3763,6 +3309,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "silaconference202525Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Exploring Data Curation & Management in Physical Sciences",
+        "url": "https://www.psdi.ac.uk/event/exploring-data-curation-and-management-in-physical-sciences-psdi-roadshow-cambridge/",
+        "start_date": "25 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "exploringdatacuratio25Jun2025_0"
     },
     {
         "themes": [
@@ -8516,6 +8084,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Carbohydrate Group Winter Meeting",
+        "url": "https://www.rsc.org/events/detail/81700/rsc-carbohydrate-group-winter-meeting-2025",
+        "start_date": "22 Sep 2025",
+        "end_date": "23 Sep 2025",
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rsccarbohydrategroup22Sep2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem"
         ],
@@ -9085,6 +8678,33 @@
     },
     {
         "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "The mRNA Conference",
+        "url": "https://www.the-mrna-conference.com/",
+        "start_date": "02 Oct 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "themrnaconference02Oct2025_0"
+    },
+    {
+        "themes": [
             "business",
             "formulation/particle science",
             "med chem",
@@ -9186,6 +8806,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanassociationo04Oct2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Paperless Lab Academy North America",
+        "url": "https://www.paperlesslabacademy.com/usa/",
+        "start_date": "05 Oct 2025",
+        "end_date": "07 Oct 2025",
+        "locations": [
+            "Orlando, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "paperlesslabacademyn05Oct2025_0"
     },
     {
         "themes": [
@@ -9646,6 +9292,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "emboselfleadershipfo14Oct2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Paperless Lab Academy North America",
+        "url": "https://www.paperlesslabacademy.com/india/",
+        "start_date": "05 Oct 2025",
+        "end_date": "07 Oct 2025",
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "paperlesslabacademyn05Oct2025_0"
     },
     {
         "themes": [
