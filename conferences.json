@@ -24,29 +24,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "The new frontiers of NMR: Advanced applications (training course)",
-        "url": "https://www.linkedin.com/posts/alba-silipo-683502207_nmr-ugcPost-7316467361950183424-mwz4",
-        "start_date": "26 May 2025",
-        "end_date": "29 May 2025",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "thenewfrontiersofnmr26May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "computational/data",
             "physical/phys org"
         ],
