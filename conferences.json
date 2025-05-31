@@ -1,52 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Mechanisms of Membrane Transport",
-        "url": "https://www.grc.org/mechanisms-of-membrane-transport-conference/2025/",
-        "start_date": "25 May 2025",
-        "end_date": "30 May 2025",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer25May2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Theoretical Spectroscopy Facility ETSF Young Researchers' Meeting",
-        "url": "https://sites.google.com/view/yrm2025/home",
-        "start_date": "26 May 2025",
-        "end_date": "30 May 2025",
-        "locations": [
-            "Trieste, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeantheoreticals26May2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -96,54 +50,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "automation",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Flow Chemistry Japan",
-        "url": "https://flowchemistrysociety.com/flow-chemistry-europe-2021-virtual-conference-1-2-2/",
-        "start_date": "28 May 2025",
-        "end_date": "30 May 2025",
-        "locations": [
-            "Nagano, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "flowchemistryjapan28May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "European Symposium on Biological & Organic Chemistry ESBOC",
-        "url": "https://www.rsc.org/events/detail/79883/european-symposium-on-biological-and-organic-chemistry-esboc",
-        "start_date": "28 May 2025",
-        "end_date": "30 May 2025",
-        "locations": [
-            "Gregynog, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeansymposiumonb28May2025_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -187,30 +93,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "midatlanticregionalm28May2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Network for Business & Industrial Statistics ENBIS Spring Meeting: Quality by Design QbD & Process Analytical Technology PAT",
-        "url": "https://conferences.enbis.org/event/66/overview",
-        "start_date": "29 May 2025",
-        "end_date": "30 May 2025",
-        "locations": [
-            "Coimbra, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeannetworkforbu29May2025_0"
     },
     {
         "themes": [
