@@ -2,32 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "RNA Society Meeting",
-        "url": "https://www2.rnasociety.org/",
-        "start_date": "27 May 2025",
-        "end_date": "01 Jun 2025",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rnasocietymeeting27May2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "med chem",
             "pharma industry"
         ],
@@ -10057,6 +10031,31 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "labinnovations29Oct2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Argentine National Symposium on Organic Chemistry SINAQO",
+        "url": "https://sinaqoxxv.qo.fcen.uba.ar/",
+        "start_date": "29 Oct 2025",
+        "end_date": "01 Nov 2025",
+        "locations": [
+            "Buenos Aires, Argentina"
+        ],
+        "countries": [
+            "Argentina"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "argentinenationalsym29Oct2025_0"
     },
     {
         "themes": [
