@@ -2,30 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Drug-Drug Interaction DDI Marburg Workshop",
-        "url": "https://www.ddi-workshop-marbach.org/",
-        "start_date": "01 Jun 2025",
-        "end_date": "03 Jun 2025",
-        "locations": [
-            "Marburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdruginteractiond01Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "computational/data",
             "med chem"
         ],
@@ -199,34 +175,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "chem bio",
-            "diversity",
-            "materials/polymers",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Empowering Women in Organic Chemistry EWOC Europe",
-        "url": "https://www.scientificupdate.com/conference_events/empowering-women-in-organic-chemistry/",
-        "start_date": "02 Jun 2025",
-        "end_date": "03 Jun 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "empoweringwomeninorg02Jun2025_0"
-    },
-    {
-        "themes": [
             "formulation/particle science",
             "pharma industry"
         ],
@@ -382,55 +330,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "medicinalchemistrytr02Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Early Career Meeting",
-        "url": "https://www.dmdg.org/events/20250603/introduction.asp",
-        "start_date": "03 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugmetabolismdiscus03Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCF/SCT Spring Meeting: Advancing Medicinal Chemistry & Chemical Biology",
-        "url": "https://www.sct-asso.fr/spring-meeting",
-        "start_date": "03 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Lille, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scfsctspringmeetinga03Jun2025_0"
     },
     {
         "themes": [
@@ -8557,6 +8456,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "abrafatishow202523Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "business"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ARABLAB LIVE",
+        "url": "https://www.terrapinn.com/exhibition/arablab-live/index.stm",
+        "start_date": "23 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Dubai, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "arablablive23Sep2025_0"
     },
     {
         "themes": [
