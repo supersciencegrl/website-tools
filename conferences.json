@@ -1,79 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Chemical Structures ICCS",
-        "url": "https://iccs-nl.org/",
-        "start_date": "01 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Noordwijkerhout, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonchem01Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Annual Intl Meeting of the RSC ESR Spectroscopy Group",
-        "url": "https://www.esr-group.org/conferences/2025-conference-london/",
-        "start_date": "01 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualintlmeetingoft01Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "American Society for Mass Spectrometry ASMS Annual Meeting",
-        "url": "https://www.asms.org/conferences/annual-conference",
-        "start_date": "01 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Baltimore, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "americansocietyforma01Jun2025_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -175,95 +102,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Drug Delivery & Formulation DDF Summit",
-        "url": "https://ddfevent.com/2025/en/page/home",
-        "start_date": "02 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "drugdeliveryformulat02Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Understanding ubiquitylation: From molecular mechanisms to disease",
-        "url": "https://www.ubiquitin-wuerzburg-2025.de/",
-        "start_date": "02 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Würzburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "understandingubiquit02Jun2025_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Synthetic Organic Electrochemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/synthetic-organic-electrochemistry-short-course/",
-        "start_date": "02 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "syntheticorganicelec02Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EMBO Lab leadership for scientists in the Americas (training course)",
-        "url": "https://www.embolableadership.org/course/embolableadership-americas/",
-        "start_date": "02 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "embolableadershipfor02Jun2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -333,103 +171,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS Synthesis in Drug Discovery & Development SDDD",
-        "url": "https://www.rscbmcs.org/events/sddd25/",
-        "start_date": "03 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscbmcssynthesisindr03Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemistry Data Days: Research Data Management in Chemistry & Physical Sciences",
-        "url": "https://www.nfdi4chem.de/event/chemistry-data-days-2025/",
-        "start_date": "03 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Mainz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemistrydatadaysres03Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Porous Materials Interest Group Annual UKPorMat Conference",
-        "url": "https://www.rscbmcs.org/events/sddd25/",
-        "start_date": "03 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscporousmaterialsin03Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "The Battery Show Europe",
-        "url": "https://www.thebatteryshow.eu/en/lp-attendee.html",
-        "start_date": "03 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Stuttgart, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "thebatteryshoweurope03Jun2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -452,101 +193,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlmeetingoftheeuro03Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "State of the nation on sensors & photonics",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=ksVFH1G9OE-tti6UgQi7LUMVxrY5h2ZMnzlgLo-xFfNUOUhGWjFWOFNHUlo3SVBJR0NUSDVHMUwwOSQlQCN0PWcu",
-        "start_date": "04 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "stateofthenationonse04Jun2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "UAE Drug Discovery & Biotech Network",
-        "url": "https://genetic.ae/",
-        "start_date": "04 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "uaedrugdiscoverybiot04Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "law/policy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Patenting in life sciences & chemistry (PhD students/postdocs)",
-        "url": "https://meetings.ls2.ch/patenting-2025",
-        "start_date": "04 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Murten, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "patentinginlifescien04Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemspec Europe (trade fair)",
-        "url": "https://www.chemspeceurope.com/en-gb.html#/",
-        "start_date": "04 Jun 2025",
-        "end_date": "05 Jun 2025",
-        "locations": [
-            "Cologne, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemspeceuropetradef04Jun2025_0"
     },
     {
         "themes": [
@@ -2661,6 +2307,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Data literacy with KNIME analytics platform (German language; training course)",
+        "url": "https://www.knime.com/events/data-literacy-basics-de-0625",
+        "start_date": "23 Jun 2025",
+        "end_date": "24 Jun 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dataliteracywithknim23Jun2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers"
         ],
@@ -2836,8 +2505,8 @@
         "regions": [
             "Online"
         ],
-        "title": "KNIME Chemistry (training course)",
-        "url": "https://www.linkedin.com/posts/johannesjudt_chemistry-cheminformatics-knime-activity-7330567107375525888-e6Jk",
+        "title": "KNIME: Introduction to working with chemical data (training course)",
+        "url": "https://www.knime.com/events/l4-ch-working-with-chemical-data-0625",
         "start_date": "23 Jun 2025",
         "end_date": "27 Jun 2025",
         "locations": [
@@ -2849,7 +2518,7 @@
         "member_fee": "",
         "non_member_fee": "",
         "max_fee": "",
-        "uid": "knimechemistrytraini23Jun2025_0"
+        "uid": "knimeintroductiontow23Jun2025_0"
     },
     {
         "themes": [
@@ -3215,6 +2884,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Life Science Informatics Forum: Swiss chapter",
+        "url": "https://www.pistoiaalliance.org/eventdetails/european-life-science-informatics-forum-swiss-chapter/",
+        "start_date": "26 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "europeanlifesciencei26Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -3522,6 +3213,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Data literacy with KNIME analytics platform (German language; training course)",
+        "url": "https://www.knime.com/events/l2-da-german-0625",
+        "start_date": "30 Jun 2025",
+        "end_date": "01 Jul 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "dataliteracywithknim30Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -3633,6 +3347,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "radboudsummerschooli30Jun2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "KNIME DataHop Roadshow: Amsterdam",
+        "url": "https://info.knime.com/datahop-amsterdam-2025",
+        "start_date": "01 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "knimedatahoproadshow01Jul2025_0"
     },
     {
         "themes": [
@@ -4941,6 +4677,29 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Pistoia Alliance, EMBL-EBI, ELIXIR Strengthening Collaboration",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-embl-ebi-and-elixir/",
+        "start_date": "17 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pistoiaallianceemble17Jul2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "materials/polymers",
@@ -5341,6 +5100,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "28thintlsymposiumsyn21Jul2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "US Informatics Forum: Data Strategy for AI",
+        "url": "https://www.pistoiaalliance.org/eventdetails/us-informatics-forum-data-strategy-for-ai/",
+        "start_date": "22 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "usinformaticsforumda22Jul2025_0"
     },
     {
         "themes": [
@@ -8103,17 +7888,20 @@
             "med chem"
         ],
         "regions": [
-            "Southern England"
+            "Southern England",
+            "Online"
         ],
         "title": "AI in Chemistry",
         "url": "https://www.rscbmcs.org/events/aichem8/",
         "start_date": "22 Sep 2025",
         "end_date": "24 Sep 2025",
         "locations": [
-            "Cambridge, UK"
+            "Cambridge, UK",
+            "Online"
         ],
         "countries": [
-            "UK"
+            "UK",
+            "Online"
         ],
         "member_fee": "",
         "non_member_fee": "",
@@ -8214,6 +8002,32 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pistoia Alliance User Experience for Life Science UXLS Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/user-experience-for-life-science-uxls-conference/",
+        "start_date": "22 Sep 2025",
+        "end_date": "23 Sep 2025",
+        "locations": [
+            "Rahway, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "pistoiaallianceusere22Sep2025_0"
+    },
+    {
+        "themes": [
             "synthesis"
         ],
         "regions": [
@@ -8245,7 +8059,7 @@
         "title": "Umwelt 2025",
         "url": "https://www.gdch.de/netzwerk-strukturen/fachstrukturen/umweltchemie-oekotoxikologie/veranstaltungen/fachgruppentagung.html",
         "start_date": "22 Sep 2025",
-        "end_date": null,
+        "end_date": "24 Sep 2025",
         "locations": [
             "Dessau, Germany"
         ],
@@ -10448,31 +10262,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "powdercoatingslowtem11Nov2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pistoia Alliance Data-driven innovations conference",
-        "url": "",
-        "start_date": "11 Nov 2025",
-        "end_date": "12 Nov 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "pistoiaalliancedatad11Nov2025_0"
     },
     {
         "themes": [
