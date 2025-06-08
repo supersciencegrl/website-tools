@@ -276,6 +276,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Intl Olignonucleotides & Peptides Conference IOPC",
+        "url": "https://www.iopc-tks.com/",
+        "start_date": "09 Jun 2025",
+        "end_date": "11 Jun 2025",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlolignonucleotide09Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data",
             "formulation/particle science",
@@ -9717,6 +9741,37 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "digitalizationincoat05Nov2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Broad Institute Machine Learning in Drug Discovery Symposium",
+        "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/machine-learning-drug-discovery",
+        "start_date": "06 Nov 2025",
+        "end_date": "07 Nov 2025",
+        "locations": [
+            "Cambridge, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "broadinstitutemachin06Nov2025_0"
     },
     {
         "themes": [
