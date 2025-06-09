@@ -374,6 +374,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Outsourcing in clinical trials UK & Ireland Conference",
+        "url": "https://www.arena-international.com/event/octuk/",
+        "start_date": "10 Jun 2025",
+        "end_date": "11 Jun 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "outsourcinginclinica10Jun2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "materials/polymers",
@@ -2526,6 +2549,28 @@
     },
     {
         "themes": [
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Association of British Science Writers ABSW Summer School",
+        "url": "https://www.absw.org.uk/pages/absw-summer-school-2025-",
+        "start_date": "26 Jun 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "associationofbritish26Jun2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -3685,6 +3730,31 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "French Industrial Chemistry Symposium FICS",
+        "url": "https://fics2025.sciencesconf.org/",
+        "start_date": "08 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Montpellier, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "frenchindustrialchem08Jul2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "chem bio"
@@ -3706,6 +3776,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "analyticalabafrica08Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "education",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Intl Symposium on Microscale Chemistry 13ISMC26 (chemistry education)",
+        "url": "https://sites.google.com/view/13ismc26/home",
+        "start_date": "08 Jul 2025",
+        "end_date": "10 Jul 2025",
+        "locations": [
+            "Johannesburg, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlsymposiumonmicro08Jul2025_0"
     },
     {
         "themes": [
@@ -3843,6 +3937,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "iupacgeneralassembly11Jul2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Chemistry Education & European Conference on Research in Chemical Education ICCE ERICE",
+        "url": "https://iccecrice2026.org/",
+        "start_date": "13 Jul 2025",
+        "end_date": "17 Jul 2025",
+        "locations": [
+            "Ezurum, Türkiye"
+        ],
+        "countries": [
+            "Türkiye"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "intlconferenceonchem13Jul2025_0"
     },
     {
         "themes": [
@@ -5847,29 +5963,6 @@
     },
     {
         "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI Shenzhen",
-        "url": "https://www.cphi.com/china/en-gb/home.html",
-        "start_date": "01 Sep 2025",
-        "end_date": "03 Sep 2025",
-        "locations": [
-            "Shenzhen, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cphishenzhen01Sep2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -5891,6 +5984,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "europeanbiotransform01Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI Shenzhen",
+        "url": "https://www.cphi.com/china/en-gb/home.html",
+        "start_date": "01 Sep 2025",
+        "end_date": "03 Sep 2025",
+        "locations": [
+            "Shenzhen, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "cphishenzhen01Sep2025_0"
     },
     {
         "themes": [
@@ -6106,6 +6222,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "5thintlsolarfuelscon02Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Outsourcing in clinical trials China",
+        "url": "https://www.arena-international.com/event/octchina/",
+        "start_date": "03 Sep 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Suzhou, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "outsourcinginclinica03Sep2025_0"
     },
     {
         "themes": [
@@ -8100,6 +8239,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SusML: Towards sustainable exploration of chemical spaces with machine learning",
+        "url": "https://susml.net/",
+        "start_date": "29 Sep 2025",
+        "end_date": "01 Oct 2025",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "susmltowardssustaina29Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "process/engineering"
         ],
@@ -10052,6 +10214,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC BMCS: New approaches to the treatment of Parkinson's",
+        "url": "https://www.rscbmcs.org/events/parkinsons25/",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscbmcsnewapproaches12Nov2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -10540,7 +10726,7 @@
         "title": "Biopharmaceuticals: Quality development & documentation (training course)",
         "url": "https://www.atriumcph.com/courses-and-programmes/course/Biopharmaceuticals---Quality-Development-and-Documentation/21650",
         "start_date": "01 Dec 2025",
-        "end_date": "02 Dec 2025",
+        "end_date": "03 Dec 2025",
         "locations": [
             "Copenhagen, Denmark"
         ],
@@ -10551,6 +10737,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "biopharmaceuticalsqu01Dec2025_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "World Conference of Science Journalists WCSJ25",
+        "url": "https://www.absw.org.uk/pages/world-conference-of-science-journalists-wcsj",
+        "start_date": "01 Dec 2025",
+        "end_date": "05 Dec 2025",
+        "locations": [
+            "Pretoria, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "worldconferenceofsci01Dec2025_0"
     },
     {
         "themes": [
