@@ -1,55 +1,6 @@
 [
     {
         "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Peptide Therapeutics Forum 2025",
-        "url": "https://ptf25.scg.ch/",
-        "start_date": "07 Jun 2025",
-        "end_date": "06 Jun 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "peptidetherapeuticsf07Jun2025_0"
-    },
-    {
-        "themes": [
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Queer Science Conference (high school students)",
-        "url": "https://inclusion.engr.uconn.edu/queer-science-2/",
-        "start_date": "08 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Storrs, CT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "queerscienceconferen08Jun2025_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -222,57 +173,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "ampèrenmrschool08Jun2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "Go with the Flow",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3sSFEOlZdslnKFQa_bww2RpUcK9JVIIgdNBPyd65qCorRqQ/viewform",
-        "start_date": "09 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gowiththeflow09Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Chemistry Spotlight @ [Big Pharma Company]",
-        "url": "https://pfizer.recsolu.com/app/collect/event/eIEmR1aYSaSHUM61e0MtOw",
-        "start_date": "09 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "chemistryspotlightbi09Jun2025_0"
     },
     {
         "themes": [
