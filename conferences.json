@@ -252,28 +252,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Scientific Informatics Exchange SiEE",
-        "url": "https://zifornd.com/event/siee-basel-2025/",
-        "start_date": "10 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scientificinformatic10Jun2025_0"
-    },
-    {
-        "themes": [
             "business",
             "pharma industry"
         ],
