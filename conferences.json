@@ -176,30 +176,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Intl Olignonucleotides & Peptides Conference IOPC",
-        "url": "https://www.iopc-tks.com/",
-        "start_date": "09 Jun 2025",
-        "end_date": "11 Jun 2025",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlolignonucleotide09Jun2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "computational/data",
             "formulation/particle science",
@@ -249,29 +225,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "moleculetomedicinetr09Jun2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Outsourcing in clinical trials UK & Ireland Conference",
-        "url": "https://www.arena-international.com/event/octuk/",
-        "start_date": "10 Jun 2025",
-        "end_date": "11 Jun 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "outsourcinginclinica10Jun2025_0"
     },
     {
         "themes": [
@@ -345,30 +298,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonsust10Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "New modalities: Innovations in RNA therapeutics",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/new-modalities-innovations-in-rna-therapeutics",
-        "start_date": "11 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "newmodalitiesinnovat11Jun2025_0"
     },
     {
         "themes": [
