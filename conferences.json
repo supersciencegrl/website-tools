@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Conference on Chemistry & the Environment ICCE 2025",
-        "url": "https://icce2025.com/",
-        "start_date": "08 Jun 2025",
-        "end_date": "12 Jun 2025",
-        "locations": [
-            "Belgrade, Serbia"
-        ],
-        "countries": [
-            "Serbia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonchem08Jun2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -228,31 +205,6 @@
     },
     {
         "themes": [
-            "careers",
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Macro Group UK: Young Researchers' Meeting",
-        "url": "https://www.macrogroup.org.uk/yrm-annual-meeting",
-        "start_date": "10 Jun 2025",
-        "end_date": "12 Jun 2025",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "macrogroupukyoungres10Jun2025_0"
-    },
-    {
-        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -298,53 +250,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceonsust10Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biotech Outsourcing Strategies BOS Basel",
-        "url": "https://www.bio2bevents.com/bosbasel2025/",
-        "start_date": "11 Jun 2025",
-        "end_date": "12 Jun 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biotechoutsourcingst11Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Global Reaxys User Day",
-        "url": "https://www.elsevier.com/events/conferences/all/global-reaxys-user-day-2025",
-        "start_date": "11 Jun 2025",
-        "end_date": "12 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "globalreaxysuserday11Jun2025_0"
     },
     {
         "themes": [
@@ -462,31 +367,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlconferenceontheh11Jun2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Materials Science Mega Webinar",
-        "url": "https://www.20visioneers15.com/materialssciencemegawebinar",
-        "start_date": "12 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "materialssciencemega12Jun2025_0"
     },
     {
         "themes": [
@@ -7284,6 +7164,28 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Fortbildungs- & Vortragstagung der GDCh Fachgruppe Chemieunterricht",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11745&modus=",
+        "start_date": "17 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Erlangen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "fortbildungsvortrags17Sep2025_0"
+    },
+    {
+        "themes": [
             "business",
             "careers"
         ],
@@ -8874,6 +8776,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "paperlesslabacademyi15Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Bioinformatics & drug discovery biology strategy meeting Europe",
+        "url": "https://proventainternational.com/361-brochure/",
+        "start_date": "15 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "bioinformaticsdrugdi15Oct2025_0"
     },
     {
         "themes": [
