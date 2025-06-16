@@ -1,478 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "29th North American Catalysis Society Meeting NAM29",
-        "url": "https://www.aiche.org/conferences/north-american-catalysis-society-meeting/2025",
-        "start_date": "08 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "29thnorthamericancat08Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Label-Free Single Molecule Sensing",
-        "url": "https://www.grc.org/label-free-single-molecule-sensing-conference/2025/",
-        "start_date": "08 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer08Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "materials/polymers",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Polymers",
-        "url": "https://www.grc.org/polymers-conference/2025/",
-        "start_date": "08 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer08Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Summer school on biomolecular simulations",
-        "url": "https://bioexcel.eu/events/summer-school-on-biomolecular-simulations-2025/",
-        "start_date": "08 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Sardinia, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "summerschoolonbiomol08Jun2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Intl Conference on Chemical Kinetics",
-        "url": "https://icck2025.lbl.gov/",
-        "start_date": "08 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Tahoe City, CA< USA"
-        ],
-        "countries": [
-            "CA< USA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonchem08Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Ampère NMR School",
-        "url": "https://school.web.amu.edu.pl/",
-        "start_date": "08 Jun 2025",
-        "end_date": "14 Jun 2025",
-        "locations": [
-            "Zakopane, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ampèrenmrschool08Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Quality by Design in Pharmaceutical Development (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/quality-by-design-in-pharmaceutical-development/",
-        "start_date": "09 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "qualitybydesigninpha09Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "law/policy",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Molecule to Medicine (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/molecule-to-medicine/",
-        "start_date": "09 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "moleculetomedicinetr09Jun2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "4th RSC Anglo-Nordic Medicinal Chemistry Symposium",
-        "url": "https://www.rscbmcs.org/events/anmc-4/",
-        "start_date": "10 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Snekkersten, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "4thrscanglonordicmed10Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Intl Conference on Sustainable Chemistry for Net Zero ICSC-NZ",
-        "url": "https://icsc-nz.com/",
-        "start_date": "10 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "St Andrews, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonsust10Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "LOBSTER School on Chemical Bonding Analysis",
-        "url": "https://www.bam-akademie.de/kursangebot/kurs/lobster-schule-zur-chemischen-bindungsanalyse-54.html?lang=en",
-        "start_date": "11 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "lobsterschoolonchemi11Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Joint Medicinal Chemistry Congress – Group for the Promotion of Pharmaceutical Chemistry in Academia GP2A",
-        "url": "https://gp2a.org/index.php/gp2a-2025-paul-ehrlich-medchem-2025-nantes-france-june-11th-to-13th-2025/",
-        "start_date": "11 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Nantes, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "jointmedicinalchemis11Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl School on Organometallic Chemistry \"Marcial Moreno Mañas",
-        "url": "https://sites.google.com/uji.es/isocmmm2025",
-        "start_date": "11 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Castelló, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlschoolonorganome11Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "First symposium on physics & chemistry for unconventional computing",
-        "url": "https://www.uncomp.agh.edu.pl/",
-        "start_date": "11 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Krakow, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "firstsymposiumonphys11Jun2025_0"
-    },
-    {
-        "themes": [
-            "history/philosophy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on the History of Chemistry ICHC",
-        "url": "https://esdeveniments.uv.es/116631/detail/14th-international-conference-on-the-history-of-chemistry-14ichc.html",
-        "start_date": "11 Jun 2025",
-        "end_date": "14 Jun 2025",
-        "locations": [
-            "Valencia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceontheh11Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "diversity",
-            "materials/polymers",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA",
-            "Online"
-        ],
-        "title": "Empowering Women in Organic Chemistry EWOC",
-        "url": "https://ewochem.org/ewoc-2025/",
-        "start_date": "12 Jun 2025",
-        "end_date": "13 Jun 2025",
-        "locations": [
-            "Chicago, IL, USA ",
-            " Online"
-        ],
-        "countries": [
-            "USA ",
-            " Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "empoweringwomeninorg12Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Chemical Biology & Bioorganic Group CBBG Postgraduate Symposium",
-        "url": "https://www.rsc.org/events/detail/81029/2025-rsc-chemical-biology-and-bio-organic-group-postgraduate-symposium",
-        "start_date": "13 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Aberdeen, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscchemicalbiologybi13Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "2025 Sino-British Vocational Education and Apprenticeship Development Conference",
-        "url": "https://www.rsc.org/events/detail/81739",
-        "start_date": "13 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "2025sinobritishvocat13Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "New England Glyochemistry Meeting",
-        "url": "https://negcmu.sites.northeastern.edu/",
-        "start_date": "14 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "newenglandglyochemis14Jun2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels",
             "med chem",
@@ -4503,6 +4031,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "(Gen)AI in Chemistry Education Workshop",
+        "url": "https://aichemy.ac.uk/event/genai-in-chemistry-education-workshop/",
+        "start_date": "21 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "genaiinchemistryeduc21Jul2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -4931,6 +4482,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "northamericansolidst28Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Inorganic informatics: From rules to embeddings",
+        "url": "https://aichemy.ac.uk/event/inorganic-informatics-from-rules-to-embeddings/",
+        "start_date": "31 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "inorganicinformatics31Jul2025_0"
     },
     {
         "themes": [
@@ -6213,6 +5788,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "UK AI Research Symposium",
+        "url": "https://www.ukairs.ac.uk/",
+        "start_date": "08 Sep 2025",
+        "end_date": "09 Sep 2025",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ukairesearchsymposiu08Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "materials/polymers",
             "synthesis"
@@ -6863,6 +6460,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Sustainable Chemicals & Materials Manufacturing Hub SCHEMA Autumn Conference",
+        "url": "https://schemahub.web.ox.ac.uk/event/schema-autumn-conference",
+        "start_date": "15 Sep 2025",
+        "end_date": "16 Sep 2025",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "sustainablechemicals15Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -7252,6 +6873,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "emboselfleadershipfo18Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RAG models & AI agents in Chemical Discovery & Development Workshop",
+        "url": "https://aichemy.ac.uk/event/rag-models-and-ai-agents-in-chemical-discovery-and-development-workshop//",
+        "start_date": "19 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ragmodelsaiagentsinc19Sep2025_0"
     },
     {
         "themes": [
