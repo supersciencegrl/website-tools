@@ -1,31 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "environment/fuels",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "XXI National Meeting of the Spanish Society of Medicinal Chemistry",
-        "url": "https://www.congresoseqtsevilla2025.es/SEQT2025",
-        "start_date": "15 Jun 2025",
-        "end_date": "18 Jun 2025",
-        "locations": [
-            "Seville, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "xxinationalmeetingof15Jun2025_0"
-    },
-    {
-        "themes": [
             "analytical"
         ],
         "regions": [
@@ -243,141 +218,6 @@
     },
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "In science we trust?",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sns25-01/",
-        "start_date": "16 Jun 2025",
-        "end_date": "17 Jun 2025",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "insciencewetrust16Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European mRNA Conference",
-        "url": "https://www.europe.the-mrna-conference.com/",
-        "start_date": "16 Jun 2025",
-        "end_date": "17 Jun 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanmrnaconferen16Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Formula XII (formulation)",
-        "url": "https://formula12.org/",
-        "start_date": "16 Jun 2025",
-        "end_date": "18 Jun 2025",
-        "locations": [
-            "Sofia, Bulgaria"
-        ],
-        "countries": [
-            "Bulgaria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "formulaxiiformulatio16Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "NMR metabolomics symposium",
-        "url": "https://nmrmetabo.sciencesconf.org/",
-        "start_date": "16 Jun 2025",
-        "end_date": "18 Jun 2025",
-        "locations": [
-            "Nantes, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nmrmetabolomicssympo16Jun2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Swedish Chemical Society Meeting SCS2025",
-        "url": "https://scs2025.se/",
-        "start_date": "16 Jun 2025",
-        "end_date": "18 Jun 2025",
-        "locations": [
-            "Västerås, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swedishchemicalsocie16Jun2025_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "med chem",
@@ -448,121 +288,6 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "secretsofbatchproces16Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Analytical Research Forum ARF25",
-        "url": "https://www.rsc.org/events/detail/80490/analytical-research-forum-2025",
-        "start_date": "17 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "analyticalresearchfo17Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "ELIXIR Bioinformatics Industry Forum",
-        "url": "https://www.pistoiaalliance.org/eventdetails/elixir-bioinformatics-industry-forum-ebif-2025/",
-        "start_date": "17 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "elixirbioinformatics17Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EFMC-YSN MedChemBioOnline: Best practices in discoving PROTACs",
-        "url": "https://www.medchembio.online/",
-        "start_date": "17 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "efmcysnmedchembioonl17Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Persistent Challenges in Chemoinformatics",
-        "url": "https://www.pistoiaalliance.org/eventdetails/persistent-challenges-in-cheminformatics/",
-        "start_date": "18 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "persistentchallenges18Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Foundation Medicinal Chemistry Workshop",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/sci-foundation-medicinal-chemistry-workshop",
-        "start_date": "18 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "scifoundationmedicin18Jun2025_0"
     },
     {
         "themes": [
@@ -2578,6 +2303,28 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Vendor symposium",
+        "url": "https://www.eventbrite.com/e/ruedi-vendors-symposium-tickets-1311971184129",
+        "start_date": "10 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "relativisticultrafas10Jul2025_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -2970,6 +2717,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Physical Sciences Data Infrastructure PSDI Roadshop: Exploring data curation & management in physical sciences",
+        "url": "https://www.eventbrite.co.uk/e/exploring-data-curation-and-management-in-physical-sciences-tickets-1375846396609",
+        "start_date": "08 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "physicalsciencesdata08Jul2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "chem bio"
@@ -3063,6 +2832,29 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Quantum materials & processes",
+        "url": "https://www.eventbrite.com/e/ruedi-quantum-materials-processes-science-theme-town-hall-event-tickets-1381685040149",
+        "start_date": "09 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Crewe, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "relativisticultrafas09Jul2025_0"
+    },
+    {
+        "themes": [
             "history/philosophy",
             "physical/phys org"
         ],
@@ -3083,6 +2875,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "intlsocietyforthephi09Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Dynamics of chemical change",
+        "url": "https://www.eventbrite.com/e/ruedi-dynamics-of-chemical-change-science-theme-town-hall-event-tickets-1381907264829",
+        "start_date": "10 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Crewe, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "relativisticultrafas10Jul2025_0"
     },
     {
         "themes": [
@@ -3625,6 +3440,29 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "globalnmronlineconfe16Jul2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "IP for innovators",
+        "url": "https://www.rsc.org/events/detail/81842/ip-for-innovators-including-talks-and-workshops",
+        "start_date": "16 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "ipforinnovators16Jul2025_0"
     },
     {
         "themes": [
@@ -7454,6 +7292,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Nanochemistry Camp",
+        "url": "https://www.istiseo.org/courses/nanochemistry-camp/",
+        "start_date": "26 Sep 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Iseo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "nanochemistrycamp26Sep2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "process/engineering"
         ],
@@ -8901,6 +8763,28 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "cphifrankfurt28Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Management Group: So you want to be a manager?",
+        "url": "https://www.rsc.org/events/detail/81628/so-you-want-to-be-a-manager",
+        "start_date": "29 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "rscmanagementgroupso29Oct2025_0"
     },
     {
         "themes": [
@@ -10779,6 +10663,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Applied catalysis for the circular economy",
+        "url": "https://www.rsc.org/events/detail/81594/applied-catalysis-for-the-circular-economy-iii",
+        "start_date": "10 Mar 2026",
+        "end_date": "11 Mar 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "appliedcatalysisfort10Mar2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "inorganic/nano"
@@ -10874,6 +10782,32 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "aichespringmeetinggl12Apr2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Faraday Discussion: Bridging the gap from surface science to heterogeneous catalysis",
+        "url": "https://www.rsc.org/events/detail/80739/bridging-the-gap-from-surface-science-to-heterogeneous-catalysis-faraday-discussion",
+        "start_date": "20 Apr 2026",
+        "end_date": "22 Apr 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "faradaydiscussionbri20Apr2026_0"
     },
     {
         "themes": [
@@ -11636,6 +11570,30 @@
         "non_member_fee": "",
         "max_fee": "",
         "uid": "efmcismcintlsymposiu06Sep2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Faraday Discussion: Sustainable chemistry of electrofuels & electrochemicals",
+        "url": "https://www.rsc.org/events/detail/81283/sustainable-chemistry-of-electrofuels-and-electrochemicals-faraday-discussion",
+        "start_date": "14 Sep 2026",
+        "end_date": "16 Sep 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "member_fee": "",
+        "non_member_fee": "",
+        "max_fee": "",
+        "uid": "faradaydiscussionsus14Sep2026_0"
     },
     {
         "themes": [
