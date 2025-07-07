@@ -1,8 +1,9 @@
 __author__ = "Nessa Carson"
-__copyright__ = "Copyright 2023, 2024"
-__version__ = "0.2"
-__status__ = "Development"
+__copyright__ = "Copyright 2023, 2025"
+__version__ = "1.0"
+__status__ = "Production"
 
+from collections.abc import Sequence
 import json
 from pathlib import Path
 import string
@@ -53,8 +54,8 @@ def decode_themes(theme_list: list) -> list:
     if 'all' in theme_list:
         output_set = set(theme_names.values())
     else:
-        output_set = set([theme_names[theme] for theme in theme_list])
-    output_list = sorted(list(output_set))
+        output_set = {theme_names[theme] for theme in theme_list} # Set
+    output_list = sorted(output_set) # Converts to list
 
     return output_list
 
@@ -96,16 +97,16 @@ def decode_region(region: str) -> str:
 
     return output
 
-def scrape_conference_list() -> list[bs4.element.Tag]:
+def scrape_conference_list() -> Sequence[bs4.element.PageElement]:
     """
-    Scrape a list of conferences from the Conference Database.
+    Scrape an iterable of conferences from the Conference Database.
 
     Returns:
-        list[bs4.element.Tag]: A list of conference details extracted from the 
+        Sequence[bs4.element.PageElement]: A list of conference details extracted from the 
                                webpage.
 
     """
-    url = 'http://supersciencegrl.co.uk/conferences'
+    url = 'https://supersciencegrl.co.uk/conferences'
     r = requests.get(url, proxies=proxies)
     r.raise_for_status() # raise HTTPError if status code is not 2xx Success
 
@@ -114,12 +115,13 @@ def scrape_conference_list() -> list[bs4.element.Tag]:
 
     return conferences
 
-def conference_html_to_dict(conference: bs4.element.Tag) -> Optional[dict]:
+def conference_html_to_dict(conference: bs4.element.PageElement, fees = False) -> Optional[dict]:
     """
     Convert conference HTML data to a dictionary.
 
     Args:
-        conference (bs4.element.Tag): The conference HTML data.
+        conference (bs4.element.PageElement): The conference HTML data.
+        fees (bool): If fee information is desired to be pulled. Default to False.
 
     Returns:
         dict: A dictionary containing conference details.
@@ -165,10 +167,11 @@ def conference_html_to_dict(conference: bs4.element.Tag) -> Optional[dict]:
         my_dict['US_state'] = [location.split(', ')[-2] for location in locations if location.endswith('USA')]
 
     # Add standard fees (not student/academic)
-    member_fee_text = conference.find('td', class_='column5').text
-    non_member_fee_text = conference.find('td', class_='column6').text
+    if fees:
+        member_fee_text = conference.find('td', class_='column5').text
+        non_member_fee_text = conference.find('td', class_='column6').text
 
-    my_dict['member_fee'], my_dict['non_member_fee'], my_dict['max_fee'] = standardize_prices(member_fee_text, non_member_fee_text)
+        my_dict['member_fee'], my_dict['non_member_fee'], my_dict['max_fee'] = standardize_prices(member_fee_text, non_member_fee_text)
     
     return my_dict
 
@@ -202,7 +205,7 @@ def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[
     non_member_fee = standardize_when_price_is_free(non_member_fee_text)
 
     # Calculate the maximum fee, for sorting
-    if all([char.isalpha() for char in non_member_fee]): # eg: Unkn
+    if all(char.isalpha() for char in non_member_fee): # eg: Unkn
         smaller_fee, _, max_fee = member_fee.rpartition('-')
     else:
         smaller_fee, _, max_fee = non_member_fee.rpartition('-') # Because non-member fees are higher
@@ -213,7 +216,7 @@ def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[
                     smaller_fee = [section for section in smaller_fee.split(' / ') if currency in section][0]
                 max_fee = [section for section in max_fee.split(' / ') if currency in section][0]
                 break
-    if all([char in f'{string.digits},' for char in max_fee]):
+    if all(char in f'{string.digits},' for char in max_fee):
         currency = ('').join([char for char in smaller_fee if char not in f'{string.digits},'])
     else:
         currency = ''
@@ -231,7 +234,7 @@ def set_proxy() -> dict:
     dict: A dictionary containing proxy settings for HTTP and HTTPS requests.
     """
     proxies = {}
-    secrets_file = Path(r"C:\Users\kfsd435\GitHub\secrets.json")
+    secrets_file = Path.home() / "GitHub" / "secrets.json" # GitHub folder in user folder
     if secrets_file.exists():
         with open(secrets_file, 'rt') as fin:
             secrets = json.load(fin)
@@ -283,7 +286,6 @@ def export_to_json(all_conferences: list[dict], output_file: str='conferences.js
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
-    # proxies = set_proxy()
-    proxies = {}
+    proxies = set_proxy()
     all_conferences = get_conferences()
     export_to_json(all_conferences)

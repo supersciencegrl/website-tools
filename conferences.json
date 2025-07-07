@@ -1,2355 +1,6 @@
 [
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on High Performance Liquid Phase Separations & Related Techniques HPLC 2025",
-        "url": "https://hplc2025-bruges.org/",
-        "start_date": "15 Jun 2025",
-        "end_date": "19 Jun 2025",
-        "locations": [
-            "Bruges, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumonhighp15Jun2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Canadian Chemistry Conference & Exhibition CSC CCCE",
-        "url": "https://www.cheminst.ca/conference/canadian-chemistry-conference-and-exhibition-csc-2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "19 Jun 2025",
-        "locations": [
-            "Ottawa, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "canadianchemistrycon15Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Cancer Nanotechnology",
-        "url": "https://www.grc.org/cancer-nanotechnology-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Carbohydrates",
-        "url": "https://www.grc.org/carbohydrates-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Laser Diagnostics in Energy & Reacting Flows",
-        "url": "https://www.grc.org/laser-diagnostics-in-energy-and-reacting-flows-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Mycotoxins & Phycotoxins",
-        "url": "https://www.grc.org/mycotoxins-and-phycotoxins-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Water Electrolysis",
-        "url": "https://www.grc.org/water-electrolysis-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Waterville Valley, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Bioorganic Chemistry",
-        "url": "https://www.grc.org/bioorganic-chemistry-conference/2025/",
-        "start_date": "15 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer15Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Green chemistry meets drug discovery & development",
-        "url": "https://www.gcd3.it/",
-        "start_date": "16 Jun 2025",
-        "end_date": "19 Jun 2025",
-        "locations": [
-            "Siena, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "greenchemistrymeetsd16Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Data science for life scientists (training course)",
-        "url": "https://www.ebi.ac.uk/training/events/data-science-for-life-scientists/",
-        "start_date": "16 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "datascienceforlifesc16Jun2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20250616/",
-        "start_date": "16 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "secretsofbatchproces16Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Annual Meeting of the Protein Science Society of Japan",
-        "url": "https://aeplan.jp/pssj2025/en_index/",
-        "start_date": "18 Jun 2025",
-        "end_date": "20 Jun 2025",
-        "locations": [
-            "Himeji, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualmeetingofthepr18Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Amgen Chemistry Career Day",
-        "url": "https://www.linkedin.com/posts/margaret-faul-08376a6_3rd-amgen-chemistry-career-day-ugcPost-7327054957604495360-vNSd/",
-        "start_date": "20 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "amgenchemistrycareer20Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Physical Organic Chemistry Postgraduate Meeting 2025",
-        "url": "https://www.rsc.org/events/detail/80987/rsc-poc-postgraduate-meeting-2025",
-        "start_date": "20 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Macclesfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscphysicalorganicch20Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Nucleophilic proteases: Structure, function, regulation, & disease",
-        "url": "https://www.asbmb.org/meetings-events/nucleophilic-proteases",
-        "start_date": "20 Jun 2025",
-        "end_date": "21 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nucleophilicprotease20Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society of Nuclear Medicine & Molecular Imaging SNMMI Annual Meeting",
-        "url": "https://snmmi.org/AM/AM/Home.aspx",
-        "start_date": "21 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "societyofnuclearmedi21Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "ACS Division of Organic Chemistry National Organic Symposium",
-        "url": "https://www.nationalorganicsymposium.org/",
-        "start_date": "22 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Troy, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "acsdivisionoforganic22Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Metabolomics 2025",
-        "url": "https://www.metabolomics2025.org/",
-        "start_date": "22 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "metabolomics202522Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "World Association of Theoretical & Computational Chemists WATOC",
-        "url": "hhttps://watoc.net/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Oslo, Norway"
-        ],
-        "countries": [
-            "Norway"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "worldassociationofth22Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Artificial Molecular Switches & Motors",
-        "url": "https://www.grc.org/artificial-molecular-switches-and-motors-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Catchment Science: Interactions of Hydrology, Biology & Geochemistry",
-        "url": "https://www.grc.org/catchment-science-interactions-of-hydrology-biology-and-geochemistry-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Crystal Growth & Assembly",
-        "url": "https://www.grc.org/crystal-growth-and-assembly-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Heterocyclic Compounds",
-        "url": "https://www.grc.org/heterocyclic-compounds-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Hydrogen-Metal Systems",
-        "url": "https://www.grc.org/hydrogen-metal-systems-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Nucleic Acids",
-        "url": "https://www.grc.org/nucleic-acids-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Physical Organic Chemistry",
-        "url": "https://www.grc.org/physical-organic-chemistry-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Preclinical Form & Formulation for Drug Discovery",
-        "url": "https://www.grc.org/preclinical-form-and-formulation-for-drug-discovery-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Portland, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Alzheimer's Disease",
-        "url": "https://www.grc.org/alzheimer-s-disease-conference/2025/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer22Jun2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Molecular Beams ISMB2025",
-        "url": "https://ismb25.epfl.ch/",
-        "start_date": "22 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "St Moritz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumonmolec22Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Organic Chemistry Community Scottish Regional Meeting 2025 (Perkin Meeting)",
-        "url": "https://www.rsc.org/events/detail/80761/rsc-organic-chemistry-community-scottish-regional-meeting-2025-perkin-meeting",
-        "start_date": "23 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscorganicchemistryc23Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "BMS Women in Chemical Engineering Event",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=uEzjcVY61U-iWUrK2rbkrEkohYl24_JDuxhjx95QMaBURTdNSlYzR1gxSVFXSDNRRU4zR043VDc2OC4u&route=shorturl",
-        "start_date": "23 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "New Brunswick, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bmswomeninchemicalen23Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Summer School on Materials Chemistry",
-        "url": "https://matsem25.scg.ch/",
-        "start_date": "23 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swisssummerschoolonm23Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss MatChem Symposium MatChem25",
-        "url": "https://mat25.scg.ch/",
-        "start_date": "23 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "Fribourg, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "swissmatchemsymposiu23Jun2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Discovery & Development Europe",
-        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe-2025",
-        "start_date": "23 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "discoverydevelopment23Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Photoredox Catalysis in Organic Synthesis (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/photoredox-catalysis-in-organic-synthesis/",
-        "start_date": "23 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "photoredoxcatalysisi23Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Data literacy with KNIME analytics platform (German language; training course)",
-        "url": "https://www.knime.com/events/data-literacy-basics-de-0625",
-        "start_date": "23 Jun 2025",
-        "end_date": "24 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "dataliteracywithknim23Jun2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Intl Workshop on Calcium Sulfoaluminate Cements",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/3rd-international-workshop-calcium-sulfoaluminate-cements",
-        "start_date": "23 Jun 2025",
-        "end_date": "25 Jun 2025",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlworkshoponcalciu23Jun2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Green Chemistry & Engineering GC&E",
-        "url": "https://www.gcande.org/",
-        "start_date": "23 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Pittsburgh, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "greenchemistryengine23Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Centre for Natural Products Discovery CNPD Conference",
-        "url": "https://ysm2018.wixsite.com/cnpd2025",
-        "start_date": "23 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "centrefornaturalprod23Jun2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "11th Intl Granulation Workshop",
-        "url": "https://www.sheffield.ac.uk/agglom/11th-international-granulation-workshop-2025",
-        "start_date": "23 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "11thintlgranulationw23Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "QM/MM & ab initio molecular dynamics (workshop)",
-        "url": "https://www.i-comse.org/workshops/",
-        "start_date": "23 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "qmmmabinitiomolecula23Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Intl Symposium on the Synthesis & Applications of Isotopically Labelled Compounds",
-        "url": "https://web.cvent.com/event/55ff94c8-d278-4ccd-aa8f-8cef2dc4f9c3/summary",
-        "start_date": "23 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumonthesy23Jun2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Life Science Week (expo)",
-        "url": "https://www.siemens.com/ch/de/unternehmen/messen-events/life-science-week.html",
-        "start_date": "23 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Zug, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "lifescienceweekexpo23Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "KNIME: Introduction to working with chemical data (training course)",
-        "url": "https://www.knime.com/events/l4-ch-working-with-chemical-data-0625",
-        "start_date": "23 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "knimeintroductiontow23Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Neuroimmunology in drug discovery",
-        "url": "https://elrig.org/portfolio/neuroimmunology-in-drug-discovery/",
-        "start_date": "24 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "neuroimmunologyindru24Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Centre for Process Analytics & Control Technology CPACT Research & Technology Day",
-        "url": "https://www.cpact.com/Events/Event?eid=409",
-        "start_date": "24 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Groton, CT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "centreforprocessanal24Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Organic Community North West Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/81137/rsc-organic-chemistry-community-north-west-regional-meeting-2025",
-        "start_date": "24 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscorganiccommunityn24Jun2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "London Lab Automation Community Meetup",
-        "url": "https://lu.ma/10y82mai",
-        "start_date": "24 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "londonlabautomationc24Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Biologics Manufacturing Korea",
-        "url": "https://www.imapac.com/events/biologics-manufacturing-korea-2025",
-        "start_date": "24 Jun 2025",
-        "end_date": "25 Jun 2025",
-        "locations": [
-            "Incheon, South Korea"
-        ],
-        "countries": [
-            "South Korea"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "biologicsmanufacturi24Jun2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "An Introduction to Powder Technology (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/an-introduction-to-powder-technology/",
-        "start_date": "24 Jun 2025",
-        "end_date": "25 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "anintroductiontopowd24Jun2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI China",
-        "url": "https://www.cphi.com/china/en/home.html",
-        "start_date": "24 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Shanghai, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cphichina24Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Data visualization for biology (training course)",
-        "url": "https://www.ebi.ac.uk/training/events/data-visualisation-biology-2025/",
-        "start_date": "24 Jun 2025",
-        "end_date": "26 Jun 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "datavisualizationfor24Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Methods for bioanalysis & drug metabolism course",
-        "url": "https://www.dmdg.org/events/20250624/introduction.asp",
-        "start_date": "24 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "methodsforbioanalysi24Jun2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SiLA Conference 2025",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRTj3qrXhbm3rA4lDOlb6K5HeeLMraPDyKxVBnkhDVL5v0SA/viewform",
-        "start_date": "25 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "silaconference202525Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Exploring Data Curation & Management in Physical Sciences",
-        "url": "https://www.psdi.ac.uk/event/exploring-data-curation-and-management-in-physical-sciences-psdi-roadshow-cambridge/",
-        "start_date": "25 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "exploringdatacuratio25Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Cyclic voltammetry boot camp",
-        "url": "https://tarheels.live/cvbootcamp/",
-        "start_date": "25 Jun 2025",
-        "end_date": "27 Jun 2025",
-        "locations": [
-            "Chapel Hill, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "cyclicvoltammetryboo25Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Undergraduate industrial placement (IP) & apprenticeship symposium 2025",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/ycp-undergraduate-ip-and-apprenticeship-symposium-2025",
-        "start_date": "26 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "undergraduateindustr26Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "European in silico Pharmaceutical & Healthcare Summit",
-        "url": "https://www.ansys.com/events/european-pharma-summit-2025",
-        "start_date": "26 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeaninsilicophar26Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Semantic Data Europe 2025",
-        "url": "https://www.pistoiaalliance.org/eventdetails/partner-event-semantic-data-europe-2025-taxonomy-ontology-and-knowledge-graphs/",
-        "start_date": "26 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "semanticdataeurope2026Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Life Science Informatics Forum: Swiss chapter",
-        "url": "https://www.pistoiaalliance.org/eventdetails/european-life-science-informatics-forum-swiss-chapter/",
-        "start_date": "26 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanlifesciencei26Jun2025_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Association of British Science Writers ABSW Summer School",
-        "url": "https://www.absw.org.uk/pages/absw-summer-school-2025-",
-        "start_date": "26 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "associationofbritish26Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Asia-Pacific NMR & Indian National Magnetic Resonance Society APNMR-NMRS Conference",
-        "url": "https://sites.google.com/acads.iiserpune.ac.in/nmrs-apnmr-2025/home",
-        "start_date": "26 Jun 2025",
-        "end_date": "29 Jun 2025",
-        "locations": [
-            "Pune, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "asiapacificnmrindian26Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Protein Society Conference",
-        "url": "https://www.proteinsociety.org/annual-symposium",
-        "start_date": "26 Jun 2025",
-        "end_date": "29 Jun 2025",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "proteinsocietyconfer26Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Annual Symposium on Applied Synthesis",
-        "url": "https://www.cvs-acs.org/event-details/7th-annual-symposium-on-applied-synthesis",
-        "start_date": "27 Jun 2025",
-        "end_date": null,
-        "locations": [
-            "New London, CT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CT"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "annualsymposiumonapp27Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Microscale NMR & MRI Conference",
-        "url": "https://www.hyperion.kit.edu/496.php",
-        "start_date": "29 Jun 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "Karlsruhe, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "microscalenmrmriconf29Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Biocatalysis & Biotransformations BIOTRANS 2025",
-        "url": "https://www.biotrans2025.com/",
-        "start_date": "29 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlsymposiumonbioca29Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Reusable Libraries in Quantum Chemistry",
-        "url": "https://www.helsinki.fi/en/beta/conferences/reusable-libraries-quantum-chemistry-2025",
-        "start_date": "29 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Masala, Finland"
-        ],
-        "countries": [
-            "Finland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "reusablelibrariesinq29Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Machine Learning Summer School on Drug & Materials Discovery MLSSD",
-        "url": "https://mlss2025.mlinpl.org/",
-        "start_date": "29 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Krakow, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "machinelearningsumme29Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "23rd European Symposium on Organic Chemistry ESOC 2025",
-        "url": "https://www.esoc2025.com/",
-        "start_date": "29 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "23rdeuropeansymposiu29Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European School of Medicinal Chemistry ESMEC",
-        "url": "www.esmec.eu",
-        "start_date": "29 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Urbino, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanschoolofmedi29Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Membrane Protein Folding",
-        "url": "https://www.grc.org/membrane-protein-folding-conference/2025/",
-        "start_date": "29 Jun 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer29Jun2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Spin Dynamics in Nanostructures",
-        "url": "https://www.grc.org/spin-dynamics-in-nanostructures-conference/2025/",
-        "start_date": "29 Jun 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchconfer29Jun2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lindau Nobel Laureate Meeting",
-        "url": "https://www.lindau-nobel.org/",
-        "start_date": "29 Jun 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Lindau, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "lindaunobellaureatem29Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Data literacy with KNIME analytics platform (German language; training course)",
-        "url": "https://www.knime.com/events/l2-da-german-0625",
-        "start_date": "30 Jun 2025",
-        "end_date": "01 Jul 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "dataliteracywithknim30Jun2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Collaborative Computational Project for NMR CCPN Meeting",
-        "url": "https://ccpn.ac.uk/outreach/conferences/",
-        "start_date": "30 Jun 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "collaborativecomputa30Jun2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bienales de la RSEQ Real Sociedad Española de Química",
-        "url": "https://rseq.org/quienes-somos/bienales-rseq/",
-        "start_date": "30 Jun 2025",
-        "end_date": "03 Jul 2025",
-        "locations": [
-            "Bilbao, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "bienalesdelarseqreal30Jun2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Conference on Atoms, Molecules & Photons",
-        "url": "https://ecamp15.org/",
-        "start_date": "30 Jun 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Innsbruck, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanconferenceon30Jun2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "law/policy",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Radboud summer school: Introduction to preclinical drug discovery",
-        "url": "https://www.ru.nl/en/education/education-for-professionals/overview/introduction-to-preclinical-drug-discovery",
-        "start_date": "30 Jun 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Oss, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "radboudsummerschooli30Jun2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "KNIME DataHop Roadshow: Amsterdam",
-        "url": "https://info.knime.com/datahop-amsterdam-2025",
-        "start_date": "01 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "knimedatahoproadshow01Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "8th Machine Learning & AI in Bio(Chemical) Engineering Conference MABC",
-        "url": "https://www.mabc-cambridge.ai/",
-        "start_date": "01 Jul 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "8thmachinelearningai01Jul2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Société des Experts Chimistes de France SECF Sustainable Nancy",
-        "url": "https://www.secf-sustainable-nancy.com/",
-        "start_date": "01 Jul 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "Nancy, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "sociétédesexpertschi01Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK Catalysis Hub Summer Conference",
-        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-summer-2025-conference-tickets-1266456077219",
-        "start_date": "01 Jul 2025",
-        "end_date": "02 Jul 2025",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "ukcatalysishubsummer01Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Tetrahedron Symposium",
-        "url": "https://www.elsevier.com/events/conferences/all/tetrahedron-symposium",
-        "start_date": "01 Jul 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Bruges, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "tetrahedronsymposium01Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Machine Learning Summer School on Drug & Materials Discovery MLSSD",
-        "url": "https://mlss2025.mlinpl.org/",
-        "start_date": "01 Jul 2025",
-        "end_date": "06 Jul 2024",
-        "locations": [
-            "Kraków, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "machinelearningsumme01Jul2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Macrocyclic & Supramolecular Chemistry Early Career Researcher Meeting ECR-MASC",
-        "url": "https://mascgroup.co.uk/ecr-masc-2025/",
-        "start_date": "02 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "macrocyclicsupramole02Jul2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "European Variety in University Chemistry Education EuroVariety 2025",
-        "url": "https://eurovariety2025.confer.uj.edu.pl/welcome",
-        "start_date": "02 Jul 2025",
-        "end_date": "04 Jul 2024",
-        "locations": [
-            "Kraków, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "europeanvarietyinuni02Jul2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Medicinal Chemistry RICT",
-        "url": "https://www.rict2025.org/",
-        "start_date": "02 Jul 2025",
-        "end_date": "04 Jul 2025",
-        "locations": [
-            "Orléans, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "intlconferenceonmedi02Jul2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EMBO Project management for scientists (training course)",
-        "url": "https://www.embolableadership.org/course/project-management-for-scientists/",
-        "start_date": "02 Jun 2025",
-        "end_date": "04 Jun 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "emboprojectmanagemen02Jun2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "One Nucleus ON Helix: New Horizons for Bio Innovation",
-        "url": "https://www.onhelix.com/",
-        "start_date": "03 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "onenucleusonhelixnew03Jul2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Management Group: Leveraging Artificial Intelligence AI for Management Success",
-        "url": "https://www.rsc.org/events/detail/81466/leveraging-artificial-intelligence-for-management-success",
-        "start_date": "03 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "rscmanagementgrouple03Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Japanese-German Symposium on Frontiers in Future Materials Design",
-        "url": "https://www.fkf.mpg.de/8650896",
-        "start_date": "03 Jul 2025",
-        "end_date": "05 Jul 2025",
-        "locations": [
-            "Stuttgart, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "japanesegermansympos03Jul2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CRSI National Symposium in Chemistry",
-        "url": "https://events.iitgn.ac.in/2025/crsi/index.html",
-        "start_date": "03 Jul 2025",
-        "end_date": "05 Jul 2025",
-        "locations": [
-            "Gandhinagar, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "crsinationalsymposiu03Jul2025_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Vendor symposium",
-        "url": "https://www.eventbrite.com/e/ruedi-vendors-symposium-tickets-1311971184129",
-        "start_date": "10 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "relativisticultrafas10Jul2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Seminar: Chemistry Education Research & Practice",
-        "url": "https://www.grc.org/chemistry-education-research-and-practice-grs-conference/2025/",
-        "start_date": "05 Jul 2025",
-        "end_date": "06 Jul 2025",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "gordonresearchsemina05Jul2025_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2365,9 +16,6 @@
         "countries": [
             "Türkiye"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "federationofeuropean05Jul2025_0"
     },
     {
@@ -2389,9 +37,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanconferenceon06Jul2025_0"
     },
     {
@@ -2412,9 +57,6 @@
         "countries": [
             "Finland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanmagneticreso06Jul2025_0"
     },
     {
@@ -2437,9 +79,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2463,9 +102,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2488,9 +124,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2514,9 +147,6 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2540,9 +170,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2563,9 +190,6 @@
         "countries": [
             "Australia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "10thheronislandconfe06Jul2025_0"
     },
     {
@@ -2588,9 +212,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2614,9 +235,6 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer06Jul2025_0"
     },
     {
@@ -2636,9 +254,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ukcatalysishubsummer07Jul2025_0"
     },
     {
@@ -2658,9 +273,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "17thintlconferenceon07Jul2025_0"
     },
     {
@@ -2685,9 +297,6 @@
         "US_state": [
             "WA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "fromaimltoagentbased07Jul2025_0"
     },
     {
@@ -2710,9 +319,6 @@
         "countries": [
             "France"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "frenchindustrialchem08Jul2025_0"
     },
     {
@@ -2732,9 +338,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "physicalsciencesdata08Jul2025_0"
     },
     {
@@ -2756,9 +359,6 @@
         "countries": [
             "South Africa"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "analyticalabafrica08Jul2025_0"
     },
     {
@@ -2780,9 +380,6 @@
         "countries": [
             "South Africa"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonmicro08Jul2025_0"
     },
     {
@@ -2802,9 +399,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "empoweringchemistswi08Jul2025_0"
     },
     {
@@ -2825,9 +419,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "euchemschemicalbiolo08Jul2025_0"
     },
     {
@@ -2848,10 +439,30 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "relativisticultrafas09Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "AI for Materials Science AIMS Workshop",
+        "url": "https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop",
+        "start_date": "09 Jul 2025",
+        "end_date": "10 Jul 2025",
+        "locations": [
+            "Rockville, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "aiformaterialsscienc09Jul2025_0"
     },
     {
         "themes": [
@@ -2871,9 +482,6 @@
         "countries": [
             "Belgium"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsocietyforthephi09Jul2025_0"
     },
     {
@@ -2894,9 +502,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "relativisticultrafas10Jul2025_0"
     },
     {
@@ -2920,9 +525,6 @@
         "US_state": [
             "NC"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "oglcnacylationinheal10Jul2025_0"
     },
     {
@@ -2963,9 +565,6 @@
         "countries": [
             "Malaysia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "iupacgeneralassembly11Jul2025_0"
     },
     {
@@ -2985,9 +584,6 @@
         "countries": [
             "Türkiye"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonchem13Jul2025_0"
     },
     {
@@ -3012,9 +608,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
     },
     {
@@ -3038,9 +631,6 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
     },
     {
@@ -3065,9 +655,6 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
     },
     {
@@ -3091,9 +678,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
     },
     {
@@ -3117,9 +701,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer13Jul2025_0"
     },
     {
@@ -3141,9 +722,6 @@
         "countries": [
             "Ireland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlclayconference13Jul2025_0"
     },
     {
@@ -3169,9 +747,6 @@
         "US_state": [
             "IL"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "biomoleculardynamics14Jul2025_0"
     },
     {
@@ -3193,9 +768,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlchargedensitymee14Jul2025_0"
     },
     {
@@ -3222,9 +794,6 @@
         "US_state": [
             "DE"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "summerhteworkshop14Jul2025_0"
     },
     {
@@ -3246,9 +815,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "transmissionelectron14Jul2025_0"
     },
     {
@@ -3269,9 +835,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "fluorescenceimagingb14Jul2025_0"
     },
     {
@@ -3292,9 +855,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemicaldevelopments14Jul2025_0"
     },
     {
@@ -3315,9 +875,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "medicinalbiologicalc15Jul2025_0"
     },
     {
@@ -3342,9 +899,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "solutionsinsciencesi15Jul2025_0"
     },
     {
@@ -3368,9 +922,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "2025futurefacultywor15Jul2025_0"
     },
     {
@@ -3391,9 +942,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "sociedadespañoladequ15Jul2025_0"
     },
     {
@@ -3414,9 +962,6 @@
         "countries": [
             "Malaysia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cphisoutheastasia16Jul2025_0"
     },
     {
@@ -3436,9 +981,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "globalnmronlineconfe16Jul2025_0"
     },
     {
@@ -3459,9 +1001,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ipforinnovators16Jul2025_0"
     },
     {
@@ -3482,10 +1021,49 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pistoiaallianceemble17Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Biotage User Group meeting",
+        "url": "https://www.biotage.com/networkingevent-0",
+        "start_date": "17 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "biotageusergroupmeet17Jul2025_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "LabOps UK summer networking event",
+        "url": "https://www.linkedin.com/posts/matteo-battilocchi-a891387a_labopsuk-labopsuk-lifesciences-activity-7336375418981130240-4LsP/",
+        "start_date": "17 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "labopsuksummernetwor17Jul2025_0"
     },
     {
         "themes": [
@@ -3511,9 +1089,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acsdivisionoforganic17Jul2025_0"
     },
     {
@@ -3536,9 +1111,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "sciearlycareermateri18Jul2025_0"
     },
     {
@@ -3560,10 +1132,52 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "symposiumofmedicinal18Jul2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Continuous BioFlow Summer Webinar",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=7vO7K2i2-U2wY1mJRcPUZsLysIsAhYlJpZ2n4ENsLrtUMEU4RkRUVzlGRFVaSlpJQUdHRzUyM0haRC4u",
+        "start_date": "11 Aug 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "continuousbioflowsum11Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Crystallography Association ACA Annual Meeting",
+        "url": "https://www.acameeting2025.com/",
+        "start_date": "18 Jul 2025",
+        "end_date": "23 Jul 2025",
+        "locations": [
+            "Lombard, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "americancrystallogra18Jul2025_0"
     },
     {
         "themes": [
@@ -3585,9 +1199,6 @@
         "US_state": [
             "CO"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemed202520Jul2025_0"
     },
     {
@@ -3610,9 +1221,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3636,9 +1244,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3661,9 +1266,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3687,9 +1289,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3713,9 +1312,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3735,9 +1331,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3762,9 +1355,6 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3788,9 +1378,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3813,9 +1400,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3836,9 +1420,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3862,9 +1443,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer20Jul2025_0"
     },
     {
@@ -3885,9 +1463,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "genaiinchemistryeduc21Jul2025_0"
     },
     {
@@ -3908,9 +1483,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "28thintlsymposiumsyn21Jul2025_0"
     },
     {
@@ -3934,10 +1506,27 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "usinformaticsforumda22Jul2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Inator Project hackathon (FAIR lab environments)",
+        "url": "https://www.inator-project.org/Events/events.html",
+        "start_date": "22 Jul 2025",
+        "end_date": "23 Jul 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "inatorprojecthackath22Jul2025_0"
     },
     {
         "themes": [
@@ -3956,10 +1545,27 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "flavoursfragrances2022Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Cryobiology CRYO2025",
+        "url": "https://cryo2025.com/",
+        "start_date": "22 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Hanover, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "societyforcryobiolog22Jul2025_0"
     },
     {
         "themes": [
@@ -3980,9 +1586,6 @@
         "countries": [
             "Canada"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonthesy23Jul2025_0"
     },
     {
@@ -4004,9 +1607,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "womeninmanufacturing24Jul2025_0"
     },
     {
@@ -4030,9 +1630,6 @@
         "US_state": [
             "MN"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "transformingundergra24Jul2025_0"
     },
     {
@@ -4054,9 +1651,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonfolda25Jul2025_0"
     },
     {
@@ -4083,9 +1677,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchsemina26Jul2025_0"
     },
     {
@@ -4106,10 +1697,30 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "phosphatasesfrombasi27Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Microscopy & Microanalysis M&M",
+        "url": "https://mmconference.microscopy.org/",
+        "start_date": "27 Jul 2025",
+        "end_date": "31 Jul 2025",
+        "locations": [
+            "Salt Lake City, UT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "UT"
+        ],
+        "uid": "microscopymicroanaly27Jul2025_0"
     },
     {
         "themes": [
@@ -4132,9 +1743,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
     },
     {
@@ -4159,9 +1767,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
     },
     {
@@ -4187,9 +1792,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
     },
     {
@@ -4214,9 +1816,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
     },
     {
@@ -4241,9 +1840,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
     },
     {
@@ -4266,10 +1862,27 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer27Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "CCP4 Structural Biological Summer School",
+        "url": "https://ccp4.github.io/summer-school/#/",
+        "start_date": "27 Jul 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ccp4structuralbiolog27Jul2025_0"
     },
     {
         "themes": [
@@ -4289,9 +1902,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "theoreticalchemistry28Jul2025_0"
     },
     {
@@ -4316,10 +1926,33 @@
         "US_state": [
             "IA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "northamericansolidst28Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Conference on Biological Inorganic Chemistry",
+        "url": "https://www.icbic21.org/",
+        "start_date": "28 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Long Beach, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlconferenceonbiol28Jul2025_0"
     },
     {
         "themes": [
@@ -4340,9 +1973,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "inorganicinformatics31Jul2025_0"
     },
     {
@@ -4366,9 +1996,6 @@
         "US_state": [
             "UT"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rockymountainconfere03Aug2025_0"
     },
     {
@@ -4392,9 +2019,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
     },
     {
@@ -4418,9 +2042,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
     },
     {
@@ -4445,9 +2066,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
     },
     {
@@ -4470,9 +2088,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
     },
     {
@@ -4495,10 +2110,28 @@
         "US_state": [
             "RI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03Aug2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Asia-Pacific Congress on Catalysis APCAT-10 & Intl Symposium on Single-Atom Catalysis ISSAC-4",
+        "url": "https://www.apcat10.com/event/31244e43-1ca8-493a-aaca-1bf2bf98cefa/home",
+        "start_date": "04 Aug 2025",
+        "end_date": "07 Aug 2025",
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "uid": "asiapacificcongresso04Aug2025_0"
     },
     {
         "themes": [
@@ -4520,10 +2153,30 @@
         "US_state": [
             "MD"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "denverxrayconference04Aug2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Machine learning for Materials Research boot camp",
+        "url": "https://www.nanocenter.umd.edu/events/mlmr/",
+        "start_date": "04 Aug 2025",
+        "end_date": "08 Aug 2025",
+        "locations": [
+            "College Park, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "machinelearningforma04Aug2025_0"
     },
     {
         "themes": [
@@ -4546,9 +2199,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer10Aug2025_0"
     },
     {
@@ -4571,9 +2221,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer10Aug2025_0"
     },
     {
@@ -4596,9 +2243,6 @@
         "countries": [
             "Canada"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "2025accelerateconfer11Aug2025_0"
     },
     {
@@ -4623,9 +2267,6 @@
         "US_state": [
             "WI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "leadershipdevelopmne13Aug2025_0"
     },
     {
@@ -4646,9 +2287,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "swisssummerschoolorg17Aug2025_0"
     },
     {
@@ -4669,9 +2307,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonmagn17Aug2025_0"
     },
     {
@@ -4696,9 +2331,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonprote17Aug2025_0"
     },
     {
@@ -4745,9 +2377,6 @@
         "US_state": [
             "DC"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acsusfallnationalmee17Aug2025_0"
     },
     {
@@ -4767,9 +2396,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "summerschoolongreenc18Aug2025_0"
     },
     {
@@ -4792,9 +2418,6 @@
         "countries": [
             "Hungary"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "30theuropeancolloqui24Aug2025_0"
     },
     {
@@ -4815,9 +2438,6 @@
         "countries": [
             "Australia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonthech24Aug2025_0"
     },
     {
@@ -4838,9 +2458,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "jointeuropeanmagneti24Aug2025_0"
     },
     {
@@ -4863,9 +2480,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer24Aug2025_0"
     },
     {
@@ -4887,10 +2501,28 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanpeptidesynth25Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "European Crystallographic Meeting",
+        "url": "https://www.ecm35.org/",
+        "start_date": "25 Aug 2025",
+        "end_date": "27 Aug 2025",
+        "locations": [
+            "Poznań, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "uid": "europeancrystallogra25Aug2025_0"
     },
     {
         "themes": [
@@ -4910,10 +2542,27 @@
         "countries": [
             "South Korea"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cphisoutheastasia26Aug2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Conference on Research Data Infrastructure CoRDI",
+        "url": "https://www.nfdi.de/cordi-2025/",
+        "start_date": "26 Aug 2025",
+        "end_date": "28 Aug 2025",
+        "locations": [
+            "Aachen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "conferenceonresearch26Aug2025_0"
     },
     {
         "themes": [
@@ -4932,9 +2581,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "varietyinchemistryed28Aug2025_0"
     },
     {
@@ -4956,9 +2602,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "dreamreactionswithwi29Aug2025_0"
     },
     {
@@ -4981,10 +2624,29 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "electrochem202531Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Congress & Annual Meeting of the Society for Medicinal Plant & Natural Product Research",
+        "url": "https://www.ganaples2025.org/",
+        "start_date": "31 Aug 2025",
+        "end_date": "03 Sep 2025",
+        "locations": [
+            "Naples, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "intlcongressannualme31Aug2025_0"
     },
     {
         "themes": [
@@ -5003,9 +2665,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "euroanalysis202531Aug2025_0"
     },
     {
@@ -5030,10 +2689,28 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonadvan31Aug2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Microscopy Conference 2025",
+        "url": "https://microscopy-conference.de/",
+        "start_date": "31 Aug 2025",
+        "end_date": "04 Sep 2025",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "microscopyconference31Aug2025_0"
     },
     {
         "themes": [
@@ -5056,9 +2733,6 @@
         "countries": [
             "Norway"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europacateuropeancon31Aug2025_0"
     },
     {
@@ -5080,9 +2754,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanbiotransform01Sep2025_0"
     },
     {
@@ -5103,9 +2774,6 @@
         "countries": [
             "China"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cphishenzhen01Sep2025_0"
     },
     {
@@ -5127,9 +2795,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonfolda01Sep2025_0"
     },
     {
@@ -5151,9 +2816,6 @@
         "countries": [
             "Denmark"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "benzonsymposiumprote01Sep2025_0"
     },
     {
@@ -5174,9 +2836,6 @@
         "countries": [
             "Japan"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonorgan01Sep2025_0"
     },
     {
@@ -5197,9 +2856,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "associationfrancopho02Sep2025_0"
     },
     {
@@ -5221,9 +2877,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceoncont02Sep2025_0"
     },
     {
@@ -5246,9 +2899,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "leedslyonsymposiumon02Sep2025_0"
     },
     {
@@ -5270,9 +2920,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "drugmetabolismdiscus02Sep2025_0"
     },
     {
@@ -5293,9 +2940,6 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "Unkn",
-        "non_member_fee": "Unkn",
-        "max_fee": "Unkn",
         "uid": "intlsymposiumonsynth02Sep2025_0"
     },
     {
@@ -5318,9 +2962,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "5thintlsolarfuelscon02Sep2025_0"
     },
     {
@@ -5341,9 +2982,6 @@
         "countries": [
             "China"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "outsourcinginclinica03Sep2025_0"
     },
     {
@@ -5364,9 +3002,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gregynogsynthesiswor03Sep2025_0"
     },
     {
@@ -5387,9 +3022,6 @@
         "countries": [
             "Greece"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonenvi03Sep2025_0"
     },
     {
@@ -5412,9 +3044,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionhig04Sep2025_0"
     },
     {
@@ -5455,9 +3084,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "swisschemicalsociety04Sep2025_0"
     },
     {
@@ -5477,9 +3103,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "thefutureofchemicale04Sep2025_0"
     },
     {
@@ -5500,10 +3123,46 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "youngmedicinalchemis04Sep2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Theoretical Chemistry Graduate Meeting",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSes0BtSXmLRt4PYNPQxlD3KC3cb4W17ezabaZedjqZfl-hwfg/viewform",
+        "start_date": "04 Sep 2025",
+        "end_date": "05 Sep 2025",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rsctheoreticalchemis04Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AI for Pharma: Data, Infrastructure, & Algorithms",
+        "url": "https://www.mgms.org/WordPress/ai-for-pharma-data-infrastructure-and-algorithms-a-free-one-day-discussion-meeting/",
+        "start_date": "05 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "aiforpharmadatainfra05Sep2025_0"
     },
     {
         "themes": [
@@ -5525,10 +3184,27 @@
         "countries": [
             "Serbia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "7theuchemsinorganicc07Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Intl Beam Instrumentation Conference",
+        "url": "https://ibic2025.org/",
+        "start_date": "07 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlbeaminstrumentat07Sep2025_0"
     },
     {
         "themes": [
@@ -5549,9 +3225,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeancolloidinter07Sep2025_0"
     },
     {
@@ -5574,9 +3247,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "spectroscopyelectron07Sep2025_0"
     },
     {
@@ -5597,9 +3267,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gskresidentialchemic07Sep2025_0"
     },
     {
@@ -5619,9 +3286,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "macrogroupukannualsy08Sep2025_0"
     },
     {
@@ -5641,10 +3305,27 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ukairesearchsymposiu08Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Frontiers in intrinsically disordered proteins",
+        "url": "https://spidr-slola.com/frontiers-in-idps/",
+        "start_date": "08 Sep 2025",
+        "end_date": "09 Sep 2025",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "frontiersinintrinsic08Sep2025_0"
     },
     {
         "themes": [
@@ -5665,9 +3346,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionpol08Sep2025_0"
     },
     {
@@ -5688,9 +3366,6 @@
         "countries": [
             "Belgium"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "maingroupelementsrea08Sep2025_0"
     },
     {
@@ -5710,9 +3385,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonthec08Sep2025_0"
     },
     {
@@ -5734,9 +3406,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "softmagneticmaterial08Sep2025_0"
     },
     {
@@ -5756,9 +3425,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonadvan08Sep2025_0"
     },
     {
@@ -5779,9 +3445,6 @@
         "countries": [
             "Austria"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chargedsoftmatterbri08Sep2025_0"
     },
     {
@@ -5802,9 +3465,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aimatsummerschoolmac08Sep2025_0"
     },
     {
@@ -5827,9 +3487,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "abinitiomodellingins08Sep2025_0"
     },
     {
@@ -5852,9 +3509,6 @@
         "countries": [
             "Netherlands"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "antibodyengineeringe09Sep2025_0"
     },
     {
@@ -5876,9 +3530,6 @@
         "countries": [
             "Denmark"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "introductiontopharma09Sep2025_0"
     },
     {
@@ -5901,9 +3552,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pharmsciintlconferen09Sep2025_0"
     },
     {
@@ -5924,9 +3572,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeansymposiumono09Sep2025_0"
     },
     {
@@ -5948,9 +3593,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "imageprocessingforcr09Sep2025_0"
     },
     {
@@ -5973,9 +3615,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "drugdiscoveryinnovat10Sep2025_0"
     },
     {
@@ -5995,9 +3634,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "nationaleforschungsd10Sep2025_0"
     },
     {
@@ -6018,9 +3654,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionfro10Sep2025_0"
     },
     {
@@ -6045,9 +3678,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "computationalmedicin10Sep2025_0"
     },
     {
@@ -6069,9 +3699,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rscchemicalbiologyin10Sep2025_0"
     },
     {
@@ -6092,9 +3719,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "emboselfleadershipfo10Sep2025_0"
     },
     {
@@ -6116,10 +3740,29 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "designofexperimentsf10Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemical Biology in the Hub",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7338950140746981380",
+        "start_date": "11 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "chemicalbiologyinthe11Sep2025_0"
     },
     {
         "themes": [
@@ -6146,9 +3789,6 @@
         "US_state": [
             "MS"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "lesterandrewsgraduat11Sep2025_0"
     },
     {
@@ -6169,9 +3809,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "organocatalysistrain11Sep2025_0"
     },
     {
@@ -6191,9 +3828,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "thiolbasedredoxswitc13Sep2025_0"
     },
     {
@@ -6215,9 +3849,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rscscimedicinalchemi14Sep2025_0"
     },
     {
@@ -6239,9 +3870,6 @@
         "countries": [
             "France"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "alpineconferenceonma14Sep2025_0"
     },
     {
@@ -6264,9 +3892,6 @@
         "countries": [
             "Austria"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europinviennasummers14Sep2025_0"
     },
     {
@@ -6291,9 +3916,6 @@
             "Germany",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "advancedmethodsinbio14Sep2025_0"
     },
     {
@@ -6315,9 +3937,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "sustainablechemicals15Sep2025_0"
     },
     {
@@ -6339,9 +3958,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "medchemcampus2025sum15Sep2025_0"
     },
     {
@@ -6362,9 +3978,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "applicationsofmachin15Sep2025_0"
     },
     {
@@ -6387,9 +4000,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "physicalorganicchemi15Sep2025_0"
     },
     {
@@ -6411,9 +4021,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "secretsofbatchproces15Sep2025_0"
     },
     {
@@ -6434,9 +4041,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "euchemscompchem2025e15Sep2025_0"
     },
     {
@@ -6457,9 +4061,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gdchdivisionofmagnet15Sep2025_0"
     },
     {
@@ -6479,9 +4080,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scihorticulturegroup16Sep2025_0"
     },
     {
@@ -6522,9 +4120,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ilmac2025tradefair16Sep2025_0"
     },
     {
@@ -6547,9 +4142,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gdchdivisionofmagnet16Sep2025_0"
     },
     {
@@ -6569,9 +4161,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cheminformaticsautom16Sep2025_0"
     },
     {
@@ -6594,10 +4183,26 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "drugdiscoveryscotlan17Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Physical Sciences Data Infrastructure PSDI Showcase",
+        "url": "https://www.eventbrite.co.uk/e/psdi-showcase-tickets-1449836141929?aff=ShNew",
+        "start_date": "17 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "physicalsciencesdata17Sep2025_0"
     },
     {
         "themes": [
@@ -6616,9 +4221,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "lacktagunginnovation17Sep2025_0"
     },
     {
@@ -6638,9 +4240,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "fortbildungsvortrags17Sep2025_0"
     },
     {
@@ -6661,9 +4260,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "emboprojectmanagemen17Sep2025_0"
     },
     {
@@ -6684,9 +4280,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scinewsyntheticmetho18Sep2025_0"
     },
     {
@@ -6707,9 +4300,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "emboselfleadershipfo18Sep2025_0"
     },
     {
@@ -6729,9 +4319,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ragmodelsaiagentsinc19Sep2025_0"
     },
     {
@@ -6752,9 +4339,6 @@
         "countries": [
             "China"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "automationforchemist21Sep2025_0"
     },
     {
@@ -6776,9 +4360,6 @@
         "countries": [
             "Greece"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanconferenceon21Sep2025_0"
     },
     {
@@ -6801,9 +4382,6 @@
         "US_state": [
             "NJ"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "userexperienceforlif22Sep2025_0"
     },
     {
@@ -6826,9 +4404,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rsccarbohydrategroup22Sep2025_0"
     },
     {
@@ -6852,9 +4427,6 @@
             "UK",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aiinchemistry22Sep2025_0"
     },
     {
@@ -6874,9 +4446,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "responsibleresearchi22Sep2025_0"
     },
     {
@@ -6898,9 +4467,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "summerschoolonpharma22Sep2025_0"
     },
     {
@@ -6911,7 +4477,7 @@
             "Western Europe"
         ],
         "title": "Deutsche Lebensmittelchemietage",
-        "url": "hhttps://veranstaltungen.gdch.de/microsite/index.cfm?l=11752&sp_id=1&selMicrosite=128453",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11752&sp_id=1&selMicrosite=128453",
         "start_date": "17 Sep 2025",
         "end_date": "19 Sep 2025",
         "locations": [
@@ -6920,10 +4486,50 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "deutschelebensmittel17Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Intl Conference on Accelerator & Large Experimental Physics Control Systems ICALEPCS",
+        "url": "https://indico.jacow.org/event/86/",
+        "start_date": "20 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "intlconferenceonacce20Sep2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Fragment-based lead discovery conference FBLD",
+        "url": "https://fbldconference.org/",
+        "start_date": "21 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "fragmentbasedleaddis21Sep2025_0"
     },
     {
         "themes": [
@@ -6944,9 +4550,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "jungesumweltforum20222Sep2025_0"
     },
     {
@@ -6970,9 +4573,6 @@
         "US_state": [
             "NJ"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pistoiaallianceusere22Sep2025_0"
     },
     {
@@ -6992,9 +4592,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "organofluorinechemis22Sep2025_0"
     },
     {
@@ -7015,9 +4612,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "umwelt202522Sep2025_0"
     },
     {
@@ -7038,9 +4632,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "advancesinprocessana22Sep2025_0"
     },
     {
@@ -7068,9 +4659,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "discoveryontarget22Sep2025_0"
     },
     {
@@ -7094,9 +4682,6 @@
         "US_state": [
             "GA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "usnationalorganizati22Sep2025_0"
     },
     {
@@ -7117,9 +4702,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "innovationcentreindi22Sep2025_0"
     },
     {
@@ -7144,9 +4726,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "beakertobulkintroduc23Sep2025_0"
     },
     {
@@ -7168,9 +4747,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlcongressonpartic23Sep2025_0"
     },
     {
@@ -7193,9 +4769,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlexhibitionforpro23Sep2025_0"
     },
     {
@@ -7215,9 +4788,6 @@
         "countries": [
             "Brazil"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "abrafatishow202523Sep2025_0"
     },
     {
@@ -7239,10 +4809,28 @@
         "countries": [
             "UAE"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "arablablive23Sep2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Continuous Flow Reactor Technology for Industrial Applications",
+        "url": "https://www.cfrt-tks.com/",
+        "start_date": "24 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "continuousflowreacto24Sep2025_0"
     },
     {
         "themes": [
@@ -7263,9 +4851,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionhig24Sep2025_0"
     },
     {
@@ -7285,10 +4870,27 @@
         "countries": [
             "Serbia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonsepar25Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Heart of Europe Biocrystallography HEC Meeting",
+        "url": "https://www.hec-meetings.org/",
+        "start_date": "25 Sep 2025",
+        "end_date": "27 Sep 2025",
+        "locations": [
+            "Halberstadt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "heartofeuropebiocrys25Sep2025_0"
     },
     {
         "themes": [
@@ -7309,10 +4911,30 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "nanochemistrycamp26Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Gibbs Conference on Biothermodynamics",
+        "url": "https://www.gibbssociety.org/annual-conference",
+        "start_date": "27 Sep 2025",
+        "end_date": "30 Sep 2025",
+        "locations": [
+            "Carbondale, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "gibbsconferenceonbio27Sep2025_0"
     },
     {
         "themes": [
@@ -7332,9 +4954,6 @@
         "countries": [
             "Australia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemeca2025chemicalp28Sep2025_0"
     },
     {
@@ -7356,9 +4975,6 @@
         "countries": [
             "Australia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "hazardsaustralasia28Sep2025_0"
     },
     {
@@ -7379,9 +4995,6 @@
         "countries": [
             "Türkiye"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "embointegrativemodel28Sep2025_0"
     },
     {
@@ -7403,9 +5016,6 @@
         "countries": [
             "Lisbon"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scientificupdate54th29Sep2025_0"
     },
     {
@@ -7446,9 +5056,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gdchscienceforumchem29Sep2025_0"
     },
     {
@@ -7469,9 +5076,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "susmltowardssustaina29Sep2025_0"
     },
     {
@@ -7495,9 +5099,6 @@
         "US_state": [
             "PA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonprepa29Sep2025_0"
     },
     {
@@ -7517,9 +5118,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "virtualchembiotalks30Sep2025_0"
     },
     {
@@ -7541,9 +5139,6 @@
         "countries": [
             "Netherlands"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "labofthefuturecongre30Sep2025_0"
     },
     {
@@ -7564,9 +5159,6 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "supralifeintlconfere30Sep2025_0"
     },
     {
@@ -7591,9 +5183,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "themrnaconference02Oct2025_0"
     },
     {
@@ -7620,9 +5209,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "discoverydevelopment02Oct2025_0"
     },
     {
@@ -7649,9 +5235,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "biologicsus02Oct2025_0"
     },
     {
@@ -7672,9 +5255,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeancontrolledsu02Oct2025_0"
     },
     {
@@ -7695,9 +5275,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanassociationo04Oct2025_0"
     },
     {
@@ -7721,9 +5298,6 @@
         "US_state": [
             "FL"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "paperlesslabacademyn05Oct2025_0"
     },
     {
@@ -7744,10 +5318,30 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "targetedproteomicsad05Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "SCIX Scientific Exchange",
+        "url": "https://scixconference.org/",
+        "start_date": "05 Oct 2025",
+        "end_date": "10 Oct 2025",
+        "locations": [
+            "Covington, KY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "KY"
+        ],
+        "uid": "scixscientificexchan05Oct2025_0"
     },
     {
         "themes": [
@@ -7766,9 +5360,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "3dadditivemanufactur06Oct2025_0"
     },
     {
@@ -7790,9 +5381,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scaleupwhatgoeswrong06Oct2025_0"
     },
     {
@@ -7815,9 +5403,6 @@
         "US_state": [
             "PA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "usresearchsoftwareen06Oct2025_0"
     },
     {
@@ -7840,9 +5425,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "practicalmanagemento06Oct2025_0"
     },
     {
@@ -7867,9 +5449,6 @@
         "US_state": [
             "MI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "thebatteryshownortha06Oct2025_0"
     },
     {
@@ -7893,9 +5472,6 @@
         "countries": [
             "France"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chembioparis06Oct2025_0"
     },
     {
@@ -7916,9 +5492,6 @@
         "countries": [
             "Brazil"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "nmrusermeeting06Oct2025_0"
     },
     {
@@ -7940,9 +5513,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "futurefeedstocksfors07Oct2025_0"
     },
     {
@@ -7964,9 +5534,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "fundamentalsofdmpkco07Oct2025_0"
     },
     {
@@ -7987,9 +5554,6 @@
         "countries": [
             "France"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeansocietyforma08Oct2025_0"
     },
     {
@@ -8013,9 +5577,6 @@
             "Germany",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "seeingisbelievingima08Oct2025_0"
     },
     {
@@ -8024,22 +5585,47 @@
             "chem bio"
         ],
         "regions": [
-            "South America"
+            "Eastern USA"
         ],
-        "title": "NMR User Meeting",
-        "url": "https://auremn.org/wp/en/20th-nmr-users-meeting/",
-        "start_date": "06 Oct 2025",
-        "end_date": "10 Oct 2025",
+        "title": "Integrative Structural Biology Symposium",
+        "url": "https://nysbc.org/nyc-isb24/",
+        "start_date": "09 Oct 2025",
+        "end_date": "11 Oct 2025",
         "locations": [
-            "Rio de Janeiro, Brazil"
+            "New York, NY, USA"
         ],
         "countries": [
-            "Brazil"
+            "USA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "nmrusermeeting06Oct2025_0"
+        "US_state": [
+            "NY"
+        ],
+        "uid": "integrativestructura09Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pittsburgh Diffraction Conference",
+        "url": "https://www.bnl.gov/pittsburgh-diffraction-conference/index.php",
+        "start_date": "09 Oct 2025",
+        "end_date": "12 Oct 2025",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "uid": "pittsburghdiffractio09Oct2025_0"
     },
     {
         "themes": [
@@ -8062,9 +5648,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "asilomarconferenceon10Oct2025_0"
     },
     {
@@ -8108,9 +5691,6 @@
         "US_state": [
             "MO"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acsmidwestregionalme12Oct2025_0"
     },
     {
@@ -8137,9 +5717,6 @@
         "US_state": [
             "IL"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "womeninmanufacturing12Oct2025_0"
     },
     {
@@ -8161,9 +5738,6 @@
         "countries": [
             "Sweden"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "nordiclifesciencenls13Oct2025_0"
     },
     {
@@ -8185,9 +5759,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "physchemforum13Oct2025_0"
     },
     {
@@ -8209,9 +5780,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "whatdrughuntersneedt14Oct2025_0"
     },
     {
@@ -8232,9 +5800,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "foodchemistryconfere14Oct2025_0"
     },
     {
@@ -8255,10 +5820,28 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "emboselfleadershipfo14Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Brazilian Crystallographic Association ABCr meeting & Latin American Crystallographic Association LACA meeting",
+        "url": "https://laca-abcr-2025.abcristalografia.org.br/",
+        "start_date": "14 Oct 2025",
+        "end_date": "17 Oct 2025",
+        "locations": [
+            "Fortaleza, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "uid": "braziliancrystallogr14Oct2025_0"
     },
     {
         "themes": [
@@ -8267,7 +5850,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Paperless Lab Academy India",
+        "title": "European Detergents Conference EDC der GDCh-Fachgruppe Chemie des Waschens",
         "url": "https://www.gdch.de/netzwerk-strukturen/fachstrukturen/chemie-des-waschens/european-detergents-conference-edc.html",
         "start_date": "15 Oct 2025",
         "end_date": null,
@@ -8277,10 +5860,7 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
-        "uid": "paperlesslabacademyi15Oct2025_0"
+        "uid": "europeandetergentsco15Oct2025_0"
     },
     {
         "themes": [
@@ -8301,9 +5881,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "bioinformaticsdrugdi15Oct2025_0"
     },
     {
@@ -8324,9 +5901,6 @@
         "countries": [
             "India"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "paperlesslabacademyi15Oct2025_0"
     },
     {
@@ -8347,9 +5921,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "advancesinthedigital16Oct2025_0"
     },
     {
@@ -8373,10 +5944,28 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "medicinalcropprotect16Oct2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Phys Chem Chem Phys Symposium on Physics for Sustainability: Health, Energy, & Environment SPHERE",
+        "url": "https://www.rsc.org/events/detail/81455/pccp-symposium-on-physics-for-sustainability-health-energy-and-environment-sphere",
+        "start_date": "16 Oct 2025",
+        "end_date": "18 Oct 2025",
+        "locations": [
+            "Bangalore, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "physchemchemphyssymp16Oct2025_0"
     },
     {
         "themes": [
@@ -8397,9 +5986,6 @@
         "countries": [
             "Czechia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "advancesinmagneticre17Oct2025_0"
     },
     {
@@ -8422,9 +6008,6 @@
         "countries": [
             "Portugal"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonrisk20Oct2025_0"
     },
     {
@@ -8447,9 +6030,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "practicalapplication20Oct2025_0"
     },
     {
@@ -8471,9 +6051,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "howtodeveloporganome20Oct2025_0"
     },
     {
@@ -8496,9 +6073,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "0",
-        "non_member_fee": "0",
-        "max_fee": "0",
         "uid": "elrigdrugdiscovery21Oct2025_0"
     },
     {
@@ -8526,9 +6100,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "biopharmasustainabil21Oct2025_0"
     },
     {
@@ -8552,9 +6123,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemicaldevelopments22Oct2025_0"
     },
     {
@@ -8576,9 +6144,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "advancesinstructural23Oct2025_0"
     },
     {
@@ -8598,9 +6163,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "colloquiumchimicumai23Oct2025_0"
     },
     {
@@ -8644,9 +6206,6 @@
         "US_state": [
             "NM"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acsrockymountainregi23Oct2025_0"
     },
     {
@@ -8690,9 +6249,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acswesternregionalme25Oct2025_0"
     },
     {
@@ -8736,10 +6292,27 @@
         "US_state": [
             "FL"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acssoutheasternsouth25Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Securing an independent academic research career: Funding workshop",
+        "url": "https://www.rsc.org/events/detail/81491/securing-an-independent-academic-research-career-funding-workshop",
+        "start_date": "28 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "securinganindependen28Oct2025_0"
     },
     {
         "themes": [
@@ -8759,9 +6332,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cphifrankfurt28Oct2025_0"
     },
     {
@@ -8781,9 +6351,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rscmanagementgroupso29Oct2025_0"
     },
     {
@@ -8806,9 +6373,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "labinnovations29Oct2025_0"
     },
     {
@@ -8831,9 +6395,6 @@
         "countries": [
             "Argentina"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "argentinenationalsym29Oct2025_0"
     },
     {
@@ -8855,10 +6416,29 @@
         "countries": [
             "India"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "thebatteryshowindia30Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "careers",
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Intl Forum on Research Excellence IFoRE",
+        "url": "https://www.experienceifore.org/",
+        "start_date": "30 Oct 2025",
+        "end_date": "01 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "intlforumonresearche30Oct2025_0"
     },
     {
         "themes": [
@@ -8901,9 +6481,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "acsnortheastregional01Nov2025_0"
     },
     {
@@ -8923,9 +6500,6 @@
         "countries": [
             "Japan"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "annualmeetingoftheso02Nov2025_0"
     },
     {
@@ -8949,9 +6523,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aicheannualmeeting02Nov2025_0"
     },
     {
@@ -8975,9 +6546,6 @@
         "US_state": [
             "WA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "americansocietyforma03Nov2025_0"
     },
     {
@@ -8999,9 +6567,6 @@
         "countries": [
             "Austria"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "bioeurope03Nov2025_0"
     },
     {
@@ -9022,9 +6587,6 @@
         "countries": [
             "Chile"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "latinamericanworksho03Nov2025_0"
     },
     {
@@ -9047,9 +6609,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "youngchemistinindust04Nov2025_0"
     },
     {
@@ -9090,9 +6649,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "designprinciplesfors04Nov2025_0"
     },
     {
@@ -9113,9 +6669,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "hazardsprocesssafety04Nov2025_0"
     },
     {
@@ -9136,9 +6689,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemicaldevelopments04Nov2025_0"
     },
     {
@@ -9159,9 +6709,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "digitalizationincoat05Nov2025_0"
     },
     {
@@ -9190,9 +6737,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "broadinstitutemachin06Nov2025_0"
     },
     {
@@ -9236,9 +6780,6 @@
             "Germany",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "fallingwallssciences06Nov2025_0"
     },
     {
@@ -9260,10 +6801,27 @@
         "countries": [
             "Netherlands"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "dutchnmrdiscussiongr08Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Protein Structure Determination in Industry PSDI",
+        "url": "https://www.psdi2025.com/",
+        "start_date": "09 Nov 2025",
+        "end_date": "11 Nov 2025",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "proteinstructuredete09Nov2025_0"
     },
     {
         "themes": [
@@ -9284,9 +6842,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "conferenceonsafesust10Nov2025_0"
     },
     {
@@ -9309,9 +6864,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "flowchemistrytrainin10Nov2025_0"
     },
     {
@@ -9331,10 +6883,46 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "powdercoatingslowtem11Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "New Zealand Society for Biochemistry & Molecular Biology NZSBMB Rotorua Conference",
+        "url": "https://www.nzsbmb.org/conference-2025-rotorua",
+        "start_date": "11 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Rotorua, New Zealand"
+        ],
+        "countries": [
+            "New Zealand"
+        ],
+        "uid": "newzealandsocietyfor11Nov2025_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Annual World Congress of Smart Materials WCSM",
+        "url": "https://www.bitcongress.com/wcsm2025/",
+        "start_date": "11 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Osaka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "annualworldcongresso11Nov2025_0"
     },
     {
         "themes": [
@@ -9357,9 +6945,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pistoiaallianceusaco11Nov2025_0"
     },
     {
@@ -9400,9 +6985,6 @@
         "countries": [
             "Saudi Arabia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "saudichapterofacsint11Nov2025_0"
     },
     {
@@ -9422,9 +7004,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ontologies4chem11Nov2025_0"
     },
     {
@@ -9444,9 +7023,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "smartbarriercoatings12Nov2025_0"
     },
     {
@@ -9467,9 +7043,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "newapproachesinmedic12Nov2025_0"
     },
     {
@@ -9491,10 +7064,56 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rscbmcsnewapproaches12Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "[Big pharma] Chemistry Connect",
+        "url": "https://www.pfizerchemistryconnect.com/",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "bigpharmachemistryco12Nov2025_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Battery Safety Summit",
+        "url": "https://www.cambridgeenertech.com/battery-safety/",
+        "start_date": "12 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Bethesda, MD, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "batterysafetysummit12Nov2025_0"
     },
     {
         "themes": [
@@ -9534,9 +7153,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gdchseniorexpertench13Nov2025_0"
     },
     {
@@ -9557,9 +7173,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "automatedsynthesisfo17Nov2025_0"
     },
     {
@@ -9581,9 +7194,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "invitrotechnologycou17Nov2025_0"
     },
     {
@@ -9608,9 +7218,6 @@
             "Germany",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "solutionscatteringfr17Nov2025_0"
     },
     {
@@ -9632,9 +7239,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemicalprocesssafet17Nov2025_0"
     },
     {
@@ -9656,9 +7260,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemicalsciencesympo18Nov2025_0"
     },
     {
@@ -9682,9 +7283,6 @@
         "US_state": [
             "NJ"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "easternanalyticalsym18Nov2025_0"
     },
     {
@@ -9706,10 +7304,28 @@
         "countries": [
             "Ireland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "understandingpolymor18Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "The Impurities Workshop (GMP, training course)",
+        "url": "https://www.gmp-compliance.org/training/gmp-course-conference/impurities-workshop-part-i-iii",
+        "start_date": "18 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "theimpuritiesworksho18Nov2025_0"
     },
     {
         "themes": [
@@ -9731,9 +7347,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "contractmanufacturin19Nov2025_0"
     },
     {
@@ -9758,9 +7371,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "novalixconferencedev19Nov2025_0"
     },
     {
@@ -9781,9 +7391,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "rscbmcshottopicsanti20Nov2025_0"
     },
     {
@@ -9806,9 +7413,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "activelearningsympos24Nov2025_0"
     },
     {
@@ -9828,10 +7432,30 @@
         "countries": [
             "UAE"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Biotech Outsourcing Solutions BOS Manchester",
+        "url": "https://www.bio2bevents.com/bosmanchester2025",
+        "start_date": "25 Nov 2025",
+        "end_date": "26 Nov 2025",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biotechoutsourcingso25Nov2025_0"
     },
     {
         "themes": [
@@ -9851,9 +7475,6 @@
         "countries": [
             "India"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "cphisoutheastasia25Nov2025_0"
     },
     {
@@ -9875,9 +7496,6 @@
         "countries": [
             "Denmark"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "drivingdigitalizatio26Nov2025_0"
     },
     {
@@ -9899,9 +7517,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "lipidsindiethealth27Nov2025_0"
     },
     {
@@ -9924,9 +7539,6 @@
         "countries": [
             "Australia"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "australianewzealands30Nov2025_0"
     },
     {
@@ -9946,9 +7558,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "25jahreengagementfür01Dec2025_0"
     },
     {
@@ -9969,9 +7578,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scientificupdate11th01Dec2025_0"
     },
     {
@@ -9993,9 +7599,6 @@
         "countries": [
             "Denmark"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "biopharmaceuticalsqu01Dec2025_0"
     },
     {
@@ -10015,10 +7618,28 @@
         "countries": [
             "South Africa"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "worldconferenceofsci01Dec2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Conference of Asian Crystallographic Association AsCA",
+        "url": "https://asca2025.org/",
+        "start_date": "01 Dec 2025",
+        "end_date": "05 Dec 2025",
+        "locations": [
+            "Taipei, Taiwan"
+        ],
+        "countries": [
+            "Taiwan"
+        ],
+        "uid": "conferenceofasiancry01Dec2025_0"
     },
     {
         "themes": [
@@ -10058,9 +7679,6 @@
         "countries": [
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "designprinciplesfors02Dec2025_0"
     },
     {
@@ -10084,9 +7702,6 @@
             "Germany",
             "Online"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "computationalstructu02Dec2025_0"
     },
     {
@@ -10108,9 +7723,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pfasreformulatingpfa03Dec2025_0"
     },
     {
@@ -10131,10 +7743,31 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "recentclinicalcandid04Dec2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Advanced Automative Battery Conference AABC USA",
+        "url": "https://www.advancedautobat.com/us",
+        "start_date": "08 Dec 2025",
+        "end_date": "11 Dec 2025",
+        "locations": [
+            "Las Vegas, NV, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NV"
+        ],
+        "uid": "advancedautomativeba08Dec2025_0"
     },
     {
         "themes": [
@@ -10177,9 +7810,6 @@
         "US_state": [
             "HI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "pacifichem202515Dec2025_0"
     },
     {
@@ -10203,9 +7833,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer04Jan2026_0"
     },
     {
@@ -10228,9 +7855,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer04Jan2026_0"
     },
     {
@@ -10250,9 +7874,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer18Jan2026_0"
     },
     {
@@ -10276,9 +7897,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer25Jan2026_0"
     },
     {
@@ -10302,9 +7920,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer25Jan2026_0"
     },
     {
@@ -10325,9 +7940,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "centreforprocessanal27Jan2026_0"
     },
     {
@@ -10352,9 +7964,6 @@
         "US_state": [
             "NM"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "winterconferenceonma29Jan2026_0"
     },
     {
@@ -10379,9 +7988,6 @@
         "US_state": [
             "TX"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer01Feb2026_0"
     },
     {
@@ -10405,9 +8011,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer01Feb2026_0"
     },
     {
@@ -10431,9 +8034,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer01Feb2026_0"
     },
     {
@@ -10457,9 +8057,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer01Feb2026_0"
     },
     {
@@ -10483,9 +8080,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "societyforlaboratory07Feb2026_0"
     },
     {
@@ -10506,9 +8100,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer15Feb2026_0"
     },
     {
@@ -10533,9 +8124,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer15Feb2026_0"
     },
     {
@@ -10559,9 +8147,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer15Feb2026_0"
     },
     {
@@ -10584,9 +8169,6 @@
         "US_state": [
             "TX"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer22Feb2026_0"
     },
     {
@@ -10610,9 +8192,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer01Mar2026_0"
     },
     {
@@ -10632,9 +8211,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "chemiedozententagung02Mar2026_0"
     },
     {
@@ -10656,9 +8232,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer08Mar2026_0"
     },
     {
@@ -10680,10 +8253,31 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "appliedcatalysisfort10Mar2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Intl Battery Seminar",
+        "url": "https://www.internationalbatteryseminar.com/",
+        "start_date": "23 Mar 2026",
+        "end_date": "26 Mar 2026",
+        "locations": [
+            "Orlando, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "uid": "intlbatteryseminar23Mar2026_0"
     },
     {
         "themes": [
@@ -10704,9 +8298,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ceramitec202624Mar2026_0"
     },
     {
@@ -10728,9 +8319,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "analytica202624Mar2026_0"
     },
     {
@@ -10751,9 +8339,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionvib08Apr2026_0"
     },
     {
@@ -10778,10 +8363,26 @@
         "US_state": [
             "TX"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aichespringmeetinggl12Apr2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Faraday Discussion: Molecular & ion flows through angstrom-scale channels",
+        "url": "https://www.rsc.org/events/detail/80872/molecular-and-ion-flows-through-angstrom-scale-channels-faraday-discussion",
+        "start_date": "13 Apr 2026",
+        "end_date": "15 Apr 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussionmol13Apr2026_0"
     },
     {
         "themes": [
@@ -10804,9 +8405,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionbri20Apr2026_0"
     },
     {
@@ -10827,9 +8425,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "scsconferenceonstere03May2026_0"
     },
     {
@@ -10849,9 +8444,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03May2026_0"
     },
     {
@@ -10872,9 +8464,6 @@
         "countries": [
             "Italy"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer03May2026_0"
     },
     {
@@ -10915,9 +8504,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gdchseniorexpertench04May2026_0"
     },
     {
@@ -10938,9 +8524,6 @@
         "countries": [
             "Austria"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "societyforlaboratory19May2026_0"
     },
     {
@@ -10964,9 +8547,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "americansocietyforma31May2026_0"
     },
     {
@@ -10991,9 +8571,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonhigh31May2026_0"
     },
     {
@@ -11018,9 +8595,6 @@
         "US_state": [
             "MI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "reactionmechanismsco07Jun2026_0"
     },
     {
@@ -11044,9 +8618,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer14Jun2026_0"
     },
     {
@@ -11071,9 +8642,6 @@
         "US_state": [
             "MA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer14Jun2026_0"
     },
     {
@@ -11098,9 +8666,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer21Jun2026_0"
     },
     {
@@ -11123,9 +8688,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer21Jun2026_0"
     },
     {
@@ -11145,9 +8707,6 @@
         "countries": [
             "Denmark"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceoncoor28Jun2026_0"
     },
     {
@@ -11171,9 +8730,6 @@
         "US_state": [
             "NH"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer28Jun2026_0"
     },
     {
@@ -11193,9 +8749,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer28Jun2026_0"
     },
     {
@@ -11216,9 +8769,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer05Jul2026_0"
     },
     {
@@ -11239,9 +8789,6 @@
         "countries": [
             "France"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlsymposiumonmacro05Jul2026_0"
     },
     {
@@ -11262,9 +8809,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "introductiontoionexc07Jul2026_0"
     },
     {
@@ -11305,9 +8849,6 @@
         "countries": [
             "Belgium"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "10theuchemschemistry12Jul2026_0"
     },
     {
@@ -11327,9 +8868,6 @@
         "countries": [
             "Spain"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer19Jul2026_0"
     },
     {
@@ -11352,9 +8890,6 @@
         "US_state": [
             "WI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "methodsinchemistryed25Jul2026_0"
     },
     {
@@ -11377,9 +8912,6 @@
         "US_state": [
             "WI"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "biennialconferenceon26Jul2026_0"
     },
     {
@@ -11404,10 +8936,30 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Microscopy & Microanalysis M&M",
+        "url": "https://microscopy.org/Events",
+        "start_date": "02 Aug 2026",
+        "end_date": "06 Aug 2026",
+        "locations": [
+            "Milwaukee, WI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WI"
+        ],
+        "uid": "microscopymicroanaly02Aug2026_0"
     },
     {
         "themes": [
@@ -11431,9 +8983,6 @@
         "US_state": [
             "ME"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "gordonresearchconfer02Aug2026_0"
     },
     {
@@ -11454,9 +9003,6 @@
         "countries": [
             "Canada"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlunionofcrystallo11Aug2026_0"
     },
     {
@@ -11478,9 +9024,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "intlconferenceonmagn23Aug2026_0"
     },
     {
@@ -11521,9 +9064,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "swisschemicalsociety27Aug2026_0"
     },
     {
@@ -11543,9 +9083,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "europeanconferenceon31Aug2026_0"
     },
     {
@@ -11566,9 +9103,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "efmcismcintlsymposiu06Sep2026_0"
     },
     {
@@ -11590,9 +9124,6 @@
         "countries": [
             "UK"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "faradaydiscussionsus14Sep2026_0"
     },
     {
@@ -11612,9 +9143,6 @@
         "countries": [
             "Germany"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "nuklearchemie202622Sep2026_0"
     },
     {
@@ -11655,9 +9183,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ilmactradefair23Sep2026_0"
     },
     {
@@ -11681,9 +9206,6 @@
         "US_state": [
             "MN"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aicheannualmeeting08Nov2026_0"
     },
     {
@@ -11707,9 +9229,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "societyforlaboratory30Jan2027_0"
     },
     {
@@ -11733,10 +9252,30 @@
         "US_state": [
             "TX"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "americansocietyforma06Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Microscopy & Microanalysis M&M",
+        "url": "https://microscopy.org/Events",
+        "start_date": "02 Aug 2027",
+        "end_date": "05 Aug 2027",
+        "locations": [
+            "Pittsburgh, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "microscopymicroanaly02Aug2027_0"
     },
     {
         "themes": [
@@ -11776,9 +9315,6 @@
         "countries": [
             "Switzerland"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "ilmactradefair21Sep2027_0"
     },
     {
@@ -11802,9 +9338,6 @@
         "US_state": [
             "CA"
         ],
-        "member_fee": "",
-        "non_member_fee": "",
-        "max_fee": "",
         "uid": "aicheannualmeeting31Oct2027_0"
     }
 ]
