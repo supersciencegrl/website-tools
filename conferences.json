@@ -1,25 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Federation of European Biochemical Societies FEBS Meeting",
-        "url": "https://2025.febscongress.org/",
-        "start_date": "05 Jul 2025",
-        "end_date": "09 Jul 2025",
-        "locations": [
-            "Istanbul, Türkiye"
-        ],
-        "countries": [
-            "Türkiye"
-        ],
-        "uid": "federationofeuropean05Jul2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -239,25 +220,6 @@
     },
     {
         "themes": [
-            "catalysis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "UK Catalysis Hub summer showcase",
-        "url": "https://www.eventbrite.com/e/summer-showcase-2025-tickets-1307856125879",
-        "start_date": "07 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ukcatalysishubsummer07Jul2025_0"
-    },
-    {
-        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -298,47 +260,6 @@
             "WA"
         ],
         "uid": "fromaimltoagentbased07Jul2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "French Industrial Chemistry Symposium FICS",
-        "url": "https://fics2025.sciencesconf.org/",
-        "start_date": "08 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Montpellier, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "frenchindustrialchem08Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Physical Sciences Data Infrastructure PSDI Roadshop: Exploring data curation & management in physical sciences",
-        "url": "https://www.eventbrite.co.uk/e/exploring-data-curation-and-management-in-physical-sciences-tickets-1375846396609",
-        "start_date": "08 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Southampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "physicalsciencesdata08Jul2025_0"
     },
     {
         "themes": [
@@ -420,26 +341,6 @@
             "Spain"
         ],
         "uid": "euchemschemicalbiolo08Jul2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Quantum materials & processes",
-        "url": "https://www.eventbrite.com/e/ruedi-quantum-materials-processes-science-theme-town-hall-event-tickets-1381685040149",
-        "start_date": "09 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Crewe, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "relativisticultrafas09Jul2025_0"
     },
     {
         "themes": [
@@ -4165,6 +4066,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advanced Techniques applied in Biopharma on Peptides & Proteins",
+        "url": "https://web.cvent.com/event/f03d53cb-532c-434d-a72c-34223f5ccbf3/regProcessStep1",
+        "start_date": "16 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Trieste, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "advancedtechniquesap16Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio",
             "med chem",
@@ -4323,6 +4245,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Intl Conference on Accelerator & Large Experimental Physics Control Systems ICALEPCS",
+        "url": "https://indico.jacow.org/event/86/",
+        "start_date": "20 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "intlconferenceonacce20Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -4340,6 +4285,26 @@
             "China"
         ],
         "uid": "automationforchemist21Sep2025_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Fragment-based lead discovery conference FBLD",
+        "url": "https://fbldconference.org/",
+        "start_date": "21 Sep 2025",
+        "end_date": "24 Sep 2025",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "fragmentbasedleaddis21Sep2025_0"
     },
     {
         "themes": [
@@ -4364,12 +4329,34 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Junges Umweltforum 2025",
+        "url": "https://eveeno.com/290887041",
+        "start_date": "22 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Dessau, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "jungesumweltforum20222Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
             "computational/data"
         ],
         "regions": [
             "Eastern USA"
         ],
-        "title": "User Experience for Life Science UXLS Conference",
+        "title": "Pistoia Alliance User Experience for Life Science UXLS Conference",
         "url": "https://www.pistoiaalliance.org/eventdetails/user-experience-for-life-science-uxls-conference/",
         "start_date": "22 Sep 2025",
         "end_date": "23 Sep 2025",
@@ -4382,7 +4369,7 @@
         "US_state": [
             "NJ"
         ],
-        "uid": "userexperienceforlif22Sep2025_0"
+        "uid": "pistoiaallianceusere22Sep2025_0"
     },
     {
         "themes": [
@@ -4478,102 +4465,15 @@
         ],
         "title": "Deutsche Lebensmittelchemietage",
         "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11752&sp_id=1&selMicrosite=128453",
-        "start_date": "17 Sep 2025",
-        "end_date": "19 Sep 2025",
+        "start_date": "22 Sep 2025",
+        "end_date": "24 Sep 2025",
         "locations": [
             "Halle, Germany"
         ],
         "countries": [
             "Germany"
         ],
-        "uid": "deutschelebensmittel17Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Intl Conference on Accelerator & Large Experimental Physics Control Systems ICALEPCS",
-        "url": "https://indico.jacow.org/event/86/",
-        "start_date": "20 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "intlconferenceonacce20Sep2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Fragment-based lead discovery conference FBLD",
-        "url": "https://fbldconference.org/",
-        "start_date": "21 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "fragmentbasedleaddis21Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Junges Umweltforum 2025",
-        "url": "https://eveeno.com/290887041",
-        "start_date": "22 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Dessau, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "jungesumweltforum20222Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pistoia Alliance User Experience for Life Science UXLS Conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/user-experience-for-life-science-uxls-conference/",
-        "start_date": "22 Sep 2025",
-        "end_date": "23 Sep 2025",
-        "locations": [
-            "Rahway, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "pistoiaallianceusere22Sep2025_0"
+        "uid": "deutschelebensmittel22Sep2025_0"
     },
     {
         "themes": [
@@ -4810,6 +4710,26 @@
             "UAE"
         ],
         "uid": "arablablive23Sep2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Team Science Camp: Decarbonizing the healthcare, social care, & research systems",
+        "url": "https://www.nihr.ac.uk/funding/team-science-camp-cohort-3/2025329#tab-420391",
+        "start_date": "23 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "teamsciencecampdecar23Sep2025_0"
     },
     {
         "themes": [
@@ -7559,6 +7479,31 @@
             "Germany"
         ],
         "uid": "25jahreengagementfür01Dec2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Organic chemistry poster symposium",
+        "url": "https://www.rsc.org/events/detail/81676/organic-chemistry-poster-symposium-2025",
+        "start_date": "01 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscorganicchemistryp01Dec2025_0"
     },
     {
         "themes": [
