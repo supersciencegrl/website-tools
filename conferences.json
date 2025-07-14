@@ -1,435 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Conference on Organometallic Chemistry EuCOMC 2025",
-        "url": "https://eucomc2025.scg.ch/",
-        "start_date": "06 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Bern, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "europeanconferenceon06Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "European Magnetic Resonance Congress EUROMAR",
-        "url": "https://euromar2025.org/",
-        "start_date": "06 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Oulu, Finland"
-        ],
-        "countries": [
-            "Finland"
-        ],
-        "uid": "europeanmagneticreso06Jul2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Chemistry Education Research & Practice",
-        "url": "https://www.grc.org/chemistry-education-research-and-practice-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Drug Metabolism",
-        "url": "https://www.grc.org/drug-metabolism-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Liquid Crystals",
-        "url": "https://www.grc.org/liquid-crystals-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nucleosides, Nucleotides & Oligonucleotides",
-        "url": "https://www.grc.org/nucleosides-nucleotides-and-oligonucleotides-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Physical Metallurgy",
-        "url": "https://www.grc.org/physical-metallurgy-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "10th Heron Island Conference on Reactive Intermediates and Unusual Molecules",
-        "url": "https://heron-conference.org/",
-        "start_date": "06 Jul 2025",
-        "end_date": "12 Jul 2025",
-        "locations": [
-            "Heron Island, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "uid": "10thheronislandconfe06Jul2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Chemistry Education Research & Practice",
-        "url": "https://www.grc.org/chemistry-education-research-and-practice-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nucleosides, Nucleotides & Oligonucleotides",
-        "url": "https://www.grc.org/nucleosides-nucleotides-and-oligonucleotides-conference/2025/",
-        "start_date": "06 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer06Jul2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "17th Intl conference on materials chemistry MC17",
-        "url": "https://www.rsc.org/events/detail/77989/17th-international-conference-on-materials-chemistry-mc17",
-        "start_date": "07 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "17thintlconferenceon07Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "From AI & ML to agent-based science (students & early career scientists)",
-        "url": "https://www.emsl.pnnl.gov/events/2025-emsl-summer-school",
-        "start_date": "07 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Richland, WA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "uid": "fromaimltoagentbased07Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "analytica Lab Africa",
-        "url": "https://analytica.de/en/south-africa/",
-        "start_date": "08 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Johannesburg, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "uid": "analyticalabafrica08Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "education",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Intl Symposium on Microscale Chemistry 13ISMC26 (chemistry education)",
-        "url": "https://sites.google.com/view/13ismc26/home",
-        "start_date": "08 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Johannesburg, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "uid": "intlsymposiumonmicro08Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Empowering Chemists with AI & ML: Transformative Tools & Techniques (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques/",
-        "start_date": "08 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "empoweringchemistswi08Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EuChemS Chemical Biology School on Computational Chemical Biology",
-        "url": "https://www.euchems.eu/euchems-chemical-biology-school-in-madrid-register/",
-        "start_date": "08 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Madrid, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "euchemschemicalbiolo08Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "AI for Materials Science AIMS Workshop",
-        "url": "https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop",
-        "start_date": "09 Jul 2025",
-        "end_date": "10 Jul 2025",
-        "locations": [
-            "Rockville, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "aiformaterialsscienc09Jul2025_0"
-    },
-    {
-        "themes": [
-            "history/philosophy",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Society for the Philosophy of Chemistry ISPC Conference",
-        "url": "https://sites.google.com/site/socphilchem/symposia",
-        "start_date": "09 Jul 2025",
-        "end_date": "11 Jul 2025",
-        "locations": [
-            "Antwerp, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "uid": "intlsocietyforthephi09Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Relativistic Ultrafast Electron Diffraction and Imaging RUEDI: Dynamics of chemical change",
-        "url": "https://www.eventbrite.com/e/ruedi-dynamics-of-chemical-change-science-theme-town-hall-event-tickets-1381907264829",
-        "start_date": "10 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Crewe, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "relativisticultrafas10Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "O-GlcNAcylation in Health & Disease",
-        "url": "https://www.asbmb.org/meetings-events/o-glcnacylation-in-health-and-disease",
-        "start_date": "10 Jul 2025",
-        "end_date": "13 Jul 2025",
-        "locations": [
-            "Durham, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "uid": "oglcnacylationinheal10Jul2025_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -1512,6 +1083,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Society for Process Chemistry JSPC Summer Symposium",
+        "url": "https://jspc-home.com/wordpress/",
+        "start_date": "24 Jul 2025",
+        "end_date": "25 Jul 2025",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesesocietyforpr24Jul2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "education"
         ],
@@ -1553,6 +1147,29 @@
             "UK"
         ],
         "uid": "intlsymposiumonfolda25Jul2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia",
+            "Online"
+        ],
+        "title": "Laboratory Automation Suppliers' Association LASA event",
+        "url": "https://laboratoryautomation.connpass.com/event/351476/",
+        "start_date": "25 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Yokohama, Japan",
+            "Online"
+        ],
+        "countries": [
+            "Japan",
+            "Online"
+        ],
+        "uid": "laboratoryautomation25Jul2025_0"
     },
     {
         "themes": [
@@ -1857,6 +1474,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "materials/polymers",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Materials Science MEGA Webinar: PFAS Unravelled",
+        "url": "https://us02web.zoom.us/webinar/register/WN_sFP6dE0NRdOi1rF8Lnl4hw#/registration",
+        "start_date": "29 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "materialssciencemega29Jul2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "inorganic/nano",
             "materials/polymers"
@@ -2155,7 +1794,7 @@
         "regions": [
             "Midwest USA"
         ],
-        "title": "Leadership Developmnet Programme (US undergrads)",
+        "title": "Leadership Development Programme (US undergrads)",
         "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=uN-emwhEyUanXYTdnjmuL_lp9LipQOBGm6OefZuQDWtUMlUzSFFQODI4MkgxRjNHUUxRNkdZWTdVVy4u",
         "start_date": "13 Aug 2025",
         "end_date": "14 Aug 2025",
@@ -2168,7 +1807,31 @@
         "US_state": [
             "WI"
         ],
-        "uid": "leadershipdevelopmne13Aug2025_0"
+        "uid": "leadershipdevelopmen13Aug2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Symposium on DNA-encoded chemical libraries DELs",
+        "url": "https://www.delsymposium.org/",
+        "start_date": "14 Aug 2025",
+        "end_date": "15 Aug 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "intlsymposiumondnaen14Aug2025_0"
     },
     {
         "themes": [
@@ -3227,6 +2890,28 @@
             "UK"
         ],
         "uid": "frontiersinintrinsic08Sep2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Chemical Nanoscience Early Career Spring Symposium 2025",
+        "url": "https://www.rsc.org/events/detail/80156/chemical-nanoscience-early-career-spring-symposium-2025",
+        "start_date": "08 Sep 2025",
+        "end_date": "09 Sep 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemicalnanosciencee08Sep2025_0"
     },
     {
         "themes": [
@@ -4775,6 +4460,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia",
+            "Online"
+        ],
+        "title": "Laboratory Automation Suppliers' Association LASA Developer Conference LADEC",
+        "url": "https://laboratoryautomation.connpass.com/event/333560/",
+        "start_date": "25 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Tokyo, Japan",
+            "Online"
+        ],
+        "countries": [
+            "Japan",
+            "Online"
+        ],
+        "uid": "laboratoryautomation25Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -5039,6 +4747,26 @@
             "Online"
         ],
         "uid": "virtualchembiotalks30Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Open Chemistry Robotics & Automation Framework OChRA workshop",
+        "url": "https://aichemy.ac.uk/event/open-chemistry-robotics-and-automation-framework-ochra-workshop/",
+        "start_date": "30 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "openchemistryrobotic30Sep2025_0"
     },
     {
         "themes": [
@@ -5683,6 +5411,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Intl Data Week",
+        "url": "https://idw2025.org/",
+        "start_date": "13 Oct 2025",
+        "end_date": "16 Oct 2025",
+        "locations": [
+            "Brisbane, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "intldataweek13Oct2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "computational/data",
             "med chem"
@@ -5951,6 +5698,25 @@
             "UK"
         ],
         "uid": "practicalapplication20Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Machine-actionable Data Interoperability for the Chemical Sciences MADICES",
+        "url": "https://madices.github.io/docs/2025/",
+        "start_date": "20 Oct 2025",
+        "end_date": "24 Oct 2025",
+        "locations": [
+            "Villigen, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "machineactionabledat20Oct2025_0"
     },
     {
         "themes": [
@@ -7356,6 +7122,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Annual Review Meeting: Frontiers in organic synthesis",
+        "url": "https://www.soci.org/events/young-chemists-panel/2025/31st-sci-annual-review-meeting--frontiers-in-organic-synthesis-emerging-methods-and-applications",
+        "start_date": "25 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciannualreviewmeeti25Nov2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "business",
             "formulation/particle science",
@@ -7438,6 +7225,29 @@
             "UK"
         ],
         "uid": "lipidsindiethealth27Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Society for Process Chemistry JSPC Process Chemistry Lounge",
+        "url": "https://jspc-home.com/wordpress/?page_id=877",
+        "start_date": "27 Nov 2025",
+        "end_date": "28 Nov 2025",
+        "locations": [
+            "Shizuoka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesesocietyforpr27Nov2025_0"
     },
     {
         "themes": [
@@ -7692,6 +7502,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Society for Process Chemistry JSPC Winter Symposium",
+        "url": "https://jspc-home.com/wordpress/?page_id=877",
+        "start_date": "05 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesesocietyforpr05Dec2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -7820,6 +7653,26 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer18Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EuroPrep",
+        "url": "http://euro-prep.net/",
+        "start_date": "22 Jan 2026",
+        "end_date": "23 Jan 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "europrep22Jan2026_0"
     },
     {
         "themes": [
@@ -8157,6 +8010,31 @@
             "Germany"
         ],
         "uid": "chemiedozententagung02Mar2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Environmental Molecular Sciences Laboratory EMSL-Joint Genome Institute JGI Joint User Meeting: Empowering automated laboratories",
+        "url": "https://www.emsl.pnnl.gov/events/2026-emsl-jgi-joint-user-meeting",
+        "start_date": "03 Mar 2026",
+        "end_date": "06 Mar 2026",
+        "locations": [
+            "Seattle, WA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WA"
+        ],
+        "uid": "environmentalmolecul03Mar2026_0"
     },
     {
         "themes": [
@@ -8698,6 +8576,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Society for Process Chemistry JSPC Summer Symposium",
+        "url": "https://jspc-home.com/wordpress/?page_id=877",
+        "start_date": "01 Jul 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Shizuoka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesesocietyforpr01Jul2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -9152,6 +9053,29 @@
             "MN"
         ],
         "uid": "aicheannualmeeting08Nov2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Society for Process Chemistry JSPC Winter Symposium",
+        "url": "https://jspc-home.com/wordpress/?page_id=877",
+        "start_date": "01 Jul 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesesocietyforpr01Jul2026_0"
     },
     {
         "themes": [
