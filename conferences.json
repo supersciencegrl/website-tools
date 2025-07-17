@@ -199,31 +199,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Biomolecular Dynamics in the age of Machine Learning",
-        "url": "https://www.cecam.org/workshop-details/biomolecular-dynamics-in-the-age-of-machine-learning-1442",
-        "start_date": "14 Jul 2025",
-        "end_date": "16 Jul 2025",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "biomoleculardynamics14Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "formulation/particle science",
             "physical/phys org"
         ],
@@ -328,26 +303,6 @@
             "Online"
         ],
         "uid": "chemicaldevelopments14Jul2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Medicinal & Biological Chemistry Ireland",
-        "url": "http://medicinalchemistryireland.wordpress.com/",
-        "start_date": "15 Jul 2025",
-        "end_date": "16 Jul 2025",
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "medicinalbiologicalc15Jul2025_0"
     },
     {
         "themes": [
@@ -1787,6 +1742,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Africa",
+            "Online"
+        ],
+        "title": "Virtual Conference on Chemistry & its Applications VCCA-2025",
+        "url": "https://sites.google.com/uom.ac.mu/vcca-2025",
+        "start_date": "11 Aug 2025",
+        "end_date": "15 Aug 2025",
+        "locations": [
+            "Réduit, Mauritius",
+            "Online"
+        ],
+        "countries": [
+            "Mauritius",
+            "Online"
+        ],
+        "uid": "virtualconferenceonc11Aug2025_0"
+    },
+    {
+        "themes": [
             "business",
             "careers",
             "formulation/particle science"
@@ -1961,6 +1959,49 @@
             "Germany"
         ],
         "uid": "summerschoolongreenc18Aug2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "UK-China Intl Particle Technology Forum PTF10",
+        "url": "https://ptf10.csp.org.cn/",
+        "start_date": "22 Aug 2025",
+        "end_date": "25 Aug 2025",
+        "locations": [
+            "Xi'an, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "ukchinaintlparticlet22Aug2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Density Functional Theory DFT & its Applications",
+        "url": "https://dft2026.com/",
+        "start_date": "23 Aug 2025",
+        "end_date": "27 Aug 2025",
+        "locations": [
+            "Donostia-San Sebastián, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "intlconferenceondens23Aug2025_0"
     },
     {
         "themes": [
@@ -3379,6 +3420,31 @@
     },
     {
         "themes": [
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Global",
+            "Online"
+        ],
+        "title": "LLM Hackathon for Appliations in Materials & Chemistry",
+        "url": "https://lu.ma/hspoki8y",
+        "start_date": "11 Sep 2025",
+        "end_date": "12 Sep 2025",
+        "locations": [
+            "Global",
+            "Online"
+        ],
+        "countries": [
+            "Global",
+            "Online"
+        ],
+        "uid": "llmhackathonforappli11Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -3479,6 +3545,31 @@
             "Austria"
         ],
         "uid": "europinviennasummers14Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "Chemical Society of Nigeria: Annual Intl Conference, Workshop, & Exhibition",
+        "url": "https://commonwealthchemistry.org/event/chemical-society-of-nigerias-48th-international-conference/",
+        "start_date": "14 Sep 2025",
+        "end_date": "19 Sep 2025",
+        "locations": [
+            "Ile-ife, Nigeria"
+        ],
+        "countries": [
+            "Nigeria"
+        ],
+        "uid": "chemicalsocietyofnig14Sep2025_0"
     },
     {
         "themes": [
@@ -4820,6 +4911,70 @@
         ],
         "title": "The mRNA Conference",
         "url": "https://www.the-mrna-conference.com/",
+        "start_date": "01 Oct 2025",
+        "end_date": "02 Oct 2025",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "themrnaconference01Oct2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Commonwealth Chemistry Posters",
+        "url": "https://commonwealthchemistry.org/event/6th-commonwealth-chemistry-posters/",
+        "start_date": "01 Oct 2025",
+        "end_date": "02 Oct 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "commonwealthchemistr01Oct2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "The mRNA Conference",
+        "url": "https://www.the-mrna-conference.com/",
         "start_date": "02 Oct 2025",
         "end_date": "03 Oct 2025",
         "locations": [
@@ -5787,6 +5942,25 @@
             "MA"
         ],
         "uid": "biopharmasustainabil21Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Open Conference of AI Agents for Science",
+        "url": "https://agents4science.stanford.edu/",
+        "start_date": "22 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "openconferenceofaiag22Oct2025_0"
     },
     {
         "themes": [
@@ -7270,6 +7444,46 @@
             "Australia"
         ],
         "uid": "australianewzealands30Nov2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "National Convention of the South African Chemical Institute SACI-45",
+        "url": "https://commonwealthchemistry.org/event/45th-national-convention-of-the-south-african-chemical-institute/",
+        "start_date": "30 Nov 2025",
+        "end_date": "05 Dec 2025",
+        "locations": [
+            "Johannesburg, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "uid": "nationalconventionof30Nov2025_0"
     },
     {
         "themes": [
