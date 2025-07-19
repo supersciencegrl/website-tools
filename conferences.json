@@ -1,291 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "IUPAC General Assembly GA & World Chemistry Congress WCC",
-        "url": "https://iupac2025.org/",
-        "start_date": "11 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Kuala Lumpur, Malaysia"
-        ],
-        "countries": [
-            "Malaysia"
-        ],
-        "uid": "iupacgeneralassembly11Jul2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Chemistry Education & European Conference on Research in Chemical Education ICCE ERICE",
-        "url": "https://iccecrice2026.org/",
-        "start_date": "13 Jul 2025",
-        "end_date": "17 Jul 2025",
-        "locations": [
-            "Ezurum, Türkiye"
-        ],
-        "countries": [
-            "Türkiye"
-        ],
-        "uid": "intlconferenceonchem13Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Computer Aided Drug Design",
-        "url": "https://www.grc.org/computer-aided-drug-design-conference/2025/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Portland, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer13Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Neurobiology of Psychedelics",
-        "url": "https://www.grc.org/neurobiology-of-psychedelics-conference/2025/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Smithfield, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer13Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Organometallic Chemistry",
-        "url": "https://www.grc.org/organometallic-chemistry-conference/2025/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer13Jul2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Plastics Recycling & Upcycling",
-        "url": "https://www.grc.org/plastics-recycling-and-upcycling-conference/2025/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer13Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Visualization in Science & Education",
-        "url": "https://www.grc.org/visualization-in-science-and-education-conference/2025/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer13Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Clay Conference",
-        "url": "https://icc.aipea.org/",
-        "start_date": "13 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "uid": "intlclayconference13Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Intl Charge Density Meeting ICDM10",
-        "url": "https://icdm10.netlify.app/",
-        "start_date": "14 Jul 2025",
-        "end_date": "17 Jul 2025",
-        "locations": [
-            "Durham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlchargedensitymee14Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "computational/data",
-            "formulation/particle science",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Summer HTE Workshop",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfaILlV7bOXpGvFP73n884BqARXMmL8D4X2fQGAl9iEROyDew/viewform",
-        "start_date": "14 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Newark, DE, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DE"
-        ],
-        "uid": "summerhteworkshop14Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Transmission Electron Microscopy of Nanomaterials Workshop TEM-UCA",
-        "url": "https://tem.uca.es/",
-        "start_date": "14 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Cadiz, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "transmissionelectron14Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Fluorescence imaging beyond intensity (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/lef25-01/",
-        "start_date": "14 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "fluorescenceimagingb14Jul2025_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -303,194 +18,6 @@
             "Online"
         ],
         "uid": "chemicaldevelopments14Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio",
-            "environment/fuels",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Solutions in Science SinS",
-        "url": "https://www.ilmexhibitions.com/sins/",
-        "start_date": "15 Jul 2025",
-        "end_date": "17 Jul 2025",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "solutionsinsciencesi15Jul2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "2025 Future Faculty Workshop",
-        "url": "https://www.linkedin.com/posts/emily-pentzer-0444bbb_timlodge-activity-7285411096117624833-sdD2/",
-        "start_date": "15 Jul 2025",
-        "end_date": "17 Jul 2025",
-        "locations": [
-            "Irvine, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "2025futurefacultywor15Jul2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Sociedad Española de Química Terapéutica SEQT Summer School: Medicinal chemistry in drug discovery",
-        "url": "https://www.seqt.org/en",
-        "start_date": "15 Jul 2025",
-        "end_date": "17 Jul 2025",
-        "locations": [
-            "Bilbao, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "sociedadespañoladequ15Jul2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI SouthEast Asia",
-        "url": "https://www.cphi.com/sea/en/home.html",
-        "start_date": "16 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Kuala Lumpur, Malaysia"
-        ],
-        "countries": [
-            "Malaysia"
-        ],
-        "uid": "cphisoutheastasia16Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Global NMR Online Conference",
-        "url": "https://www.globalnmr.org/online-conference/",
-        "start_date": "16 Jul 2025",
-        "end_date": "18 Jul 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "globalnmronlineconfe16Jul2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "IP for innovators",
-        "url": "https://www.rsc.org/events/detail/81842/ip-for-innovators-including-talks-and-workshops",
-        "start_date": "16 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ipforinnovators16Jul2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Pistoia Alliance, EMBL-EBI, ELIXIR Strengthening Collaboration",
-        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-embl-ebi-and-elixir/",
-        "start_date": "17 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "pistoiaallianceemble17Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Biotage User Group meeting",
-        "url": "https://www.biotage.com/networkingevent-0",
-        "start_date": "17 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "biotageusergroupmeet17Jul2025_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "LabOps UK summer networking event",
-        "url": "https://www.linkedin.com/posts/matteo-battilocchi-a891387a_labopsuk-labopsuk-lifesciences-activity-7336375418981130240-4LsP/",
-        "start_date": "17 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "labopsuksummernetwor17Jul2025_0"
     },
     {
         "themes": [
@@ -517,70 +44,6 @@
             "CA"
         ],
         "uid": "acsdivisionoforganic17Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Early career materials industrial revolution: AI in materials science",
-        "url": "https://www.soci.org/events/materials-ecc/2025/sci-early-career-materials-2025-industrial-revolution-40-ai-in-materials-science",
-        "start_date": "18 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciearlycareermateri18Jul2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Symposium of Medicinal Chemistry Young Researchers YRS2025",
-        "url": "https://sites.google.com/view/xi-young-researchers-symposium/home",
-        "start_date": "18 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Bilbao, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "symposiumofmedicinal18Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Continuous BioFlow Summer Webinar",
-        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=7vO7K2i2-U2wY1mJRcPUZsLysIsAhYlJpZ2n4ENsLrtUMEU4RkRUVzlGRFVaSlpJQUdHRzUyM0haRC4u",
-        "start_date": "11 Aug 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "continuousbioflowsum11Aug2025_0"
     },
     {
         "themes": [
@@ -1038,6 +501,26 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Negotiating with Confidence: Tools to maximize your compensation (timezone not specified)",
+        "url": "https://www.linkedin.com/posts/moralema_ewoc-midatlantic-activity-7350917230504648706-i2QT",
+        "start_date": "24 Jul 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "negotiatingwithconfi24Jul2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "pharma industry",
@@ -1430,6 +913,29 @@
     {
         "themes": [
             "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Centre for High Resolution Neutron Scattering CHRNS School on Methods & Applications of Neutron Spectroscopy (N America only)",
+        "url": "https://www.nist.gov/news-events/events/2025/07/31st-center-high-resolution-neutron-scattering-chrns-school-methods-and",
+        "start_date": "28 Jul 2025",
+        "end_date": "01 Aug 2025",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "centreforhighresolut28Jul2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "environment/fuels",
             "materials/polymers",
             "safety"
@@ -1720,6 +1226,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Continuous BioFlow Summer Webinar",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=7vO7K2i2-U2wY1mJRcPUZsLysIsAhYlJpZ2n4ENsLrtUMEU4RkRUVzlGRFVaSlpJQUdHRzUyM0haRC4u",
+        "start_date": "11 Aug 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "continuousbioflowsum11Aug2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "inorganic/nano",
@@ -1833,6 +1360,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NIST-University Research Summit",
+        "url": "https://www.nist.gov/news-events/events/2025/08/2025-nist-university-research-summit",
+        "start_date": "14 Aug 2025",
+        "end_date": "15 Aug 2025",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "nistuniversityresear14Aug2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -1940,6 +1491,30 @@
             "DC"
         ],
         "uid": "acsusfallnationalmee17Aug2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Hackathon: Building bridges for better self-driving lab software",
+        "url": "https://www.nist.gov/news-events/events/2025/08/hackathon-building-bridges-better-self-driving-laboratory-software",
+        "start_date": "18 Aug 2025",
+        "end_date": "19 Aug 2025",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "hackathonbuildingbri18Aug2025_0"
     },
     {
         "themes": [
@@ -2086,6 +1661,25 @@
             "ME"
         ],
         "uid": "gordonresearchconfer24Aug2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "DALIA satellite meeting to Conference on Research Data Infrastructure CoRDI",
+        "url": "https://dalia.education/de/events/dalia-satellite-meeting-to-cordi-2025",
+        "start_date": "25 Aug 2025",
+        "end_date": null,
+        "locations": [
+            "Aachen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "daliasatellitemeetin25Aug2025_0"
     },
     {
         "themes": [
@@ -2445,6 +2039,25 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Spectroscopy Masterclass",
+        "url": "https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439",
+        "start_date": "01 Sep 2025",
+        "end_date": "05 Sep 2025",
+        "locations": [
+            "Daresbury, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "spectroscopymastercl01Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -2732,13 +2345,14 @@
     },
     {
         "themes": [
+            "computational/data",
             "physical/phys org"
         ],
         "regions": [
             "Northern England"
         ],
-        "title": "RSC Theoretical Chemistry Graduate Meeting",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSes0BtSXmLRt4PYNPQxlD3KC3cb4W17ezabaZedjqZfl-hwfg/viewform",
+        "title": "RSC Theoretical Chemistry Graduate Student Meeting",
+        "url": "https://tcgsm2025.com/",
         "start_date": "04 Sep 2025",
         "end_date": "05 Sep 2025",
         "locations": [
@@ -3119,6 +2733,27 @@
     {
         "themes": [
             "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "GPCR-UK Network Meeting (G-protein-coupled receptors)",
+        "url": "https://gpcr-uk.org/events/",
+        "start_date": "09 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "gpcruknetworkmeeting09Sep2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "computational/data",
             "pharma industry",
             "process/engineering"
@@ -3140,6 +2775,30 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Workshop towards an autonomous materials research ecosystem",
+        "url": "https://www.nist.gov/news-events/events/2025/09/workshop-towards-autonomous-materials-research-ecosystem",
+        "start_date": "09 Sep 2025",
+        "end_date": "10 Sep 2025",
+        "locations": [
+            "Rockville, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "workshoptowardsanaut09Sep2025_0"
+    },
+    {
+        "themes": [
             "business",
             "careers",
             "pharma industry"
@@ -3147,7 +2806,7 @@
         "regions": [
             "Northern Europe"
         ],
-        "title": "Introduction to pharma in the nordics (training course)",
+        "title": "Introduction to pharma in the Nordics (training course)",
         "url": "https://www.atriumcph.com/courses-and-programmes/course/Introduction-to-Pharma-in-the-Nordics/100805",
         "start_date": "09 Sep 2025",
         "end_date": "10 Sep 2025",
@@ -3390,6 +3049,30 @@
             "MA"
         ],
         "uid": "chemicalbiologyinthe11Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Dana-Farber Targeted Protein Degradation Webinar Series: In-person meeting",
+        "url": "https://www.danafarbertargetedproteindegradation.org/",
+        "start_date": "11 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "danafarbertargetedpr11Sep2025_0"
     },
     {
         "themes": [
@@ -4530,6 +4213,28 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Building a path forwards for meaningful cannabis breathalyser realization",
+        "url": "https://www.nist.gov/news-events/events/2025/09/building-path-forward-meaningful-cannabis-breathalyzer-realization",
+        "start_date": "24 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Boulder, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "buildingapathforward24Sep2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -5145,6 +4850,27 @@
             "KY"
         ],
         "uid": "scixscientificexchan05Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Quantum computing in materials & molecular sciences",
+        "url": "https://royalsociety.org/science-events-and-lectures/2025/10/quantum-computing/",
+        "start_date": "06 Oct 2025",
+        "end_date": "07 Oct 2025",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "quantumcomputinginma06Oct2025_0"
     },
     {
         "themes": [
@@ -8073,6 +7799,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "A human focus for 21st century life sciences",
+        "url": "https://royalsociety.org/science-events-and-lectures/2026/02/life-sciences/",
+        "start_date": "03 Feb 2026",
+        "end_date": "04 Feb 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ahumanfocusfor21stce03Feb2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -8160,6 +7907,27 @@
             "CA"
         ],
         "uid": "gordonresearchconfer15Feb2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Next-generation ultrafast science",
+        "url": "https://royalsociety.org/science-events-and-lectures/2026/02/ultrafast-science/",
+        "start_date": "16 Feb 2026",
+        "end_date": "17 Feb 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "nextgenerationultraf16Feb2026_0"
     },
     {
         "themes": [
