@@ -107,7 +107,7 @@ def scrape_conference_list() -> Sequence[bs4.element.PageElement]:
 
     """
     url = 'https://supersciencegrl.co.uk/conferences'
-    r = requests.get(url, proxies=proxies, verify = False)
+    r = requests.get(url, proxies=proxies)
     r.raise_for_status() # raise HTTPError if status code is not 2xx Success
 
     soup = BeautifulSoup(r.content, 'html.parser')
@@ -286,7 +286,7 @@ def export_to_json(all_conferences: list[dict], output_file: str='conferences.js
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
-    # proxies = set_proxy()
-    proxies = {}
+    proxies = set_proxy()
+    # proxies = {}
     all_conferences = get_conferences()
     export_to_json(all_conferences)
