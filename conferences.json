@@ -1,52 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/",
-        "start_date": "14 Jul 2025",
-        "end_date": "21 Jul 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "chemicaldevelopments14Jul2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "ACS Division of Organic Chemistry Graduate Research Symposium",
-        "url": "https://www.organicdivision.org/graduate-research-symposium/",
-        "start_date": "17 Jul 2025",
-        "end_date": "20 Jul 2025",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "acsdivisionoforganic17Jul2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "formulation/particle science",
             "physical/phys org"
@@ -1537,6 +1491,26 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Molten Salts and Ionic Liquids Discussion Group MSILDG Summer Research Meeting",
+        "url": "https://www.rsc.org/events/detail/81707/2025-msildg-summer-research-meeting",
+        "start_date": "19 Aug 2025",
+        "end_date": "20 Aug 2025",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscmoltensaltsandion19Aug2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "formulation/particle science",
@@ -1716,7 +1690,7 @@
         "start_date": "25 Aug 2025",
         "end_date": "27 Aug 2025",
         "locations": [
-            "Pozna&nacute, Poland"
+            "Poznań, Poland"
         ],
         "countries": [
             "Poland"
@@ -2842,6 +2816,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Beilstein enzymology symposium: Natural & synthetic evolution of catalysis",
+        "url": "https://www.beilstein-institut.de/en/symposia/enzymology/",
+        "start_date": "09 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Rudesheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "beilsteinenzymologys09Sep2025_0"
+    },
+    {
+        "themes": [
             "physical/phys org",
             "synthesis"
         ],
@@ -3691,7 +3686,7 @@
             "Northern England"
         ],
         "title": "RAG models & AI agents in Chemical Discovery & Development Workshop",
-        "url": "https://aichemy.ac.uk/event/rag-models-and-ai-agents-in-chemical-discovery-and-development-workshop//",
+        "url": "https://aichemy.ac.uk/event/rag-models-and-ai-agents-in-chemical-discovery-and-development-workshop/",
         "start_date": "19 Sep 2025",
         "end_date": null,
         "locations": [
@@ -3701,6 +3696,25 @@
             "UK"
         ],
         "uid": "ragmodelsaiagentsinc19Sep2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Lonodn"
+        ],
+        "title": "From dinosaur juice to green dreams: Reimagining transport fuels",
+        "url": "https://www.rsc.org/events/detail/81916/from-dinosaur-juice-to-green-dreams-reimagining-transport-fuels",
+        "start_date": "19 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "fromdinosaurjuicetog19Sep2025_0"
     },
     {
         "themes": [
@@ -4189,6 +4203,29 @@
             "UK"
         ],
         "uid": "teamsciencecampdecar23Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Organic semiconductor materials: Challenges & opportunities",
+        "url": "https://www.beilstein-institut.de/en/symposia/organic-semiconductor-materials-challenges-and-opportunities/",
+        "start_date": "23 Sep 2025",
+        "end_date": "25 Sep 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "organicsemiconductor23Sep2025_0"
     },
     {
         "themes": [
@@ -4764,6 +4801,31 @@
             "Switzerland"
         ],
         "uid": "europeancontrolledsu02Oct2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Chicago Regional Inorganic Colloquium CRIC",
+        "url": "https://cse.umn.edu/chem/chicago-regional-inorganic-colloquium-2025",
+        "start_date": "04 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Minneapolis, MN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MN"
+        ],
+        "uid": "chicagoregionalinorg04Oct2025_0"
     },
     {
         "themes": [
@@ -5349,6 +5411,27 @@
             "UK"
         ],
         "uid": "foodchemistryconfere14Oct2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Technologies shaping future directions in synthesis",
+        "url": "https://www.beilstein-institut.de/en/symposia/technologies-shaping-future-directions-in-synthesis/",
+        "start_date": "14 Oct 2025",
+        "end_date": "16 Oct 2025",
+        "locations": [
+            "Limburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "technologiesshapingf14Oct2025_0"
     },
     {
         "themes": [
@@ -7442,6 +7525,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Chemical feedstocks for sustainable industry",
+        "url": "https://www.rsc.org/events/detail/82045/chemical-feedstocks-for-sustainable-industry-2025",
+        "start_date": "04 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemicalfeedstocksfo04Dec2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "pharma industry",
@@ -7486,6 +7592,26 @@
             "NV"
         ],
         "uid": "advancedautomativeba08Dec2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Current issues in contaminated land risk assessment",
+        "url": "https://www.rsc.org/events/detail/80836/joint-sobra-rsc-winter-conference-2025-current-issues-in-contaminated-land-risk-assessment",
+        "start_date": "10 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "currentissuesinconta10Dec2025_0"
     },
     {
         "themes": [
@@ -7593,6 +7719,28 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer18Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "materials/polymers",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Formulation Forum: From nano to micro",
+        "url": "https://www.soci.org/events/formulation-forum/2026/sci-formulation-forum-7th-annual-event-from-nano-to-macro",
+        "start_date": "21 Jan 2026",
+        "end_date": "22 Jan 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "formulationforumfrom21Jan2026_0"
     },
     {
         "themes": [
@@ -7928,6 +8076,27 @@
             "UK"
         ],
         "uid": "nextgenerationultraf16Feb2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Modelling chemical catalysis in explicit solvent",
+        "url": "https://www.cecam.org/workshop-details/modelling-chemical-catalysis-in-explicit-solvent-1463",
+        "start_date": "16 Feb 2026",
+        "end_date": "18 Feb 2026",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "modellingchemicalcat16Feb2026_0"
     },
     {
         "themes": [
@@ -8313,6 +8482,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Metal-Organic Framework MOF 2026",
+        "url": "https://na.eventscloud.com/website/86715/home/",
+        "start_date": "16 May 2026",
+        "end_date": "17 May 2026",
+        "locations": [
+            "New Orleans, LA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "LA"
+        ],
+        "uid": "metalorganicframewor16May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -8678,6 +8871,26 @@
             "Belgium"
         ],
         "uid": "10theuchemschemistry12Jul2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Faraday discussion: Solid electrolyte interphases in next-gen batteries",
+        "url": "https://www.rsc.org/events/detail/80737/",
+        "start_date": "13 Jul 2026",
+        "end_date": "15 Jul 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussionsol13Jul2026_0"
     },
     {
         "themes": [
