@@ -1,191 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Phosphatases: From basic research to translation",
-        "url": "https://meetings.embo.org/event/25-phosphatases",
-        "start_date": "27 Jul 2025",
-        "end_date": "31 Jul 2025",
-        "locations": [
-            "Würzburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "phosphatasesfrombasi27Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Microscopy & Microanalysis M&M",
-        "url": "https://mmconference.microscopy.org/",
-        "start_date": "27 Jul 2025",
-        "end_date": "31 Jul 2025",
-        "locations": [
-            "Salt Lake City, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "uid": "microscopymicroanaly27Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Water Disinfection, Byproducts & Health",
-        "url": "https://www.grc.org/water-disinfection-byproducts-and-health-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Chemical Imaging",
-        "url": "https://www.grc.org/chemical-imaging-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: High-throughput chemistry & chemical biology",
-        "url": "https://www.grc.org/high-throughput-chemistry-and-chemical-biology-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Natural Products & Bioactive Compounds",
-        "url": "https://www.grc.org/natural-products-and-bioactive-compounds-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Photochemistry",
-        "url": "https://www.grc.org/photochemistry-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Protein Engineering",
-        "url": "https://www.grc.org/protein-engineering-conference/2025/",
-        "start_date": "27 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Smithfield, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer27Jul2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -203,142 +18,6 @@
             "UK"
         ],
         "uid": "ccp4structuralbiolog27Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Theoretical Chemistry & Computational Modelling Workshop TCCM",
-        "url": "https://tccm25.dipc.org/",
-        "start_date": "28 Jul 2025",
-        "end_date": "30 Jul 2025",
-        "locations": [
-            "Donostia, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "theoreticalchemistry28Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "North American solid state chemistry conference NASSCC",
-        "url": "https://group.chem.iastate.edu/Kovnir/NASSCC2025/NASSCC2025.html",
-        "start_date": "28 Jul 2025",
-        "end_date": "31 Jul 2025",
-        "locations": [
-            "Ames, IA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IA"
-        ],
-        "uid": "northamericansolidst28Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "chem bio",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Intl Conference on Biological Inorganic Chemistry",
-        "url": "https://www.icbic21.org/",
-        "start_date": "28 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Long Beach, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "intlconferenceonbiol28Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Centre for High Resolution Neutron Scattering CHRNS School on Methods & Applications of Neutron Spectroscopy (N America only)",
-        "url": "https://www.nist.gov/news-events/events/2025/07/31st-center-high-resolution-neutron-scattering-chrns-school-methods-and",
-        "start_date": "28 Jul 2025",
-        "end_date": "01 Aug 2025",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "centreforhighresolut28Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "materials/polymers",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Materials Science MEGA Webinar: PFAS Unravelled",
-        "url": "https://us02web.zoom.us/webinar/register/WN_sFP6dE0NRdOi1rF8Lnl4hw#/registration",
-        "start_date": "29 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "materialssciencemega29Jul2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Inorganic informatics: From rules to embeddings",
-        "url": "https://aichemy.ac.uk/event/inorganic-informatics-from-rules-to-embeddings/",
-        "start_date": "31 Jul 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "inorganicinformatics31Jul2025_0"
     },
     {
         "themes": [
@@ -1898,7 +1577,7 @@
         "regions": [
             "Northern England"
         ],
-        "title": "UK AI Research Symposium",
+        "title": "UK AI Research Symposium UKAIRS",
         "url": "https://www.ukairs.ac.uk/",
         "start_date": "08 Sep 2025",
         "end_date": "09 Sep 2025",
@@ -2051,6 +1730,26 @@
             "Germany"
         ],
         "uid": "intlsymposiumonadvan08Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Mathematics & Computer Science for Materials Innovation MACSMIN",
+        "url": "https://kurlin.org/macsmin/2025.php",
+        "start_date": "08 Sep 2025",
+        "end_date": "11 Sep 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "mathematicscomputers08Sep2025_0"
     },
     {
         "themes": [
@@ -2478,6 +2177,26 @@
             "MA"
         ],
         "uid": "danafarbertargetedpr11Sep2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "5-HT Innovators' Club: Lab Digitalization & Automation",
+        "url": "https://www.5-ht.com/en/programs/5-ht-innovators-club/5-ht-innovators-club-september-2025",
+        "start_date": "11 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "5htinnovatorsclublab11Sep2025_0"
     },
     {
         "themes": [
@@ -4013,6 +3732,26 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PANVIRIDE Consortium Drug Discovery Conference",
+        "url": "https://www.panviride.eu/events.html",
+        "start_date": "30 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Gizzeria Lido, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "panvirideconsortiumd30Sep2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -4211,6 +3950,26 @@
             "Switzerland"
         ],
         "uid": "europeancontrolledsu02Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Lovelace-Hodgkin Symposium: Responsible AI & education",
+        "url": "https://www.gla.ac.uk/research/az/datascience/events/lovelace-hodgkinsymposium2025/",
+        "start_date": "02 Oct 2025",
+        "end_date": "03 Oct 2025",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "lovelacehodgkinsympo02Oct2025_0"
     },
     {
         "themes": [
@@ -5289,6 +5048,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Neutrons & simulations (interactive workshop)",
+        "url": "https://www.eventbrite.co.uk/e/neutrons-and-simulations-tickets-1416285721719",
+        "start_date": "24 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "neutronssimulationsi24Oct2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5983,6 +5763,31 @@
             "New Zealand"
         ],
         "uid": "newzealandsocietyfor11Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "environment/fuels",
+            "formulation/particle science",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AI-infused sustainable manufacturing symposium",
+        "url": "https://aichemy.ac.uk/event/ai-infused-sustainable-manufacturing-symposium/",
+        "start_date": "11 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Rotorua, New Zealand"
+        ],
+        "countries": [
+            "New Zealand"
+        ],
+        "uid": "aiinfusedsustainable11Nov2025_0"
     },
     {
         "themes": [
@@ -7022,6 +6827,26 @@
             "UK"
         ],
         "uid": "currentissuesinconta10Dec2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Protein & Peptide Science Group Conference",
+        "url": "https://www.rsc.org/events/detail/81727/1st-rsc-protein-and-peptide-science-group-conference",
+        "start_date": "15 Dec 2025",
+        "end_date": "16 Dec 2025",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscproteinpeptidesci15Dec2025_0"
     },
     {
         "themes": [
