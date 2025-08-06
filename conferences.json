@@ -4705,6 +4705,26 @@
     },
     {
         "themes": [
+            "careers",
+            "med chem"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Medicinal chemistry workshop (PhD students, postdocs)",
+        "url": "https://careers.sygnaturediscovery.com/jobs/6248347-medicinal-chemistry-workshop-for-outstanding-phd-students-and-postdocs",
+        "start_date": "16 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "medicinalchemistrywo16Oct2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
