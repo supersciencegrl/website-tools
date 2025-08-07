@@ -269,6 +269,27 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity",
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#BlackInChemWeek",
+        "url": "https://bsky.app/profile/blackinx.bsky.social/post/3lvsfw6hvf22r",
+        "start_date": "10 Aug 2025",
+        "end_date": "16 Aug 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "blackinchemweek10Aug2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
