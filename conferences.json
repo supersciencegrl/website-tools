@@ -1,229 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "CCP4 Structural Biological Summer School",
-        "url": "https://ccp4.github.io/summer-school/#/",
-        "start_date": "27 Jul 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ccp4structuralbiolog27Jul2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Rocky Mountain Conference on Magnetic Resonance RMCMR",
-        "url": "https://rockychem.com/",
-        "start_date": "03 Aug 2025",
-        "end_date": "07 Aug 2025",
-        "locations": [
-            "Snowbird, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "uid": "rockymountainconfere03Aug2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Atmospheric Chemistry",
-        "url": "https://www.grc.org/atmospheric-chemistry-conference/2025/",
-        "start_date": "03 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer03Aug2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Chemistry & Physics of Liquids",
-        "url": "https://www.grc.org/chemistry-and-physics-of-liquids-conference/2025/",
-        "start_date": "03 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer03Aug2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Electron Spin Interactions with Chiral Molecules & Materials",
-        "url": "https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-conference/2025/",
-        "start_date": "03 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer03Aug2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nanoporous Materials & Their Applications",
-        "url": "https://www.grc.org/nanoporous-materials-and-their-applications-conference/2025/",
-        "start_date": "03 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer03Aug2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Quantum Control of Light & Matter",
-        "url": "https://www.grc.org/quantum-control-of-light-and-matter-conference/2025/",
-        "start_date": "03 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer03Aug2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Asia-Pacific Congress on Catalysis APCAT-10 & Intl Symposium on Single-Atom Catalysis ISSAC-4",
-        "url": "https://www.apcat10.com/event/31244e43-1ca8-493a-aaca-1bf2bf98cefa/home",
-        "start_date": "04 Aug 2025",
-        "end_date": "07 Aug 2025",
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "uid": "asiapacificcongresso04Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "CESA"
-        ],
-        "title": "Denver X-Ray Conference",
-        "url": "https://www.dxcicdd.com/",
-        "start_date": "04 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "Rockville, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "denverxrayconference04Aug2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Machine learning for Materials Research boot camp",
-        "url": "https://www.nanocenter.umd.edu/events/mlmr/",
-        "start_date": "04 Aug 2025",
-        "end_date": "08 Aug 2025",
-        "locations": [
-            "College Park, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "machinelearningforma04Aug2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -287,27 +64,6 @@
             "Online"
         ],
         "uid": "blackinchemweek10Aug2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Continuous BioFlow Summer Webinar",
-        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=7vO7K2i2-U2wY1mJRcPUZsLysIsAhYlJpZ2n4ENsLrtUMEU4RkRUVzlGRFVaSlpJQUdHRzUyM0haRC4u",
-        "start_date": "11 Aug 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "continuousbioflowsum11Aug2025_0"
     },
     {
         "themes": [
@@ -6317,6 +6073,27 @@
             "Online"
         ],
         "uid": "rscbmcshottopicsanti20Nov2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Innovations in Process Chemistry & Technology",
+        "url": "https://www.rsc.org/events/detail/81870/rsc-process-chemistry-and-technology-group-annual-event-2025",
+        "start_date": "21 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "innovationsinprocess21Nov2025_0"
     },
     {
         "themes": [
