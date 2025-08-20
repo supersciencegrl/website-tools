@@ -1,27 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "#BlackInChemWeek",
-        "url": "https://bsky.app/profile/blackinx.bsky.social/post/3lvsfw6hvf22r",
-        "start_date": "10 Aug 2025",
-        "end_date": "16 Aug 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "blackinchemweek10Aug2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -129,30 +108,6 @@
             "DC"
         ],
         "uid": "acsusfallnationalmee17Aug2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Hackathon: Building bridges for better self-driving lab software",
-        "url": "https://www.nist.gov/news-events/events/2025/08/hackathon-building-bridges-better-self-driving-laboratory-software",
-        "start_date": "18 Aug 2025",
-        "end_date": "19 Aug 2025",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "hackathonbuildingbri18Aug2025_0"
     },
     {
         "themes": [
@@ -404,6 +359,26 @@
     },
     {
         "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "SCI Site visit: University of New South Wales",
+        "url": "https://www.soci.org/events/australia-group/2025/site-visit-to-the-university-of-new-south-wales",
+        "start_date": "26 Aug 2025",
+        "end_date": null,
+        "locations": [
+            "Sydney, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "scisitevisituniversi26Aug2025_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -480,6 +455,32 @@
             "UK"
         ],
         "uid": "varietyinchemistryed28Aug2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "formulation/particle science",
+            "materials/polymers",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "32nd SCI-Chinese Society of Chemical Science & Technology Conference",
+        "url": "https://www.soci.org/events/chinese-uk-group/2025/32nd-sci-cscst-conference-2025",
+        "start_date": "28 Aug 2025",
+        "end_date": "29 Aug 2025",
+        "locations": [
+            "Aberdeen, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "32ndscichinesesociet28Aug2025_0"
     },
     {
         "themes": [
@@ -3942,6 +3943,26 @@
     },
     {
         "themes": [
+            "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "10th Anniversary of the UN Sustainable Development Goals: Sustainable Innovation Challenge 2025",
+        "url": "https://www.soci.org/events/canada-group/2025/sustainable-innovation-challenge-2025",
+        "start_date": "03 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "10thanniversaryofthe03Oct2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano",
@@ -4461,6 +4482,25 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Discovery hub: Introducing industry to UK national research centres",
+        "url": "https://www.soci.org/events/materials-ecc/2025/discovery-hub-introducing-industry-to-uk-national-research-centres",
+        "start_date": "10 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "discoveryhubintroduc10Oct2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -4875,6 +4915,25 @@
             "Online"
         ],
         "uid": "howtodeveloporganome20Oct2025_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Developments in road surface characteristics & measurement",
+        "url": "https://www.soci.org/events/construction-materials-group/2025/developments-in-road-surface-characteristics-and-measurement",
+        "start_date": "21 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "developmentsinroadsu21Oct2025_0"
     },
     {
         "themes": [
