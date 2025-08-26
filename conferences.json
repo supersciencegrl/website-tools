@@ -1,116 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Summer School: Organic Synthesis",
-        "url": "https://summer-school25.scg.ch/",
-        "start_date": "17 Aug 2025",
-        "end_date": "21 Aug 2025",
-        "locations": [
-            "Haute-Nendaz, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "swisssummerschoolorg17Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Magnetic Resonance Microscopy ICMRM",
-        "url": "https://icmrm.physik.uni-wuerzburg.de/",
-        "start_date": "17 Aug 2025",
-        "end_date": "21 Aug 2025",
-        "locations": [
-            "Würzburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "intlconferenceonmagn17Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Intl Symposium on Proteomics in the Life Sciences",
-        "url": "https://www.asbmb.org/meetings-events/proteomics-2025",
-        "start_date": "17 Aug 2025",
-        "end_date": "21 Aug 2025",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "intlsymposiumonprote17Aug2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "ACS US Fall National Meeting",
-        "url": "https://www.acs.org/events/fall.html",
-        "start_date": "17 Aug 2025",
-        "end_date": "21 Aug 2025",
-        "locations": [
-            "Washington, DC, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "uid": "acsusfallnationalmee17Aug2025_0"
-    },
-    {
-        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -127,50 +17,6 @@
             "Germany"
         ],
         "uid": "summerschoolongreenc18Aug2025_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Molten Salts and Ionic Liquids Discussion Group MSILDG Summer Research Meeting",
-        "url": "https://www.rsc.org/events/detail/81707/2025-msildg-summer-research-meeting",
-        "start_date": "19 Aug 2025",
-        "end_date": "20 Aug 2025",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscmoltensaltsandion19Aug2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "UK-China Intl Particle Technology Forum PTF10",
-        "url": "https://ptf10.csp.org.cn/",
-        "start_date": "22 Aug 2025",
-        "end_date": "25 Aug 2025",
-        "locations": [
-            "Xi'an, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "ukchinaintlparticlet22Aug2025_0"
     },
     {
         "themes": [
@@ -295,25 +141,6 @@
             "Austria"
         ],
         "uid": "intlconferenceonnucl24Aug2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "DALIA satellite meeting to Conference on Research Data Infrastructure CoRDI",
-        "url": "https://dalia.education/de/events/dalia-satellite-meeting-to-cordi-2025",
-        "start_date": "25 Aug 2025",
-        "end_date": null,
-        "locations": [
-            "Aachen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "daliasatellitemeetin25Aug2025_0"
     },
     {
         "themes": [
@@ -5705,6 +5532,25 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Innovation Roundtable Summit",
+        "url": "https://innovationroundtable.com/summit/innovation-2025/",
+        "start_date": "04 Nov 2025",
+        "end_date": "06 Nov 2025",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "innovationroundtable04Nov2025_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -7634,6 +7480,30 @@
             "TX"
         ],
         "uid": "gordonresearchconfer22Feb2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Drug Delivery Summit USA 2026",
+        "url": "https://www.usa.drug-delivery-summit.com/",
+        "start_date": "23 Feb 2026",
+        "end_date": "24 Feb 2026",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "drugdeliverysummitus23Feb2026_0"
     },
     {
         "themes": [
