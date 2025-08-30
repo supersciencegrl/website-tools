@@ -1,337 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Summer School on Green Chemistry",
-        "url": "https://www.tu.berlin/en/international/summer-school/summer-school/summer-school-on-campus/green-chemistry",
-        "start_date": "18 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "summerschoolongreenc18Aug2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Density Functional Theory DFT & its Applications",
-        "url": "https://dft2026.com/",
-        "start_date": "23 Aug 2025",
-        "end_date": "27 Aug 2025",
-        "locations": [
-            "Donostia-San Sebastián, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "intlconferenceondens23Aug2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "30th European Colloquium on Heterocyclic Chemistry ECHC",
-        "url": "http://echc2025.com/",
-        "start_date": "24 Aug 2025",
-        "end_date": "28 Aug 2025",
-        "locations": [
-            "Budapest, Hungary"
-        ],
-        "countries": [
-            "Hungary"
-        ],
-        "uid": "30theuropeancolloqui24Aug2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Intl Symposium on the Chemistry of Natural Products/Intl Congress on Biodiversity",
-        "url": "https://raci.org.au/events/event-description?CalendarEventKey=182f4026-0ebb-4e90-93cd-019177bebe22",
-        "start_date": "24 Aug 2025",
-        "end_date": "28 Aug 2025",
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "uid": "intlsymposiumonthech24Aug2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Joint European Magnetic Symposia JEMS",
-        "url": "https://jems2025.sciencesconf.org/",
-        "start_date": "24 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "jointeuropeanmagneti24Aug2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Catecholamines",
-        "url": "https://www.grc.org/catecholamines-conference/2025/",
-        "start_date": "24 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer24Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Nucleation & Atmospheric Aerosols ICNAA 2025",
-        "url": "https://icnaa2025.univie.ac.at/home/",
-        "start_date": "24 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "intlconferenceonnucl24Aug2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Peptide Synthesis Conference",
-        "url": "https://www.eupeptidesynthesis.com/",
-        "start_date": "25 Aug 2025",
-        "end_date": "27 Aug 2025",
-        "locations": [
-            "Porto, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "europeanpeptidesynth25Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "European Crystallographic Meeting",
-        "url": "https://www.ecm35.org/",
-        "start_date": "25 Aug 2025",
-        "end_date": "27 Aug 2025",
-        "locations": [
-            "Pozna&nacute, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "uid": "europeancrystallogra25Aug2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "SCI Site visit: University of New South Wales",
-        "url": "https://www.soci.org/events/australia-group/2025/site-visit-to-the-university-of-new-south-wales",
-        "start_date": "26 Aug 2025",
-        "end_date": null,
-        "locations": [
-            "Sydney, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "uid": "scisitevisituniversi26Aug2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI SouthEast Asia",
-        "url": "https://www.cphi.com/korea/en/home.html",
-        "start_date": "26 Aug 2025",
-        "end_date": "28 Aug 2025",
-        "locations": [
-            "Seoul, South Korea"
-        ],
-        "countries": [
-            "South Korea"
-        ],
-        "uid": "cphisoutheastasia26Aug2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Conference on Research Data Infrastructure CoRDI",
-        "url": "https://www.nfdi.de/cordi-2025/",
-        "start_date": "26 Aug 2025",
-        "end_date": "28 Aug 2025",
-        "locations": [
-            "Aachen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "conferenceonresearch26Aug2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Inorganic Symposium on Bioorganometallic Chemistry ISBOMC",
-        "url": "https://isbomc25.sciencesconf.org/",
-        "start_date": "26 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "inorganicsymposiumon26Aug2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Variety in Chemistry Education/Physics Higher Education ViCEPHEC",
-        "url": "https://vicephec2025.weebly.com/",
-        "start_date": "28 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "varietyinchemistryed28Aug2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "environment/fuels",
-            "formulation/particle science",
-            "materials/polymers",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "32nd SCI-Chinese Society of Chemical Science & Technology Conference",
-        "url": "https://www.soci.org/events/chinese-uk-group/2025/32nd-sci-cscst-conference-2025",
-        "start_date": "28 Aug 2025",
-        "end_date": "29 Aug 2025",
-        "locations": [
-            "Aberdeen, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "32ndscichinesesociet28Aug2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Dream reactions with (& without) light",
-        "url": "https://www.uni-muenster.de/Chemie.oc/glorius/dream_reactions.html",
-        "start_date": "29 Aug 2025",
-        "end_date": null,
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "dreamreactionswithwi29Aug2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "catalysis",
             "environment/fuels",
@@ -1869,6 +1538,29 @@
     },
     {
         "themes": [
+            "business",
+            "careers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Thriving in Biotech: Building Bridges, Breaking Barriers (students & early careers)",
+        "url": "https://scienceinboston.com/event/thriving-in-biotech-building-bridges-breaking-barriers/",
+        "start_date": "11 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "thrivinginbiotechbui11Sep2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "catalysis",
             "inorganic/nano",
@@ -2259,6 +1951,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Boulder Peptide Symposium",
+        "url": "https://boulderpeptide.org/",
+        "start_date": "15 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Boulder, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "boulderpeptidesympos15Sep2025_0"
+    },
+    {
+        "themes": [
             "careers"
         ],
         "regions": [
@@ -2583,6 +2299,29 @@
             "UK"
         ],
         "uid": "rscheterocyclicsynth18Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Certainty South Korea (modelling in pharma)",
+        "url": "https://www.certara.com/live-events/certainty-korea-2025/",
+        "start_date": "18 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Seoul, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "certaintysouthkoream18Sep2025_0"
     },
     {
         "themes": [
@@ -3029,6 +2768,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Certainty China (modelling in pharma)",
+        "url": "https://www.certara.com/live-events/certainty-china-2025/",
+        "start_date": "23 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "certaintychinamodell23Sep2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "process/engineering"
@@ -3216,6 +2978,29 @@
             "UK"
         ],
         "uid": "faradaydiscussionhig24Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Certainty Japan (modelling in pharma)",
+        "url": "https://www.certara.com/live-events/certainty-japan-2025/",
+        "start_date": "25 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Shinagawa, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "certaintyjapanmodell25Sep2025_0"
     },
     {
         "themes": [
@@ -3651,6 +3436,29 @@
             "Online"
         ],
         "uid": "commonwealthchemistr01Oct2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Certainty (model-informed drug development)",
+        "url": "https://certainty.certara.com/emea/",
+        "start_date": "01 Oct 2025",
+        "end_date": "02 Oct 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "certaintymodelinform01Oct2025_0"
     },
     {
         "themes": [
@@ -5748,6 +5556,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Understanding Peripheral Membrane Protein Interactions: Structure, Dynamics, Function, & Therapy",
+        "url": "https://www.biophysics.org/meetings-events/thematic-meetings/2025-greece-thematic-meeting#/",
+        "start_date": "09 Nov 2025",
+        "end_date": "13 Nov 2025",
+        "locations": [
+            "Thessaloniki, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "uid": "understandingperiphe09Nov2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "environment/fuels",
             "safety"
@@ -7766,6 +7595,32 @@
     },
     {
         "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Certainty US (modelling & biosimulation at scale)",
+        "url": "https://certainty.certara.com/us/",
+        "start_date": "14 Apr 2026",
+        "end_date": "15 Apr 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "certaintyusmodelling14Apr2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -8317,6 +8172,26 @@
             "UK"
         ],
         "uid": "faradaydiscussionsol13Jul2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Chemistry Education/European Conference on Research in Chemical Education",
+        "url": "https://iccecrice2026.org/",
+        "start_date": "13 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Erzurum, Türkiye"
+        ],
+        "countries": [
+            "Türkiye"
+        ],
+        "uid": "intlconferenceonchem13Jul2026_0"
     },
     {
         "themes": [
