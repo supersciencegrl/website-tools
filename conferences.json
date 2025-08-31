@@ -2159,6 +2159,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Macromolecular crystallography MX beamline training @ DIAMOND",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/MX-BAG-Training.html",
+        "start_date": "17 Sep 2025",
+        "end_date": "18 Sep 2025",
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "macromolecularcrysta17Sep2025_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -2468,6 +2488,26 @@
     {
         "themes": [
             "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Synchrotron Radiation School",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/Synchrotron-Radiation-School-2025.html",
+        "start_date": "21 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "synchrotronradiation21Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "careers",
             "environment/fuels"
         ],
@@ -2721,6 +2761,27 @@
             "GA"
         ],
         "uid": "usnationalorganizati22Sep2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org",
+            "safety"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Intl Technical Safety Forum ITSF (focussing on high-energy physics)",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/ITSF-2025.html",
+        "start_date": "22 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intltechnicalsafetyf22Sep2025_0"
     },
     {
         "themes": [
@@ -2981,6 +3042,25 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "From molecules to organisms: Interactions & interventions",
+        "url": "https://oegmbt.at/events/annual-meeting",
+        "start_date": "24 Sep 2025",
+        "end_date": "26 Sep 2025",
+        "locations": [
+            "Innsbruck, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "frommoleculestoorgan24Sep2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "formulation/particle science",
             "med chem",
@@ -3063,6 +3143,25 @@
             "Germany"
         ],
         "uid": "heartofeuropebiocrys25Sep2025_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "X-ray science symposium celebrating Prof Andrew J Dent",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/X-ray-Science-Symposium-Celebrating-Prof-Andrew-J-Dent.html",
+        "start_date": "26 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "xraysciencesymposium26Sep2025_0"
     },
     {
         "themes": [
@@ -4341,6 +4440,47 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Applied liquid handling boot camp",
+        "url": "https://www.slas.org/events-calendar/applied-liquid-handling-boot-camp/",
+        "start_date": "15 Oct 2025",
+        "end_date": "16 Oct 2025",
+        "locations": [
+            "Pittsburgh, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "appliedliquidhandlin15Oct2025_0"
+    },
+    {
+        "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Regional Meetup: Munich",
+        "url": "https://www.slas.org/events-calendar/munich-meet-up/",
+        "start_date": "16 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "societyforlaboratory16Oct2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "med chem"
         ],
@@ -4900,6 +5040,26 @@
     {
         "themes": [
             "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "X-ray absorption spectroscopy XAS data analysis workshop",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/XAS-Workshop-2025.html",
+        "start_date": "27 Oct 2025",
+        "end_date": "29 Oct 2025",
+        "locations": [
+            "Didcot, Oxfordshire"
+        ],
+        "countries": [
+            "Oxfordshire"
+        ],
+        "uid": "xrayabsorptionspectr27Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "catalysis",
             "chem bio"
         ],
@@ -5063,6 +5223,27 @@
             "Online"
         ],
         "uid": "intlforumonresearche30Oct2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "UK Catalysis Hub & Solar Chemicals Network Joint Workshop",
+        "url": "https://www.solarchemicals.co.uk/copy-of-beyond-hydrogen-workshop-2",
+        "start_date": "31 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukcatalysishubsolarc31Oct2025_0"
     },
     {
         "themes": [
@@ -5934,6 +6115,26 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GDCh Vereinignung für Chemie und Wirtschaft VCW Annual Conference: AI in the Chemical Industry",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11861&sp_id=1",
+        "start_date": "13 Nov 2025",
+        "end_date": "14 Nov 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "gdchvereinignungfürc13Nov2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -6231,6 +6432,26 @@
             "UAE"
         ],
         "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "DIAMOND-CCP4 data collection & structure solution workshop",
+        "url": "https://www.diamond.ac.uk/Home/Events/2025/Diamond-CCP4-Data-Collection-and-Structure-Solution-Workshop-2025.html",
+        "start_date": "24 Nov 2025",
+        "end_date": "28 Nov 2025",
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "diamondccp4datacolle24Nov2025_0"
     },
     {
         "themes": [
@@ -6568,6 +6789,26 @@
             "Taiwan"
         ],
         "uid": "conferenceofasiancry01Dec2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "med chem"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS & European Laboratory Research & Innovation Group ELRIG Meetup",
+        "url": "https://www.slas.org/events-calendar/slas-elrig-meet-up/",
+        "start_date": "02 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "societyforlaboratory02Dec2025_0"
     },
     {
         "themes": [
@@ -7181,6 +7422,29 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Thrive in Science: Women's leadership forum",
+        "url": "https://www.slas.org/events-calendar/thrive-in-science-womens-leadership-forum/",
+        "start_date": "11 Feb 2026",
+        "end_date": "12 Feb 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "thriveinsciencewomen11Feb2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers"
         ],
@@ -7309,6 +7573,26 @@
             "TX"
         ],
         "uid": "gordonresearchconfer22Feb2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "HERCULES European school (neutrons & synchrotron radiation for science)",
+        "url": "https://hercules-school.eu/",
+        "start_date": "22 Feb 2026",
+        "end_date": "29 Mar 2026",
+        "locations": [
+            "Grenoble, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "herculeseuropeanscho22Feb2026_0"
     },
     {
         "themes": [
@@ -8532,6 +8816,25 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Regional Meetup Vienna",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-vienna/",
+        "start_date": "23 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "societyforlaboratory23Sep2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -8666,7 +8969,7 @@
         "regions": [
             "Western USA"
         ],
-        "title": "Society for Laboratory Automation & Screening SLAS 2027",
+        "title": "Society for Laboratory Automation & Screening SLAS USA 2027",
         "url": "https://www.slas.org/events-calendar/slas2027-international-conference-exhibition/",
         "start_date": "30 Jan 2027",
         "end_date": "03 Feb 2027",
@@ -8680,6 +8983,26 @@
             "CA"
         ],
         "uid": "societyforlaboratory30Jan2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS Europe 2027",
+        "url": "https://www.slas.org/events-calendar/slas-europe-2027-conference-and-exhibition/",
+        "start_date": "25 May 2027",
+        "end_date": "27 May 2027",
+        "locations": [
+            "Hamburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "societyforlaboratory25May2027_0"
     },
     {
         "themes": [
