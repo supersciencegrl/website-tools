@@ -3808,6 +3808,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemotion ELN Hands-on Workshop",
+        "url": "https://www.nfdi4chem.de/event/chemotion-eln-hands-on-workshop/",
+        "start_date": "06 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemotionelnhandsonw06Oct2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "physical/phys org"
@@ -5461,6 +5480,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "LabIMotion Hands-on Workshop",
+        "url": "https://www.nfdi4chem.de/event/labimotion-online-hands-on-workshop/",
+        "start_date": "04 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "labimotionhandsonwor04Nov2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6370,6 +6408,27 @@
             "Online"
         ],
         "uid": "rscbmcshottopicsanti20Nov2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FAIR research data management workshop",
+        "url": "https://www.nfdi4chem.de/event/fair-research-data-management-workshop-in-jena/",
+        "start_date": "20 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Jena, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "fairresearchdatamana20Nov2025_0"
     },
     {
         "themes": [
