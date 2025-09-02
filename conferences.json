@@ -132,27 +132,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "European Biotransformation Workshop",
-        "url": "https://www.dmdg.org/events/20250901/introduction.asp",
-        "start_date": "01 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "europeanbiotransform01Sep2025_0"
-    },
-    {
-        "themes": [
             "business",
             "pharma industry"
         ],
@@ -2978,6 +2957,26 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "The State of Biotech",
+        "url": "https://webinars.liebertpub.com/e/the-state-of-biotech-2025?aff=TLAIwanRoberts",
+        "start_date": "24 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "thestateofbiotech24Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -3047,7 +3046,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "From molecules to organisms: Interactions & interventions",
+        "title": "From molecules to organisms: Interactions & interventions ÖGMBT Annual Meeting",
         "url": "https://oegmbt.at/events/annual-meeting",
         "start_date": "24 Sep 2025",
         "end_date": "26 Sep 2025",
@@ -3081,6 +3080,27 @@
             "Japan"
         ],
         "uid": "certaintyjapanmodell25Sep2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BACCARA Power Day (electrochemistry)",
+        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=35664&einrichtungsid=148",
+        "start_date": "25 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "baccarapowerdayelect25Sep2025_0"
     },
     {
         "themes": [
@@ -3162,6 +3182,49 @@
             "UK"
         ],
         "uid": "xraysciencesymposium26Sep2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ACS Philly Younger Chemists' Committee Spring Poster Symposium",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd_tD3REu7st5lkAEKMbFbYlGDDPRFPD7ms3MII8la8rc7drw/viewform?pli=1",
+        "start_date": "26Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "acsphillyyoungerchem26Sep2025_0"
     },
     {
         "themes": [
@@ -3270,6 +3333,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lebensmittelchemie & Lehramt Chemie",
+        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=39826&einrichtungsid=148",
+        "start_date": "29 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "lebensmittelchemiele29Sep2025_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -3371,6 +3453,26 @@
             "PA"
         ],
         "uid": "intlsymposiumonprepa29Sep2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intermetallics 2025",
+        "url": "https://www.mpie.de/events/42464/2768772",
+        "start_date": "29 Sep 2025",
+        "end_date": "02 Oct 2025",
+        "locations": [
+            "Bad Staffelstein, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "intermetallics202529Sep2025_0"
     },
     {
         "themes": [
@@ -3561,6 +3663,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Interdisciplinary micro, nano, & molecular system symposium",
+        "url": "https://pfringberg.wordpress.com/",
+        "start_date": "01 Oct 2025",
+        "end_date": "04 Oct 2025",
+        "locations": [
+            "Kreuth, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "interdisciplinarymic01Oct2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "formulation/particle science",
             "pharma industry"
@@ -3694,6 +3816,26 @@
             "Canada"
         ],
         "uid": "10thanniversaryofthe03Oct2025_0"
+    },
+    {
+        "themes": [
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Türen auf mit der Maus (children's)",
+        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=35658&einrichtungsid=148",
+        "start_date": "03 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "türenaufmitdermausch03Oct2025_0"
     },
     {
         "themes": [
@@ -4296,6 +4438,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "FutureLab: Chemistry in the Digital Age",
+        "url": "https://cams-uk.co.uk/futurelab-chemistry-in-the-digital-age",
+        "start_date": "13 Oct 2025",
+        "end_date": "17 Oct 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "futurelabchemistryin13Oct2025_0"
+    },
+    {
+        "themes": [
             "careers",
             "computational/data",
             "med chem"
@@ -4517,6 +4680,26 @@
             "UK"
         ],
         "uid": "medicinalchemistrywo16Oct2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Standardization in Laboratory Automation SiLA Hackathon",
+        "url": "https://www.bam-akademie.de/catalog/course/standardization-in-laboratory-automation-%28sila%29-63.html",
+        "start_date": "16 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "standardizationinlab16Oct2025_0"
     },
     {
         "themes": [
@@ -5499,6 +5682,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "North Carolina Photochemistry Symposium NC Photochem",
+        "url": "https://pages.charlotte.edu/ncphotochem/",
+        "start_date": "04 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Charlotte, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "northcarolinaphotoch04Nov2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5595,6 +5802,26 @@
             "Spain"
         ],
         "uid": "chemicaldevelopments04Nov2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Life & Chemical Sciences Career Event (secondary schools)",
+        "url": "https://www.linkedin.com/posts/jackhowley_please-fill-out-this-form-activity-7368354950499704833-Hkxf/",
+        "start_date": "05 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Ingliston, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "lifechemicalsciences05Nov2025_0"
     },
     {
         "themes": [
@@ -6170,6 +6397,27 @@
             "Germany"
         ],
         "uid": "gdchvereinignungfürc13Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Intl Isotope Society UK Group Annual Symposium",
+        "url": "https://www.iis-uk.org/",
+        "start_date": "14 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlisotopesocietyuk14Nov2025_0"
     },
     {
         "themes": [
@@ -6871,6 +7119,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Future Labs, Automation, & Technology Europe",
+        "url": "https://www.amg-world.co.uk/future-labs-europe/",
+        "start_date": "02 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "futurelabsautomation02Dec2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -7277,6 +7545,27 @@
             "CA"
         ],
         "uid": "gordonresearchconfer25Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Winter School on Materials Chemistry",
+        "url": "https://www.mpie.de/events/42463/2768772",
+        "start_date": "25 Jan 2026",
+        "end_date": "30 Jan 2026",
+        "locations": [
+            "Kreuth, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "winterschoolonmateri25Jan2026_0"
     },
     {
         "themes": [
@@ -7746,6 +8035,26 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Resilient Ag 2026",
+        "url": "https://events.techtour.com/event/resilientag26/Overview",
+        "start_date": "04 Mar 2026",
+        "end_date": "05 Mar 2026",
+        "locations": [
+            "Monheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "resilientag202604Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -7961,6 +8270,27 @@
             "MA"
         ],
         "uid": "certaintyusmodelling14Apr2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Kraftwerk Batterie: Advanced battery power",
+        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=30742&einrichtungsid=148",
+        "start_date": "14 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "kraftwerkbatterieadv14Apr2026_0"
     },
     {
         "themes": [
