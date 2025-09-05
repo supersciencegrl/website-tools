@@ -1,114 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "catalysis",
-            "environment/fuels",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Electrochem 2025",
-        "url": "https://www.soci.org/events/electrochemical-technology-group/2025/electrochem-2025",
-        "start_date": "31 Aug 2025",
-        "end_date": "02 Sep 2025",
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "electrochem202531Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "formulation/particle science",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress & Annual Meeting of the Society for Medicinal Plant & Natural Product Research",
-        "url": "https://www.ganaples2025.org/",
-        "start_date": "31 Aug 2025",
-        "end_date": "03 Sep 2025",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "intlcongressannualme31Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Euroanalysis 2025",
-        "url": "https://www.euroanalysis2025.com/",
-        "start_date": "31 Aug 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "euroanalysis202531Aug2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on Advances in Synthetic & Medicinal Chemistry EFMC-ASMC",
-        "url": "https://www.efmc-asmc.org/",
-        "start_date": "31 Aug 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Porto, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "intlsymposiumonadvan31Aug2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Microscopy Conference 2025",
-        "url": "https://microscopy-conference.de/",
-        "start_date": "31 Aug 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Karlsruhe, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "microscopyconference31Aug2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano",
@@ -129,68 +21,6 @@
             "Norway"
         ],
         "uid": "europacateuropeancon31Aug2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "CPHI Shenzhen",
-        "url": "https://www.cphi.com/china/en-gb/home.html",
-        "start_date": "01 Sep 2025",
-        "end_date": "03 Sep 2025",
-        "locations": [
-            "Shenzhen, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "cphishenzhen01Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Intl Symposium on Foldamers",
-        "url": "https://www.foldamers2025.com/",
-        "start_date": "01 Sep 2025",
-        "end_date": "03 Sep 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlsymposiumonfolda01Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Benzon Symposium: Protein structure prediction & design in biology & pharmacology",
-        "url": "https://benzon-foundation.dk/benzon-symposium-no-69-protein-structure-prediction-and-design-in-biology-and-pharmacology/",
-        "start_date": "01 Sep 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "benzonsymposiumprote01Sep2025_0"
     },
     {
         "themes": [
@@ -230,113 +60,6 @@
             "UK"
         ],
         "uid": "spectroscopymastercl01Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Chicago's Biotechnology Meetup",
-        "url": "https://www.meetup.com/chitownbio/events/310359861/",
-        "start_date": "02 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "chicagosbiotechnolog02Sep2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Association Francophone de la Chimie Acc´l´r´e Digitalis´e AFCAD Annual Conference",
-        "url": "https://www.afcad.org/collect/description/553932-z-inscriptions-journees-annuelles-2-et-3-septembre-2025",
-        "start_date": "02 Sep 2025",
-        "end_date": "03 Sep 2025",
-        "locations": [
-            "Lausanne, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "associationfrancopho02Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Contaminated Sediments ContaSed 2025",
-        "url": "https://www.oeschger.unibe.ch/services/events/conferences/contased_2025/announcement/index_eng.html",
-        "start_date": "02 Sep 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Bern, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "intlconferenceoncont02Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Leeds-Lyon Symposium on Tribology",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/leeds-lyon-symposium-2025",
-        "start_date": "02 Sep 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "leedslyonsymposiumon02Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Open Meeting: Shaping the future of DMPK",
-        "url": "https://www.dmdg.org/events/",
-        "start_date": "02 Sep 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "drugmetabolismdiscus02Sep2025_0"
     },
     {
         "themes": [
@@ -406,26 +129,6 @@
     },
     {
         "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Outsourcing in clinical trials China",
-        "url": "https://www.arena-international.com/event/octchina/",
-        "start_date": "03 Sep 2025",
-        "end_date": "04 Sep 2025",
-        "locations": [
-            "Suzhou, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "outsourcinginclinica03Sep2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -463,87 +166,6 @@
             "Greece"
         ],
         "uid": "intlconferenceonenvi03Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday Discussion: High-entropy alloy nanostructures",
-        "url": "https://www.rsc.org/events/detail/77926/high-entropy-alloy-nanostructures-from-theory-to-application-faraday-discussion",
-        "start_date": "04 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussionhig04Sep2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Chemical Society Fall Meeting",
-        "url": "https://fm25.scg.ch/",
-        "start_date": "04 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "swisschemicalsociety04Sep2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "The future of chemical education ChemEdu 2025",
-        "url": "https://chemedu25.scg.ch/",
-        "start_date": "04 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "thefutureofchemicale04Sep2025_0"
     },
     {
         "themes": [
@@ -1372,6 +994,25 @@
             "Germany"
         ],
         "uid": "emboselfleadershipfo10Sep2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Science Festival",
+        "url": "https://britishsciencefestival.org/the-british-science-festival-is-heading-to-liverpool-in-2025/",
+        "start_date": "10 Sep 2025",
+        "end_date": "14 Sep 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishsciencefestiv10Sep2025_0"
     },
     {
         "themes": [
@@ -5382,6 +5023,26 @@
             "Argentina"
         ],
         "uid": "argentinenationalsym29Oct2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Day of Science & Careers",
+        "url": "https://www.soci.org/events/hq-events/2025/sci-day-of-science-and-careers-2025",
+        "start_date": "30 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scidayofsciencecaree30Oct2025_0"
     },
     {
         "themes": [
