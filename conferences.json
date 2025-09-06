@@ -678,6 +678,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemistry High-throughput, Automation & AI Technologies CHAATS",
+        "url": "https://www.linkedin.com/posts/iulia-yoo-lee-ah-strambeanu-01475740_chaats2025-highthroughputchemistry-automation-activity-7369850095011381248-ZK6y/",
+        "start_date": "09 Sep 2025",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "chemistryhighthrough09Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry",
