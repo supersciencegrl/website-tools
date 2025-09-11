@@ -6024,6 +6024,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "UK QSAR Autumn Meeting",
+        "url": "https://ukqsar.org/index.php/2025/06/24/autumn-meeting-2025/",
+        "start_date": "13 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukqsarautumnmeeting13Nov2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6050,7 +6071,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "GDCh Seniorexperten Chemie: Ja, aber wie?",
+        "title": "GDCh Seniorexperten Chemie: Pflanzenschutz: Ja, aber wie?",
         "url": "https://www.gdch.de/veranstaltungen/tagungen/gdch-tagungen-2025.html",
         "start_date": "13 Nov 2025",
         "end_date": null,
@@ -6188,6 +6209,25 @@
             "Online"
         ],
         "uid": "chemicalprocesssafet17Nov2025_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "LGBTQ+ in STEM Day",
+        "url": "https://prideinstem.org/lgbtstemday/",
+        "start_date": "18 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "uid": "lgbtqinstemday18Nov2025_0"
     },
     {
         "themes": [
@@ -6593,6 +6633,27 @@
             "Japan"
         ],
         "uid": "japanesesocietyforpr27Nov2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Molecular Graphics & Modelling Society MGMS Young Modellers' FOrum",
+        "url": "https://www.mgms.org/WordPress/conferences/ymf-2025/",
+        "start_date": "28 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "moleculargraphicsmod28Nov2025_0"
     },
     {
         "themes": [
@@ -7034,6 +7095,27 @@
             "UK"
         ],
         "uid": "rscproteinpeptidesci15Dec2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "RSC Macrocyclic & Supramolecular Chemistry MASC Meeting",
+        "url": "https://mascgroup.co.uk/masc-2025-home/",
+        "start_date": "15 Dec 2025",
+        "end_date": "16 Dec 2025",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscmacrocyclicsupram15Dec2025_0"
     },
     {
         "themes": [
@@ -7799,6 +7881,46 @@
             "France"
         ],
         "uid": "frenchbiologicalinor16Mar2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "STEM for Britain (poster conference)",
+        "url": "https://stemforbritain.org.uk/",
+        "start_date": "17 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "stemforbritainposter17Mar2026_0"
     },
     {
         "themes": [
