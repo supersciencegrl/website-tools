@@ -2007,6 +2007,28 @@
     },
     {
         "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "The Advanced Materials Show USA",
+        "url": "https://advancedmaterialsshowusa.com/",
+        "start_date": "30 Sep 2025",
+        "end_date": "01 Oct 2025",
+        "locations": [
+            "Columbus, OH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OH"
+        ],
+        "uid": "theadvancedmaterials30Sep2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "formulation/particle science",
             "pharma industry"
