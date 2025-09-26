@@ -2,818 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Image processing for cryo-electron microscopy cryoEM",
-        "url": "https://meetings.embo.org/event/25-cryo-em",
-        "start_date": "09 Sep 2025",
-        "end_date": "16 Sep 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "imageprocessingforcr09Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Design of Experiments for Chemists & Engineers (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/",
-        "start_date": "10 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "designofexperimentsf10Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Thiol-based redox switches",
-        "url": "https://meetings.embo.org/event/25-thiol-switches",
-        "start_date": "13 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Sant Feliu de Guixols, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "thiolbasedredoxswitc13Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "RSC/SCI Medicinal Chemistry Symposium",
-        "url": "https://www.rscbmcs.org/events/kinase2025/",
-        "start_date": "14 Sep 2025",
-        "end_date": "17 Sep 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscscimedicinalchemi14Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Alpine Conference on Magnetic Resonance in Solids",
-        "url": "https://alpine-conference.org/",
-        "start_date": "14 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Chamonix-Mont-Blanc, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "alpineconferenceonma14Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EUROPIN Vienna summer school on drug design",
-        "url": "https://pharminfo.univie.ac.at/summerschool/2025/",
-        "start_date": "14 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "europinviennasummers14Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "Chemical Society of Nigeria: Annual Intl Conference, Workshop, & Exhibition",
-        "url": "https://commonwealthchemistry.org/event/chemical-society-of-nigerias-48th-international-conference/",
-        "start_date": "14 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Ile-ife, Nigeria"
-        ],
-        "countries": [
-            "Nigeria"
-        ],
-        "uid": "chemicalsocietyofnig14Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Advanced methods in bioimage analysis (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/bia25-01/",
-        "start_date": "14 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Heidelberg, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "uid": "advancedmethodsinbio14Sep2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Sustainable Chemicals & Materials Manufacturing Hub SCHEMA Autumn Conference",
-        "url": "https://schemahub.web.ox.ac.uk/event/schema-autumn-conference",
-        "start_date": "15 Sep 2025",
-        "end_date": "16 Sep 2025",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sustainablechemicals15Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Energy-efficient computing workshop",
-        "url": "https://www.numerical.rl.ac.uk/events/workshop-on-green-computing/",
-        "start_date": "15 Sep 2025",
-        "end_date": "16 Sep 2025",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "energyefficientcompu15Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "MedChem Campus 2025 (summer school)",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11748",
-        "start_date": "15 Sep 2025",
-        "end_date": "16 Sep 2025",
-        "locations": [
-            "Tübingen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "medchemcampus2025sum15Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Machine Learning to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
-        "start_date": "15 Sep 2025",
-        "end_date": "16 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "applicationsofmachin15Sep2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Physical Organic Chemistry Concepts for Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/physical-organic-chemistry-concepts-for-process-development/",
-        "start_date": "15 Sep 2025",
-        "end_date": "17 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "physicalorganicchemi15Sep2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Secrets of Batch Process Scale-Up: Ensuring Effective Translation of Laboratory Processes to Pilot Plant Scale (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20250915/",
-        "start_date": "15 Sep 2025",
-        "end_date": "17 Sep 2025",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "secretsofbatchproces15Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EuChemS CompChem 2025: European Conference in Computational & Theoretical Chemistry",
-        "url": "https://www.eucompchem2025.unina.it/",
-        "start_date": "15 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "euchemscompchem2025e15Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "GDCh Division of Magnetic Resonance FGMR Annual Discussion Meeting",
-        "url": "https://www.fgmr2025.uni-bonn.de/",
-        "start_date": "15 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Bonn, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "gdchdivisionofmagnet15Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Materials & Molecular Modelling MMM Hub & UK Car-Parrinello UKCP Conference & User Meeting",
-        "url": "https://thomasyoungcentre.org/event/mmm-hub-conference-user-meeting-2025/",
-        "start_date": "15 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Keele, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "materialsmolecularmo15Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Boulder Peptide Symposium",
-        "url": "https://boulderpeptide.org/",
-        "start_date": "15 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Boulder, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "uid": "boulderpeptidesympos15Sep2025_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Horticulture Group David Miller Awards",
-        "url": "https://www.soci.org/events/horticulture-group/2025/sci-horticulture-group-david-miller-2025-awards",
-        "start_date": "16 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "scihorticulturegroup16Sep2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ILMAC 2025 (trade fair)",
-        "url": "https://scg.ch/component/eventbooking/ilmac25",
-        "start_date": "16 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "ilmac2025tradefair16Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "GDCh Division of Magnetic Resonance FGMR Annual Discussion Meeting",
-        "url": "https://en.gdch.de/network-structures/gdch-structures/magnetic-resonance/events.html",
-        "start_date": "16 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Bonn, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "gdchdivisionofmagnet16Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Cheminformatics, Automation, & Machine Learning in Chemistry CAMLC25",
-        "url": "https://camlcworkshop.github.io/",
-        "start_date": "16 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Zaragoza, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "cheminformaticsautom16Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advanced Techniques applied in Biopharma on Peptides & Proteins",
-        "url": "https://web.cvent.com/event/f03d53cb-532c-434d-a72c-34223f5ccbf3/regProcessStep1",
-        "start_date": "16 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Trieste, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "advancedtechniquesap16Sep2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Drug Discovery Scotland",
-        "url": "https://elrig.org/portfolio/drug-discovery-in-scotland/",
-        "start_date": "17 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "drugdiscoveryscotlan17Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Physical Sciences Data Infrastructure PSDI Showcase",
-        "url": "https://www.eventbrite.co.uk/e/psdi-showcase-tickets-1449836141929?aff=ShNew",
-        "start_date": "17 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "physicalsciencesdata17Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Engineering Porous Materials at Multiple Scales EPoMM",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11724&sp_id=1",
-        "start_date": "17 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "engineeringporousmat17Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Macromolecular crystallography MX beamline training @ DIAMOND",
-        "url": "https://www.diamond.ac.uk/Home/Events/2025/MX-BAG-Training.html",
-        "start_date": "17 Sep 2025",
-        "end_date": "18 Sep 2025",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "macromolecularcrysta17Sep2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lacktagung: Innovationen und Trends aus der Lackbranche",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11724&sp_id=1",
-        "start_date": "17 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Aachen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "lacktagunginnovation17Sep2025_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Fortbildungs- & Vortragstagung der GDCh Fachgruppe Chemieunterricht",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11745&modus=",
-        "start_date": "17 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Erlangen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "fortbildungsvortrags17Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Deutsche Gesellschaft für Massenspektrometrie DGMS Young Scientist Fall Meeting",
-        "url": "https://youngscientists.dgms.eu/5th-fall-meeting-registration/",
-        "start_date": "17 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Hünfeld, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "deutschegesellschaft17Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EMBO Project management for scientists (training course)",
-        "url": "https://www.embolableadership.org/course/project-management-for-scientists/",
-        "start_date": "17 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "emboprojectmanagemen17Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI New Synthetic Methods III",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2025/new-synthetic-methods--design-and-application-iii",
-        "start_date": "18 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "scinewsyntheticmetho18Sep2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands",
-            "Online"
-        ],
-        "title": "Careers & Skills for Data-driven Research CaSDaR launch event",
-        "url": "https://www.eventbrite.com/e/careers-and-skills-for-data-driven-research-casdar-hybrid-event-launch-tickets-1496323607189",
-        "start_date": "18 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "uid": "careersskillsfordata18Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Heterocyclic & Synthesis Group HSG Postgraduate Symposium",
-        "url": "https://www.rsc.org/events/detail/82070/39th-postgraduate-symposium-heterocyclic-and-synthesis-group",
-        "start_date": "18 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscheterocyclicsynth18Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Certainty South Korea (modelling in pharma)",
-        "url": "https://www.certara.com/live-events/certainty-korea-2025/",
-        "start_date": "18 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Seoul, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "certaintysouthkoream18Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EMBO Self-leadership for women scientists (training course)",
-        "url": "https://www.embolableadership.org/course/negotiation-for-scientists/",
-        "start_date": "18 Sep 2025",
-        "end_date": "19 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "emboselfleadershipfo18Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RAG models & AI agents in Chemical Discovery & Development Workshop",
-        "url": "https://aichemy.ac.uk/event/rag-models-and-ai-agents-in-chemical-discovery-and-development-workshop/",
-        "start_date": "19 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ragmodelsaiagentsinc19Sep2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Lonodn"
-        ],
-        "title": "From dinosaur juice to green dreams: Reimagining transport fuels",
-        "url": "https://www.rsc.org/events/detail/81916/from-dinosaur-juice-to-green-dreams-reimagining-transport-fuels",
-        "start_date": "19 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "fromdinosaurjuicetog19Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "physical/phys org"
         ],
         "regions": [
@@ -836,67 +24,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Automation for Chemistry",
-        "url": "https://natureconferences.streamgo.live/automation-for-chemistry/register",
-        "start_date": "21 Sep 2025",
-        "end_date": "23 Sep 2025",
-        "locations": [
-            "Hefei, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "automationforchemist21Sep2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Fragment-based lead discovery conference FBLD",
-        "url": "https://fbldconference.org/",
-        "start_date": "21 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "fragmentbasedleaddis21Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "European Conference on Metal Organic Frameworks & Porous Polymers EUROMOF",
-        "url": "https://www.euromof2025.com/Home/Welcome",
-        "start_date": "21 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Heraklion, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "uid": "europeanconferenceon21Sep2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -914,263 +41,6 @@
             "UK"
         ],
         "uid": "synchrotronradiation21Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Junges Umweltforum 2025",
-        "url": "https://eveeno.com/290887041",
-        "start_date": "22 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Dessau, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "jungesumweltforum20222Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pistoia Alliance User Experience for Life Science UXLS Conference",
-        "url": "https://www.pistoiaalliance.org/eventdetails/user-experience-for-life-science-uxls-conference/",
-        "start_date": "22 Sep 2025",
-        "end_date": "23 Sep 2025",
-        "locations": [
-            "Rahway, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "pistoiaallianceusere22Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Carbohydrate Group Winter Meeting",
-        "url": "https://www.rsc.org/events/detail/81700/rsc-carbohydrate-group-winter-meeting-2025",
-        "start_date": "22 Sep 2025",
-        "end_date": "23 Sep 2025",
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rsccarbohydrategroup22Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England",
-            "Online"
-        ],
-        "title": "AI in Chemistry",
-        "url": "https://www.rscbmcs.org/events/aichem8/",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Cambridge, UK",
-            "Online"
-        ],
-        "countries": [
-            "UK",
-            "Online"
-        ],
-        "uid": "aiinchemistry22Sep2025_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Responsible Research in Action Unconference",
-        "url": "https://rr-in-action2025.org/",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "responsibleresearchi22Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Summer School on Pharmaceutical Analysis SSPA",
-        "url": "https://www.sspaweb.com/",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Rimini, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "summerschoolonpharma22Sep2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Deutsche Lebensmittelchemietage",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11752&sp_id=1&selMicrosite=128453",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Halle, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "deutschelebensmittel22Sep2025_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Organofluorine Chemistry: Synthesis, Applications, Sources & Sustainability (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/organofluorine-chemistry-synthesis-applications-sources-and-sustainability/",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "organofluorinechemis22Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Umwelt 2025",
-        "url": "https://www.gdch.de/netzwerk-strukturen/fachstrukturen/umweltchemie-oekotoxikologie/veranstaltungen/fachgruppentagung.html",
-        "start_date": "22 Sep 2025",
-        "end_date": "24 Sep 2025",
-        "locations": [
-            "Dessau, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "umwelt202522Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Advances in Process Analytics & Control Technologies APACT",
-        "url": "https://www.cpact.com/Events/Event?eid=386",
-        "start_date": "22 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "advancesinprocessana22Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Discovery on Target",
-        "url": "https://www.discoveryontarget.com/",
-        "start_date": "22 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "discoveryontarget22Sep2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "US National Organization for the Professional Advancement of Black Chemists and Chemical Engineers NOBCChE Conference",
-        "url": "https://www.discoveryontarget.com/",
-        "start_date": "22 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "usnationalorganizati22Sep2025_0"
     },
     {
         "themes": [
@@ -1215,242 +85,6 @@
     },
     {
         "themes": [
-            "careers",
-            "computational/data",
-            "environment/fuels",
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Beaker to bulk: Introduction to scalable synthesis",
-        "url": "https://www.soci.org/events/young-chemists-panel/2025/beaker-to-bulk-introduction-to-scalable-synthesis",
-        "start_date": "23 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "beakertobulkintroduc23Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Certainty China (modelling in pharma)",
-        "url": "https://www.certara.com/live-events/certainty-china-2025/",
-        "start_date": "23 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Shanghai, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "certaintychinamodell23Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress on Particle Technology PARTECH",
-        "url": "https://www.partec.info/en",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Nuremberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "intlcongressonpartic23Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Exhibition for Process Operations POWTECH",
-        "url": "https://www.powtech-technopharm.com/en",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Nuremberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "intlexhibitionforpro23Sep2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "ABRAFATI SHOW 2025",
-        "url": "https://home.abrafatishow.com.br/",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "São Paolo, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "uid": "abrafatishow202523Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "business"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ARABLAB LIVE",
-        "url": "https://www.terrapinn.com/exhibition/arablab-live/index.stm",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Dubai, UAE"
-        ],
-        "countries": [
-            "UAE"
-        ],
-        "uid": "arablablive23Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Team Science Camp: Decarbonizing the healthcare, social care, & research systems",
-        "url": "https://www.nihr.ac.uk/funding/team-science-camp-cohort-3/2025329#tab-420391",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Crewe, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "teamsciencecampdecar23Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Organic semiconductor materials: Challenges & opportunities",
-        "url": "https://www.beilstein-institut.de/en/symposia/organic-semiconductor-materials-challenges-and-opportunities/",
-        "start_date": "23 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "organicsemiconductor23Sep2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "The State of Biotech",
-        "url": "https://webinars.liebertpub.com/e/the-state-of-biotech-2025?aff=TLAIwanRoberts",
-        "start_date": "24 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "thestateofbiotech24Sep2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Continuous Flow Reactor Technology for Industrial Applications",
-        "url": "https://www.cfrt-tks.com/",
-        "start_date": "24 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "uid": "continuousflowreacto24Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Building a path forwards for meaningful cannabis breathalyser realization",
-        "url": "https://www.nist.gov/news-events/events/2025/09/building-path-forward-meaningful-cannabis-breathalyzer-realization",
-        "start_date": "24 Sep 2025",
-        "end_date": "25 Sep 2025",
-        "locations": [
-            "Boulder, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "uid": "buildingapathforward24Sep2025_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -1488,50 +122,6 @@
             "Austria"
         ],
         "uid": "frommoleculestoorgan24Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Certainty Japan (modelling in pharma)",
-        "url": "https://www.certara.com/live-events/certainty-japan-2025/",
-        "start_date": "25 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Shinagawa, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "certaintyjapanmodell25Sep2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BACCARA Power Day (electrochemistry)",
-        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=35664&einrichtungsid=148",
-        "start_date": "25 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "baccarapowerdayelect25Sep2025_0"
     },
     {
         "themes": [
@@ -1613,49 +203,6 @@
             "UK"
         ],
         "uid": "xraysciencesymposium26Sep2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "ACS Philly Younger Chemists' Committee Spring Poster Symposium",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd_tD3REu7st5lkAEKMbFbYlGDDPRFPD7ms3MII8la8rc7drw/viewform?pli=1",
-        "start_date": "26Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "acsphillyyoungerchem26Sep2025_0"
     },
     {
         "themes": [
@@ -2030,6 +577,27 @@
     {
         "themes": [
             "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "in silico",
+        "url": "https://luma.com/txswapqo",
+        "start_date": "01 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "insilico01Oct2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "formulation/particle science",
             "pharma industry"
         ],
@@ -2314,6 +882,28 @@
             "MN"
         ],
         "uid": "chicagoregionalinorg04Oct2025_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Philadelphia Area Girls Exploring Sciences PAGES Conference (high school girls)",
+        "url": "https://www.pagesprogram.org/fall2023-1",
+        "start_date": "04 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Villanova, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "philadelphiaareagirl04Oct2025_0"
     },
     {
         "themes": [
@@ -3097,6 +1687,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs Live USA 2025",
+        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/index.stm",
+        "start_date": "15 Oct 2025",
+        "end_date": "16 Oct 2025",
+        "locations": [
+            "Pittsburgh, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "futurelabsliveusa20215Oct2025_0"
+    },
+    {
+        "themes": [
             "automation"
         ],
         "regions": [
@@ -3153,6 +1766,27 @@
             "Germany"
         ],
         "uid": "standardizationinlab16Oct2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Medicinal Chemistry Strategy Meeting",
+        "url": "https://proventainternational.com/events/rd/europe/london/medicinal-chemistry-strategy-meeting-europe-2025/",
+        "start_date": "16 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "medicinalchemistryst16Oct2025_0"
     },
     {
         "themes": [
@@ -3755,6 +2389,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "PAT4FOOD (process analytical technology in the food industry)",
+        "url": "https://www.cpact.com/Events/Event?eid=429",
+        "start_date": "28 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "pat4foodprocessanaly28Oct2025_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -3855,6 +2510,27 @@
             "UK"
         ],
         "uid": "scidayofsciencecaree30Oct2025_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "law/policy",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Towards a biobased chemical future",
+        "url": "https://www.rsc.org/events/detail/81662/towards-a-biobased-chemical-future",
+        "start_date": "30 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "towardsabiobasedchem30Oct2025_0"
     },
     {
         "themes": [
@@ -4047,6 +2723,27 @@
             "MA"
         ],
         "uid": "aicheannualmeeting02Nov2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Lab Automation in Action: Rapid Integration for Startups & Investors",
+        "url": "https://luma.com/26eyfp90",
+        "start_date": "03 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "labautomationinactio03Nov2025_0"
     },
     {
         "themes": [
@@ -4496,6 +3193,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "IUTA Analytiktag: Labor-Digitalisierung und -Automation (German language)",
+        "url": "https://www.iuta.de/aktuelles/9-iuta-analytiktag-2025/",
+        "start_date": "10 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Duisberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "iutaanalytiktaglabor10Nov2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "environment/fuels",
             "safety"
@@ -4874,6 +3591,26 @@
     },
     {
         "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "EFMC Young Scientist Network Publishing Academy",
+        "url": "https://www.efmc.info/publishing-academy",
+        "start_date": "13 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "efmcyoungscientistne13Nov2025_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data"
         ],
@@ -4912,6 +3649,29 @@
             "UK"
         ],
         "uid": "intlisotopesocietyuk14Nov2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "diversity",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Empowering Women in Organic Chemistry EWOC Chapter Virtual Symposium",
+        "url": "https://forms.office.com/pages/responsepage.aspx?id=pmZCS2gTr0GtWlnrY0962JunJQG4djFLqghDoGFxAI5UQ1pWTVBHRk1FUjBEN1NDOE1ZTUdNVUlQVC4u",
+        "start_date": "14 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "empoweringwomeninorg14Nov2025_0"
     },
     {
         "themes": [
@@ -5193,6 +3953,28 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "MedChemBio Posters (ECRs)",
+        "url": "https://www.efmc.info/content.php?langue=english&cle_menus=1187970369",
+        "start_date": "20 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Jena, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "medchembiopostersecr20Nov2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "process/engineering"
@@ -5468,6 +4250,30 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Green Hydrogen Summit Oman",
+        "url": "https://greenhydrogensummitoman.com/",
+        "start_date": "30 Nov 2025",
+        "end_date": "04 Dec 2025",
+        "locations": [
+            "Muscat, Oman"
+        ],
+        "countries": [
+            "Oman"
+        ],
+        "uid": "greenhydrogensummito30Nov2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5736,6 +4542,25 @@
     },
     {
         "themes": [
+            "business"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Management/Marketing & Consultancy Groups Christmas lecture",
+        "url": "https://www.rsc.org/events/detail/82350/from-chemist-to-beekeeper-a-taste-of-honey",
+        "start_date": "03 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscmanagementmarketi03Dec2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "safety"
@@ -5996,6 +4821,28 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Biological & Medicinal Chemistry BMCS Postgraduate Symposium",
+        "url": "https://www.rscbmcs.org/events/psxix/",
+        "start_date": "08 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscbiologicalmedicin08Jan2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -6054,6 +4901,27 @@
             "Switzerland"
         ],
         "uid": "europrep22Jan2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Alpine Winter Conference on Medicinal & Synthetic Chemistry",
+        "url": "https://www.alpinewinterconference.org/speakers",
+        "start_date": "25 Jan 2026",
+        "end_date": "29 Jan 2026",
+        "locations": [
+            "St Anton, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "alpinewinterconferen25Jan2026_0"
     },
     {
         "themes": [
@@ -6710,6 +5578,52 @@
             "France"
         ],
         "uid": "stemforbritainposter17Mar2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA",
+            "Online"
+        ],
+        "title": "ACS Spring US National Meeting",
+        "url": "https://www.acs.org/events/all-events/acs-spring-2026.html",
+        "start_date": "22 Mar 2026",
+        "end_date": "26 Mar 2026",
+        "locations": [
+            "Atlanta, GA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "uid": "acsspringusnationalm22Mar2026_0"
     },
     {
         "themes": [
@@ -7683,6 +6597,52 @@
             "synthesis"
         ],
         "regions": [
+            "Midwest USA",
+            "Online"
+        ],
+        "title": "ACS Fall US National Meeting",
+        "url": "https://www.acs.org/meetings/acs-meetings/future-meetings.html",
+        "start_date": "23 Aug 2026",
+        "end_date": "27 Aug 2026",
+        "locations": [
+            "Chicago, IL, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "acsfallusnationalmee23Aug2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
             "Western Europe"
         ],
         "title": "Swiss Chemical Society SCS Fall Meeting",
@@ -7970,6 +6930,52 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA",
+            "Online"
+        ],
+        "title": "ACS Spring US National Meeting",
+        "url": "https://www.acs.org/meetings/acs-meetings/future-meetings.html",
+        "start_date": "21 Mar 2027",
+        "end_date": "25 Mar 2027",
+        "locations": [
+            "New Orleans, LA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "LA"
+        ],
+        "uid": "acsspringusnationalm21Mar2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -8053,6 +7059,52 @@
             "PA"
         ],
         "uid": "microscopymicroanaly02Aug2027_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA",
+            "Online"
+        ],
+        "title": "ACS Fall US National Meeting",
+        "url": "https://www.acs.org/meetings/acs-meetings/future-meetings.html",
+        "start_date": "22 Aug 2027",
+        "end_date": "26 Aug 2027",
+        "locations": [
+            "San Diego, CA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "acsfallusnationalmee22Aug2027_0"
     },
     {
         "themes": [
