@@ -2,211 +2,6 @@
     {
         "themes": [
             "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Intl Conference on Accelerator & Large Experimental Physics Control Systems ICALEPCS",
-        "url": "https://indico.jacow.org/event/86/",
-        "start_date": "20 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "intlconferenceonacce20Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Synchrotron Radiation School",
-        "url": "https://www.diamond.ac.uk/Home/Events/2025/Synchrotron-Radiation-School-2025.html",
-        "start_date": "21 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "synchrotronradiation21Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org",
-            "safety"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Intl Technical Safety Forum ITSF (focussing on high-energy physics)",
-        "url": "https://www.diamond.ac.uk/Home/Events/2025/ITSF-2025.html",
-        "start_date": "22 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intltechnicalsafetyf22Sep2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Innovation Centre in Digital Molecular Technologies iDMT Summer School",
-        "url": "https://www.idmt.online/copy-of-idmt-summer-school",
-        "start_date": "22 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "innovationcentreindi22Sep2025_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday Discussion: High-entropy alloy nanostructures",
-        "url": "https://www.rsc.org/events/detail/77926/high-entropy-alloy-nanostructures-from-theory-to-application-faraday-discussion",
-        "start_date": "24 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussionhig24Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "From molecules to organisms: Interactions & interventions ÖGMBT Annual Meeting",
-        "url": "https://oegmbt.at/events/annual-meeting",
-        "start_date": "24 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Innsbruck, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "frommoleculestoorgan24Sep2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia",
-            "Online"
-        ],
-        "title": "Laboratory Automation Suppliers' Association LASA Developer Conference LADEC",
-        "url": "https://laboratoryautomation.connpass.com/event/333560/",
-        "start_date": "25 Sep 2025",
-        "end_date": "26 Sep 2025",
-        "locations": [
-            "Tokyo, Japan",
-            "Online"
-        ],
-        "countries": [
-            "Japan",
-            "Online"
-        ],
-        "uid": "laboratoryautomation25Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Symposium on Separation Sciences ISSS",
-        "url": "https://cegss.ptchem.pl/isss-2025",
-        "start_date": "25 Sep 2025",
-        "end_date": "27 Sep 2025",
-        "locations": [
-            "Belgrade, Serbia"
-        ],
-        "countries": [
-            "Serbia"
-        ],
-        "uid": "intlsymposiumonsepar25Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Heart of Europe Biocrystallography HEC Meeting",
-        "url": "https://www.hec-meetings.org/",
-        "start_date": "25 Sep 2025",
-        "end_date": "27 Sep 2025",
-        "locations": [
-            "Halberstadt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "heartofeuropebiocrys25Sep2025_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "X-ray science symposium celebrating Prof Andrew J Dent",
-        "url": "https://www.diamond.ac.uk/Home/Events/2025/X-ray-Science-Symposium-Celebrating-Prof-Andrew-J-Dent.html",
-        "start_date": "26 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "xraysciencesymposium26Sep2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -1790,6 +1585,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Discover Dotmatics",
+        "url": "https://go.dotmatics.com/discover-dotmatics-cambridge-2025",
+        "start_date": "16 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "discoverdotmatics16Oct2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -2214,6 +2028,27 @@
             "UK"
         ],
         "uid": "neutronssimulationsi24Oct2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Target identification & validation in drug discovery",
+        "url": "https://www.smr.org.uk/Meetings/20251024/",
+        "start_date": "24 Oct 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "targetidentification24Oct2025_0"
     },
     {
         "themes": [
