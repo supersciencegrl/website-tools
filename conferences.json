@@ -106,25 +106,6 @@
     },
     {
         "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lebensmittelchemie & Lehramt Chemie",
-        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=39826&einrichtungsid=148",
-        "start_date": "29 Sep 2025",
-        "end_date": null,
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "lebensmittelchemiele29Sep2025_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -3146,10 +3127,10 @@
         "start_date": "11 Nov 2025",
         "end_date": null,
         "locations": [
-            "Rotorua, New Zealand"
+            "London, UK"
         ],
         "countries": [
-            "New Zealand"
+            "UK"
         ],
         "uid": "aiinfusedsustainable11Nov2025_0"
     },
@@ -3338,6 +3319,28 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Swedish Pharmaceutical Society Young Scientist Day (drug formulation & nanomedicine)",
+        "url": "https://www.apotekarsocieteten.se/kalendarium/young-scientist-day/",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "swedishpharmaceutica12Nov2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "safety"
@@ -3446,6 +3449,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Scheele Award Lecture & Scheele Symposium (lipid nanoparticles for drug delivery)",
+        "url": "https://www.apotekarsocieteten.se/kalendarium/the-scheele-symposium-2025-lipid-nanoparticles-revolutionizing-drug-delivery/",
+        "start_date": "13 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "scheeleawardlectures13Nov2025_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data"
         ],
@@ -3507,6 +3531,26 @@
             "Online"
         ],
         "uid": "empoweringwomeninorg14Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "EAHP BOOST: Supply chain strategies for a shortage-free world (pharma)",
+        "url": "https://eahp.eu/education/eahp-boost-2025/",
+        "start_date": "14 Nov 2025",
+        "end_date": "15 Nov 2025",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "eahpboostsupplychain14Nov2025_0"
     },
     {
         "themes": [
@@ -3701,6 +3745,30 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Plasmo-Catalysis for Business Innovation: Industry Academia Workshop",
+        "url": "https://www.eventbrite.co.uk/e/plasmo-catalysis-for-business-innovation-industry-academia-workshop-tickets-1679312231089",
+        "start_date": "19 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "plasmocatalysisforbu19Nov2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry",
@@ -3807,6 +3875,26 @@
             "Germany"
         ],
         "uid": "medchembiopostersecr20Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Clinical pharmacology strategies in drug development",
+        "url": "https://www.apotekarsocieteten.se/kalendarium/clinical-pharmacology-strategies-in-drug-development/",
+        "start_date": "20 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "clinicalpharmacology20Nov2025_0"
     },
     {
         "themes": [
@@ -3974,6 +4062,25 @@
             "India"
         ],
         "uid": "cphisoutheastasia25Nov2025_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Agentic AI in Chemistry",
+        "url": "https://aichemy.ac.uk/event/agentic-ai-symposium/",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "agenticaiinchemistry26Nov2025_0"
     },
     {
         "themes": [
@@ -4507,6 +4614,27 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Winter school: Robotics & AI for materials chemistry",
+        "url": "https://www.advancedautobat.com/us",
+        "start_date": "08 Dec 2025",
+        "end_date": "12 Dec 2025",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "winterschoolrobotics08Dec2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy"
         ],
@@ -4524,6 +4652,27 @@
             "UK"
         ],
         "uid": "currentissuesinconta10Dec2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Catalysis for sustainable hydrogen production",
+        "url": "https://www.eventbrite.com/e/catalysis-for-sustainable-hydrogen-production-tickets-1746654383279",
+        "start_date": "12 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "catalysisforsustaina12Dec2025_0"
     },
     {
         "themes": [
@@ -4608,6 +4757,49 @@
             "HI"
         ],
         "uid": "pacifichem202515Dec2025_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA",
+            "Online"
+        ],
+        "title": "Medicinteknik och läkemedel: Ett växande partnerskap (Swedish language)",
+        "url": "https://www.apotekarsocieteten.se/kalendarium/medicinteknik-och-lakemedel-ett-vaxande-partnerskap/",
+        "start_date": "16 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "uid": "medicinteknikochläke16Dec2025_0"
     },
     {
         "themes": [
@@ -4824,6 +5016,27 @@
             "Germany"
         ],
         "uid": "winterschoolonmateri25Jan2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "New starters in AI for chemistry (academia)",
+        "url": "https://aichemy.ac.uk/event/new-starters-in-ai-for-chemistry/",
+        "start_date": "27 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newstartersinaiforch27Jan2026_0"
     },
     {
         "themes": [
@@ -5413,6 +5626,27 @@
             "France"
         ],
         "uid": "stemforbritainposter17Mar2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "The keys to successful CDMO collaboration during drug development",
+        "url": "https://www.apotekarsocieteten.se/kalendarium/the-keys-to-successful-cdmo-collaboration-during-development/",
+        "start_date": "17 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Lund, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "thekeystosuccessfulc17Mar2026_0"
     },
     {
         "themes": [
@@ -6718,6 +6952,30 @@
             "Japan"
         ],
         "uid": "japanesesocietyforpr04Dec2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "UK Catalysis Conference",
+        "url": "https://www.ukcatalysisconference.co.uk/",
+        "start_date": "07 Jan 2027",
+        "end_date": "09 Jan 2027",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukcatalysisconferenc07Jan2027_0"
     },
     {
         "themes": [
