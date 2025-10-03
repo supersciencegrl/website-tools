@@ -42,136 +42,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Intl Symposium on Preparative & Process Chromatography PREP 2025",
-        "url": "https://www.ldorganisation.com/produits.php?langue=english&cle_menus=1238918219&cle_data=1360153710",
-        "start_date": "29 Sep 2025",
-        "end_date": "02 Oct 2025",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "intlsymposiumonprepa29Sep2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intermetallics 2025",
-        "url": "https://www.mpie.de/events/42464/2768772",
-        "start_date": "29 Sep 2025",
-        "end_date": "02 Oct 2025",
-        "locations": [
-            "Bad Staffelstein, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "intermetallics202529Sep2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "The mRNA Conference",
-        "url": "https://www.the-mrna-conference.com/",
-        "start_date": "01 Oct 2025",
-        "end_date": "02 Oct 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "themrnaconference01Oct2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Commonwealth Chemistry Posters",
-        "url": "https://commonwealthchemistry.org/event/6th-commonwealth-chemistry-posters/",
-        "start_date": "01 Oct 2025",
-        "end_date": "02 Oct 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "commonwealthchemistr01Oct2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Certainty (model-informed drug development)",
-        "url": "https://certainty.certara.com/emea/",
-        "start_date": "01 Oct 2025",
-        "end_date": "02 Oct 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "certaintymodelinform01Oct2025_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "materials/polymers"
         ],
@@ -189,33 +59,6 @@
             "Germany"
         ],
         "uid": "interdisciplinarymic01Oct2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "catalysis",
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Scripps Research Biotech Innovation Summit",
-        "url": "https://techsummit.scripps.edu/",
-        "start_date": "02 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "La Jolla, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "scrippsresearchbiote02Oct2025_0"
     },
     {
         "themes": [
@@ -1741,6 +1584,25 @@
             "MA"
         ],
         "uid": "biopharmasustainabil21Oct2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Evaluating Measurement Uncertainty for Chemical Testing Laboratories (training course)",
+        "url": "https://www.uknml.com/measurement-services/training-and-consultancy/our-training-courses/scheduled-training-courses/measurement-uncertainty-course/",
+        "start_date": "21 Oct 2025",
+        "end_date": "23 Oct 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "evaluatingmeasuremen21Oct2025_0"
     },
     {
         "themes": [
@@ -5187,6 +5049,27 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Digital Pharma Advances",
+        "url": "https://digitalpharmaconference.com/",
+        "start_date": "28 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "digitalpharmaadvance28Jan2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -5626,6 +5509,25 @@
             "Germany"
         ],
         "uid": "chemiedozententagung02Mar2026_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Evaluating Measurement Uncertainty for Chemical Testing Laboratories (training course)",
+        "url": "https://www.uknml.com/measurement-services/training-and-consultancy/our-training-courses/scheduled-training-courses/measurement-uncertainty-course/",
+        "start_date": "03 Mar 2026",
+        "end_date": "05 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "evaluatingmeasuremen03Mar2026_0"
     },
     {
         "themes": [
@@ -6336,6 +6238,25 @@
             "MI"
         ],
         "uid": "reactionmechanismsco07Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Evaluating Measurement Uncertainty for Chemical Testing Laboratories (training course)",
+        "url": "https://www.uknml.com/measurement-services/training-and-consultancy/our-training-courses/scheduled-training-courses/measurement-uncertainty-course/",
+        "start_date": "10 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "evaluatingmeasuremen10Jun2026_0"
     },
     {
         "themes": [
@@ -7179,6 +7100,25 @@
             "MN"
         ],
         "uid": "aicheannualmeeting08Nov2026_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Evaluating Measurement Uncertainty for Chemical Testing Laboratories (training course)",
+        "url": "https://www.uknml.com/measurement-services/training-and-consultancy/our-training-courses/scheduled-training-courses/measurement-uncertainty-course/",
+        "start_date": "10 Nov 2026",
+        "end_date": "12 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "evaluatingmeasuremen10Nov2026_0"
     },
     {
         "themes": [
