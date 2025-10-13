@@ -2,31 +2,6 @@
     {
         "themes": [
             "analytical",
-            "computational/data",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pittsburgh Diffraction Conference",
-        "url": "https://www.bnl.gov/pittsburgh-diffraction-conference/index.php",
-        "start_date": "09 Oct 2025",
-        "end_date": "12 Oct 2025",
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "uid": "pittsburghdiffractio09Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "physical/phys org"
         ],
         "regions": [
@@ -4679,6 +4654,27 @@
             "Germany"
         ],
         "uid": "ceramitec202624Mar2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Continuous Manufacturing and Advanced Crystallization CMAC Open Days",
+        "url": "https://www.cmac.ac.uk/open-days-2026",
+        "start_date": "24 Mar 2026",
+        "end_date": "26 Mar 2026",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "continuousmanufactur24Mar2026_0"
     },
     {
         "themes": [
