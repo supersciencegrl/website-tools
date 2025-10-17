@@ -1,25 +1,6 @@
 [
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Intl Data Week",
-        "url": "https://idw2025.org/",
-        "start_date": "13 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Brisbane, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "uid": "intldataweek13Oct2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "automation",
             "computational/data"
@@ -42,67 +23,6 @@
     {
         "themes": [
             "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Food Chemistry Conference",
-        "url": "https://www.elsevier.com/events/conferences/all/food-chemistry-conference",
-        "start_date": "14 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "foodchemistryconfere14Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Technologies shaping future directions in synthesis",
-        "url": "https://www.beilstein-institut.de/en/symposia/technologies-shaping-future-directions-in-synthesis/",
-        "start_date": "14 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Limburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "technologiesshapingf14Oct2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EMBO Self-leadership for women scientists (training course)",
-        "url": "https://www.embolableadership.org/course/self-leadership-women-scientists/",
-        "start_date": "14 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Leimen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "emboselfleadershipfo14Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio",
             "physical/phys org"
         ],
@@ -120,170 +40,6 @@
             "Brazil"
         ],
         "uid": "braziliancrystallogr14Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Paperless Lab Academy India",
-        "url": "https://www.paperlesslabacademy.com/india/",
-        "start_date": "15 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "paperlesslabacademyi15Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Applied liquid handling boot camp",
-        "url": "https://www.slas.org/events-calendar/applied-liquid-handling-boot-camp/",
-        "start_date": "15 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Pittsburgh, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "appliedliquidhandlin15Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs Live USA 2025",
-        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/index.stm",
-        "start_date": "15 Oct 2025",
-        "end_date": "16 Oct 2025",
-        "locations": [
-            "Pittsburgh, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "futurelabsliveusa20215Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS Regional Meetup: Munich",
-        "url": "https://www.slas.org/events-calendar/munich-meet-up/",
-        "start_date": "16 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "societyforlaboratory16Oct2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Medicinal chemistry workshop (PhD students, postdocs)",
-        "url": "https://careers.sygnaturediscovery.com/jobs/6248347-medicinal-chemistry-workshop-for-outstanding-phd-students-and-postdocs",
-        "start_date": "16 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "medicinalchemistrywo16Oct2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Standardization in Laboratory Automation SiLA Hackathon",
-        "url": "https://www.bam-akademie.de/catalog/course/standardization-in-laboratory-automation-%28sila%29-63.html",
-        "start_date": "16 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "standardizationinlab16Oct2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Medicinal Chemistry Strategy Meeting",
-        "url": "https://proventainternational.com/events/rd/europe/london/medicinal-chemistry-strategy-meeting-europe-2025/",
-        "start_date": "16 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "medicinalchemistryst16Oct2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Discover Dotmatics",
-        "url": "https://go.dotmatics.com/discover-dotmatics-cambridge-2025",
-        "start_date": "16 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "discoverdotmatics16Oct2025_0"
     },
     {
         "themes": [
@@ -1377,6 +1133,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "computational/data",
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of AI to process chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/",
+        "start_date": "03 Nov 2025",
+        "end_date": "04 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofaitopr03Nov2025_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "pharma industry"
@@ -1520,6 +1300,28 @@
             "Online"
         ],
         "uid": "designprinciplesfors04Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Certainty Discovery (chemoinformatics, computational, discovery)",
+        "url": "https://chemaxon.com/certainty-discovery",
+        "start_date": "04 Nov 2025",
+        "end_date": "05 Nov 2025",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "certaintydiscoverych04Nov2025_0"
     },
     {
         "themes": [
@@ -2132,6 +1934,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Stone Symposium (inorganic & organometallic chemistry)",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG60yf6pvbPxCsioDsYLsGeNUNTJGTUNBQU5VR0tPVFdQT1FaRzkzSUhFOC4u",
+        "start_date": "12 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "stonesymposiuminorga12Nov2025_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "safety"
@@ -2447,6 +2269,27 @@
             "Global"
         ],
         "uid": "lgbtqinstemday18Nov2025_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "London Lab Automation Community LLAC Oxford Edition",
+        "url": "https://luma.com/8wn357x5",
+        "start_date": "18 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Didcot, England"
+        ],
+        "countries": [
+            "England"
+        ],
+        "uid": "londonlabautomationc18Nov2025_0"
     },
     {
         "themes": [
@@ -2769,6 +2612,27 @@
             "UAE"
         ],
         "uid": "gulfcoatingsshowconf24Nov2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "European Society of Applied Biocatalysis ESAB conference",
+        "url": "https://esabweb.org/2025_congress.html",
+        "start_date": "24 Nov 2025",
+        "end_date": "26 Nov 2025",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "europeansocietyofapp24Nov2025_0"
     },
     {
         "themes": [
@@ -3402,6 +3266,28 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Advances in screening technologies for drug discovery",
+        "url": "https://www.sct-asso.fr/thematic-meeting",
+        "start_date": "05 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "advancesinscreeningt05Dec2025_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -3679,6 +3565,25 @@
             "UK"
         ],
         "uid": "rscbiologicalmedicin08Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Empowering chemists with AI & ML: Transformative tools & techniques (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques/",
+        "start_date": "12 Jan 2026",
+        "end_date": "20 Jan 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "empoweringchemistswi12Jan2026_0"
     },
     {
         "themes": [
@@ -4849,6 +4754,28 @@
     {
         "themes": [
             "catalysis",
+            "chem bio",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "BioCatUK: UK national meeting in biocatalysis",
+        "url": "https://www.rsc.org/events/detail/82126/biocatuk-2026",
+        "start_date": "07 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biocatukuknationalme07May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -4963,6 +4890,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Organic Free Radicals ISOFR",
+        "url": "https://isofr14.it/",
+        "start_date": "07 Jun 2026",
+        "end_date": "10 Jun 2026",
+        "locations": [
+            "Bologna, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "intlsymposiumonorgan07Jun2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels"
         ],
@@ -5056,6 +5003,33 @@
     },
     {
         "themes": [
+            "catalysis",
+            "diversity",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Empowering Women in Organic Chemistry EWOC",
+        "url": "https://ewochem.org/ewoc-2026/",
+        "start_date": "25 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "empoweringwomeninorg25Jun2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano"
         ],
         "regions": [
@@ -5114,6 +5088,30 @@
             "Switzerland"
         ],
         "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "diversity",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Empowering Women in Organic Chemistry EWOC Europe",
+        "url": "https://www.scientificupdate.com/conference_events/empowering-women-in-organic-chemistry/",
+        "start_date": "29 Jun 2026",
+        "end_date": "30 Jun 2026",
+        "locations": [
+            "Tarragona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "empoweringwomeninorg29Jun2026_0"
     },
     {
         "themes": [
