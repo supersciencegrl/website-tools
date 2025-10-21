@@ -1,228 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "FutureLab: Chemistry in the Digital Age",
-        "url": "https://cams-uk.co.uk/futurelab-chemistry-in-the-digital-age",
-        "start_date": "13 Oct 2025",
-        "end_date": "17 Oct 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "futurelabchemistryin13Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Brazilian Crystallographic Association ABCr meeting & Latin American Crystallographic Association LACA meeting",
-        "url": "https://laca-abcr-2025.abcristalografia.org.br/",
-        "start_date": "14 Oct 2025",
-        "end_date": "17 Oct 2025",
-        "locations": [
-            "Fortaleza, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "uid": "braziliancrystallogr14Oct2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Advances in the Digitalization of the Process Industries Conference",
-        "url": "https://www.icheme.org/advances?Account_id=500103012",
-        "start_date": "16 Oct 2025",
-        "end_date": "17 Oct 2025",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "advancesinthedigital16Oct2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "law/policy",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Medicinal & Crop Protection Chemistry",
-        "url": "https://www.mcps.it/",
-        "start_date": "16 Oct 2025",
-        "end_date": "17 Oct 2025",
-        "locations": [
-            "Como, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "medicinalcropprotect16Oct2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Phys Chem Chem Phys Symposium on Physics for Sustainability: Health, Energy, & Environment SPHERE",
-        "url": "https://www.rsc.org/events/detail/81455/pccp-symposium-on-physics-for-sustainability-health-energy-and-environment-sphere",
-        "start_date": "16 Oct 2025",
-        "end_date": "18 Oct 2025",
-        "locations": [
-            "Bangalore, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "physchemchemphyssymp16Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "LA Mass Spec Day",
-        "url": "https://lamms.org/la-ms-day-2025",
-        "start_date": "17 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Los Angeles, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "lamassspecday17Oct2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "Hit ID Symposium",
-        "url": "https://shop.monash.edu/hit-id-symposium-2025.html",
-        "start_date": "17 Oct 2025",
-        "end_date": null,
-        "locations": [
-            "Melbourne, Australia"
-        ],
-        "countries": [
-            "Australia"
-        ],
-        "uid": "hitidsymposium17Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Advances in Magnetic Resonance",
-        "url": "https://www.ceitec.eu/advances-in-magnetic-resonance/a4783",
-        "start_date": "17 Oct 2025",
-        "end_date": "18 Oct 2025",
-        "locations": [
-            "Brno, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "uid": "advancesinmagneticre17Oct2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Risk Assessment of Pharmaceuticals in the Environment ICRAPHE",
-        "url": "https://www.eternalproject.eu/news/icraphe6/",
-        "start_date": "20 Oct 2025",
-        "end_date": "21 Oct 2025",
-        "locations": [
-            "Aveiro, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "intlconferenceonrisk20Oct2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe",
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "M-Boltz Hackathon (biomolecule co-folding)",
-        "url": "https://www.moml.mit.edu/m-boltz-hackathon",
-        "start_date": "20 Oct 2025",
-        "end_date": "21 Oct 2025",
-        "locations": [
-            "Darmstadt, Germany",
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "mboltzhackathonbiomo20Oct2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry",
@@ -3375,6 +3153,28 @@
     {
         "themes": [
             "chem bio",
+            "environment/fuels",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "MedChem 2025: Sustainability in drug discovery",
+        "url": "https://www.medchem.be/",
+        "start_date": "15 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Ghent, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "medchem2025sustainab15Dec2025_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "pharma industry"
         ],
         "regions": [
@@ -4264,6 +4064,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "13th UK National Retrosynthesis Competition",
+        "url": "https://www.soci.org/events/young-chemists-panel/2026/13th-sci-rsc-retrosynthesis-competition",
+        "start_date": "06 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "13thuknationalretros06Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4628,6 +4448,29 @@
             "Germany"
         ],
         "uid": "kraftwerkbatterieadv14Apr2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Flow Chemistry Europe",
+        "url": "https://flowchemistryeurope.com/",
+        "start_date": "16 Apr 2026",
+        "end_date": "17 Apr 2026",
+        "locations": [
+            "Malaga, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "flowchemistryeurope16Apr2026_0"
     },
     {
         "themes": [
