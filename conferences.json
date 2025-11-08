@@ -1,50 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "AIChE Annual Meeting",
-        "url": "https://www.aiche.org/conferences/aiche-annual-meeting/2025",
-        "start_date": "02 Nov 2025",
-        "end_date": "07 Nov 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "aicheannualmeeting02Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BIO-Europe",
-        "url": "https://informaconnect.com/bioeurope/",
-        "start_date": "03 Nov 2025",
-        "end_date": "05 Nov 2025",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "bioeurope03Nov2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -52,7 +8,7 @@
             "South America"
         ],
         "title": "Latin American workshop on AI for protein design AI4PD",
-        "url": "hhttps://coming-soon.embo.org/gpc25-02",
+        "url": "https://coming-soon.embo.org/gpc25-02",
         "start_date": "03 Nov 2025",
         "end_date": "09 Nov 2025",
         "locations": [
@@ -62,200 +18,6 @@
             "Chile"
         ],
         "uid": "latinamericanworksho03Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Certainty Discovery (chemoinformatics, computational, discovery)",
-        "url": "https://chemaxon.com/certainty-discovery",
-        "start_date": "04 Nov 2025",
-        "end_date": "05 Nov 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "certaintydiscoverych04Nov2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Hazards Process Safety Conference",
-        "url": "https://www.icheme.org/training-events/hazards-process-safety-conference/",
-        "start_date": "04 Nov 2025",
-        "end_date": "06 Nov 2025",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "hazardsprocesssafety04Nov2025_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Innovation Roundtable Summit",
-        "url": "https://innovationroundtable.com/summit/innovation-2025/",
-        "start_date": "04 Nov 2025",
-        "end_date": "06 Nov 2025",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "innovationroundtable04Nov2025_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20251104/",
-        "start_date": "04 Nov 2025",
-        "end_date": "06 Nov 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "chemicaldevelopments04Nov2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Life & Chemical Sciences Career Event (secondary schools)",
-        "url": "https://www.linkedin.com/posts/jackhowley_please-fill-out-this-form-activity-7368354950499704833-Hkxf/",
-        "start_date": "05 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Ingliston, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "lifechemicalsciences05Nov2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Digitalization in coatings formulation",
-        "url": "https://www.european-coatings.com/events/conference/digitalisation-2025/",
-        "start_date": "05 Nov 2025",
-        "end_date": "06 Nov 2025",
-        "locations": [
-            "Cologne, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "digitalizationincoat05Nov2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Sustainability & Crcularity Now SCNOW Virtual Summit",
-        "url": "https://events.thieme.com/scnow-virtual-summit-accelerating-the-transition-to-circularity/",
-        "start_date": "05 Nov 2025",
-        "end_date": "07 Nov 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "sustainabilitycrcula05Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Pacific Analytical Chemistry & Technology PACT Summit",
-        "url": "https://pactsummit.com/",
-        "start_date": "06 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "pacificanalyticalche06Nov2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Broad Institute Machine Learning in Drug Discovery Symposium",
-        "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/machine-learning-drug-discovery",
-        "start_date": "06 Nov 2025",
-        "end_date": "07 Nov 2025",
-        "locations": [
-            "Cambridge, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "broadinstitutemachin06Nov2025_0"
     },
     {
         "themes": [
@@ -340,6 +102,37 @@
             "Switzerland"
         ],
         "uid": "proteinstructuredete09Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "careers",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "PharmSci 360",
+        "url": "https://www.aaps.org/pharmsci/annual-meeting",
+        "start_date": "09 Nov 2025",
+        "end_date": "12 Nov 2025",
+        "locations": [
+            "San Antonio, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "pharmsci36009Nov2025_0"
     },
     {
         "themes": [
@@ -969,6 +762,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "American College of Toxicology ACT Annual Meeting",
+        "url": "https://www.actox.org/am/am2025/index.asp",
+        "start_date": "16 Nov 2025",
+        "end_date": "19 Nov 2025",
+        "locations": [
+            "Phoenix, AZ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "AZ"
+        ],
+        "uid": "americancollegeoftox16Nov2025_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -1176,6 +993,26 @@
             "NJ"
         ],
         "uid": "easternanalyticalsym18Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Bioanalytical Forum EBF Open Symposium",
+        "url": "https://meetings.e-b-f.eu/open/",
+        "start_date": "18 Nov 2025",
+        "end_date": "20 Nov 2025",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "europeanbioanalytica18Nov2025_0"
     },
     {
         "themes": [
@@ -2019,6 +1856,26 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BioFIT Fostering Innovation & Transfer (partnering; in-person)",
+        "url": "https://www.biofit-event.com/",
+        "start_date": "02 Dec 2025",
+        "end_date": "03 Dec 2025",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "biofitfosteringinnov02Dec2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -2167,6 +2024,26 @@
             "France"
         ],
         "uid": "advancesinscreeningt05Dec2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "BioFIT Fostering Innovation & Transfer (partnering; online)",
+        "url": "https://www.biofit-event.com/",
+        "start_date": "08 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "biofitfosteringinnov08Dec2025_0"
     },
     {
         "themes": [
@@ -4088,6 +3965,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "law/policy",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Toxicology for pharmaceutical & regulatory scientists (training course)",
+        "url": "https://www.actox.org/education/training/tprs/2026/about.asp",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "toxicologyforpharmac20Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -4313,6 +4215,30 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "US National Biotechnology Conference",
+        "url": "https://www.aaps.org/nbc",
+        "start_date": "11 May 2026",
+        "end_date": "14 May 2026",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "usnationalbiotechnol11May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers"
@@ -4354,6 +4280,27 @@
             "Austria"
         ],
         "uid": "societyforlaboratory19May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Bioanalytical Forum EBF Young Scientist Symposium YSS",
+        "url": "https://meetings.e-b-f.eu/yss/",
+        "start_date": "20 May 2025",
+        "end_date": "22 May 2025",
+        "locations": [
+            "Ghent, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "europeanbioanalytica20May2025_0"
     },
     {
         "themes": [
@@ -4838,6 +4785,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Association of Pharmaceutical Scientists AAPS Summer Scientific Forum",
+        "url": "https://www.aaps.org/ssf",
+        "start_date": "13 Jul 2026",
+        "end_date": "16 Jul 2026",
+        "locations": [
+            "Columbus, OH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OH"
+        ],
+        "uid": "americanassociationo13Jul2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "education"
         ],
@@ -5010,6 +4982,31 @@
             "ME"
         ],
         "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "law/policy",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Advanced comprehensive toxicology (training course)",
+        "url": "https://www.actox.org/education/training/courses.asp",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "advancedcomprehensiv20Apr2026_0"
     },
     {
         "themes": [
@@ -5552,6 +5549,37 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "careers",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "PharmSci 360",
+        "url": "https://www.aaps.org/pharmsci/future-annual-events",
+        "start_date": "25 Oct 2026",
+        "end_date": "28 Oct 2026",
+        "locations": [
+            "New Orleans, LA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "LA"
+        ],
+        "uid": "pharmsci36025Oct2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -5572,6 +5600,30 @@
             "MN"
         ],
         "uid": "aicheannualmeeting08Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "American College of Toxicology ACT Annual Meeting",
+        "url": "https://www.actox.org/am/am2026/index.asp",
+        "start_date": "15 Nov 2026",
+        "end_date": "18 Nov 2026",
+        "locations": [
+            "San Antonio, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "americancollegeoftox15Nov2026_0"
     },
     {
         "themes": [
@@ -5750,6 +5802,30 @@
             "LA"
         ],
         "uid": "acsspringusnationalm21Mar2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "US National Biotechnology Conference",
+        "url": "https://www.aaps.org/pharmsci/future-annual-events",
+        "start_date": "10 May 2027",
+        "end_date": "13 May 2027",
+        "locations": [
+            "Rockville, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "usnationalbiotechnol10May2027_0"
     },
     {
         "themes": [
@@ -5945,5 +6021,60 @@
             "CA"
         ],
         "uid": "aicheannualmeeting31Oct2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "American College of Toxicology ACT Annual Meeting",
+        "url": "https://www.actox.org/education/future-annual-meetings.asp",
+        "start_date": "07 Nov 2027",
+        "end_date": "10 Nov 2027",
+        "locations": [
+            "Atlanta, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "uid": "americancollegeoftox07Nov2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "careers",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "PharmSci 360",
+        "url": "https://www.aaps.org/pharmsci/future-annual-events",
+        "start_date": "13 Nov 2027",
+        "end_date": "17 Nov 2027",
+        "locations": [
+            "Anaheim, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "pharmsci36013Nov2027_0"
     }
 ]
