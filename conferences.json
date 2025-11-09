@@ -65,27 +65,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Dutch NMR Discussion Group meeting",
-        "url": "https://sac.kncv.nl/nmr/annual-meeting",
-        "start_date": "08 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Enschede, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "dutchnmrdiscussiongr08Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "chem bio"
         ],
         "regions": [
@@ -2217,6 +2196,29 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Solid State Chemistry Group Christmas Meeting & Early Career Researcher Meeting",
+        "url": "https://sscg.uk/2025-sscg-christmas-meeting",
+        "start_date": "15 Dec 2025",
+        "end_date": "17 Dec 2025",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscsolidstatechemist15Dec2025_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -2947,6 +2949,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Anatolian Conference on Organic Chemistry ACOC6",
+        "url": "https://anatolianorgchem.org/",
+        "start_date": "09 Feb 2026",
+        "end_date": "11 Feb 2026",
+        "locations": [
+            "Anatalya, Türkiye"
+        ],
+        "countries": [
+            "Türkiye"
+        ],
+        "uid": "anatolianconferenceo09Feb2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers"
         ],
@@ -3578,6 +3600,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Energy Generation, Conversion, & Storage Town Hall",
+        "url": "https://www.eventbrite.com/e/ruedi-energy-generation-conversion-storage-town-hall-event-tickets-1680267899519",
+        "start_date": "20 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "energygenerationconv20Mar2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -3645,6 +3689,27 @@
             "FL"
         ],
         "uid": "intlbatteryseminar23Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "Chem4Energy Annual Conference: Materials & processes for a sustainable energy future",
+        "url": "https://eps.leeds.ac.uk/events-conferences/doc/chem4energy-2026",
+        "start_date": "23 Mar 2026",
+        "end_date": "26 Mar 2026",
+        "locations": [
+            "Johannesburg, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "uid": "chem4energyannualcon23Mar2026_0"
     },
     {
         "themes": [
@@ -4195,6 +4260,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Congress on Operando Spectroscopy",
+        "url": "https://events.slac.stanford.edu/operando-viii/",
+        "start_date": "10 May 2026",
+        "end_date": "14 May 2026",
+        "locations": [
+            "Pacific Grove, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlcongressonoperan10May2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -4507,6 +4596,27 @@
             "ME"
         ],
         "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Medicinal Chemistry Frontiers",
+        "url": "https://www.medchemfrontiers.org/",
+        "start_date": "22 Jun 2026",
+        "end_date": "25 Jun 2026",
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "uid": "medicinalchemistryfr22Jun2026_0"
     },
     {
         "themes": [
@@ -5219,6 +5329,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Medicinal Chemistry ISMC",
+        "url": "https://www.efmc-ismc.org/",
+        "start_date": "06 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "intlsymposiumonmedic06Sep2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -5546,6 +5677,29 @@
             "Online"
         ],
         "uid": "thecomplexlifeofrna13Oct2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Society for Lab Automation & Screening SLAS Sample Management Symposium",
+        "url": "https://www.slas.org/events-calendar/slas-2026-sample-management-symposium/",
+        "start_date": "21 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "societyforlabautomat21Oct2026_0"
     },
     {
         "themes": [
