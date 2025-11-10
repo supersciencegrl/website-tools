@@ -1,69 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Latin American workshop on AI for protein design AI4PD",
-        "url": "https://coming-soon.embo.org/gpc25-02",
-        "start_date": "03 Nov 2025",
-        "end_date": "09 Nov 2025",
-        "locations": [
-            "Puerto Varas, Chile"
-        ],
-        "countries": [
-            "Chile"
-        ],
-        "uid": "latinamericanworksho03Nov2025_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Falling Walls science summit",
-        "url": "https://falling-walls.com/science-summit",
-        "start_date": "06 Nov 2025",
-        "end_date": "09 Nov 2025",
-        "locations": [
-            "Berlin, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "uid": "fallingwallssciences06Nov2025_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -133,26 +70,6 @@
             "Greece"
         ],
         "uid": "understandingperiphe09Nov2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "IUTA Analytiktag: Labor-Digitalisierung und -Automation (German language)",
-        "url": "https://www.iuta.de/aktuelles/9-iuta-analytiktag-2025/",
-        "start_date": "10 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Duisberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "iutaanalytiktaglabor10Nov2025_0"
     },
     {
         "themes": [
@@ -782,6 +699,28 @@
             "UK"
         ],
         "uid": "automatedsynthesisfo17Nov2025_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Eastern Analytical Symposium EAS",
+        "url": "https://eas.org/",
+        "start_date": "17 Nov 2025",
+        "end_date": "19 Nov 2025",
+        "locations": [
+            "Plainsboro, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "easternanalyticalsym17Nov2025_0"
     },
     {
         "themes": [
