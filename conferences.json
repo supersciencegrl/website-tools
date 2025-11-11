@@ -960,7 +960,7 @@
             "pharma industry"
         ],
         "regions": [
-            "Western Europe"
+            "Online"
         ],
         "title": "The Impurities Workshop (GMP, training course)",
         "url": "https://www.gmp-compliance.org/training/gmp-course-conference/impurities-workshop-part-i-iii",
@@ -2091,6 +2091,26 @@
             "Belgium"
         ],
         "uid": "medchem2025sustainab15Dec2025_0"
+    },
+    {
+        "themes": [
+            "education",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Citizen science matchmaking event",
+        "url": "https://library.maastrichtuniversity.nl/events/citizen-science-matchmaking-event-connecting-citizens-and-science/",
+        "start_date": "15 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Maastricht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "citizensciencematchm15Dec2025_0"
     },
     {
         "themes": [
@@ -5781,6 +5801,28 @@
             "Japan"
         ],
         "uid": "japanesesocietyforpr04Dec2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Australia-Japan Flow Chemistry, Automation, & Microreactor Synthesis Joint Symposium",
+        "url": "https://events.humanitix.com/2nd-australia-japan-flow-chemistry-automation-and-microreactor-synthesis-joint-symposium",
+        "start_date": "04 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Parkville, VIC, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "australiajapanflowch04Dec2026_0"
     },
     {
         "themes": [
