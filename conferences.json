@@ -2,26 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Protein Structure Determination in Industry PSDI",
-        "url": "https://www.psdi2025.com/",
-        "start_date": "09 Nov 2025",
-        "end_date": "11 Nov 2025",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "proteinstructuredete09Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "automation",
             "careers",
             "chem bio",
@@ -70,27 +50,6 @@
             "Greece"
         ],
         "uid": "understandingperiphe09Nov2025_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Annual Meeting of Process Engineering & Materials Technology PEMT & Process & Plant Safety",
-        "url": "https://dechema.de/en/PEMT2025.html",
-        "start_date": "10 Nov 2025",
-        "end_date": "11 Nov 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "annualmeetingofproce10Nov2025_0"
     },
     {
         "themes": [
@@ -153,70 +112,6 @@
             "Global"
         ],
         "uid": "chemistryweek10Nov2025_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Powder coatings: Low temperature application",
-        "url": "https://www.european-coatings.com/events/conference/powder-coatings-2025/",
-        "start_date": "11 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "powdercoatingslowtem11Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Australasia"
-        ],
-        "title": "New Zealand Society for Biochemistry & Molecular Biology NZSBMB Rotorua Conference",
-        "url": "https://www.nzsbmb.org/conference-2025-rotorua",
-        "start_date": "11 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Rotorua, New Zealand"
-        ],
-        "countries": [
-            "New Zealand"
-        ],
-        "uid": "newzealandsocietyfor11Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "formulation/particle science",
-            "materials/polymers",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "AI-infused sustainable manufacturing symposium",
-        "url": "https://aichemy.ac.uk/event/ai-infused-sustainable-manufacturing-symposium/",
-        "start_date": "11 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "aiinfusedsustainable11Nov2025_0"
     },
     {
         "themes": [
@@ -2685,6 +2580,26 @@
             "NM"
         ],
         "uid": "winterconferenceonma29Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "AI-enhanced process analytical technology (workshop)",
+        "url": "https://www.cpact.com/Events/Event?eid=451",
+        "start_date": "30 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "uid": "aienhancedprocessana30Jan2026_0"
     },
     {
         "themes": [
