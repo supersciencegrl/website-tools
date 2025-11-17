@@ -1,109 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Global"
-        ],
-        "title": "Chemistry Week",
-        "url": "https://edu.rsc.org/rsc-education-news/take-action-for-chemistry-week-2025/4022280.article",
-        "start_date": "10 Nov 2025",
-        "end_date": "16 Nov 2025",
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "uid": "chemistryweek10Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "GDCh Vereinignung für Chemie und Wirtschaft VCW Annual Conference: AI in the Chemical Industry",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11861&sp_id=1",
-        "start_date": "13 Nov 2025",
-        "end_date": "14 Nov 2025",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "gdchvereinignungfürc13Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Intl Isotope Society UK Group Annual Symposium",
-        "url": "https://www.iis-uk.org/",
-        "start_date": "14 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlisotopesocietyuk14Nov2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "diversity",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Empowering Women in Organic Chemistry EWOC Chapter Virtual Symposium",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=pmZCS2gTr0GtWlnrY0962JunJQG4djFLqghDoGFxAI5UQ1pWTVBHRk1FUjBEN1NDOE1ZTUdNVUlQVC4u",
-        "start_date": "14 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "empoweringwomeninorg14Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "EAHP BOOST: Supply chain strategies for a shortage-free world (pharma)",
-        "url": "https://eahp.eu/education/eahp-boost-2025/",
-        "start_date": "14 Nov 2025",
-        "end_date": "15 Nov 2025",
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "uid": "eahpboostsupplychain14Nov2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "pharma industry",
             "safety"
@@ -596,6 +493,47 @@
     },
     {
         "themes": [
+            "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "greenCHEM Kickstart meeting",
+        "url": "https://www.greenchem.berlin/events/greenchem-kickstart",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "greenchemkickstartme26Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Industry on Campus",
+        "url": "https://www.greenchem.berlin/events/industry-on-campus-2025",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "industryoncampus26Nov2025_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering",
             "synthesis"
@@ -824,6 +762,46 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "RSC Chemical Education Research Group Writing Club",
+        "url": "https://rsccerg.wordpress.com/2025/11/03/cerg-writing-club/",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "rscchemicaleducation26Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Scaleup in Chemistry: From flask to factory",
+        "url": "https://www.greenchem.berlin/events/scale-up-in-chemistry-course",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "scaleupinchemistryfr26Nov2025_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data",
             "pharma industry"
@@ -1037,6 +1015,26 @@
             "UK"
         ],
         "uid": "rscorganicchemistryp01Dec2025_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GreenChem Chemistry Career Talks",
+        "url": "https://www.greenchem.berlin/events/chemistry-career-talks-4",
+        "start_date": "01 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "greenchemchemistryca01Dec2025_0"
     },
     {
         "themes": [
@@ -1538,6 +1536,26 @@
             "UK"
         ],
         "uid": "catalysisforsustaina12Dec2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Startup Hopping (green chemistry startups)",
+        "url": "https://www.greenchem.berlin/events/startup-hopping-4",
+        "start_date": "12 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "startuphoppinggreenc12Dec2025_0"
     },
     {
         "themes": [
@@ -2865,6 +2883,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Compound Space Conference CCSC",
+        "url": "https://ccsc2026.github.io/",
+        "start_date": "10 Mar 2026",
+        "end_date": "13 Mar 2026",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "chemicalcompoundspac10Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "environment/fuels",
             "process/engineering"
@@ -3910,6 +3947,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Computational & Medicinal Chemistry by the Lake",
+        "url": "https://sites.uef.fi/cmcl-2026/",
+        "start_date": "02 Jun 2026",
+        "end_date": "04 Jun 2026",
+        "locations": [
+            "Kuopio, Finland"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "uid": "computationalmedicin02Jun2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
@@ -4153,6 +4212,27 @@
             "Switzerland"
         ],
         "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "European Crystallography School",
+        "url": "https://www.ecs11.org/",
+        "start_date": "28 Jun 2026",
+        "end_date": "04 Jul 2026",
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "europeancrystallogra28Jun2026_0"
     },
     {
         "themes": [
@@ -5179,6 +5259,29 @@
             "LA"
         ],
         "uid": "pharmsci36025Oct2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Faraday Discussion: Bridging electrochemical devices across Earth & space applications",
+        "url": "http://rsc.org/events/detail/81648",
+        "start_date": "02 Nov 2026",
+        "end_date": "04 Nov 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussionbri02Nov2026_0"
     },
     {
         "themes": [
