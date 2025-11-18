@@ -1751,6 +1751,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Paul Clarke memorial symposium",
+        "url": "",
+        "start_date": "17 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "paulclarkememorialsy17Dec2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
