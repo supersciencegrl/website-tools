@@ -1,117 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "American College of Toxicology ACT Annual Meeting",
-        "url": "https://www.actox.org/am/am2025/index.asp",
-        "start_date": "16 Nov 2025",
-        "end_date": "19 Nov 2025",
-        "locations": [
-            "Phoenix, AZ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "AZ"
-        ],
-        "uid": "americancollegeoftox16Nov2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Automated Synthesis Forum ASF",
-        "url": "https://automatedsynthesisforum.com/",
-        "start_date": "17 Nov 2025",
-        "end_date": "18 Nov 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "automatedsynthesisfo17Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Eastern Analytical Symposium EAS",
-        "url": "https://eas.org/",
-        "start_date": "17 Nov 2025",
-        "end_date": "19 Nov 2025",
-        "locations": [
-            "Plainsboro, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "easternanalyticalsym17Nov2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "in vitro Technology course",
-        "url": "https://www.dmdg.org/events/20251117/introduction.asp",
-        "start_date": "17 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "invitrotechnologycou17Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe",
-            "Online"
-        ],
-        "title": "Solution scattering from biological macromolecules (training course)",
-        "url": "https://www.embl.org/about/info/course-and-conference-office/events/sbm25-01/",
-        "start_date": "17 Nov 2025",
-        "end_date": "21 Nov 2025",
-        "locations": [
-            "Hamburg, Germany",
-            "Online"
-        ],
-        "countries": [
-            "Germany",
-            "Online"
-        ],
-        "uid": "solutionscatteringfr17Nov2025_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -130,366 +19,6 @@
             "Online"
         ],
         "uid": "chemicalprocesssafet17Nov2025_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "Global"
-        ],
-        "title": "LGBTQ+ in STEM Day",
-        "url": "https://prideinstem.org/lgbtstemday/",
-        "start_date": "18 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Global"
-        ],
-        "countries": [
-            "Global"
-        ],
-        "uid": "lgbtqinstemday18Nov2025_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "LGBTQ+ in STEM Day London Celebration",
-        "url": "https://www.outsavvy.com/event/31027/lgbtqstem-day-2025-talks-celebrations",
-        "start_date": "18 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "lgbtqinstemdaylondon18Nov2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "London Lab Automation Community LLAC Oxford Edition",
-        "url": "https://luma.com/8wn357x5",
-        "start_date": "18 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "londonlabautomationc18Nov2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Cambridge New Therapeutics Forum CamNTF: Machine learning across the drug discovery pipeline",
-        "url": "https://www.eventbrite.co.uk/e/cambridge-new-therapeutics-forum-november-2025-meeting-tickets-1901645977309",
-        "start_date": "18 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "cambridgenewtherapeu18Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Chemical Science Symposium: Chemistry of imaging, biosensing, & diagnostics",
-        "url": "https://www.rsc.org/events/detail/81053/chemical-science-symposium",
-        "start_date": "18 Nov 2025",
-        "end_date": "19 Nov 2025",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemicalsciencesympo18Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Eastern Analytical Symposium",
-        "url": "https://eas.org/",
-        "start_date": "18 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Plainsboro, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "easternanalyticalsym18Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Bioanalytical Forum EBF Open Symposium",
-        "url": "https://meetings.e-b-f.eu/open/",
-        "start_date": "18 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "europeanbioanalytica18Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Understanding Polymorphism & Crystallisation Issues in the Pharmaceutical Industry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/understanding-polymorphism-crystallisation-issues-in-the-pharmaceutical-industry/",
-        "start_date": "18 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "uid": "understandingpolymor18Nov2025_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "The Impurities Workshop (GMP, training course)",
-        "url": "https://www.gmp-compliance.org/training/gmp-course-conference/impurities-workshop-part-i-iii",
-        "start_date": "18 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "theimpuritiesworksho18Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Plasmo-Catalysis for Business Innovation: Industry Academia Workshop",
-        "url": "https://www.eventbrite.co.uk/e/plasmo-catalysis-for-business-innovation-industry-academia-workshop-tickets-1679312231089",
-        "start_date": "19 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "plasmocatalysisforbu19Nov2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Science & the Scottish Parliament 2025",
-        "url": "https://www.rsc.org/events/detail/82306/science-and-the-parliament-2025",
-        "start_date": "19 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciencethescottishpa19Nov2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Contract Manufacturing Europe",
-        "url": "https://www.imapac.com/events/contract-manufacturing-europe-2025",
-        "start_date": "19 Nov 2025",
-        "end_date": "20 Nov 2025",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "contractmanufacturin19Nov2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Novalix Conference: Developing the Synergy between Biophysics and Medicinal Chemistry to Deliver Better Drugs",
-        "url": "https://www.novalix-conferences-us.org/",
-        "start_date": "19 Nov 2025",
-        "end_date": "21 Nov 2025",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "novalixconferencedev19Nov2025_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS Hot Topics: Antibody-Drug Conjugates",
-        "url": "https://www.rscbmcs.org/events/hottopicsadcs2025/",
-        "start_date": "20 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "rscbmcshottopicsanti20Nov2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "FAIR research data management workshop",
-        "url": "https://www.nfdi4chem.de/event/fair-research-data-management-workshop-in-jena/",
-        "start_date": "20 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Jena, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "fairresearchdatamana20Nov2025_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "computational/data",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "MedChemBio Posters (ECRs)",
-        "url": "https://www.efmc.info/content.php?langue=english&cle_menus=1187970369",
-        "start_date": "20 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Jena, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "medchembiopostersecr20Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Clinical pharmacology strategies in drug development",
-        "url": "https://www.apotekarsocieteten.se/kalendarium/clinical-pharmacology-strategies-in-drug-development/",
-        "start_date": "20 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "clinicalpharmacology20Nov2025_0"
     },
     {
         "themes": [
@@ -1559,6 +1088,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Recent advances in synthesis & chemical biology",
+        "url": "",
+        "start_date": "12 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "uid": "recentadvancesinsynt12Dec2025_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "environment/fuels",
             "med chem",
@@ -1748,6 +1298,27 @@
             "Online"
         ],
         "uid": "medicinteknikochläke16Dec2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Biotransformations III: Pathways to sustainability",
+        "url": "https://www.rsc.org/events/detail/81989/biotransformations-iii-pathways-to-sustainability",
+        "start_date": "16 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biotransformationsii16Dec2025_0"
     },
     {
         "themes": [
@@ -2627,6 +2198,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Near-Edge X-Ray Absorption Spectroscopy NEXAFS training",
+        "url": "https://www.eventsforce.net/cbs/frontend/reg/thome.csp?pageID=173209&eventID=703&traceRedir=4",
+        "start_date": "17 Feb 2026",
+        "end_date": "18 Feb 2026",
+        "locations": [
+            "Harwell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "nearedgexrayabsorpti17Feb2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -2774,6 +2365,27 @@
             "CA"
         ],
         "uid": "gordonresearchconfer01Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Conformational design in drug discovery",
+        "url": "https://www.rscbmcs.org/events/conformationaldesign26/",
+        "start_date": "02 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "conformationaldesign02Mar2026_0"
     },
     {
         "themes": [
@@ -2959,6 +2571,51 @@
             "Germany"
         ],
         "uid": "germanconferenceonsy11Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Symposium on mastering medicinal chemistry",
+        "url": "https://www.rscbmcs.org/events/mastermedchem26/",
+        "start_date": "13 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "symposiumonmastering13Mar2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ChemTides: Developing Sustainable Methods for the Large-Scale Manufacture of Pharmaceuticals Containing Nucleosides",
+        "url": "https://www.scientificupdate.com/conference_events/chemtides/",
+        "start_date": "16 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "chemtidesdevelopings16Mar2026_0"
     },
     {
         "themes": [
@@ -3340,6 +2997,27 @@
     },
     {
         "themes": [
+            "automation",
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on High-Throughput Catalyst Design HTCD",
+        "url": "https://htcd2026.sciencesconf.org/",
+        "start_date": "30 Mar 2026",
+        "end_date": "31 Mar 2026",
+        "locations": [
+            "Lille, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlsymposiumonhight30Mar2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -3493,6 +3171,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EFMC Short Course on Medicinal Chemistry",
+        "url": "https://www.efmcshortcourses.org/",
+        "start_date": "19 Apr 2026",
+        "end_date": "22 Apr 2026",
+        "locations": [
+            "Oegstgeest, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "efmcshortcourseonmed19Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -3509,6 +3208,27 @@
             "UK"
         ],
         "uid": "astburyconversationd20Apr2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Target to Patient T2P 2026",
+        "url": "https://www.smr.org.uk/Meetings/",
+        "start_date": "20 Apr 2026",
+        "end_date": "21 Apr 2026",
+        "locations": [
+            "Hinxton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "targettopatientt2p2020Apr2026_0"
     },
     {
         "themes": [
@@ -3578,6 +3298,49 @@
             "Portugal"
         ],
         "uid": "embohackyourmicrosco20Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "RSC-BMCS Spring Symposium on Medicinal Chemistry \"Hatfield\"",
+        "url": "https://www.rscbmcs.org/events/hatfield26/",
+        "start_date": "23 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscbmcsspringsymposi23Apr2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Enabling Technologies for Organic Chemistry ETOC",
+        "url": "https://www.noelresearchgroup.com/etoc/#",
+        "start_date": "29 Apr 2026",
+        "end_date": "30 Apr 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "enablingtechnologies29Apr2026_0"
     },
     {
         "themes": [
@@ -3968,6 +3731,27 @@
     {
         "themes": [
             "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Symposium on anti-infective drug discovery",
+        "url": "https://www.rscbmcs.org/events/antiinfectives/",
+        "start_date": "01 Jun 2026",
+        "end_date": "02 Jun 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "symposiumonantiinfec01Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "computational/data",
             "med chem",
             "pharma industry"
@@ -4030,6 +3814,27 @@
             "Italy"
         ],
         "uid": "intlsymposiumonorgan07Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New perspectives in DMPK & medicinal chemistry",
+        "url": "https://www.rscbmcs.org/events/dmpk26/",
+        "start_date": "10 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newperspectivesindmp10Jun2026_0"
     },
     {
         "themes": [
@@ -4653,8 +4458,8 @@
         ],
         "title": "Advanced comprehensive toxicology (training course)",
         "url": "https://www.actox.org/education/training/courses.asp",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
+        "start_date": "10 Aug 2026",
+        "end_date": "14 Aug 2026",
         "locations": [
             "Gaithersburg, MD, USA"
         ],
@@ -4664,7 +4469,7 @@
         "US_state": [
             "MD"
         ],
-        "uid": "advancedcomprehensiv20Apr2026_0"
+        "uid": "advancedcomprehensiv10Aug2026_0"
     },
     {
         "themes": [
@@ -4982,6 +4787,28 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Federation for Medicinal Chemistry EFMC Young Scientists' Symposium",
+        "url": "https://www.efmc-ymcs.org/",
+        "start_date": "10 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "europeanfederationfo10Sep2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "physical/phys org"
@@ -5000,6 +4827,27 @@
             "UK"
         ],
         "uid": "faradaydiscussionsus14Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Fragment-based drug discovery FBDD meeting",
+        "url": "https://www.rscbmcs.org/events/fragmentsx/",
+        "start_date": "14 Sep 2026",
+        "end_date": "16 Sep 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "fragmentbaseddrugdis14Sep2026_0"
     },
     {
         "themes": [
@@ -5164,6 +5012,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GPCRs in medicinal chemistry",
+        "url": "https://www.rscbmcs.org/events/gpcrs26/",
+        "start_date": "30 Sep 2026",
+        "end_date": "02 Oct 2026",
+        "locations": [
+            "Verona, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gpcrsinmedicinalchem30Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -5248,6 +5117,27 @@
             "CA"
         ],
         "uid": "societyforlabautomat21Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Targeting Protein Degradation",
+        "url": "https://www.rscbmcs.org/events/protdeg26/",
+        "start_date": "21 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "targetingproteindegr21Oct2026_0"
     },
     {
         "themes": [
@@ -5390,6 +5280,28 @@
             "Germany"
         ],
         "uid": "dresdnersensorsympos23Nov2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Recent trends in medicinal chemistry & enabling technologies",
+        "url": "https://www.smr.org.uk/Meetings/",
+        "start_date": "02 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "recenttrendsinmedici02Dec2026_0"
     },
     {
         "themes": [
