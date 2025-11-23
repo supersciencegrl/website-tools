@@ -897,6 +897,26 @@
     {
         "themes": [
             "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Encontro Nacional de Cromatografia",
+        "url": "https://14enc.events.chemistry.pt/",
+        "start_date": "04 Dec 2025",
+        "end_date": "06 Dec 2025",
+        "locations": [
+            "Madeira, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "encontronacionaldecr04Dec2025_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "formulation/particle science",
             "pharma industry",
             "process/engineering",
@@ -2089,23 +2109,27 @@
     },
     {
         "themes": [
-            "environment/fuels",
-            "materials/polymers"
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "synthesis"
         ],
         "regions": [
             "Western Europe"
         ],
-        "title": "Gordon Research Conference: Advanced Materials for Sustainable Infrastructure Development",
-        "url": "https://www.grc.org/advanced-materials-for-sustainable-infrastructure-development-conference/2026/",
-        "start_date": "15 Feb 2026",
-        "end_date": "20 Feb 2026",
+        "title": "Portuguese National Organic Chemistry Meeting & National Medicinal & Biological Chemistry Meeting",
+        "url": "https://16enqo-9enqmb.events.chemistry.pt/",
+        "start_date": "11 Feb 2026",
+        "end_date": "13 Feb 2026",
         "locations": [
-            "Lucca, Italy"
+            "Lisbon, Portugal"
         ],
         "countries": [
-            "Italy"
+            "Portugal"
         ],
-        "uid": "gordonresearchconfer15Feb2026_0"
+        "uid": "portuguesenationalor11Feb2026_0"
     },
     {
         "themes": [
@@ -3018,6 +3042,25 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Analítica 2026: Meeting of the Analytical Division of the Portuguese Chemical Society",
+        "url": "https://analitica2026.events.chemistry.pt/",
+        "start_date": "30 Mar 2026",
+        "end_date": "31 Mar 2026",
+        "locations": [
+            "Aveiro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "analítica2026meeting30Mar2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -3552,6 +3595,25 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Eurachem & Cooperation on Intl Traceability in Analytical Chemistry CITAC",
+        "url": "https://eurachem2026.events.chemistry.pt/",
+        "start_date": "11 May 2026",
+        "end_date": "12 May 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "eurachemcooperationo11May2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -3617,6 +3679,26 @@
             "LA"
         ],
         "uid": "metalorganicframewor16May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Estuarine Biogeochemistry Symposium",
+        "url": "https://iebs2026.events.chemistry.pt/",
+        "start_date": "17 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "intlestuarinebiogeoc17May2026_0"
     },
     {
         "themes": [
@@ -3814,6 +3896,25 @@
             "Italy"
         ],
         "uid": "intlsymposiumonorgan07Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Electroanalysis ESEAC",
+        "url": "https://eseac2026.events.chemistry.pt/",
+        "start_date": "07 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "intlconferenceonelec07Jun2026_0"
     },
     {
         "themes": [
