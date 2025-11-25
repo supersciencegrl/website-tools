@@ -22,111 +22,6 @@
     },
     {
         "themes": [
-            "business",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "greenCHEM Kickstart meeting",
-        "url": "https://www.greenchem.berlin/events/greenchem-kickstart",
-        "start_date": "26 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "greenchemkickstartme26Nov2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "education",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Industry on Campus",
-        "url": "https://www.greenchem.berlin/events/industry-on-campus-2025",
-        "start_date": "26 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "industryoncampus26Nov2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Optimal design of experiments DoE for chemical reaction processes (training course)",
-        "url": "https://www.rsc.org/events/detail/82299/optimal-design-of-experiments-doe-for-chemical-reaction-processes",
-        "start_date": "20 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "optimaldesignofexper20Nov2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Innovations in Process Chemistry & Technology",
-        "url": "https://www.rsc.org/events/detail/81870/rsc-process-chemistry-and-technology-group-annual-event-2025",
-        "start_date": "21 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "innovationsinprocess21Nov2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Active Learning Symposium 2025",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfuhl6N4dUPwX_T9sckq7_4cGZUnRxn1iHogPJ_RhpX6_xQSQ/viewform",
-        "start_date": "24 Nov 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "activelearningsympos24Nov2025_0"
-    },
-    {
-        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -328,6 +223,27 @@
             "Germany"
         ],
         "uid": "scaleupinchemistryfr26Nov2025_0"
+    },
+    {
+        "themes": [
+            "business",
+            "education",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Industry on Campus",
+        "url": "https://www.greenchem.berlin/events/industry-on-campus-2025",
+        "start_date": "26 Nov 2025",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "industryoncampus26Nov2025_0"
     },
     {
         "themes": [
@@ -896,6 +812,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Persistent Challenges in Chemoinformatics",
+        "url": "https://www.pistoiaalliance.org/eventdetails/cheminformatics-us/",
+        "start_date": "04 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "persistentchallenges04Dec2025_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels"
         ],
@@ -1064,6 +1003,26 @@
             "UK"
         ],
         "uid": "currentissuesinconta10Dec2025_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "UK Life Science Informatics Forum",
+        "url": "https://www.pistoiaalliance.org/eventdetails/christmas-informatics-forum/",
+        "start_date": "11 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "uklifescienceinforma11Dec2025_0"
     },
     {
         "themes": [
