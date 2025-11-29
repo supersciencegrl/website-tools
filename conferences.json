@@ -315,6 +315,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Iodine uncovered: Tackling the hidden deficiency in health & food systems",
+        "url": "https://soci.org/events/agrisciences-group/2025/iodine-uncovered-tackling-the-hidden-deficiency-in-health-and-food-systems",
+        "start_date": "02 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "iodineuncoveredtackl02Dec2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -480,6 +499,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "British Society of Soil Science BSSS Annual Conference",
+        "url": "https://soci.org/events/agrisciences-group/2025/2025-bsss-annual-conference",
+        "start_date": "03 Dec 2025",
+        "end_date": "05 Dec 2025",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishsocietyofsoil03Dec2025_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -608,6 +647,31 @@
             "France"
         ],
         "uid": "advancesinscreeningt05Dec2025_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "London",
+            "Online"
+        ],
+        "title": "SCI Electrochemistry Technology Group ECTG Meeting",
+        "url": "https://soci.org/events/electrochemical-technology-group/2025/ectg-winter-meeting-2025",
+        "start_date": "05 Dec 2025",
+        "end_date": null,
+        "locations": [
+            "London, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "uid": "scielectrochemistryt05Dec2025_0"
     },
     {
         "themes": [
@@ -1517,6 +1581,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "McBain Medal: Colloids & surface & interface science",
+        "url": "https://soci.org/events/colloid-and-surface-chemistry-group/2026/mcbain-medal-2025",
+        "start_date": "30 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "mcbainmedalcolloidss30Jan2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -1819,6 +1903,27 @@
             "Germany"
         ],
         "uid": "industrialpolymersco03Feb2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "AI in Organic Chemistry TOC2026",
+        "url": "https://toc2026.com/",
+        "start_date": "06 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Uppsala, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "aiinorganicchemistry06Feb2026_0"
     },
     {
         "themes": [
@@ -2268,6 +2373,26 @@
             "Germany"
         ],
         "uid": "chemiedozententagung02Mar2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Advanced medicinal chemistry workshop",
+        "url": "https://soci.org/events/fine-chemicals-group/2026/sci-advanced-medicinal-chemistry-workshop",
+        "start_date": "03 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciadvancedmedicinal03Mar2026_0"
     },
     {
         "themes": [
@@ -2738,6 +2863,27 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Highway network resilience & impact of low carbon technologies",
+        "url": "https://soci.org/events/construction-materials-group/2026/highway-network-resilience-and-impact-of-low-carbon-technologies",
+        "start_date": "24 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "highwaynetworkresili24Mar2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -2900,6 +3046,27 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Rieal Lecture & Symposium: Polymer colloids",
+        "url": "https://soci.org/events/colloid-and-surface-chemistry-group/2026/rideal-lecture-and-symposium-polymer-colloids-from-engineering-to-biology",
+        "start_date": "08 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rieallecturesymposiu08Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -3027,6 +3194,27 @@
             "Germany"
         ],
         "uid": "kraftwerkbatterieadv14Apr2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "SCI Process Development Symposium",
+        "url": "https://soci.org/events/fine-chemicals-group/2026/42nd-sci-process-development-symposium",
+        "start_date": "15 Apr 2026",
+        "end_date": "17 Apr 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciprocessdevelopmen15Apr2026_0"
     },
     {
         "themes": [
@@ -3565,6 +3753,25 @@
     },
     {
         "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "What a chemist needs to know about patents",
+        "url": "https://soci.org/events/young-chemists-panel/2026/what-a-chemist-needs-to-know-about-patents-2026",
+        "start_date": "13 May 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "whatachemistneedstok13May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers"
@@ -3912,6 +4119,25 @@
     },
     {
         "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New innovations in polymeric coatings",
+        "url": "https://soci.org/events/materials-chemistry-group/2026/new-innovations-in-polymeric-coatings",
+        "start_date": "16 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newinnovationsinpoly16Jun2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4221,7 +4447,7 @@
         "regions": [
             "London"
         ],
-        "title": "Introduction to ion exchange design & operation for industrial water treatment (training course)",
+        "title": "Introduction to ion exchange design & operation for industrial water treatment IEX (training course)",
         "url": "https://www.soci.org/events/separation-science-and-technology-group/2025/iex-2026-technical-training-introductory-course-introduction-to-ion-exchange-design-and-operation-fo",
         "start_date": "07 Jul 2026",
         "end_date": "08 Jul 2026",
@@ -4232,6 +4458,29 @@
             "UK"
         ],
         "uid": "introductiontoionexc07Jul2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Nanomaterials Science & Mechanical Engineering ICNMSME-2026",
+        "url": "https://icnmsme.web.ua.pt/",
+        "start_date": "07 Jul 2026",
+        "end_date": "09 Jul 2026",
+        "locations": [
+            "Aveiro, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "intlconferenceonnano07Jul2026_0"
     },
     {
         "themes": [
@@ -4376,6 +4625,25 @@
             "Spain"
         ],
         "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "From molecules to mobility: The future of sustainable fuels",
+        "url": "https://soci.org/events/materials-ecc/2026/from-molecules-to-mobility-the-future-of-sustainable-fuels",
+        "start_date": "23 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "frommoleculestomobil23Jul2026_0"
     },
     {
         "themes": [
@@ -4646,6 +4914,26 @@
             "IL"
         ],
         "uid": "acsfallusnationalmee23Aug2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Pride in Chem (LGBTQ+)",
+        "url": "https://soci.org/events/young-chemists-panel/2026/pride-in-chem",
+        "start_date": "27 Aug 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "prideinchemlgbtq27Aug2026_0"
     },
     {
         "themes": [
@@ -4960,6 +5248,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "A Celebration of Organic Chemistry 2026",
+        "url": "https://soci.org/events/fine-chemicals-group/2026/a-celebration-of-organic-chemistry-2026",
+        "start_date": "22 Sep 2026",
+        "end_date": "23 Sep 2026",
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "acelebrationoforgani22Sep2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -5183,6 +5491,25 @@
             "Online"
         ],
         "uid": "thecomplexlifeofrna13Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in crop protection",
+        "url": "https://soci.org/events/fine-chemicals-group/2026/innovations-in-crop-protection-iii",
+        "start_date": "14 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "innovationsincroppro14Oct2026_0"
     },
     {
         "themes": [
@@ -5411,6 +5738,27 @@
             "UK"
         ],
         "uid": "recenttrendsinmedici02Dec2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Protein-protein interactions PPI",
+        "url": "https://soci.org/events/fine-chemicals-group/2026/proteinprotein-interactions-ppi-2026",
+        "start_date": "02 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "proteinproteinintera02Dec2026_0"
     },
     {
         "themes": [
