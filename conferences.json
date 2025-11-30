@@ -2607,6 +2607,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Analyticode (analytical + technology)",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=143962&ef_sel_menu=2687&eventID=354",
+        "start_date": "16 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "analyticodeanalytica16Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers"
