@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "BioFIT Fostering Innovation & Transfer (partnering; online)",
-        "url": "https://www.biofit-event.com/",
-        "start_date": "08 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "biofitfosteringinnov08Dec2025_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -574,6 +554,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Organisk Kjemisk Vintermøte",
+        "url": "https://www.kjemi.no/okv39/",
+        "start_date": "07 Jan 2026",
+        "end_date": "10 Jan 2026",
+        "locations": [
+            "Skeikampen, Norway"
+        ],
+        "countries": [
+            "Norway"
+        ],
+        "uid": "organiskkjemiskvinte07Jan2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "med chem",
@@ -612,6 +613,25 @@
             "Online"
         ],
         "uid": "empoweringchemistswi12Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Intl Mini-Symposium on Molecular Machine Learning MML",
+        "url": "https://uni-ms.zoom.us/webinar/register/8517646911327/WN_xRMXsDZoQ5aKRP1SbJUneQ#/registration",
+        "start_date": "15 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "intlminisymposiumonm15Jan2026_0"
     },
     {
         "themes": [
@@ -924,6 +944,26 @@
             "UK"
         ],
         "uid": "mcbainmedalcolloidss30Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "AI-Enhanced PAT: Opportunities & Challenges",
+        "url": "https://cpact.com/Events/Event?eid=451",
+        "start_date": "30 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "uid": "aienhancedpatopportu30Jan2026_0"
     },
     {
         "themes": [
@@ -1722,6 +1762,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "#RSCPoster 2026 (poster competition)",
+        "url": "https://www.linkedin.com/posts/roysocchem_rscposter-activity-7401666651596730370-6ZVZ/",
+        "start_date": "03 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "rscposter2026posterc03Mar2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio",
             "computational/data",
@@ -2094,6 +2174,26 @@
             "Germany"
         ],
         "uid": "jahrestreffendeutsch18Mar2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "2026 Biopharm Postgraduate Symposium @ GSK",
+        "url": "https://www.linkedin.com/posts/laura-f-west_gsk-uk-biopharm-postgraduate-symposium-activity-7403733374185553920-WuDc/",
+        "start_date": "19 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "2026biopharmpostgrad19Mar2026_0"
     },
     {
         "themes": [
@@ -3013,6 +3113,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Computational advances in drug discovery",
+        "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/G12026",
+        "start_date": "07 May 2026",
+        "end_date": "10 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "computationaladvance07May2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -3851,6 +3973,25 @@
             "Portugal"
         ],
         "uid": "intlconferenceonnano07Jul2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Intl Symposium on Microscale Chemistry (schoolteachers/chem ed)",
+        "url": "https://sites.google.com/view/13ismc26/home",
+        "start_date": "08 Jul 2026",
+        "end_date": "10 Jul 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlsymposiumonmicro08Jul2026_0"
     },
     {
         "themes": [
