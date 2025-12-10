@@ -46,27 +46,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "German Catalysis Society GeCatS Infoday: From Flow Chemistry to Continuous Processes",
-        "url": "https://dechema.de/en/GeCatS_Infoday2025.html",
-        "start_date": "09 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "germancatalysissocie09Dec2025_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "law/policy"
         ],
@@ -1440,6 +1419,51 @@
             "Portugal"
         ],
         "uid": "portuguesenationalor11Feb2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCT Young Research Fellows' Meeting YRFM",
+        "url": "https://www.sct-asso.fr/yrfm",
+        "start_date": "11 Feb 2026",
+        "end_date": "13 Feb 2026",
+        "locations": [
+            "Marseille, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "sctyoungresearchfell11Feb2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Advanced Materials for Sustainable Infrastructure Development",
+        "url": "https://www.grc.org/advanced-materials-for-sustainable-infrastructure-development-conference/2026/",
+        "start_date": "15 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer15Feb2026_0"
     },
     {
         "themes": [
