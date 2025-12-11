@@ -46,26 +46,6 @@
     },
     {
         "themes": [
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Current issues in contaminated land risk assessment",
-        "url": "https://www.rsc.org/events/detail/80836/joint-sobra-rsc-winter-conference-2025-current-issues-in-contaminated-land-risk-assessment",
-        "start_date": "10 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "currentissuesinconta10Dec2025_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -1851,6 +1831,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Life Science Informatics Forum: Swiss Chapter",
+        "url": "https://www.pistoiaalliance.org/eventdetails/life-science-informatics-forum-swiss-chapter-2/",
+        "start_date": "04 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "lifescienceinformati04Mar2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -1888,6 +1889,25 @@
             "UK"
         ],
         "uid": "13thuknationalretros06Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "2026 RSC Chemical Biology & Bioorganic Group CBBG Forum",
+        "url": "https://www.rsc.org/events/detail/82568/2026-rsc-chemical-biology-and-bio-organic-group-cbbg-forum",
+        "start_date": "06 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "2026rscchemicalbiolo06Mar2026_0"
     },
     {
         "themes": [
@@ -2474,6 +2494,26 @@
             "Germany"
         ],
         "uid": "dotheyreallyguidegui25Mar2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Pistoia Alliance London Conference",
+        "url": "https://www.pistoiaalliance.org/eventdetails/pistoia-alliance-2025-london-conference/",
+        "start_date": "25 Mar 2026",
+        "end_date": "26 Mar 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pistoiaalliancelondo25Mar2026_0"
     },
     {
         "themes": [
@@ -3309,6 +3349,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Clinical Trials Technology Congress CTTC",
+        "url": "https://www.pistoiaalliance.org/eventdetails/clinical-trials-technology-congress/",
+        "start_date": "19 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "clinicaltrialstechno19May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -3562,6 +3622,27 @@
             "UK"
         ],
         "uid": "newperspectivesindmp10Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Intl Symposium on Homogeneous Catalysis ISHC",
+        "url": "https://www.ishc2027york.co.uk/",
+        "start_date": "13 Jun 2026",
+        "end_date": "17 Jun 2026",
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlsymposiumonhomog13Jun2026_0"
     },
     {
         "themes": [
@@ -5045,6 +5126,27 @@
             "UK"
         ],
         "uid": "innovationsincroppro14Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "ELRIG Drug Discovery",
+        "url": "https://elrig.org/portfolio/drug-discovery-2026/",
+        "start_date": "14 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigdrugdiscovery14Oct2026_0"
     },
     {
         "themes": [
