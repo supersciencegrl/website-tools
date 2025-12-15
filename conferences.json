@@ -1,173 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Advanced Automative Battery Conference AABC USA",
-        "url": "https://www.advancedautobat.com/us",
-        "start_date": "08 Dec 2025",
-        "end_date": "11 Dec 2025",
-        "locations": [
-            "Las Vegas, NV, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NV"
-        ],
-        "uid": "advancedautomativeba08Dec2025_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Winter school: Robotics & AI for materials chemistry",
-        "url": "https://www.advancedautobat.com/us",
-        "start_date": "08 Dec 2025",
-        "end_date": "12 Dec 2025",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "winterschoolrobotics08Dec2025_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées de la Société Française de Chémoinformatique SFCi",
-        "url": "https://sfci-2025.sciencesconf.org/",
-        "start_date": "10 Dec 2025",
-        "end_date": "11 Dec 2025",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "journéesdelasociétéf10Dec2025_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "UK Life Science Informatics Forum",
-        "url": "https://www.pistoiaalliance.org/eventdetails/christmas-informatics-forum/",
-        "start_date": "11 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "uklifescienceinforma11Dec2025_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "CNRS-Africa Initiative Conference on Biowaste Transformation",
-        "url": "https://www.resource-conference.com/",
-        "start_date": "11 Dec 2025",
-        "end_date": "12 Dec 2025",
-        "locations": [
-            "La Rochelle, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "cnrsafricainitiative11Dec2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Catalysis for sustainable hydrogen production",
-        "url": "https://www.eventbrite.com/e/catalysis-for-sustainable-hydrogen-production-tickets-1746654383279",
-        "start_date": "12 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "catalysisforsustaina12Dec2025_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Startup Hopping (green chemistry startups)",
-        "url": "https://www.greenchem.berlin/events/startup-hopping-4",
-        "start_date": "12 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "startuphoppinggreenc12Dec2025_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Recent advances in synthesis & chemical biology",
-        "url": "",
-        "start_date": "12 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "uid": "recentadvancesinsynt12Dec2025_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "environment/fuels",
             "med chem",
@@ -1014,6 +847,7 @@
     },
     {
         "themes": [
+            "analytical",
             "computational/data",
             "process/engineering"
         ],
@@ -2033,6 +1867,25 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "UK Chemistry Tournament (high school students)",
+        "url": "https://www.ukchto.org/",
+        "start_date": "14 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukchemistrytournamen14Mar2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "pharma industry",
             "process/engineering"
@@ -2177,6 +2030,27 @@
             "UK"
         ],
         "uid": "centreforprocessanal17Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Catalysis Science & Technology Symposium",
+        "url": "rsc.org/events/detail/82522/catalysis-science-and-technology-symposium",
+        "start_date": "17 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "catalysissciencetech17Mar2026_0"
     },
     {
         "themes": [
@@ -2903,6 +2777,52 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Materials Research Society MRS Annual Meeting",
+        "url": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit",
+        "start_date": "27 Apr 2026",
+        "end_date": "28 Apr 2026",
+        "locations": [
+            "Honolulu, HI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "HI"
+        ],
+        "uid": "materialsresearchsoc27Apr2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Stanford Drug Discovery Symposium",
+        "url": "https://med.stanford.edu/cvi/events/sdds2026-stanford-drug-discovery-symposium.html",
+        "start_date": "27 Apr 2026",
+        "end_date": "28 Apr 2026",
+        "locations": [
+            "Stanford, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "stanforddrugdiscover27Apr2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "catalysis",
             "computational/data",
@@ -3349,6 +3269,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemical tools for complex biological systems",
+        "url": "https://www.janelia.org/you-janelia/conferences/chemical-tools-for-complex-biological-systems-iv",
+        "start_date": "17 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Ashburn, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "uid": "chemicaltoolsforcomp17May2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "pharma industry"
         ],
@@ -3429,6 +3371,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Materials Research Society EMRS Spring Meeting",
+        "url": "https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit",
+        "start_date": "25 May 2026",
+        "end_date": "29 May 2026",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "europeanmaterialsres25May2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "environment/fuels",
             "process/engineering",
@@ -3448,6 +3410,25 @@
             "Germany"
         ],
         "uid": "annualmeetingonreact26May2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Symposium on protein engineering",
+        "url": "https://www.linkedin.com/posts/norman-metanis-49062757_save-the-date-symposium-on-protein-engineering-activity-7404804233109270528-G3FX/",
+        "start_date": "30 May 2026",
+        "end_date": "31 May 2026",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "symposiumonproteinen30May2026_0"
     },
     {
         "themes": [
@@ -3538,6 +3519,30 @@
             "Finland"
         ],
         "uid": "computationalmedicin02Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Deep learning for microscopy image analysis (workshop)",
+        "url": "https://www.janelia.org/you-janelia/conferences/bootcamp-course-on-deep-learning-for-microscopy-image-analysis",
+        "start_date": "04 Jun 2026",
+        "end_date": "18 Jun 2026",
+        "locations": [
+            "Ashburn, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "uid": "deeplearningformicro04Jun2026_0"
     },
     {
         "themes": [
@@ -3690,6 +3695,25 @@
             "MA"
         ],
         "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "AI4X Accelerate Conference",
+        "url": "https://ai4x.cc/",
+        "start_date": "15 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "uid": "ai4xaccelerateconfer15Jun2026_0"
     },
     {
         "themes": [
@@ -4444,6 +4468,25 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Chemistry Tournament (high school students)",
+        "url": "https://ichto2026.com/",
+        "start_date": "15 Aug 2026",
+        "end_date": "19 Aug 2026",
+        "locations": [
+            "Hoengseong, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "intlchemistrytournam15Aug2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -4822,6 +4865,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Materials Research Society EMRS Fall Meeting",
+        "url": "https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit",
+        "start_date": "14 Sep 2026",
+        "end_date": "17 Sep 2026",
+        "locations": [
+            "Warsaw, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "uid": "europeanmaterialsres14Sep2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -5064,6 +5127,25 @@
             "Spain"
         ],
         "uid": "groupofnuclearmagnet05Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Congress on Strigolactones",
+        "url": "https://ics2026.sciencesconf.org/",
+        "start_date": "05 Oct 2026",
+        "end_date": "08 Oct 2026",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlcongressonstrigo05Oct2026_0"
     },
     {
         "themes": [
@@ -5558,6 +5640,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Materials Research Society MRS Annual Meeting",
+        "url": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+        "start_date": "05 Apr 2027",
+        "end_date": "09 Apr 2027",
+        "locations": [
+            "Seattle, WA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WA"
+        ],
+        "uid": "materialsresearchsoc05Apr2027_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "pharma industry"
@@ -5579,6 +5684,26 @@
             "MD"
         ],
         "uid": "usnationalbiotechnol10May2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Materials Research Society EMRS Spring Meeting",
+        "url": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+        "start_date": "17 May 2027",
+        "end_date": "21 May 2027",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "europeanmaterialsres17May2027_0"
     },
     {
         "themes": [
@@ -5711,6 +5836,26 @@
             "CA"
         ],
         "uid": "acsfallusnationalmee22Aug2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Materials Research Society EMRS Fall Meeting",
+        "url": "https://www.european-mrs.com/meetings/2027-fall-meeting-exhibit",
+        "start_date": "13 Sep 2027",
+        "end_date": "16 Sep 2027",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "europeanmaterialsres13Sep2027_0"
     },
     {
         "themes": [
