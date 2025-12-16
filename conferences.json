@@ -2,48 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "environment/fuels",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "MedChem 2025: Sustainability in drug discovery",
-        "url": "https://www.medchem.be/",
-        "start_date": "15 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Ghent, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "uid": "medchem2025sustainab15Dec2025_0"
-    },
-    {
-        "themes": [
-            "education",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Citizen science matchmaking event",
-        "url": "https://library.maastrichtuniversity.nl/events/citizen-science-matchmaking-event-connecting-citizens-and-science/",
-        "start_date": "15 Dec 2025",
-        "end_date": null,
-        "locations": [
-            "Maastricht, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "citizensciencematchm15Dec2025_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "pharma industry"
         ],
         "regions": [
@@ -720,6 +678,27 @@
     {
         "themes": [
             "analytical",
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Reaction Monitoring Symposium",
+        "url": "https://www.eventbrite.co.uk/e/reaction-monitoring-symposium-2026-tickets-1637850397629",
+        "start_date": "29 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "reactionmonitoringsy29Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "materials/polymers"
         ],
         "regions": [
@@ -1387,6 +1366,25 @@
             "UK"
         ],
         "uid": "nearedgexrayabsorpti17Feb2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "The Inator Hackathon (Raspberry Pi's & remote sensing for machine learning)",
+        "url": "url.de.m.mimecastprotect.com/s/TYXkCLZj2GtjqEJzgcAS6FyxdNm?domain=payments.liv.ac.uk",
+        "start_date": "17 Feb 2026",
+        "end_date": "18 Feb 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "theinatorhackathonra17Feb2026_0"
     },
     {
         "themes": [
@@ -3973,6 +3971,26 @@
             "Spain"
         ],
         "uid": "empoweringwomeninorg29Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "AIchemy Hub & Leverhulme Research Centre Conference (AI for materials)",
+        "url": "https://aichemy.ac.uk/event/aichemy-and-leverhulme-research-centre-conference-2026/",
+        "start_date": "29 Jun 2026",
+        "end_date": "30 Jun 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "aichemyhubleverhulme29Jun2026_0"
     },
     {
         "themes": [
