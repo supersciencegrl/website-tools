@@ -1,56 +1,26 @@
 __author__ = "Nessa Carson"
 __copyright__ = "Copyright 2023, 2025"
-__version__ = "1.0"
+__version__ = "1.1"
 __status__ = "Production"
 
-from collections.abc import Sequence
 import json
 from pathlib import Path
 import string
-from typing import Optional
 
 import bs4.element
 from bs4 import BeautifulSoup
 import requests
 
-def decode_themes(theme_list: list) -> list:
+def decode_themes(theme_list: list[str]) -> list[str]:
     """
     Decode a list of theme codes into their corresponding theme names.
 
     Args:
-        theme_list (list): A list of theme codes.
+        theme_list (list[str]): A list of theme codes.
 
     Returns:
-        list: A list of theme names.
-
+        list[str]: A list of theme names.
     """
-    theme_names = {
-        'agro': 'agrochemistry',
-        'anal': 'analytical',
-        'automation': 'automation',
-        'business': 'business',
-        'careers': 'careers',
-        'catalysis': 'catalysis',
-        'chembio': 'chem bio',
-        'comp': 'computational/data',
-        'diversity': 'diversity',
-        'edu': 'education',
-        'env': 'environment/fuels',
-        'fuels': 'environment/fuels',
-        'form': 'formulation/particle science',
-        'history': 'history/philosophy',
-        'inorg': 'inorganic/nano',
-        'policy': 'law/policy',
-        'mat': 'materials/polymers',
-        'poly': 'materials/polymers',
-        'medchem': 'med chem',
-        'pharm': 'pharma industry',
-        'phys': 'physical/phys org',
-        'process': 'process/engineering',
-        'safety': 'safety',
-        'synthesis': 'synthesis'
-    }
-
     if 'all' in theme_list:
         output_set = set(theme_names.values())
     else:
@@ -68,28 +38,7 @@ def decode_region(region: str) -> str:
 
     Returns:
         str: The corresponding region name.
-
     """
-    region_short_names = {
-        # contintents
-        'NA': 'North America',
-        'SA': 'South America',
-        'Aus': 'Australasia',
-        # Eur localities
-        'NEur': 'Northern Europe',
-        'WEur': 'Western Europe',
-        'EEur': 'Eastern Europe',
-        # USA localities
-        'WUSA': 'Western USA',
-        'EUSA': 'Eastern USA',
-        'CUSA': 'Midwest USA',
-        'SUSA': 'Southern USA',
-        # UK localities
-        'NEng': 'Northern England',
-        'SEng': 'Southern England',
-        'NI': 'Northern Ireland'
-        }
-
     if region in region_short_names:
         output = region_short_names[region]
     else:
@@ -97,14 +46,12 @@ def decode_region(region: str) -> str:
 
     return output
 
-def scrape_conference_list() -> Sequence[bs4.element.PageElement]:
+def scrape_conference_list() -> bs4.ResultSet:
     """
     Scrape an iterable of conferences from the Conference Database.
 
     Returns:
-        Sequence[bs4.element.PageElement]: A list of conference details extracted from the 
-                               webpage.
-
+        bs4.ResultSet: A sequence of conference details extracted from the webpage.
     """
     url = 'https://supersciencegrl.co.uk/conferences'
     r = requests.get(url, proxies=proxies)
@@ -115,7 +62,9 @@ def scrape_conference_list() -> Sequence[bs4.element.PageElement]:
 
     return conferences
 
-def conference_html_to_dict(conference: bs4.element.PageElement, fees = False) -> Optional[dict]:
+def conference_html_to_dict(conference: bs4.element.PageElement, 
+                            fees: bool = False
+                            ) -> dict | None:
     """
     Convert conference HTML data to a dictionary.
 
@@ -124,8 +73,8 @@ def conference_html_to_dict(conference: bs4.element.PageElement, fees = False) -
         fees (bool): If fee information is desired to be pulled. Default to False.
 
     Returns:
-        dict: A dictionary containing conference details.
-        None: Conference is either postponed or cancelled. 
+        dict: A dictionary containing conference details. Or, 
+        None: If the conference is either postponed or cancelled. 
     """
     if 'cancelled' in conference['class'] or 'postponed' in conference['class']:
         return None
@@ -195,11 +144,14 @@ def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[
     Standardizes the prices for member and non-member fees, and calculates the maximum fee for sorting.
 
     Args:
-    member_fee_text (str): The text representing the member fee.
-    non_member_fee_text (str): The text representing the non-member fee.
+        member_fee_text (str): The text representing the member fee.
+        non_member_fee_text (str): The text representing the non-member fee.
 
     Returns:
-    tuple: A tuple containing the standardized member fee, non-member fee, and maximum fee, as strings.
+        tuple[str, str, str]: A tuple containing:
+            - The standardized member fee
+            - The non-member fee, and 
+            - The maximum fee, as strings.
     """
     member_fee = standardize_when_price_is_free(member_fee_text)
     non_member_fee = standardize_when_price_is_free(non_member_fee_text)
@@ -224,7 +176,7 @@ def standardize_prices(member_fee_text: str, non_member_fee_text: str) -> tuple[
     
     return member_fee, non_member_fee, max_fee
 
-def set_proxy() -> dict:
+def set_proxy() -> dict[str, str]:
     """
     Set up a proxy for HTTP and HTTPS requests.
 
@@ -244,13 +196,12 @@ def set_proxy() -> dict:
 
     return proxies
 
-def get_conferences() -> list[dict]:
+def get_conferences() -> list[dict[str, str | int]]:
     """
     Get a list of conference details.
 
     Returns:
-        list[dict]: A list of dictionaries containing conference details.
-
+        list[dict[str, str | int]]: A list of dictionaries containing conference details.
     """
     conferences = scrape_conference_list()
     all_conferences = [] # list(dict)
@@ -273,17 +224,64 @@ def get_conferences() -> list[dict]:
 
     return all_conferences
 
-def export_to_json(all_conferences: list[dict], output_file: str='conferences.json'):
+def export_to_json(all_conferences: list[dict[str, str | int]], 
+                   output_file: str='conferences.json'):
     """
     Export a list of dictionaries to a JSON file.
 
     Args:
-        lod (list[dict]): The list of dictionaries to be exported.
+        lod (list[dict[str, str | int]]): The list of dictionaries to be exported.
         output_file (str): The name of the output JSON file. Defaults to 'conferences.json'.
-
     """
     with open(output_file, 'w', encoding='utf8') as fout:
         json.dump(all_conferences, fout, indent=4, ensure_ascii=False)
+
+theme_names = {
+    'agro': 'agrochemistry',
+    'anal': 'analytical',
+    'automation': 'automation',
+    'business': 'business',
+    'careers': 'careers',
+    'catalysis': 'catalysis',
+    'chembio': 'chem bio',
+    'comp': 'computational/data',
+    'diversity': 'diversity',
+    'edu': 'education',
+    'env': 'environment/fuels',
+    'fuels': 'environment/fuels',
+    'form': 'formulation/particle science',
+    'history': 'history/philosophy',
+    'inorg': 'inorganic/nano',
+    'policy': 'law/policy',
+    'mat': 'materials/polymers',
+    'poly': 'materials/polymers',
+    'medchem': 'med chem',
+    'pharm': 'pharma industry',
+    'phys': 'physical/phys org',
+    'process': 'process/engineering',
+    'safety': 'safety',
+    'synthesis': 'synthesis'
+    }
+
+region_short_names = {
+    # contintents
+    'NA': 'North America',
+    'SA': 'South America',
+    'Aus': 'Australasia',
+    # Eur localities
+    'NEur': 'Northern Europe',
+    'WEur': 'Western Europe',
+    'EEur': 'Eastern Europe',
+    # USA localities
+    'WUSA': 'Western USA',
+    'EUSA': 'Eastern USA',
+    'CUSA': 'Midwest USA',
+    'SUSA': 'Southern USA',
+    # UK localities
+    'NEng': 'Northern England',
+    'SEng': 'Southern England',
+    'NI': 'Northern Ireland'
+    }
 
 if __name__ == '__main__':
     proxies = set_proxy()
