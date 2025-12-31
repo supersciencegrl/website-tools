@@ -300,6 +300,25 @@
     },
     {
         "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Multicomponent Reactions & Related Chemistry",
+        "url": "https://sps.sysu.edu.cn/mcr2026/index.html",
+        "start_date": "13 Jan 2026",
+        "end_date": "16 Jan 2026",
+        "locations": [
+            "Guangzhou, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "intlconferenceonmult13Jan2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -2748,6 +2767,26 @@
     {
         "themes": [
             "business",
+            "careers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Bright SCIdea Challenge Final",
+        "url": "https://www.soci.org/events/hq-events/2026/bright-scidea-challenge-2026-final",
+        "start_date": "17 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "brightscideachalleng17Mar2026_0"
+    },
+    {
+        "themes": [
+            "business",
             "chem bio"
         ],
         "regions": [
@@ -3963,6 +4002,26 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "German Biotech Days",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/sci-advanced-medicinal-chemistry-workshop-online-webinar",
+        "start_date": "21 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "germanbiotechdays21Apr2026_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -5115,6 +5174,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SCI Canada Awards",
+        "url": "https://www.soci.org/events/canada-group/2026/sci-canada-awards",
+        "start_date": "25 May 2026",
+        "end_date": null,
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "scicanadaawards25May2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -6193,6 +6292,26 @@
     },
     {
         "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Industrial placement & apprenticeship symposium",
+        "url": "https://www.soci.org/events/young-chemists-panel/2026/ycp-industrial-placement-and-apprenticeship-symposium-2026",
+        "start_date": "02 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "industrialplacementa02Jul2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels"
         ],
@@ -6291,6 +6410,26 @@
             "Belgium"
         ],
         "uid": "belgianorganicsynthe05Jul2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Foundation medicinal chemistry workshop",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/sci-foundation-medicinal-chemistry-workshop-online-webinar",
+        "start_date": "06 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "foundationmedicinalc06Jul2026_0"
     },
     {
         "themes": [
@@ -8059,6 +8198,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Highlights in Medicinal Chemistry",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/highlights-in-medicinal-chemistry-vi",
+        "start_date": "08 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "highlightsinmedicina08Oct2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "process/engineering"
@@ -8531,6 +8691,28 @@
             "France"
         ],
         "uid": "conf´renceintlmatéri16Nov2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Challenges in Catalysis",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/challenges-in-catalysis-ix",
+        "start_date": "17 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "challengesincatalysi17Nov2026_0"
     },
     {
         "themes": [
