@@ -174,6 +174,26 @@
     {
         "themes": [
             "careers",
+            "med chem"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "EFMC Postgraduate Meeting: Biological & Medicinal Chemistry Symposium for Postgraduates",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=133055&eventID=332&traceRedir=2",
+        "start_date": "08 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "efmcpostgraduatemeet08Jan2026_0"
+    },
+    {
+        "themes": [
+            "careers",
             "education"
         ],
         "regions": [
@@ -2059,6 +2079,29 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Lab of the Future USA",
+        "url": "https://www.lab-of-the-future.com/",
+        "start_date": "02 Mar 2026",
+        "end_date": "03 Mar 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "labofthefutureusa02Mar2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -2369,6 +2412,26 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer08Mar2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-lyon/",
+        "start_date": "09 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "societyforlaboratory09Mar2026_0"
     },
     {
         "themes": [
@@ -3616,6 +3679,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Intl Meeting of the RSC ESR Spectroscopy Group",
+        "url": "https://www.esr-group.org/conferences/2026-conference-colchester/",
+        "start_date": "13 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Colchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlmeetingofthersce13Apr2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers"
         ],
@@ -4336,6 +4419,26 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-basel/",
+        "start_date": "30 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "societyforlaboratory30Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "catalysis",
@@ -4591,6 +4694,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "London Lab Live",
+        "url": "https://www.terrapinn.com/exhibition/london-lab-live/index.stm",
+        "start_date": "06 May 2026",
+        "end_date": "07 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "londonlablive06May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -4756,6 +4879,26 @@
             "Portugal"
         ],
         "uid": "eurachemcooperationo11May2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ArabLab Live",
+        "url": "https://www.terrapinn.com/exhibition/arablabksa/index.stm",
+        "start_date": "11 May 2026",
+        "end_date": "12 May 2026",
+        "locations": [
+            "Riyadh, Saudi Arabia"
+        ],
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "uid": "arablablive11May2026_0"
     },
     {
         "themes": [
@@ -5256,6 +5399,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Future Labs Live",
+        "url": "https://www.terrapinn.com/conference/future-labs-live/index.stm",
+        "start_date": "27 May 2026",
+        "end_date": "28 May 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "futurelabslive27May2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -5618,6 +5781,26 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Medicinal Chemistry summer school",
+        "url": "https://www.rsc.org/events/detail/81471/",
+        "start_date": "07 Jun 2026",
+        "end_date": "12 Jun 2026",
+        "locations": [
+            "Loughborough, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "medicinalchemistrysu07Jun2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio"
         ],
@@ -5655,6 +5838,27 @@
             "UK"
         ],
         "uid": "rscporousmaterialsin09Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Bombannes: European summer school on scattering methods applied to soft condensed matter",
+        "url": "https://www.ukpormat.com/",
+        "start_date": "09 Jun 2026",
+        "end_date": "16 Jun 2026",
+        "locations": [
+            "Carcans, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "bombanneseuropeansum09Jun2026_0"
     },
     {
         "themes": [
@@ -5850,6 +6054,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "NetDRIVE summer school (net zero & responsible research with digital research infrastructure)",
+        "url": "https://durham.readthedocs.io/en/latest/netdrive/ss2026.html",
+        "start_date": "15 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "netdrivesummerschool15Jun2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -5866,6 +6090,29 @@
             "UK"
         ],
         "uid": "newinnovationsinpoly16Jun2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-chicago/",
+        "start_date": "18 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "societyforlaboratory18Jun2026_0"
     },
     {
         "themes": [
@@ -6205,6 +6452,27 @@
             "UK"
         ],
         "uid": "aichemyhubleverhulme29Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Directing Biosynthesis",
+        "url": "https://www.rsc.org/events/detail/81633/",
+        "start_date": "29 Jun 2026",
+        "end_date": "01 Jul 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "directingbiosynthesi29Jun2026_0"
     },
     {
         "themes": [
@@ -8077,6 +8345,49 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "BioTechX USA",
+        "url": "https://www.terrapinn.com/conference/biotechxusa/",
+        "start_date": "29 Sep 2026",
+        "end_date": "30 Sep 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "biotechxusa29Sep2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-leiden/",
+        "start_date": "30 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Leiden, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "societyforlaboratory30Sep2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8195,6 +8506,26 @@
             "Germany"
         ],
         "uid": "beilsteinsymposiumsi06Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BioTechX",
+        "url": "https://www.terrapinn.com/conference/biotechx/",
+        "start_date": "06 Oct 2026",
+        "end_date": "08 Oct 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "biotechx06Oct2026_0"
     },
     {
         "themes": [
@@ -8363,6 +8694,29 @@
     },
     {
         "themes": [
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "World Drug Safety Conference",
+        "url": "https://www.terrapinn.com/conference/world-drug-safety-us/",
+        "start_date": "14 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "worlddrugsafetyconfe14Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -8380,6 +8734,26 @@
             "India"
         ],
         "uid": "natureconferencesmee14Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
+        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-tuebingen/",
+        "start_date": "20 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Tübingen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "societyforlaboratory20Oct2026_0"
     },
     {
         "themes": [
@@ -8479,6 +8853,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ArabLab Live",
+        "url": "https://www.terrapinn.com/exhibition/arablab-live/?",
+        "start_date": "26 Oct 2026",
+        "end_date": "28 Oct 2026",
+        "locations": [
+            "Dubai, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "uid": "arablablive26Oct2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "law/policy",
             "process/engineering"
@@ -8516,6 +8910,29 @@
             "Germany"
         ],
         "uid": "beilsteinsymposiumsh27Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Future Labs Live USA",
+        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/?",
+        "start_date": "28 Oct 2026",
+        "end_date": "29 Oct 2026",
+        "locations": [
+            "Pennsylvania, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "futurelabsliveusa28Oct2026_0"
     },
     {
         "themes": [
