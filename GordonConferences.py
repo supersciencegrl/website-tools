@@ -2,6 +2,7 @@ __version__ = '1.1.0'
 
 from datetime import datetime
 import html
+import time
 from typing import Any
 
 from bs4 import BeautifulSoup
@@ -63,7 +64,8 @@ def get_selenide(url: str, driver: WebDriver, cookies: list[dict[str, Any]]) -> 
     # Load cookies if not already provided
     if not cookies: 
         # Pause execution until the server's happy I'm not doing anything dodgy
-        input("Please press Enter once the page is fully loaded in browser to continue...")
+        # input("Please press Enter once the page is fully loaded in browser to continue...")
+        time.sleep(0.1)
         cookies = driver.get_cookies() # Get cookies after the first page load
     
     # Set cookies for session

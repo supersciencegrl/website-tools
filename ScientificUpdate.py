@@ -1,4 +1,4 @@
-__version__ = '1.4.0'
+__version__ = '1.5.0'
 
 import html
 
@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 import bs4.element
 import dateparser
 from deprecated import deprecated
-from pathlib import Path
 import pyperclip
 import requests
 from selenium import webdriver
@@ -137,15 +136,21 @@ def scrape_dates(soup) -> dict[str, str]:
     """
     date_title = soup.find('div', class_='dates')
     date_spans = date_title.find_all('span')
+    end_date_std = '&mdash;' # Default
 
-    start_date, end_date = (date.text for date in date_spans)
+    try:
+        start_date, end_date = (date.text for date in date_spans)
+    except ValueError: # There is only one date
+        start_date = date_spans[0].text
+        end_date = None
 
     start_date_parsed = dateparser.parse(start_date)
     start_date_std = start_date_parsed.strftime('%d %b %Y')
 
-    end_date.replace('- ', '')
-    end_date_parsed = dateparser.parse(end_date)
-    end_date_std = end_date_parsed.strftime('%d %b %Y')
+    if end_date is not None:
+        end_date.replace('- ', '')
+        end_date_parsed = dateparser.parse(end_date)
+        end_date_std = end_date_parsed.strftime('%d %b %Y')
 
     dates = {'start_date': start_date_std,
              'end_date': end_date_std
