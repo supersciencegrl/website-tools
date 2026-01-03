@@ -132,6 +132,26 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/",
+        "start_date": "07 Jan 2026",
+        "end_date": "14 Jan 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemicaldevelopments07Jan2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "med chem",
@@ -190,6 +210,28 @@
             "UK"
         ],
         "uid": "efmcpostgraduatemeet08Jan2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Geobiology",
+        "url": "https://www.grc.org/geobiology-conference/2026/",
+        "start_date": "11 Jan 2026",
+        "end_date": "16 Jan 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer11Jan2026_0"
     },
     {
         "themes": [
@@ -734,6 +776,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Foods of the Future – Science & Engineering Approaches",
+        "url": "https://www.grc.org/foods-of-the-future-science-and-engineering-approaches-conference/2026/",
+        "start_date": "25 Jan 2026",
+        "end_date": "30 Jan 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer25Jan2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -1138,6 +1202,28 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Ultrafast Phenomena in Cooperative Systems",
+        "url": "https://www.grc.org/ultrafast-phenomena-in-cooperative-systems-conference/2026/",
+        "start_date": "08 Feb 2026",
+        "end_date": "13 Feb 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer08Feb2026_0"
+    },
+    {
+        "themes": [
             "business"
         ],
         "regions": [
@@ -1380,6 +1466,27 @@
             "Türkiye"
         ],
         "uid": "anatolianconferenceo09Feb2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Understanding Polymorphism & Crystallisation Issues in the Pharmaceutical Industry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/understanding-polymorphism-crystallisation-issues-in-the-pharmaceutical-industry/",
+        "start_date": "09 Feb 2026",
+        "end_date": "13 Feb 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "understandingpolymor09Feb2026_0"
     },
     {
         "themes": [
@@ -1806,6 +1913,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Machine Learning to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
+        "start_date": "19 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofmachin19Feb2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -1911,6 +2038,25 @@
             "UK"
         ],
         "uid": "rscorganicchemistryc24Feb2026_0"
+    },
+    {
+        "themes": [
+            "careers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scientific & Technical Writing (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/scientific-and-technical-writing/",
+        "start_date": "24 Feb 2026",
+        "end_date": "25 Feb 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "scientifictechnicalw24Feb2026_0"
     },
     {
         "themes": [
@@ -2059,6 +2205,29 @@
     {
         "themes": [
             "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Marine Natural Products",
+        "url": "https://www.grc.org/marine-natural-products-conference/2026/",
+        "start_date": "01 Mar 2026",
+        "end_date": "06 Mar 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer01Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "med chem",
             "pharma industry"
         ],
@@ -2138,6 +2307,48 @@
             "Online"
         ],
         "uid": "fairresearchdatamana02Mar2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/",
+        "start_date": "02 Mar 2026",
+        "end_date": "06 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "secretsofbatchproces02Mar2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical & Process Safety for Development Chemists (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
+        "start_date": "02 Mar 2026",
+        "end_date": "10 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemicalprocesssafet02Mar2026_0"
     },
     {
         "themes": [
@@ -2329,6 +2540,27 @@
             "Online"
         ],
         "uid": "aicirculareconomycon04Mar2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Design of Experiments for Chemists & Engineers (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/design-of-experiments-for-chemists-and-engineers/",
+        "start_date": "04 Mar 2026",
+        "end_date": "12 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "designofexperimentsf04Mar2026_0"
     },
     {
         "themes": [
@@ -2639,6 +2871,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Lipidomics",
+        "url": "https://www.grc.org/lipidomics-conference/2026/",
+        "start_date": "15 Mar 2026",
+        "end_date": "20 Mar 2026",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer15Mar2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "pharma industry",
             "process/engineering"
@@ -2684,6 +2939,29 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Scientific Update: 7th Flow Chemistry & Continuous Processing Conference",
+        "url": "https://www.scientificupdate.com/conference_events/flow-chemistry-and-continuous-processing-conference/",
+        "start_date": "16 Mar 2026",
+        "end_date": "17 Mar 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "scientificupdate7thf16Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano",
             "materials/polymers"
@@ -2724,6 +3002,27 @@
             "Germany"
         ],
         "uid": "koordinationschemiet16Mar2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Design, Development & Scale-Up of Safe Chemical Processes & Operations (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/design-development-and-scale-up-of-safe-chemical-processes-and-operations/",
+        "start_date": "16 Mar 2026",
+        "end_date": "20 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "designdevelopmentsca16Mar2026_0"
     },
     {
         "themes": [
@@ -2910,6 +3209,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260318/",
+        "start_date": "18 Mar 2026",
+        "end_date": "20 Mar 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "chemicaldevelopments18Mar2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "pharma industry"
         ],
@@ -3017,6 +3340,26 @@
     },
     {
         "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "The Costing of Chemical Processes (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/the-costing-of-chemical-processes/",
+        "start_date": "23 Mar 2026",
+        "end_date": "&mdash;",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "thecostingofchemical23Mar2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -3078,6 +3421,27 @@
             "South Africa"
         ],
         "uid": "chem4energyannualcon23Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Biocatalysis as a Tool for the Synthetic Chemist (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-as-a-tool-for-the-synthetic-chemist/",
+        "start_date": "23 Mar 2026",
+        "end_date": "31 Mar 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "biocatalysisasatoolf23Mar2026_0"
     },
     {
         "themes": [
@@ -3613,6 +3977,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Artificial Intelligence to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/",
+        "start_date": "13 Apr 2026",
+        "end_date": "14 Apr 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofartifi13Apr2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -3696,6 +4080,26 @@
             "UK"
         ],
         "uid": "intlmeetingofthersce13Apr2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applied Mixing Technology for Process Development: Scaling Down to Scale Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applied-mixing-technology-for-process-development-scaling-down-to-scale-up/",
+        "start_date": "13 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "appliedmixingtechnol13Apr2026_0"
     },
     {
         "themes": [
@@ -3957,6 +4361,25 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Molecular & Ionic Clusters",
+        "url": "https://www.grc.org/molecular-and-ionic-clusters-conference/2026/",
+        "start_date": "19 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer19Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -4165,6 +4588,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "pharma industry",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/",
+        "start_date": "21 Apr 2026",
+        "end_date": "22 Apr 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "practicalmanagemento21Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4312,6 +4758,47 @@
     {
         "themes": [
             "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Image Science",
+        "url": "https://www.grc.org/image-science-conference/2026/",
+        "start_date": "26 Apr 2026",
+        "end_date": "01 May 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer26Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Neutron Scattering",
+        "url": "https://www.grc.org/neutron-scattering-conference/2026/",
+        "start_date": "26 Apr 2026",
+        "end_date": "01 May 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer26Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "materials/polymers"
         ],
         "regions": [
@@ -4376,6 +4863,25 @@
     },
     {
         "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Filtration & Drying (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/filtration-and-drying-course/",
+        "start_date": "27 Apr 2026",
+        "end_date": "29 Apr 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "filtrationdryingtrai27Apr2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio",
             "process/engineering"
@@ -4394,6 +4900,49 @@
             "Austria"
         ],
         "uid": "bioprocessinternatio27Apr2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Quality by Design in Pharmaceutical Development (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/quality-by-design-in-pharmaceutical-development/",
+        "start_date": "27 Apr 2026",
+        "end_date": "01 May 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "qualitybydesigninpha27Apr2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260428/",
+        "start_date": "28 Apr 2026",
+        "end_date": "30 Apr 2026",
+        "locations": [
+            "Nice, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "chemicaldevelopments28Apr2026_0"
     },
     {
         "themes": [
@@ -4902,6 +5451,27 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical & Process Safety for Development Chemists (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20260511/",
+        "start_date": "11 May 2026",
+        "end_date": "12 May 2026",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "chemicalprocesssafet11May2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -4919,6 +5489,25 @@
             "Germany"
         ],
         "uid": "himmelfahrtstagungon11May2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Understanding Process Plant Cleaning for More Efficient Changeovers (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/understanding-process-plant-cleaning-for-more-efficient-changeovers/",
+        "start_date": "11 May 2026",
+        "end_date": "13 May 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "understandingprocess11May2026_0"
     },
     {
         "themes": [
@@ -5156,6 +5745,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Lignin",
+        "url": "https://www.grc.org/lignin-conference/2026/",
+        "start_date": "17 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer17May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -5277,6 +5888,26 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Scientific Update: 55th Organic Process Research & Development Conference OPRD",
+        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/",
+        "start_date": "20 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "scientificupdate55th20May2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -5314,6 +5945,25 @@
             "Canada"
         ],
         "uid": "canadiansocietiesfor24May2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Geochemistry of Mineral Deposits",
+        "url": "https://www.grc.org/geochemistry-of-mineral-deposits-conference/2026/",
+        "start_date": "24 May 2026",
+        "end_date": "29 May 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer24May2026_0"
     },
     {
         "themes": [
@@ -5399,6 +6049,30 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern Europe",
+            "Online"
+        ],
+        "title": "Drug development (training course)",
+        "url": "https://www.lakemedelsakademin.se/en/courses-and-trainings/lakemedelsutveckling/drug-development-3-day-course/",
+        "start_date": "26 May 2026",
+        "end_date": "28 May 2026",
+        "locations": [
+            "Stockholm, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "uid": "drugdevelopmenttrain26May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -5416,6 +6090,26 @@
             "Switzerland"
         ],
         "uid": "futurelabslive27May2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20260527/",
+        "start_date": "27 May 2026",
+        "end_date": "29 May 2026",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "secretsofbatchproces27May2026_0"
     },
     {
         "themes": [
@@ -5530,6 +6224,53 @@
     },
     {
         "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Energetic Materials",
+        "url": "https://www.grc.org/energetic-materials-conference/2026/",
+        "start_date": "31 May 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer31May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Inorganic Chemistry",
+        "url": "https://www.grc.org/inorganic-chemistry-conference/2026/",
+        "start_date": "31 May 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer31May2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -5568,6 +6309,26 @@
             "Lebanon"
         ],
         "uid": "aichelebanonstudentr01Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Synthetic Organic Electrochemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/synthetic-organic-electrochemistry-short-course/",
+        "start_date": "01 Jun 2026",
+        "end_date": "03 Jun 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "syntheticorganicelec01Jun2026_0"
     },
     {
         "themes": [
@@ -5653,6 +6414,28 @@
             "WV"
         ],
         "uid": "aicheprocessdevelopm02Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Peptide Therapeutics CMC: Impurities Management & Control Strategy (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/peptide-therapeutics-cmc-impurities-management-and-control-strategy/",
+        "start_date": "03 Jun 2026",
+        "end_date": "04 Jun 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "peptidetherapeuticsc03Jun2026_0"
     },
     {
         "themes": [
@@ -5801,6 +6584,74 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Geologic Hydrogen",
+        "url": "https://www.grc.org/geologic-hydrogen-conference/2026/",
+        "start_date": "07 Jun 2026",
+        "end_date": "12 Jun 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer07Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Lipoprotein Metabolism",
+        "url": "https://www.grc.org/lipoprotein-metabolism-conference/2026/",
+        "start_date": "07 Jun 2026",
+        "end_date": "12 Jun 2026",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer07Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Metallocofactors",
+        "url": "https://www.grc.org/metallocofactors-conference/2026/",
+        "start_date": "07 Jun 2026",
+        "end_date": "12 Jun 2026",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer07Jun2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio"
         ],
@@ -5880,6 +6731,26 @@
             "UK"
         ],
         "uid": "newperspectivesindmp10Jun2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "An Introduction to Powder Technology (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/an-introduction-to-powder-technology/",
+        "start_date": "10 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "anintroductiontopowd10Jun2026_0"
     },
     {
         "themes": [
@@ -5967,6 +6838,72 @@
         ],
         "US_state": [
             "MA"
+        ],
+        "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Bioinspired Materials",
+        "url": "https://www.grc.org/bioinspired-materials-conference/2026/",
+        "start_date": "14 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Heterocyclic Compounds",
+        "url": "https://www.grc.org/heterocyclic-compounds-conference/2026/",
+        "start_date": "14 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer14Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Magnetic Resonance & Quantum Information Science",
+        "url": "https://www.grc.org/magnetic-resonance-and-quantum-information-science-conference/2026/",
+        "start_date": "14 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
         ],
         "uid": "gordonresearchconfer14Jun2026_0"
     },
@@ -6183,6 +7120,231 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Bioanalytical Sensors",
+        "url": "https://www.grc.org/bioanalytical-sensors-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Catalysis",
+        "url": "https://www.grc.org/catalysis-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Crystal Engineering",
+        "url": "https://www.grc.org/crystal-engineering-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Granular Matter",
+        "url": "https://www.grc.org/granular-matter-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Intrinsically Disordered Proteins",
+        "url": "https://www.grc.org/intrinsically-disordered-proteins-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Metals in Medicine",
+        "url": "https://www.grc.org/metals-in-medicine-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Noble Metal Nanoparticles",
+        "url": "https://www.grc.org/noble-metal-nanoparticles-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Proteases, Inhibitors & Therapeutics",
+        "url": "https://www.grc.org/proteases-inhibitors-and-therapeutics-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Systems Chemistry",
+        "url": "https://www.grc.org/systems-chemistry-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Two Dimensional Electronics Beyond Graphene",
+        "url": "https://www.grc.org/two-dimensional-electronics-beyond-graphene-conference/2026/",
+        "start_date": "21 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer21Jun2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6385,6 +7547,180 @@
         ],
         "countries": [
             "Switzerland"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Biointerface Science",
+        "url": "https://www.grc.org/biointerface-science-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Correlated Electron Systems",
+        "url": "https://www.grc.org/correlated-electron-systems-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Environmental Endocrine Disruptors",
+        "url": "https://www.grc.org/environmental-endocrine-disruptors-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Molecular Interactions & Dynamics",
+        "url": "https://www.grc.org/molecular-interactions-and-dynamics-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nanoscale Science & Engineering for Agriculture & Food Systems",
+        "url": "https://www.grc.org/nanoscale-science-and-engineering-for-agriculture-and-food-systems-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Proteoglycans",
+        "url": "https://www.grc.org/proteoglycans-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Single Molecule Approaches to Biology",
+        "url": "https://www.grc.org/single-molecule-approaches-to-biology-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Tribology",
+        "url": "https://www.grc.org/tribology-conference/2026/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
         ],
         "uid": "gordonresearchconfer28Jun2026_0"
     },
@@ -6681,6 +8017,26 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Electronic Processes in Organic Materials",
+        "url": "https://www.grc.org/electronic-processes-in-organic-materials-conference/2026/",
+        "start_date": "05 Jul 2026",
+        "end_date": "10 Jul 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer05Jul2026_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -6949,6 +8305,186 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Aqueous Corrosion",
+        "url": "https://www.grc.org/aqueous-corrosion-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Biocatalysis",
+        "url": "https://www.grc.org/biocatalysis-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry & Biology of Tetrapyrroles",
+        "url": "https://www.grc.org/chemistry-and-biology-of-tetrapyrroles-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Drug Metabolism",
+        "url": "https://www.grc.org/drug-metabolism-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Optics & Photonics in Medicine & Biology",
+        "url": "https://www.grc.org/optics-and-photonics-in-medicine-and-biology-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organometallic Chemistry",
+        "url": "https://www.grc.org/organometallic-chemistry-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Radionuclide Theranostics for the Management of Cancer",
+        "url": "https://www.grc.org/radionuclide-theranostics-for-the-management-of-cancer-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Thiol-Based Redox Regulation & Signaling",
+        "url": "https://www.grc.org/thiol-based-redox-regulation-and-signaling-conference/2026/",
+        "start_date": "12 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -6966,6 +8502,27 @@
             "UK"
         ],
         "uid": "faradaydiscussionsol13Jul2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260713/",
+        "start_date": "13 Jul 2026",
+        "end_date": "22 Jul 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemicaldevelopments13Jul2026_0"
     },
     {
         "themes": [
@@ -7092,6 +8649,96 @@
             "Brazil"
         ],
         "uid": "intlsocietyofheteroc19Jul2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Additive Manufacturing of Soft Materials",
+        "url": "https://www.grc.org/additive-manufacturing-of-soft-materials-conference/2026/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Plasmonics & Nanophotonics",
+        "url": "https://www.grc.org/plasmonics-and-nanophotonics-conference/2026/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Research at High Pressure",
+        "url": "https://www.grc.org/research-at-high-pressure-conference/2026/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Stereochemistry",
+        "url": "https://www.grc.org/stereochemistry-conference/2026/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer19Jul2026_0"
     },
     {
         "themes": [
@@ -7241,6 +8888,250 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Biomineralization",
+        "url": "https://www.grc.org/biomineralization-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Defects in Semiconductors",
+        "url": "https://www.grc.org/defects-in-semiconductors-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Electron Donor-Acceptor Interactions",
+        "url": "https://www.grc.org/electron-donor-acceptor-interactions-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Enzymes, Coenzymes & Metabolic Pathways",
+        "url": "https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Fuel Cells",
+        "url": "https://www.grc.org/fuel-cells-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Green Chemistry",
+        "url": "https://www.grc.org/green-chemistry-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Multiscale Mechanochemistry & Mechanobiology",
+        "url": "https://www.grc.org/multiscale-mechanochemistry-and-mechanobiology-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Polymer Physics",
+        "url": "https://www.grc.org/polymer-physics-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Quantum Science",
+        "url": "https://www.grc.org/quantum-science-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Solid State Chemistry",
+        "url": "https://www.grc.org/solid-state-chemistry-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Water & Aqueous Solutions",
+        "url": "https://www.grc.org/water-and-aqueous-solutions-conference/2026/",
+        "start_date": "26 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer26Jul2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "education"
         ],
@@ -7328,6 +9219,144 @@
             "ME"
         ],
         "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Computational Materials Science & Engineering",
+        "url": "https://www.grc.org/computational-materials-science-and-engineering-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Drug Carriers in Medicine & Biology",
+        "url": "https://www.grc.org/drug-carriers-in-medicine-and-biology-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Membranes &ndash; Materials & Processes",
+        "url": "https://www.grc.org/membranes-materials-and-processes-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organic Geochemistry",
+        "url": "https://www.grc.org/organic-geochemistry-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Vibrational Spectroscopy",
+        "url": "https://www.grc.org/vibrational-spectroscopy-conference/2026/",
+        "start_date": "02 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer02Aug2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Medicinal Chemistry",
+        "url": "https://www.grc.org/medicinal-chemistry-conference/2026/",
+        "start_date": "09 Aug 2026",
+        "end_date": "14 Aug 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer09Aug2026_0"
     },
     {
         "themes": [
@@ -7995,6 +10024,27 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Physical Organic Chemistry Concepts for Process Development (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/physical-organic-chemistry-concepts-for-process-development/",
+        "start_date": "14 Sep 2026",
+        "end_date": "16 Sep 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "physicalorganicchemi14Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -8094,6 +10144,47 @@
             "China"
         ],
         "uid": "natureconferencesnex18Sep2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Scientific Update: 56th Organic Process Research & Development Conference OPRD",
+        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/20260921/",
+        "start_date": "21 Sep 2026",
+        "end_date": "23 Sep 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "scientificupdate56th21Sep2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20260921/",
+        "start_date": "21 Sep 2026",
+        "end_date": "23 Sep 2026",
+        "locations": [
+            "Dublin, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "uid": "secretsofbatchproces21Sep2026_0"
     },
     {
         "themes": [
@@ -8345,6 +10436,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Machine Learning to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/20260928/",
+        "start_date": "28 Sep 2026",
+        "end_date": "29 Sep 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofmachin28Sep2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -8406,26 +10518,6 @@
             "Italy"
         ],
         "uid": "gpcrsinmedicinalchem30Sep2026_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Nordic Regulatory Affairs Meeting",
-        "url": "https://www.lakemedelsakademin.se/en/courses-and-trainings/regulatory-affairs/nordig-ra-meet-2025/",
-        "start_date": "01 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "nordicregulatoryaffa01Oct2026_0"
     },
     {
         "themes": [
@@ -8757,6 +10849,27 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20261020/",
+        "start_date": "20 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "chemicaldevelopments20Oct2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation"
         ],
@@ -8933,6 +11046,26 @@
             "PA"
         ],
         "uid": "futurelabsliveusa28Oct2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Artificial Intelligence to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/20261102/",
+        "start_date": "02 Nov 2026",
+        "end_date": "03 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofartifi02Nov2026_0"
     },
     {
         "themes": [
