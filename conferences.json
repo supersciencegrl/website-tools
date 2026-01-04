@@ -4988,6 +4988,28 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "UAE Drug Discovery & Biotechnology Symposium: From science to translation",
+        "url": "https://genetic.ae/2025/12/15/1st-uae-drug-discovery-biotechnology-symposium-from-science-to-translation/",
+        "start_date": "30 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Abu Dhabi, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "uid": "uaedrugdiscoverybiot30Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "catalysis",
@@ -5657,6 +5679,29 @@
             "UK"
         ],
         "uid": "whatachemistneedstok13May2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Surface roughness, texture, & tribology (training class)",
+        "url": "https://michmet.com/classes/",
+        "start_date": "13 May 2026",
+        "end_date": "14 May 2026",
+        "locations": [
+            "Livonia, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "uid": "surfaceroughnesstext13May2026_0"
     },
     {
         "themes": [
@@ -10209,6 +10254,28 @@
     {
         "themes": [
             "catalysis",
+            "chem bio",
+            "environment/fuels",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "School of Photochemistry: From photocatalysis to photobiology (training school) Photocat26",
+        "url": "https://photocat2026.com/",
+        "start_date": "21 Sep 2026",
+        "end_date": "25 Sep 2026",
+        "locations": [
+            "Alicante, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "schoolofphotochemist21Sep2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
             "synthesis"
         ],
         "regions": [
@@ -10826,6 +10893,27 @@
             "India"
         ],
         "uid": "natureconferencesmee14Oct2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Intl Conference on Polymers & Advanced Materials POLYMAT & Latin American Symposium on Coordination & Organometallic Chemistry SILQCOM",
+        "url": "https://polymat.iim.unam.mx/2026/",
+        "start_date": "18 Oct 2026",
+        "end_date": "23 Oct 2026",
+        "locations": [
+            "Oaxaca, Mexico"
+        ],
+        "countries": [
+            "Mexico"
+        ],
+        "uid": "intlconferenceonpoly18Oct2026_0"
     },
     {
         "themes": [
