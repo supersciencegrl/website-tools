@@ -1,32 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "RNA-Targeted Drug Discovery & Development Symposium",
-        "url": "https://rna-drugdiscovery.com/",
-        "start_date": "02 Jan 2026",
-        "end_date": "04 Jan 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "rnatargeteddrugdisco02Jan2026_0"
-    },
-    {
-        "themes": [
             "physical/phys org",
             "process/engineering"
         ],
