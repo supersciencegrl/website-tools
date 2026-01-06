@@ -598,6 +598,26 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Process Industries Net Zero PINZ CDT Conference",
+        "url": "https://pinzcdt.co.uk/events/pinz-conference-2026/",
+        "start_date": "21 Jan 2026",
+        "end_date": "22 Jan 2026",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "processindustriesnet21Jan2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "materials/polymers"
@@ -3159,6 +3179,27 @@
             "Spain"
         ],
         "uid": "paperlesslabacademyp17Mar2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "MAINFRAME Symposium on AI-driven small molecule drug discovery",
+        "url": "https://event.fourwaves.com/mainframesymposium/pages",
+        "start_date": "18 Mar 2026",
+        "end_date": "19 Mar 2026",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "mainframesymposiumon18Mar2026_0"
     },
     {
         "themes": [
