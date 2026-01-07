@@ -1,4 +1,6 @@
+from collections import Counter
 from pathlib import Path
+from typing import Sequence
 
 from bs4 import BeautifulSoup
 import requests
@@ -50,7 +52,7 @@ def parse_filename(filename: str) -> Path:
     return path.with_suffix('.html') # Ensure .html suffix
 
 def print_links(filepath: Path, 
-                linklist: list[str], 
+                linklist: Sequence[str], 
                 min_count: int = 1, 
                 no_duplicates: bool = True
                 ):
@@ -70,14 +72,14 @@ def print_links(filepath: Path,
     """
     print(f'From {filepath.name}:\n')
     
-    printed = [] # List only used if short = True
-    for link in linklist:
-        if linklist.count(link) >= min_count and link not in printed:
-            print(link, f'({linklist.count(link)})')
+    link_counts = Counter(linklist) # Counts occurrences of each link
+    for link, count in link_counts.items():
+        if count >= min_count:
+            print(f'{link} ({count})')
             if no_duplicates:
-                printed.append(link)
+                continue # Avoid printing dupliactes
 
-def run() -> tuple[list[str], list[str], list[str]]:
+def run() -> tuple[list[str], list[str], Sequence[str]]:
     """
     Load an HTML file, extract links, classify them, and print duplicate externals.
 
@@ -112,8 +114,11 @@ def run() -> tuple[list[str], list[str], list[str]]:
     # Categorize links
     internal_links = [link['href'] for link in links if is_internal_link(link['href'])]
     external_links = [link['href'] for link in links if link['href'] not in internal_links]
-    duplicate_links = [href for href in external_links 
-                        if (external_links.count(href) > 1 and href not in excluded_links)
+
+    # Find duplicate external links
+    external_link_counts = Counter(external_links)
+    duplicate_links = [href for href, count in external_link_counts.items()
+                        if count > 1 and href not in excluded_links
                         ]
 
     print_links(filepath, duplicate_links, no_duplicates = True)
