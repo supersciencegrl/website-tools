@@ -2833,9 +2833,9 @@
             "Western Europe"
         ],
         "title": "Pistoia Alliance London Conference",
-        "url": "https://www.pistoiaalliance.org/",
+        "url": "https://pistoiaalliance.org/eventdetails/pistoia-alliance-2026-london-conference/",
         "start_date": "13 Mar 2026",
-        "end_date": "15 Mar 2026",
+        "end_date": "14 Mar 2026",
         "locations": [
             "London, UK"
         ],
@@ -3773,6 +3773,27 @@
             "Portugal"
         ],
         "uid": "analítica2026meeting30Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Bristol Synthesis Meeting",
+        "url": "https://www.bristol.ac.uk/chemistry/research/bristol-synthesis-meeting/",
+        "start_date": "31 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bristolsynthesismeet31Mar2026_0"
     },
     {
         "themes": [
@@ -8837,6 +8858,31 @@
             "UK"
         ],
         "uid": "rscappliedsymposiumi23Jul2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "ACS Division of Organic Chemistry DOC Graduate Research Symposium GRS",
+        "url": "https://www.organicdivision.org/graduate-research-symposium/",
+        "start_date": "23 Jul 2026",
+        "end_date": "26 Jul 2026",
+        "locations": [
+            "Atlanta, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "uid": "acsdivisionoforganic23Jul2026_0"
     },
     {
         "themes": [
