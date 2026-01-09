@@ -46,25 +46,6 @@
     },
     {
         "themes": [
-            "med chem"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Mona Symposium: Natural Products & Medicinal Chemistry",
-        "url": "https://www.monasymposium.com/",
-        "start_date": "05 Jan 2026",
-        "end_date": "08 Jan 2026",
-        "locations": [
-            "Kingston, Jamaica"
-        ],
-        "countries": [
-            "Jamaica"
-        ],
-        "uid": "monasymposiumnatural05Jan2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -123,67 +104,6 @@
             "Online"
         ],
         "uid": "chemicaldevelopments07Jan2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Biological & Medicinal Chemistry BMCS Postgraduate Symposium",
-        "url": "https://www.rscbmcs.org/events/psxix/",
-        "start_date": "08 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscbiologicalmedicin08Jan2026_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Chemistry Teaching in Practice",
-        "url": "https://www.rsc.org/events/detail/82524/chemistry-teaching-in-practice",
-        "start_date": "08 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemistryteachinginp08Jan2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "med chem"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "EFMC Postgraduate Meeting: Biological & Medicinal Chemistry Symposium for Postgraduates",
-        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=133055&eventID=332&traceRedir=2",
-        "start_date": "08 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "efmcpostgraduatemeet08Jan2026_0"
     },
     {
         "themes": [
@@ -916,6 +836,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "British Mass Spectrometry Society BMSS Ambient Ionization Special Interest Group SIG meeting",
+        "url": "https://www.bmss.org.uk/bmss-ambient-ionisation-sig-meeting-2026/",
+        "start_date": "28 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Reading, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishmassspectrome28Jan2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -953,6 +893,26 @@
             "India"
         ],
         "uid": "intlsymposiumonfunda28Jan2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "British Mass Spectrometry Society BMSS Biomacromolecular Structure Special Interest Group SIG meeting",
+        "url": "https://www.bmss.org.uk/bmss-biomacromolecular-structure-sig-meeting-2026/",
+        "start_date": "28 Jan 2026",
+        "end_date": "29 Jan 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishmassspectrome28Jan2026_0"
     },
     {
         "themes": [
@@ -2661,6 +2621,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AI in Drug Discovery",
+        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/drug-discovery",
+        "start_date": "09 Mar 2026",
+        "end_date": "10 Mar 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "aiindrugdiscovery09Mar2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -4286,6 +4267,27 @@
             "UK"
         ],
         "uid": "sciprocessdevelopmen15Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Mass spectrometry MS of therapeutic oligonucleotides",
+        "url": "https://www.bmss.org.uk/bmss-therapeutic-oligonucleotides-meeting-2026/",
+        "start_date": "16 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "massspectrometrymsof16Apr2026_0"
     },
     {
         "themes": [
