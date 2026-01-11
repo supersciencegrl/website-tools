@@ -2642,6 +2642,26 @@
     },
     {
         "themes": [
+            "careers",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "ECR Net Zero Conference",
+        "url": "https://www.eventbrite.co.uk/e/ecr-net-zero-conference-2026-tickets-1975808382058",
+        "start_date": "09 Mar 2026",
+        "end_date": "10 Mar 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ecrnetzeroconference09Mar2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -5323,6 +5343,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Advances in cell-based screening in drug discovery",
+        "url": "https://elrig.org/portfolio/advances-in-cell-based-screening-in-drug-discovery-2026/",
+        "start_date": "06 May 2026",
+        "end_date": "07 May 2026",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "advancesincellbaseds06May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -5947,6 +5987,25 @@
             "Italy"
         ],
         "uid": "italiannationalcongr19May2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "UK Energy Research Centre Annual Assembly",
+        "url": "https://www.eventbrite.co.uk/e/ukerc-annual-assembly-tickets-1976741653498",
+        "start_date": "20 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukenergyresearchcent20May2026_0"
     },
     {
         "themes": [
@@ -7110,6 +7169,51 @@
             "UK"
         ],
         "uid": "newinnovationsinpoly16Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ELRIG German Forum: Target innovation & novel screening technologies",
+        "url": "https://elrig.org/portfolio/target-innovation-novel-screening-technologies-elrigs-german-forum/",
+        "start_date": "16 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "elriggermanforumtarg16Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Drug Discovery USA",
+        "url": "https://elrig.org/portfolio/drug-discovery-usa-2026/",
+        "start_date": "16 Jun 2026",
+        "end_date": "17 Jun 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "drugdiscoveryusa16Jun2026_0"
     },
     {
         "themes": [
@@ -11310,6 +11414,26 @@
     {
         "themes": [
             "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Protein sciences in drug discovery",
+        "url": "https://elrig.org/portfolio/protein-sciences-in-drug-discovery-2026/",
+        "start_date": "10 Nov 2026",
+        "end_date": "11 Nov 2026",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "proteinsciencesindru10Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "pharma industry",
             "safety"
         ],
@@ -12017,6 +12141,27 @@
             "Switzerland"
         ],
         "uid": "ilmactradefair21Sep2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "ELRIG Drug Discovery",
+        "url": "https://elrig.org/portfolio/drug-discovery-2027/",
+        "start_date": "19 Oct 2027",
+        "end_date": "20 Oct 2027",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigdrugdiscovery19Oct2027_0"
     },
     {
         "themes": [
