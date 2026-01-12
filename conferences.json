@@ -3900,6 +3900,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Main Group Interest Group Annual Meeting",
+        "url": "https://www.rsc.org/events/detail/82872/rsc-main-group-interest-group-annual-meeting-and-agm",
+        "start_date": "08 Apr 2026",
+        "end_date": "09 Apr 2026",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscmaingroupinterest08Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -10153,6 +10173,29 @@
             "Switzerland"
         ],
         "uid": "intlsymposiumonmedic06Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "education",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Meeting of Inorganic Chemists Recently Appointed MICRA",
+        "url": "https://micra2026.weebly.com/",
+        "start_date": "07 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "meetingofinorganicch07Sep2026_0"
     },
     {
         "themes": [
