@@ -83,6 +83,26 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "JACS Symposium: Expanding horizons of nanoscience & energy",
+        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/ETH-Zurich",
+        "start_date": "12 Jan 2026",
+        "end_date": "13 Jan 2026",
+        "locations": [
+            "Zurich, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "jacssymposiumexpandi12Jan2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -1070,28 +1090,6 @@
     },
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Ultrafast Phenomena in Cooperative Systems",
-        "url": "https://www.grc.org/ultrafast-phenomena-in-cooperative-systems-conference/2026/",
-        "start_date": "08 Feb 2026",
-        "end_date": "13 Feb 2026",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer08Feb2026_0"
-    },
-    {
-        "themes": [
             "business"
         ],
         "regions": [
@@ -1294,6 +1292,68 @@
             "MA"
         ],
         "uid": "societyforlaboratory07Feb2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "ACS Nigeria Annual Symposium",
+        "url": "https://acsnigeria.org/11th-annual-symposium/",
+        "start_date": "08 Feb 2026",
+        "end_date": "11 Feb 2026",
+        "locations": [
+            "Ibadan, Nigeria"
+        ],
+        "countries": [
+            "Nigeria"
+        ],
+        "uid": "acsnigeriaannualsymp08Feb2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Ultrafast Phenomena in Cooperative Systems",
+        "url": "https://www.grc.org/ultrafast-phenomena-in-cooperative-systems-conference/2026/",
+        "start_date": "08 Feb 2026",
+        "end_date": "13 Feb 2026",
+        "locations": [
+            "Pomona, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer08Feb2026_0"
     },
     {
         "themes": [
@@ -3097,6 +3157,71 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "ACS Middle Atlantic Regional Meeting MARM",
+        "url": "https://marm2026.com/",
+        "start_date": "17 Mar 2026",
+        "end_date": "19 Mar 2026",
+        "locations": [
+            "Hershey, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "acsmiddleatlanticreg17Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ACS/Chemical Society of Japan CSJ JACS Symposium Series: Advancing molecular transformations for chemical innovation",
+        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/CSJ-Spring-Meeting",
+        "start_date": "18 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Funabashi, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "acschemicalsocietyof18Mar2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -3885,6 +4010,27 @@
     {
         "themes": [
             "environment/fuels",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "JACS Symposium: Functional materials for sustainable development",
+        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/CCS-Congress",
+        "start_date": "12 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Chongqing, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "jacssymposiumfunctio12Apr2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
             "process/engineering",
             "safety"
         ],
@@ -4140,6 +4286,29 @@
             "UK"
         ],
         "uid": "biotechnologyforsust15Apr2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "JACS Symposium: Transformative chemistry for a sustainable & smart future",
+        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/KCS-General-Meeting",
+        "start_date": "15 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Jeju, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "jacssymposiumtransfo15Apr2026_0"
     },
     {
         "themes": [
@@ -7028,6 +7197,31 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Green Chemistry & Engineering GC&E conference",
+        "url": "https://www.gcande.org/",
+        "start_date": "15 Jun 2026",
+        "end_date": "18 Jun 2026",
+        "locations": [
+            "San Antonio, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "greenchemistryengine15Jun2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -7592,6 +7786,49 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "ACS Northwest Regional Meeting NORM",
+        "url": "https://norm2026.org/",
+        "start_date": "28 Jun 2026",
+        "end_date": "01 Jul 2026",
+        "locations": [
+            "Boise, ID, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ID"
+        ],
+        "uid": "acsnorthwestregional28Jun2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano"
         ],
         "regions": [
@@ -7910,6 +8147,27 @@
             "UK"
         ],
         "uid": "directingbiosynthesi29Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Symposium on the Organic Chemistry of Sulfur",
+        "url": "https://isocs-31.pl/",
+        "start_date": "29 Jun 2026",
+        "end_date": "01 Jul 2026",
+        "locations": [
+            "Cz&ecedilstochowa, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "uid": "intlsymposiumontheor29Jun2026_0"
     },
     {
         "themes": [
@@ -11279,6 +11537,49 @@
             "Netherlands"
         ],
         "uid": "tideseuropeoligonucl03Nov2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "South East Regional Meeting of the ACS SERMACS",
+        "url": "https://sermacs2026.org/",
+        "start_date": "04 Nov 2026",
+        "end_date": "07 Nov 2026",
+        "locations": [
+            "Memphis, TN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TN"
+        ],
+        "uid": "southeastregionalmee04Nov2026_0"
     },
     {
         "themes": [
