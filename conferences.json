@@ -3404,7 +3404,7 @@
         "title": "The Costing of Chemical Processes (training course)",
         "url": "https://www.scientificupdate.com/training_courses/the-costing-of-chemical-processes/",
         "start_date": "23 Mar 2026",
-        "end_date": "&mdash;",
+        "end_date": null,
         "locations": [
             "Online"
         ],
@@ -8884,27 +8884,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260713/",
-        "start_date": "13 Jul 2026",
-        "end_date": "22 Jul 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "chemicaldevelopments13Jul2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "law/policy",
@@ -8969,6 +8948,27 @@
             "Türkiye"
         ],
         "uid": "catalysisfundamental13Jul2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260713/",
+        "start_date": "13 Jul 2026",
+        "end_date": "22 Jul 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemicaldevelopments13Jul2026_0"
     },
     {
         "themes": [
