@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/",
-        "start_date": "07 Jan 2026",
-        "end_date": "14 Jan 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "chemicaldevelopments07Jan2026_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -40,114 +20,6 @@
             "CA"
         ],
         "uid": "gordonresearchconfer11Jan2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Chemical Nanoscience & Nanotechnology CNN Interest Group Annual Symposium",
-        "url": "https://www.rsc.org/events/detail/81692/rsc-chemical-nanoscience-and-nanotechnology-cnn-interest-group-annual-symposium",
-        "start_date": "12 Jan 2026",
-        "end_date": "13 Jan 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscchemicalnanoscien12Jan2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "JACS Symposium: Expanding horizons of nanoscience & energy",
-        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/ETH-Zurich",
-        "start_date": "12 Jan 2026",
-        "end_date": "13 Jan 2026",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "jacssymposiumexpandi12Jan2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Biotech Showcase (in-person)",
-        "url": "https://informaconnect.com/biotech-showcase/",
-        "start_date": "12 Jan 2026",
-        "end_date": "14 Jan 2026",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "biotechshowcaseinper12Jan2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Metal-Organic Frameworks & Porous Organic Polymers for Energy & Sustainability",
-        "url": "https://www.mofes26.com/",
-        "start_date": "12 Jan 2026",
-        "end_date": "15 Jan 2026",
-        "locations": [
-            "Bangalore, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "intlconferenceonmeta12Jan2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "inorganic/nano",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "JP Morgan Healthcare Conference",
-        "url": "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference",
-        "start_date": "12 Jan 2026",
-        "end_date": "15 Jan 2026",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "jpmorganhealthcareco12Jan2026_0"
     },
     {
         "themes": [
@@ -206,46 +78,6 @@
             "Italy"
         ],
         "uid": "intlconferenceonnano14Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Intl Mini-Symposium on Molecular Machine Learning MML",
-        "url": "https://uni-ms.zoom.us/webinar/register/8517646911327/WN_xRMXsDZoQ5aKRP1SbJUneQ#/registration",
-        "start_date": "15 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "intlminisymposiumonm15Jan2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Munich Lab Automation Community Meetup",
-        "url": "https://www.collaborativedrug.com/munich-lab-automation-community-meetup",
-        "start_date": "15 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "munichlabautomationc15Jan2026_0"
     },
     {
         "themes": [
@@ -10143,6 +9975,27 @@
             "Singapore"
         ],
         "uid": "rnaleadersapac01Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Artificial Intelligence AI in Chemistry",
+        "url": "https://www.rscbmcs.org/events/aichem9/",
+        "start_date": "02 Sep 2026",
+        "end_date": "04 Sep 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "artificialintelligen02Sep2026_0"
     },
     {
         "themes": [
