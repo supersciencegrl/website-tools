@@ -1,127 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Geobiology",
-        "url": "https://www.grc.org/geobiology-conference/2026/",
-        "start_date": "11 Jan 2026",
-        "end_date": "16 Jan 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer11Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Empowering chemists with AI & ML: Transformative tools & techniques (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/empowering-chemists-with-ai-and-ml-transformative-tools-and-techniques/",
-        "start_date": "12 Jan 2026",
-        "end_date": "20 Jan 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "empoweringchemistswi12Jan2026_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Multicomponent Reactions & Related Chemistry",
-        "url": "https://sps.sysu.edu.cn/mcr2026/index.html",
-        "start_date": "13 Jan 2026",
-        "end_date": "16 Jan 2026",
-        "locations": [
-            "Guangzhou, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "intlconferenceonmult13Jan2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Nanomedicine & Nanobiotechnology ICONAN",
-        "url": "https://premc.org/conferences/iconan-nanomedicine-nanobiotechnology/",
-        "start_date": "14 Jan 2026",
-        "end_date": "16 Jan 2026",
-        "locations": [
-            "Rome, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "intlconferenceonnano14Jan2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Online Workshop on Pharmacovigilance (India-focussed)",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLScOdNUGGnP9EN3WpuPa1RHaTjmqEVmsN0oNjvB1uLSIRx35Wg/viewform",
-        "start_date": "15 Jan 2026",
-        "end_date": "17 Jan 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "onlineworkshoponphar15Jan2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "RSC Meet the Editors",
-        "url": "https://www.rsc.org/events/detail/83001/rsc-meet-the-editors-banaras-hindu-university-india",
-        "start_date": "16 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Varanasi, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "rscmeettheeditors16Jan2026_0"
-    },
-    {
-        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -138,26 +17,6 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer18Jan2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "BioSeed: Early stage life science investment",
-        "url": "https://obn.glueup.com/event/bioseed-2026-150186/",
-        "start_date": "19 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bioseedearlystagelif19Jan2026_0"
     },
     {
         "themes": [
@@ -465,7 +324,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Advanced in silico drug design workshop",
+        "title": "Advanced in silico drug design workshop 9ADD",
         "url": "https://www.kfc.upol.cz/9add",
         "start_date": "26 Jan 2026",
         "end_date": "30 Jan 2026",
@@ -765,6 +624,50 @@
             "Singapore"
         ],
         "uid": "aienhancedprocessana30Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Northern Europe",
+            "Online"
+        ],
+        "title": "The use of AI to advance sustainability research",
+        "url": "https://su.bmc.nu/Modules/Event/Public/Event.aspx?EventId=1594&EventGuid=50f73b70-c9d7-4bf0-9ffb-5fc527fd84bc",
+        "start_date": "30 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden",
+            "Online"
+        ],
+        "countries": [
+            "Sweden",
+            "Online"
+        ],
+        "uid": "theuseofaitoadvances30Jan2026_0"
+    },
+    {
+        "themes": [
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Industrial Chemistry Symposium",
+        "url": "https://sics26.scg.ch/",
+        "start_date": "30 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "swissindustrialchemi30Jan2026_0"
     },
     {
         "themes": [
@@ -1209,6 +1112,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Semaine de la Photochimie (training course)",
+        "url": "https://www.linkedin.com/posts/guillaume-berionni-8a32922a5_the-2026-organic-photochemistry-week-at-the-activity-7418728572141379584-xh4Q/",
+        "start_date": "09 Feb 2026",
+        "end_date": "12 Feb 2026",
+        "locations": [
+            "Namur, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "semainedelaphotochim09Feb2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "pharma industry",
             "process/engineering"
@@ -1313,6 +1236,26 @@
             "diversity"
         ],
         "regions": [
+            "Online"
+        ],
+        "title": "Celebrating the success of women in STEM symposium: Breaking barriers, building our future",
+        "url": "https://catalogue.csps-efpc.gc.ca/product?catalog=TRN4-E48&cm_locale=en",
+        "start_date": "11 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "celebratingthesucces11Feb2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
             "Eastern USA"
         ],
         "title": "Thrive in Science: Women's leadership forum",
@@ -1402,6 +1345,50 @@
             "France"
         ],
         "uid": "sctyoungresearchfell11Feb2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Biotech & Beers networking",
+        "url": "https://bionow.glueup.com/event/biotech-beers-2026-edinburgh-150832/",
+        "start_date": "12 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biotechbeersnetworki12Feb2026_0"
+    },
+    {
+        "themes": [
+            "education",
+            "formulation/particle science",
+            "history/philosophy"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "The chemistry of art",
+        "url": "https://bsky.app/profile/waynestatechem.bsky.social/post/3mckpghvwws25",
+        "start_date": "13 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Detroit, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "uid": "thechemistryofart13Feb2026_0"
     },
     {
         "themes": [
@@ -1865,6 +1852,26 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "York & North Yorkshire Life Sciences Forum",
+        "url": "https://bionow.glueup.com/event/york-and-north-yorkshire-life-sciences-forum-164814/",
+        "start_date": "25 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "York, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "yorknorthyorkshireli25Feb2026_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -1923,6 +1930,25 @@
             "Germany"
         ],
         "uid": "germanzeoliteconfere25Feb2026_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Celebrating transgender, non-binary, & intersex researchers in chemical sciences",
+        "url": "https://transstemuk.substack.com/s/symposium-2026",
+        "start_date": "27 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "celebratingtransgend27Feb2026_0"
     },
     {
         "themes": [
@@ -2472,6 +2498,26 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Bionow Life Sciences Online Careers Fair (students from particular UK universities)",
+        "url": "https://bionow.glueup.com/event/bionow-life-sciences-online-careers-fair-163979/",
+        "start_date": "10 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "bionowlifescienceson10Mar2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -2574,6 +2620,26 @@
             "Germany"
         ],
         "uid": "annualconferenceofth10Mar2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Biotech & Beers networking",
+        "url": "https://bionow.glueup.com/event/biotech-beers-2026-newcastle-upon-tyne-164386/",
+        "start_date": "11 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biotechbeersnetworki11Mar2026_0"
     },
     {
         "themes": [
@@ -3209,6 +3275,25 @@
             "UK"
         ],
         "uid": "fromdinosaurjuicetog20Mar2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Association for Science Education South-East Asia Conference",
+        "url": "https://www.ase.org.uk/events/ase-south-east-asia-conference-2026",
+        "start_date": "20 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Bangkok, Thailand"
+        ],
+        "countries": [
+            "Thailand"
+        ],
+        "uid": "associationforscienc20Mar2026_0"
     },
     {
         "themes": [
@@ -4511,6 +4596,25 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Isolated biomolecules & biomolecular interactions IBBI",
+        "url": "https://www.eventsforce.net/standrews/frontend/reg/thome.csp?pageID=173140&eventID=266",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Inverness, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "isolatedbiomolecules20Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -4970,6 +5074,27 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "BioAI Summit",
+        "url": "https://bionow.glueup.com/event/bionow-bioai-summit-2026-163641/",
+        "start_date": "29 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Alderley Park, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bioaisummit29Apr2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "catalysis",
             "computational/data",
@@ -5260,6 +5385,25 @@
             "TX"
         ],
         "uid": "offshoretechnologyco04May2026_0"
+    },
+    {
+        "themes": [
+            "business"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Invention to Innovation i2I",
+        "url": "https://www.linkedin.com/posts/sophie-veilleux_innovation-recherche-entrepreneuriat-activity-7414733494767079424-w_bB/",
+        "start_date": "04 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Kingston, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "inventiontoinnovatio04May2026_0"
     },
     {
         "themes": [
@@ -6036,6 +6180,27 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Bionow Pharma Manufacturing Conference",
+        "url": "https://bionow.glueup.com/event/bionow-pharma-manufacturing-conference-2026-163637/",
+        "start_date": "21 May 2026",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bionowpharmamanufact21May2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6238,6 +6403,25 @@
             "Canada"
         ],
         "uid": "secretsofbatchproces27May2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Association for Science Education Scotland Conference",
+        "url": "https://www.ase.org.uk/events/ase-scotland-conference-2026-practical-science-spark-curiosity-ignite-understanding",
+        "start_date": "30 May 2026",
+        "end_date": null,
+        "locations": [
+            "Kinross, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "associationforscienc30May2026_0"
     },
     {
         "themes": [
@@ -6564,6 +6748,31 @@
             "Online"
         ],
         "uid": "peptidetherapeuticsc03Jun2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Johnson & Johnson Discovery Chemistry Graduate Research Symposium",
+        "url": "http://linkedin.com/posts/mark-campbell-115454109_theres-still-plenty-of-time-to-apply-to-activity-7416492396814843904-XaqC",
+        "start_date": "03 Jun 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Spring House, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "johnsonjohnsondiscov03Jun2026_0"
     },
     {
         "themes": [
