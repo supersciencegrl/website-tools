@@ -1,68 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Mechanical Systems in the Quantum Regime",
-        "url": "https://www.grc.org/mechanical-systems-in-the-quantum-regime-conference/2026/",
-        "start_date": "18 Jan 2026",
-        "end_date": "23 Jan 2026",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "gordonresearchconfer18Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EuroPrep",
-        "url": "http://euro-prep.net/",
-        "start_date": "22 Jan 2026",
-        "end_date": "23 Jan 2026",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "europrep22Jan2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "chem bio",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Continuous BioFlow Network Meeting",
-        "url": "https://www.rsc.org/events/detail/82580/the-2nd-continuous-bioflow-network-annual-meeting",
-        "start_date": "23 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Keele, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "continuousbioflownet23Jan2026_0"
-    },
-    {
-        "themes": [
             "med chem",
             "pharma industry",
             "synthesis"
@@ -314,6 +252,25 @@
             "UK"
         ],
         "uid": "britishmassspectrome28Jan2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Mastering metadata for digital preservation (training course)",
+        "url": "https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/mastering-metadata-for-digital-preservation-online",
+        "start_date": "28 Jan 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "masteringmetadatafor28Jan2026_0"
     },
     {
         "themes": [
@@ -799,6 +756,46 @@
             "Online"
         ],
         "uid": "transformingtheorypo04Feb2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Chemical Research Society of India CRSI National Symposium in Chemistry",
+        "url": "https://sites.google.com/view/36th-crsi-2026",
+        "start_date": "05 Feb 2026",
+        "end_date": "07 Feb 2026",
+        "locations": [
+            "Dibrugarh, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "chemicalresearchsoci05Feb2026_0"
     },
     {
         "themes": [
@@ -5347,6 +5344,29 @@
     {
         "themes": [
             "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "Sustainability Conference for responsible research computing SC4RC",
+        "url": "https://indico.cern.ch/event/1526482/registrations/122248/",
+        "start_date": "04 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Geneva, Switzerland ",
+            " Online"
+        ],
+        "countries": [
+            "Switzerland ",
+            " Online"
+        ],
+        "uid": "sustainabilityconfer04May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
             "pharma industry",
             "process/engineering"
         ],
@@ -7854,6 +7874,27 @@
             "CA"
         ],
         "uid": "empoweringwomeninorg25Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "chem bio"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Analytical Biosciences Group Early Career Researcher Meeting",
+        "url": "https://www.rsc.org/events/detail/83035/13th-early-career-researcher-meeting",
+        "start_date": "25 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Wilmslow, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscanalyticalbioscie25Jun2026_0"
     },
     {
         "themes": [
@@ -11228,6 +11269,30 @@
             "Nigeria"
         ],
         "uid": "postgraduatenetworki11Oct2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Biopharma Round Table BPRT (invitation only)",
+        "url": "",
+        "start_date": "13 Oct 2026",
+        "end_date": "14 Oct 2026",
+        "locations": [
+            "New Brunswick, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "biopharmaroundtableb13Oct2026_0"
     },
     {
         "themes": [
