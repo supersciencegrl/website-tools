@@ -4552,6 +4552,26 @@
     {
         "themes": [
             "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FAIR data management of theoretical spectroscopy & Green's Function methods",
+        "url": "https://www.cecam.org/workshop-details/fair-data-management-of-theoretical-spectroscopy-and-greens-function-methods-1377",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Lausanne, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "fairdatamanagementof20Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio",
             "computational/data"
         ],
@@ -6160,6 +6180,27 @@
     },
     {
         "themes": [
+            "diversity",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Polymer Women Empowerment & Research PoWER",
+        "url": "https://polymerwomenempowermentresearch.com/",
+        "start_date": "21 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "polymerwomenempowerm21May2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6322,6 +6363,29 @@
             "Online"
         ],
         "uid": "drugdevelopmenttrain26May2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Laboratory automation & AI/ML certificate (training course)",
+        "url": "https://forms.illinois.edu/sec/1412629363",
+        "start_date": "26 May 2026",
+        "end_date": "28 May 2026",
+        "locations": [
+            "Urbana, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "laboratoryautomation26May2026_0"
     },
     {
         "themes": [
@@ -6560,6 +6624,32 @@
             "UK"
         ],
         "uid": "symposiumonantiinfec01Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "London",
+            "Online"
+        ],
+        "title": "Light-driven chemistry for a sustainable future",
+        "url": "https://royalsociety.org/science-events-and-lectures/2026/06/light-driven-chemistry/",
+        "start_date": "01 Jun 2026",
+        "end_date": "02 Jun 2026",
+        "locations": [
+            "London, UK ",
+            " Online"
+        ],
+        "countries": [
+            "UK ",
+            " Online"
+        ],
+        "uid": "lightdrivenchemistry01Jun2026_0"
     },
     {
         "themes": [
@@ -8173,6 +8263,46 @@
             "ME"
         ],
         "uid": "gordonresearchconfer28Jun2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lindau Nobel Laureate Meeting",
+        "url": "https://royalsociety.org/science-events-and-lectures/scientific/lindau-meeting/",
+        "start_date": "28 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Lindau, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "lindaunobellaureatem28Jun2026_0"
     },
     {
         "themes": [
@@ -9833,6 +9963,31 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Merck Innovation Cup (students & postdocs)",
+        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
+        "start_date": "08 Aug 2026",
+        "end_date": "14 Aug 2026",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "merckinnovationcupst08Aug2026_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry"
         ],
@@ -10164,6 +10319,28 @@
             "Switzerland"
         ],
         "uid": "europeanconferenceon31Aug2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Intl Conference on Chemical Looping ICCL",
+        "url": "https://www.iccl2026.com/welcome-iccl2026/",
+        "start_date": "31 Aug 2026",
+        "end_date": "04 Sep 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlconferenceonchem31Aug2026_0"
     },
     {
         "themes": [
