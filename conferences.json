@@ -7356,6 +7356,50 @@
     {
         "themes": [
             "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Discovery Europe",
+        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe/",
+        "start_date": "15 Jun 2026",
+        "end_date": "16 Jun 2026",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "drugdiscoveryeurope15Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Formulation & Delivery Europe",
+        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe/formulation-delivery-europe",
+        "start_date": "15 Jun 2026",
+        "end_date": "16 Jun 2026",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "formulationdeliverye15Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "process/engineering"
         ],
         "regions": [
@@ -7403,7 +7447,9 @@
     },
     {
         "themes": [
-            "computational/data"
+            "automation",
+            "computational/data",
+            "materials/polymers"
         ],
         "regions": [
             "Asia"
@@ -7898,6 +7944,26 @@
             "Germany"
         ],
         "uid": "representationrealit23Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Centre for Process Analytics & Control Technology CPACT Process Spectroscopy (training course)",
+        "url": "https://www.cpact.com/Events/Event?eid=408",
+        "start_date": "23 Jun 2026",
+        "end_date": "25 Jun 2026",
+        "locations": [
+            "Northampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "centreforprocessanal23Jun2026_0"
     },
     {
         "themes": [
@@ -10887,6 +10953,27 @@
             "China"
         ],
         "uid": "natureconferencesnex18Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Advanced analysis and processing of volume electron microscopy data (training course)",
+        "url": "https://meetings.embo.org/event/26-volume-em-1",
+        "start_date": "20 Sep 2026",
+        "end_date": "26 Sep 2026",
+        "locations": [
+            "&Ccaroneské Bud&ecaronjovice, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "advancedanalysisandp20Sep2026_0"
     },
     {
         "themes": [
