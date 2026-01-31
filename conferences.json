@@ -1,360 +1,6 @@
 [
     {
         "themes": [
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Alpine Winter Conference on Medicinal & Synthetic Chemistry",
-        "url": "https://www.alpinewinterconference.org/speakers",
-        "start_date": "25 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "St Anton, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "alpinewinterconferen25Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Liquid Phase Electron Microscopy",
-        "url": "https://www.grc.org/liquid-phase-electron-microscopy-conference/2026/",
-        "start_date": "25 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer25Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Multifunctional Materials & Structures",
-        "url": "https://www.grc.org/multifunctional-materials-and-structures-conference/2026/",
-        "start_date": "25 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer25Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Winter School on Materials Chemistry",
-        "url": "https://www.mpie.de/events/42463/2768772",
-        "start_date": "25 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Kreuth, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "winterschoolonmateri25Jan2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Foods of the Future – Science & Engineering Approaches",
-        "url": "https://www.grc.org/foods-of-the-future-science-and-engineering-approaches-conference/2026/",
-        "start_date": "25 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer25Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Advanced in silico drug design workshop 9ADD",
-        "url": "https://www.kfc.upol.cz/9add",
-        "start_date": "26 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Olomouc, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "uid": "advancedinsilicodrug26Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Virtual Winter School on Computational Chemistry",
-        "url": "https://winterschool.cc/",
-        "start_date": "26 Jan 2026",
-        "end_date": "30 Jan 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "virtualwinterschoolo26Jan2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "New starters in AI for chemistry (academia)",
-        "url": "https://aichemy.ac.uk/event/new-starters-in-ai-for-chemistry/",
-        "start_date": "27 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "newstartersinaiforch27Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Centre for Process Analytics & Control Technology CPACT Process Spectroscopy Course",
-        "url": "https://www.cpact.com/Portals/5/downloads/repositories/118/412/2545/Process%20Spectroscopy%20Course%20flyer%202026%20-%20Horizontal.pdf",
-        "start_date": "27 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "Northampton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "centreforprocessanal27Jan2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Ecole de l'Association Française de l'Adsorption AFA",
-        "url": "https://new.societechimiquedefrance.fr/Events/ecole-de-lafa/",
-        "start_date": "27 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "Anglet, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "ecoledelassociationf27Jan2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "RNAi-based Therapeutics Summit",
-        "url": "https://rnaibased-therapeutics.com/",
-        "start_date": "27 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "rnaibasedtherapeutic27Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "British Mass Spectrometry Society BMSS Ambient Ionization Special Interest Group SIG meeting",
-        "url": "https://www.bmss.org.uk/bmss-ambient-ionisation-sig-meeting-2026/",
-        "start_date": "28 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Reading, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "britishmassspectrome28Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Mastering metadata for digital preservation (training course)",
-        "url": "https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/mastering-metadata-for-digital-preservation-online",
-        "start_date": "28 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "masteringmetadatafor28Jan2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Symposium on Fundamentals, Applied, & Translational Research",
-        "url": "https://www.linkedin.com/posts/anant-kapdi-a0729a147_department-of-chemistry-ict-mumbai-is-proud-share-7382816862847275008-jXLX/",
-        "start_date": "28 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "intlsymposiumonfunda28Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "British Mass Spectrometry Society BMSS Biomacromolecular Structure Special Interest Group SIG meeting",
-        "url": "https://www.bmss.org.uk/bmss-biomacromolecular-structure-sig-meeting-2026/",
-        "start_date": "28 Jan 2026",
-        "end_date": "29 Jan 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "britishmassspectrome28Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Reaction Monitoring Symposium",
-        "url": "https://www.eventbrite.co.uk/e/reaction-monitoring-symposium-2026-tickets-1637850397629",
-        "start_date": "29 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "reactionmonitoringsy29Jan2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "physical/phys org"
@@ -376,111 +22,6 @@
             "NM"
         ],
         "uid": "winterconferenceonma29Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "McBain Medal: Colloids & surface & interface science",
-        "url": "https://soci.org/events/colloid-and-surface-chemistry-group/2026/mcbain-medal-2025",
-        "start_date": "30 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "mcbainmedalcolloidss30Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AI-Enhanced Process Analytical Technology PAT: Opportunities & Challenges",
-        "url": "https://cpact.com/Events/Event?eid=451",
-        "start_date": "30 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "uid": "aienhancedprocessana30Jan2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AI-enhanced process analytical technology (workshop)",
-        "url": "https://www.cpact.com/Events/Event?eid=451",
-        "start_date": "30 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "uid": "aienhancedprocessana30Jan2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern Europe",
-            "Online"
-        ],
-        "title": "The use of AI to advance sustainability research",
-        "url": "https://su.bmc.nu/Modules/Event/Public/Event.aspx?EventId=1594&EventGuid=50f73b70-c9d7-4bf0-9ffb-5fc527fd84bc",
-        "start_date": "30 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Stockholm, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "uid": "theuseofaitoadvances30Jan2026_0"
-    },
-    {
-        "themes": [
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Industrial Chemistry Symposium",
-        "url": "https://sics26.scg.ch/",
-        "start_date": "30 Jan 2026",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "swissindustrialchemi30Jan2026_0"
     },
     {
         "themes": [
@@ -637,6 +178,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Accelerating forensic analysis: Waters RADIAN ASAP for seized drugs & complex materials (workshop)",
+        "url": "https://web.cvent.com/event/97754160-f679-4ca4-bd2e-9b6fb600e329/summary",
+        "start_date": "03 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Columbia, MD, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "acceleratingforensic03Feb2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "pharma industry"
@@ -739,6 +306,26 @@
     },
     {
         "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "STEM Expo (careers)",
+        "url": "https://stemexpo.scwist.ca/",
+        "start_date": "04 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "stemexpocareers04Feb2026_0"
+    },
+    {
+        "themes": [
             "diversity",
             "education"
         ],
@@ -796,6 +383,26 @@
             "India"
         ],
         "uid": "chemicalresearchsoci05Feb2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Festival of Data (public-facing; all science)",
+        "url": "https://civicdatacooperative.com/festival-of-data/",
+        "start_date": "05 Feb 2026",
+        "end_date": "07 Feb 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "festivalofdatapublic05Feb2026_0"
     },
     {
         "themes": [
@@ -1040,6 +647,30 @@
         ],
         "countries": [
             "Global"
+        ],
+        "uid": "iupacglobalwomensbre10Feb2026_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "IUPAC Global Women's Breakfast: Chemistry Europe & Angewandte Chemie symposium",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=TyT-JA6J70a-L6UgKXa3pQeeen_IqPxAu38QGsg0gU1UQkRMM1dJWjE0STk3R1oxUjlXWFgwN09STS4u",
+        "start_date": "10 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Weinheim, Germany",
+            "Berlin, Germany",
+            "Online"
+        ],
+        "countries": [
+            "Germany",
+            "Germany",
+            "Online"
         ],
         "uid": "iupacglobalwomensbre10Feb2026_0"
     },
@@ -1603,6 +1234,27 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SmartLab Europe",
+        "url": "https://www.pharma-iq.com/events-smartlab-exchange-europe",
+        "start_date": "23 Feb 2026",
+        "end_date": "24 Feb 2026",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "smartlabeurope23Feb2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -2055,6 +1707,25 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Robotics Industry Showcase (all fields)",
+        "url": "https://iuk-business-connect.org.uk/events/robotics-industry-showcase-2026/",
+        "start_date": "03 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "roboticsindustryshow03Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -2392,6 +2063,25 @@
     },
     {
         "themes": [
+            "history/philosophy"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Fifty Years of Chemistry: 50th Anniversary of RSC Historical Group",
+        "url": "https://www.rsc.org/events/detail/82723/fifty-years-of-chemistry-celebrating-the-50th-anniversary-of-the-rsc-historical-group",
+        "start_date": "10 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "fiftyyearsofchemistr10Mar2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -2660,6 +2350,29 @@
             "UK"
         ],
         "uid": "ukchemistrytournamen14Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Florida Heterocyclic & Synthetic Conference FloHet",
+        "url": "https://www.flohet.org/",
+        "start_date": "15 Mar 2026",
+        "end_date": "18 Mar 2026",
+        "locations": [
+            "Gainesville, FL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "FL"
+        ],
+        "uid": "floridaheterocyclics15Mar2026_0"
     },
     {
         "themes": [
@@ -3045,6 +2758,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "The Inator Hackathon (Raspberry Pi's & remote sensing for machine learning)",
+        "url": "https://aichemy.ac.uk/event/the-inator-hackathon-raspberry-pis-and-remote-sensing-for-machine-learning-2/",
+        "start_date": "18 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "theinatorhackathonra18Mar2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "med chem",
             "pharma industry"
@@ -3318,6 +3050,25 @@
             "South Africa"
         ],
         "uid": "chem4energyannualcon23Mar2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Generative Modelling Spring School GeMSS",
+        "url": "https://aichemy.ac.uk/event/generative-modeling-spring-school-2026/",
+        "start_date": "23 Mar 2026",
+        "end_date": "27 Mar 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "generativemodellings23Mar2026_0"
     },
     {
         "themes": [
@@ -3715,6 +3466,46 @@
             "Malaysia"
         ],
         "uid": "offshoretechnologyco31Mar2026_0"
+    },
+    {
+        "themes": [
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "RSC Fluorine Group Postgraduate Meeting",
+        "url": "https://www.rsc.org/events/detail/83151/24th-rsc-fluorine-interest-group-postgraduate-meeting",
+        "start_date": "01 Apr 2026",
+        "end_date": "02 Apr 2026",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscfluorinegrouppost01Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Machine learning for experimental materials data",
+        "url": "https://aichemy.ac.uk/event/machine-learning-for-experimental-materials-data/",
+        "start_date": "02 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "machinelearningforex02Apr2026_0"
     },
     {
         "themes": [
@@ -5491,6 +5282,28 @@
             "UK"
         ],
         "uid": "biocatukuknationalme07May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Workshop of the Intl Isotope Society European Division",
+        "url": "https://iis-ced.de/28th-workshop-of-the-iis-european-division-at-bad-soden/",
+        "start_date": "07 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Bad Soden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "workshopoftheintliso07May2026_0"
     },
     {
         "themes": [
@@ -8721,6 +8534,27 @@
             "Online"
         ],
         "uid": "foundationmedicinalc06Jul2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data",
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "The next generation of AI chemists (penultimate-year undergrads)",
+        "url": "https://aichemy.ac.uk/next-generation-ai-chemists-programme/",
+        "start_date": "06 Jul 2026",
+        "end_date": "07 Jul 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "thenextgenerationofa06Jul2026_0"
     },
     {
         "themes": [
