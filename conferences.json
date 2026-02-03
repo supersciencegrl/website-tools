@@ -1,30 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Winter Conference on Mass Spectrometry: MS in microbial sciences",
-        "url": "https://www.asms.org/conferences/winter-conference/winter-conference-homepage",
-        "start_date": "29 Jan 2026",
-        "end_date": "01 Feb 2026",
-        "locations": [
-            "Santa Fe, NM, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NM"
-        ],
-        "uid": "winterconferenceonma29Jan2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "physical/phys org"
         ],
@@ -156,51 +132,6 @@
             "Italy"
         ],
         "uid": "europeanwinterschool01Feb2026_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Scaling science startups",
-        "url": "https://luma.com/6d4ch56v?tk=agPEJz",
-        "start_date": "03 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "scalingsciencestartu03Feb2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Accelerating forensic analysis: Waters RADIAN ASAP for seized drugs & complex materials (workshop)",
-        "url": "https://web.cvent.com/event/97754160-f679-4ca4-bd2e-9b6fb600e329/summary",
-        "start_date": "03 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Columbia, MD, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "acceleratingforensic03Feb2026_0"
     },
     {
         "themes": [
@@ -849,6 +780,29 @@
             "UK"
         ],
         "uid": "biotechbeersnetworki12Feb2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "SiLA Splash Hackathon (digital labs/data standards)",
+        "url": "https://sila-standard.com/just-after-slas2026-in-boston-join-us-for-a-hands-on-hackathon-session/",
+        "start_date": "12 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "silasplashhackathond12Feb2026_0"
     },
     {
         "themes": [
@@ -1792,6 +1746,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "diversity",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Women in Photochemistry Symposium",
+        "url": "https://www.eventbrite.co.uk/e/women-in-photochemistry-symposium-2026-tickets-1981855679688",
+        "start_date": "04 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, England"
+        ],
+        "countries": [
+            "England"
+        ],
+        "uid": "womeninphotochemistr04Mar2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -2320,10 +2296,10 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Pistoia Alliance London Conference",
+        "title": "Pistoia Alliance London Conference & workshops (digital transformation)",
         "url": "https://pistoiaalliance.org/eventdetails/pistoia-alliance-2026-london-conference/",
         "start_date": "13 Mar 2026",
-        "end_date": "14 Mar 2026",
+        "end_date": "15 Mar 2026",
         "locations": [
             "London, UK"
         ],
@@ -5771,6 +5747,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Association for Crystallization Technology ACT Larson Workshop",
+        "url": "https://www.regcytes.extension.iastate.edu/larson/",
+        "start_date": "17 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Ashburn, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "uid": "associationforcrysta17May2026_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -7864,6 +7863,25 @@
             "UK"
         ],
         "uid": "rscanalyticalbioscie25Jun2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "ScotChem Polymers & Soft Materials Conference",
+        "url": "https://www.eventbrite.co.uk/e/scotchem-polymers-soft-materials-conference-2026-tickets-1980455137629",
+        "start_date": "26 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scotchempolymerssoft26Jun2026_0"
     },
     {
         "themes": [
@@ -10366,6 +10384,25 @@
     },
     {
         "themes": [
+            "analytical"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Symposium on Chromatography ISC",
+        "url": "https://www.isc2026.org/",
+        "start_date": "06 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "intlsymposiumonchrom06Sep2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "education",
@@ -10978,6 +11015,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "GDCh Electrochemistry",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11733&modus=",
+        "start_date": "22 Sep 2026",
+        "end_date": "25 Sep 2026",
+        "locations": [
+            "Bayreuth, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "gdchelectrochemistry22Sep2026_0"
+    },
+    {
+        "themes": [
             "automation"
         ],
         "regions": [
@@ -11204,6 +11262,31 @@
             "Italy"
         ],
         "uid": "gpcrsinmedicinalchem30Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "SciX (analytical)",
+        "url": "https://scixconference.org/",
+        "start_date": "04 Oct 2026",
+        "end_date": "09 Oct 2026",
+        "locations": [
+            "Sparks, NV, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NV"
+        ],
+        "uid": "scixanalytical04Oct2026_0"
     },
     {
         "themes": [
