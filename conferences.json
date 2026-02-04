@@ -607,6 +607,26 @@
     },
     {
         "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe",
+            "Online"
+        ],
+        "title": "IUPAC Global Women's Breakfast: RSC symposium",
+        "url": "https://www.rsc.org/events/detail/82864/rsc-iupac-global-womens-breakfast-2026-gwb-2026",
+        "start_date": "10 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "iupacglobalwomensbre10Feb2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "materials/polymers"
         ],
