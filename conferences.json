@@ -135,128 +135,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "A human focus for 21st century life sciences",
-        "url": "https://royalsociety.org/science-events-and-lectures/2026/02/life-sciences/",
-        "start_date": "03 Feb 2026",
-        "end_date": "04 Feb 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ahumanfocusfor21stce03Feb2026_0"
-    },
-    {
-        "themes": [
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "FemIDEAS: Transforming theory, policy, & practice: Decolonize sexual & gender-based violence in higher education",
-        "url": "https://femideas.com/conference/",
-        "start_date": "03 Feb 2026",
-        "end_date": "04 Feb 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "femideastransforming03Feb2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Kassel Membrane Days",
-        "url": "https://dechema.de/en/kmd2026.html",
-        "start_date": "03 Feb 2026",
-        "end_date": "04 Feb 2026",
-        "locations": [
-            "Kassel, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "kasselmembranedays03Feb2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Industrial Polymers & Consumer Packaged Goods CPG Summit",
-        "url": "https://events.bizzabo.com/3rd-industrial-polymers-and-cpg-summit-2026",
-        "start_date": "03 Feb 2026",
-        "end_date": "04 Feb 2026",
-        "locations": [
-            "Heidelberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "industrialpolymersco03Feb2026_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Chemistry Partnering ECP",
-        "url": "https://www.european-chemistry-partnering.com/",
-        "start_date": "04 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "europeanchemistrypar04Feb2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "STEM Expo (careers)",
-        "url": "https://stemexpo.scwist.ca/",
-        "start_date": "04 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "stemexpocareers04Feb2026_0"
-    },
-    {
-        "themes": [
             "diversity",
             "education"
         ],
@@ -1268,6 +1146,26 @@
             "UK"
         ],
         "uid": "rscorganicchemistryc24Feb2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "process/engineering"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Nature-Inspired Chemical Engineering Automation NICE",
+        "url": "https://luma.com/qhky4izh",
+        "start_date": "24 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "natureinspiredchemic24Feb2026_0"
     },
     {
         "themes": [
