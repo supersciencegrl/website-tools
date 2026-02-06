@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Central European Conference on Photochemistry CECP",
-        "url": "http://www.cecp.at/index.php",
-        "start_date": "01 Feb 2026",
-        "end_date": "05 Feb 2026",
-        "locations": [
-            "Bad Hofgastein, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "centraleuropeanconfe01Feb2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "environment/fuels",
             "materials/polymers"
@@ -1808,6 +1788,25 @@
             "UK"
         ],
         "uid": "2026rscchemicalbiolo06Mar2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "British Science Week (education)",
+        "url": "https://www.britishscienceweek.org/",
+        "start_date": "06 Mar 2026",
+        "end_date": "15 Mar 2026",
+        "locations": [
+            "UK, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishscienceweeked06Mar2026_0"
     },
     {
         "themes": [
