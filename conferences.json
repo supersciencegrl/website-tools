@@ -1,241 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Gordon Research Conference: AI for Materials, Energy, & Chemical Sciences",
-        "url": "https://www.grc.org/ai-for-materials-energy-and-chemical-sciences-conference/2026/",
-        "start_date": "01 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Galveston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "gordonresearchconfer01Feb2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Atomically Precise Nanochemistry",
-        "url": "https://www.grc.org/atomically-precise-nanochemistry-conference/2026/",
-        "start_date": "01 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer01Feb2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Chemistry & Biology of Peptides",
-        "url": "https://www.grc.org/chemistry-and-biology-of-peptides-conference/2026/",
-        "start_date": "01 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer01Feb2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Colloidal, Macromolecular & Polyelectrolyte Solutions",
-        "url": "https://www.grc.org/colloidal-macromolecular-and-polyelectrolyte-solutions-conference/2026/",
-        "start_date": "01 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer01Feb2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Winter School on Physical Organic Chemistry E-WISPOC",
-        "url": "https://www.ewispoc.com/",
-        "start_date": "01 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Bressanone, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "europeanwinterschool01Feb2026_0"
-    },
-    {
-        "themes": [
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Transforming Theory, Policy, & Practice: Decolonise Sexual & Gender-Based Violence SGBV in Higher Education",
-        "url": "https://femideas.com/conference2026/",
-        "start_date": "04 Feb 2026",
-        "end_date": "06 Feb 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "transformingtheorypo04Feb2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Chemical Research Society of India CRSI National Symposium in Chemistry",
-        "url": "https://sites.google.com/view/36th-crsi-2026",
-        "start_date": "05 Feb 2026",
-        "end_date": "07 Feb 2026",
-        "locations": [
-            "Dibrugarh, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "chemicalresearchsoci05Feb2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Festival of Data (public-facing; all science)",
-        "url": "https://civicdatacooperative.com/festival-of-data/",
-        "start_date": "05 Feb 2026",
-        "end_date": "07 Feb 2026",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "festivalofdatapublic05Feb2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS DMCCB Basel Symposium: Covalent chemistry in drug discovery",
-        "url": "https://dmccb26.scg.ch/program",
-        "start_date": "06 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "scsdmccbbaselsymposi06Feb2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "AI in Organic Chemistry TOC2026",
-        "url": "https://toc2026.com/",
-        "start_date": "06 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Uppsala, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "aiinorganicchemistry06Feb2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "chem bio"
         ],
@@ -2208,6 +1973,31 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands",
+            "Online"
+        ],
+        "title": "SCI Fine Chemicals Group Postgraduate Symposium",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/36th-sci-fine-chemicals-group-postgraduate-symposium",
+        "start_date": "13 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "uid": "scifinechemicalsgrou13Mar2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -4043,6 +3833,26 @@
             "UK"
         ],
         "uid": "chemengdayuki16Apr2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Photocatalytic & Superhydrophilic Surfaces PSS",
+        "url": "https://www.mmu.ac.uk/about-us/faculties/science-engineering/research/themes/advanced-materials-manufacturing/pss-2025",
+        "start_date": "16 Apr 2026",
+        "end_date": "17 Apr 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "photocatalyticsuperh16Apr2026_0"
     },
     {
         "themes": [
@@ -8224,6 +8034,27 @@
             "Poland"
         ],
         "uid": "intlsymposiumontheor29Jun2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "careers",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "ELRIG Summer social (invitation only)",
+        "url": "https://elrig.org/portfolio/elrig-summer-social-2026/",
+        "start_date": "01 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigsummersocialinv01Jul2026_0"
     },
     {
         "themes": [
