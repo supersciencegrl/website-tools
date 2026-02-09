@@ -705,6 +705,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "OZRE (rare earths)",
+        "url": "https://reecon.anu.edu.au/ozre-26",
+        "start_date": "18 Feb 2026",
+        "end_date": "19 Feb 2026",
+        "locations": [
+            "Canberra, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "ozrerareearths18Feb2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -762,6 +783,28 @@
             "Online"
         ],
         "uid": "applicationsofmachin19Feb2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "catalysis",
+            "inorganic/nano",
+            "law/policy"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Reimagining global mineral value chains REECON+",
+        "url": "https://reecon.anu.edu.au/",
+        "start_date": "19 Feb 2026",
+        "end_date": "20 Feb 2026",
+        "locations": [
+            "Canberra, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "reimaginingglobalmin19Feb2026_0"
     },
     {
         "themes": [
@@ -1803,6 +1846,25 @@
             "Online"
         ],
         "uid": "bioprocessingsummite10Mar2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "JMP Discovery Summit",
+        "url": "https://community.jmp.com/t5/Discovery-Summits/Europe-2026/ev-p/874695",
+        "start_date": "10 Mar 2026",
+        "end_date": "12 Mar 2026",
+        "locations": [
+            "Sorrento, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "jmpdiscoverysummit10Mar2026_0"
     },
     {
         "themes": [
@@ -4289,6 +4351,28 @@
             "India"
         ],
         "uid": "indiapharmaexpo202623Apr2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "med chem",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "French Industrial Chemistry Symposium FICS",
+        "url": "https://fics2026.sciencesconf.org/?lang=en",
+        "start_date": "24 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "frenchindustrialchem24Apr2026_0"
     },
     {
         "themes": [
@@ -9966,6 +10050,27 @@
             "Spain"
         ],
         "uid": "intlconferenceondiam30Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SMARTER 9: Structure elucidation by combining magnetic resonance, computational modelling, & diffraction",
+        "url": "https://www.smarter9.uni-bayreuth.de/en/index.html",
+        "start_date": "30 Aug 2026",
+        "end_date": "03 Sep 2026",
+        "locations": [
+            "Bayreuth, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "smarter9structureelu30Aug2026_0"
     },
     {
         "themes": [
