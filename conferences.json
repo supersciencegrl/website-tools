@@ -86,26 +86,6 @@
     },
     {
         "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Workshop für Klebstoffanwender: Langzeitverhalten von Klebungen",
-        "url": "https://dechema.de/WS_2026_Langzeit.html",
-        "start_date": "09 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Cologne, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "workshopfürklebstoff09Feb2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -1133,6 +1113,25 @@
             "UK"
         ],
         "uid": "celebratingtransgend27Feb2026_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "STEM, LGBTQ, & You",
+        "url": "https://stemlgbtqyou.gay/",
+        "start_date": "27 Feb 2026",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "stemlgbtqyou27Feb2026_0"
     },
     {
         "themes": [
@@ -3041,6 +3040,28 @@
             "UK"
         ],
         "uid": "structure2026automat27Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC Organic Chemisry Community North-East Regional Meeting",
+        "url": "https://www.rsc.org/events/detail/83248/rsc-organic-chemistry-community-north-east-regional-meeting-2026",
+        "start_date": "27 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscorganicchemisryco27Mar2026_0"
     },
     {
         "themes": [
@@ -6760,6 +6781,25 @@
             "UK"
         ],
         "uid": "newperspectivesindmp10Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "ChEMBL User Group Meeting",
+        "url": "https://www.ebi.ac.uk/about/events/events/public-event/2026/ebi-9/",
+        "start_date": "10 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "chemblusergroupmeeti10Jun2026_0"
     },
     {
         "themes": [
