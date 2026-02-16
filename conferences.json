@@ -1,122 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Ultrafast Phenomena in Cooperative Systems",
-        "url": "https://www.grc.org/ultrafast-phenomena-in-cooperative-systems-conference/2026/",
-        "start_date": "08 Feb 2026",
-        "end_date": "13 Feb 2026",
-        "locations": [
-            "Pomona, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer08Feb2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Understanding Polymorphism & Crystallisation Issues in the Pharmaceutical Industry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/understanding-polymorphism-crystallisation-issues-in-the-pharmaceutical-industry/",
-        "start_date": "09 Feb 2026",
-        "end_date": "13 Feb 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "understandingpolymor09Feb2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Portuguese National Organic Chemistry Meeting & National Medicinal & Biological Chemistry Meeting",
-        "url": "https://16enqo-9enqmb.events.chemistry.pt/",
-        "start_date": "11 Feb 2026",
-        "end_date": "13 Feb 2026",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "portuguesenationalor11Feb2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "materials/polymers",
-            "med chem",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCT Young Research Fellows' Meeting YRFM",
-        "url": "https://www.sct-asso.fr/yrfm",
-        "start_date": "11 Feb 2026",
-        "end_date": "13 Feb 2026",
-        "locations": [
-            "Marseille, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "sctyoungresearchfell11Feb2026_0"
-    },
-    {
-        "themes": [
-            "education",
-            "formulation/particle science",
-            "history/philosophy"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "The chemistry of art",
-        "url": "https://bsky.app/profile/waynestatechem.bsky.social/post/3mckpghvwws25",
-        "start_date": "13 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Detroit, MI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MI"
-        ],
-        "uid": "thechemistryofart13Feb2026_0"
-    },
-    {
-        "themes": [
             "synthesis"
         ],
         "regions": [
@@ -346,6 +230,26 @@
             "CA"
         ],
         "uid": "novalixconferencebio17Feb2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Materials Research Data Alliance MaRDA Annual Meeting",
+        "url": "https://www.marda-alliance.org/2026-marda-annual-meeting/",
+        "start_date": "17 Feb 2026",
+        "end_date": "19 Feb 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "materialsresearchdat17Feb2026_0"
     },
     {
         "themes": [
@@ -1283,6 +1187,28 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "R&D & Ski (digital transformation)",
+        "url": "https://www.linkedin.com/events/7391159149289693185/",
+        "start_date": "06 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Sugarbush, VT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VT"
+        ],
+        "uid": "rdskidigitaltransfor06Mar2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -1632,6 +1558,27 @@
             "UK"
         ],
         "uid": "biotechbeersnetworki11Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "diversity",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Women in Targeted Protein Degradation TPD & Induced Proximity",
+        "url": "https://www.eventbrite.co.uk/e/women-in-tpd-europe-tickets-1982784602120",
+        "start_date": "11 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "womenintargetedprote11Mar2026_0"
     },
     {
         "themes": [
@@ -3920,6 +3867,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "UK QSAR & Cheminformatics Society Meeting",
+        "url": "https://www.biosolveit.de/uk-qsar-2026/",
+        "start_date": "21 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukqsarcheminformatic21Apr2026_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -4843,6 +4810,26 @@
     },
     {
         "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "RSC BMCS Hot Topics: Peptides in drug discovery",
+        "url": "https://www.rscbmcs.org/events/hottopicspeptides26/",
+        "start_date": "06 May 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "rscbmcshottopicspept06May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -5452,6 +5439,28 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer17May2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Synthesis in Drug Discovery & Development SDDD",
+        "url": "https://www.rscbmcs.org/events/sddd26/",
+        "start_date": "18 May 2026",
+        "end_date": "19 May 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "synthesisindrugdisco18May2026_0"
     },
     {
         "themes": [
@@ -10506,6 +10515,26 @@
             "Poland"
         ],
         "uid": "europeanmaterialsres14Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "AiMat Summer School: Machine learning for molecules",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzU3mZmKqtEYgXnyzrXJdvro6o73n_I1xbX2hYBja2KILkew/viewform",
+        "start_date": "14 Sep 2026",
+        "end_date": "18 Sep 2026",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "aimatsummerschoolmac14Sep2026_0"
     },
     {
         "themes": [
