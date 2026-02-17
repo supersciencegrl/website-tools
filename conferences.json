@@ -87,27 +87,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Next-generation ultrafast science",
-        "url": "https://royalsociety.org/science-events-and-lectures/2026/02/ultrafast-science/",
-        "start_date": "16 Feb 2026",
-        "end_date": "17 Feb 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "nextgenerationultraf16Feb2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "computational/data",
             "inorganic/nano"
@@ -6747,6 +6726,25 @@
             "Canada"
         ],
         "uid": "frenchamericanchemic13Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Molecular Simulations for Chemistry MolSim",
+        "url": "https://www.rsc.org/events/detail/78098/molecular-simulations-for-chemistry",
+        "start_date": "14 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "molecularsimulations14Jun2026_0"
     },
     {
         "themes": [
