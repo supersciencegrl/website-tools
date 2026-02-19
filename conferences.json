@@ -87,86 +87,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "computational/data",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Modelling chemical catalysis in explicit solvent",
-        "url": "https://www.cecam.org/workshop-details/modelling-chemical-catalysis-in-explicit-solvent-1463",
-        "start_date": "16 Feb 2026",
-        "end_date": "18 Feb 2026",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "modellingchemicalcat16Feb2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Digital Curation Conference",
-        "url": "https://www.dcc.ac.uk/events/idcc26",
-        "start_date": "16 Feb 2026",
-        "end_date": "18 Feb 2026",
-        "locations": [
-            "Zagreb, Croatia"
-        ],
-        "countries": [
-            "Croatia"
-        ],
-        "uid": "intldigitalcurationc16Feb2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Near-Edge X-Ray Absorption Spectroscopy NEXAFS training",
-        "url": "https://www.eventsforce.net/cbs/frontend/reg/thome.csp?pageID=173209&eventID=703&traceRedir=4",
-        "start_date": "17 Feb 2026",
-        "end_date": "18 Feb 2026",
-        "locations": [
-            "Harwell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "nearedgexrayabsorpti17Feb2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "The Inator Hackathon (Raspberry Pi's & remote sensing for machine learning)",
-        "url": "https://payments.liv.ac.uk/conferences-and-events/events-at-liverpool/school-of-physical-sciences/the-inator-hackathon",
-        "start_date": "17 Feb 2026",
-        "end_date": "18 Feb 2026",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "theinatorhackathonra17Feb2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "safety"
         ],
@@ -1827,17 +1747,20 @@
             "computational/data"
         ],
         "regions": [
-            "London"
+            "London",
+            "Online"
         ],
         "title": "Analyticode (analytical + technology)",
         "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=143962&ef_sel_menu=2687&eventID=354",
         "start_date": "16 Mar 2026",
         "end_date": null,
         "locations": [
-            "London, UK"
+            "London, UK ",
+            " Online"
         ],
         "countries": [
-            "UK"
+            "UK ",
+            " Online"
         ],
         "uid": "analyticodeanalytica16Mar2026_0"
     },
