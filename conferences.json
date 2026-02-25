@@ -43,51 +43,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Drug Delivery Summit USA 2026",
-        "url": "https://www.usa.drug-delivery-summit.com/",
-        "start_date": "23 Feb 2026",
-        "end_date": "24 Feb 2026",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "drugdeliverysummitus23Feb2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SmartLab Europe",
-        "url": "https://www.pharma-iq.com/events-smartlab-exchange-europe",
-        "start_date": "23 Feb 2026",
-        "end_date": "24 Feb 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "smartlabeurope23Feb2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -105,48 +60,6 @@
             "India"
         ],
         "uid": "intlconferenceonpers23Feb2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Organic Chemistry Community South & West UK Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/82584/rsc-organic-chemistry-community-south-and-west-regional-meeting-2026",
-        "start_date": "24 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscorganicchemistryc24Feb2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Nature-Inspired Chemical Engineering Automation NICE",
-        "url": "https://luma.com/qhky4izh",
-        "start_date": "24 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "natureinspiredchemic24Feb2026_0"
     },
     {
         "themes": [
@@ -353,17 +266,20 @@
             "diversity"
         ],
         "regions": [
-            "Midlands"
+            "Midlands",
+            "Online"
         ],
         "title": "STEM, LGBTQ, & You",
         "url": "https://stemlgbtqyou.gay/",
         "start_date": "27 Feb 2026",
         "end_date": null,
         "locations": [
-            "Birmingham, UK"
+            "Birmingham, UK ",
+            " Online"
         ],
         "countries": [
-            "UK"
+            "UK ",
+            " Online"
         ],
         "uid": "stemlgbtqyou27Feb2026_0"
     },
