@@ -63,25 +63,6 @@
     },
     {
         "themes": [
-            "careers"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scientific & Technical Writing (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/scientific-and-technical-writing/",
-        "start_date": "24 Feb 2026",
-        "end_date": "25 Feb 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "scientifictechnicalw24Feb2026_0"
-    },
-    {
-        "themes": [
             "business",
             "chem bio",
             "pharma industry"
@@ -1102,6 +1083,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "JungesChemieForum Frührahrssymposium: Colourful Chemistry",
+        "url": "https://dgms-conference.com/",
+        "start_date": "10 Mar 2026",
+        "end_date": "13 Mar 2026",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "jungeschemieforumfrü10Mar2026_0"
+    },
+    {
+        "themes": [
             "business",
             "chem bio"
         ],
@@ -2116,6 +2137,46 @@
             "UK"
         ],
         "uid": "workshoponevaluating24Mar2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Braunschweiger JungeChemieTagung (PhD student focus)",
+        "url": "https://jcf.io/braunschweig/jungechemietagung/2026",
+        "start_date": "24 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Braunschweig, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "braunschweigerjungec24Mar2026_0"
     },
     {
         "themes": [
@@ -4791,6 +4852,25 @@
             "UK"
         ],
         "uid": "jointprofessionalbod12May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Nationale ForschungsDatenInfrastruktur NFDI4Chem Consortium Meeting",
+        "url": "https://nfdi4chem.de/event/consortium-meeting-7-0/",
+        "start_date": "12 May 2026",
+        "end_date": null,
+        "locations": [
+            "Jena, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "nationaleforschungsd12May2026_0"
     },
     {
         "themes": [
@@ -11305,6 +11385,25 @@
             "UK"
         ],
         "uid": "faradaydiscussionbri02Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Ontologies4Chem Workshop",
+        "url": "https://nfdi4chem.de/event/5th-ontologies4chem-workshop/",
+        "start_date": "02 Nov 2026",
+        "end_date": "06 Nov 2026",
+        "locations": [
+            "Limburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "ontologies4chemworks02Nov2026_0"
     },
     {
         "themes": [
