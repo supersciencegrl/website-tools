@@ -63,27 +63,6 @@
     },
     {
         "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "TIDES Asia: Oligonucleotides & peptide therapeutics (business focus)",
-        "url": "https://informaconnect.com/asia-tides/",
-        "start_date": "24 Feb 2026",
-        "end_date": "26 Feb 2026",
-        "locations": [
-            "Tokyo, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "tidesasiaoligonucleo24Feb2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -101,45 +80,6 @@
             "Mexico"
         ],
         "uid": "dnarepairreplication24Feb2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "York & North Yorkshire Life Sciences Forum",
-        "url": "https://bionow.glueup.com/event/york-and-north-yorkshire-life-sciences-forum-164814/",
-        "start_date": "25 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "York, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "yorknorthyorkshireli25Feb2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Jahrestreffen der DECHEMA/VDI-Fachgruppen Extraktion, Mischvorgänge und Grenzflächenbestimmte Systeme und Prozesse 2026",
-        "url": "https://dechema.de/JTr_MIS_EXT_GFSP25.html",
-        "start_date": "25 Feb 2026",
-        "end_date": "26 Feb 2026",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "jahrestreffenderdech25Feb2026_0"
     },
     {
         "themes": [
@@ -185,46 +125,6 @@
     },
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Towards a biobased chemical future",
-        "url": "https://www.rsc.org/events/detail/81662/towards-a-biobased-chemical-future",
-        "start_date": "26 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "towardsabiobasedchem26Feb2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "education"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Mental health in academia: Understanding & managing impostor syndrome (2-h session)",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd57VDOWLMW7b76g0in1lIp-gs4gW0Sl3o7uDApn0g2jxH33w/viewform",
-        "start_date": "26 Feb 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "mentalhealthinacadem26Feb2026_0"
-    },
-    {
-        "themes": [
             "diversity"
         ],
         "regions": [
@@ -263,6 +163,30 @@
             " Online"
         ],
         "uid": "stemlgbtqyou27Feb2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Forum for Process Analysis & Control IFPAC",
+        "url": "https://ifpacglobal.org/",
+        "start_date": "01 Mar 2026",
+        "end_date": "04 Mar 2026",
+        "locations": [
+            "N Bethesda, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "intlforumforprocessa01Mar2026_0"
     },
     {
         "themes": [
@@ -977,6 +901,26 @@
             "UK"
         ],
         "uid": "appliedcatalysisfort10Mar2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Genedata Partner Symposium (user group meeting)",
+        "url": "https://www.genedata.com/genedata-partner-symposium-2026",
+        "start_date": "10 Mar 2026",
+        "end_date": "11 Mar 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "genedatapartnersympo10Mar2026_0"
     },
     {
         "themes": [
@@ -3910,6 +3854,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "formulation/particle science",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Science of Stability SOS Conference",
+        "url": "https://www.stabilityconference.com/sos-conference/",
+        "start_date": "27 Apr 2026",
+        "end_date": "29 Apr 2026",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scienceofstabilityso27Apr2026_0"
+    },
+    {
+        "themes": [
             "process/engineering"
         ],
         "regions": [
@@ -3947,6 +3913,25 @@
             "Austria"
         ],
         "uid": "bioprocessinternatio27Apr2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "OLEX2 A2Z (crystallography platform training course)",
+        "url": "https://hrvatska-udruga-kristalografa.hr/olex2026/",
+        "start_date": "27 Apr 2026",
+        "end_date": "30 Apr 2026",
+        "locations": [
+            "Dubrovnik, Croatia"
+        ],
+        "countries": [
+            "Croatia"
+        ],
+        "uid": "olex2a2zcrystallogra27Apr2026_0"
     },
     {
         "themes": [
@@ -5559,6 +5544,26 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Women in Chemistry 2026",
+        "url": "https://wichem.blogs.bristol.ac.uk/",
+        "start_date": "29 May 2026",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "womeninchemistry202629May2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -6016,6 +6021,27 @@
             "VA"
         ],
         "uid": "deeplearningformicro04Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "New Starters in Synthesis & Catalysis NSSC",
+        "url": "https://www.imperial.ac.uk/events/205362/new-starters-in-synthesis-and-catalysis-nssc-2026/",
+        "start_date": "05 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newstartersinsynthes05Jun2026_0"
     },
     {
         "themes": [
@@ -8573,6 +8599,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Spanish-Italian Symposium on Organic Chemistry SISOC",
+        "url": "https://www.sisocxv2026.com/",
+        "start_date": "15 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Seville, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "spanishitaliansympos15Jul2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -9804,6 +9851,28 @@
     },
     {
         "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "physical/phys org",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Symposium on Industrial Crystallization",
+        "url": "https://akcongress.com/isic2026/",
+        "start_date": "06 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "Budapest, Hungary"
+        ],
+        "countries": [
+            "Hungary"
+        ],
+        "uid": "intlsymposiumonindus06Sep2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "materials/polymers"
@@ -10013,6 +10082,26 @@
             "Italy"
         ],
         "uid": "intlconferenceonsust09Sep2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Gregynog Synthesis Workshop",
+        "url": "http://www.gregynogsynthesis.co.uk/",
+        "start_date": "09 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Newtown, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "gregynogsynthesiswor09Sep2026_0"
     },
     {
         "themes": [
