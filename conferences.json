@@ -91,27 +91,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Conformational design in drug discovery",
-        "url": "https://www.rscbmcs.org/events/conformationaldesign26/",
-        "start_date": "02 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Stevenage, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "conformationaldesign02Mar2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data"
         ],
@@ -5058,6 +5037,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Applications of AI for catalysis & energy materials discovery",
+        "url": "https://aichemy.ac.uk/event/applications-of-ai-for-catalysis-and-energy-materials-discovery/",
+        "start_date": "13 May 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "applicationsofaiforc13May2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -9028,6 +9029,26 @@
             "RI"
         ],
         "uid": "gordonresearchconfer19Jul2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "GenAI in Chemistry Education Symposium",
+        "url": "https://aichemy.ac.uk/event/gen-ai-in-chemistry-education/",
+        "start_date": "21 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "genaiinchemistryeduc21Jul2026_0"
     },
     {
         "themes": [
