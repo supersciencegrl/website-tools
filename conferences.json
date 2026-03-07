@@ -21,73 +21,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: DNA Damage, Mutation & Cancer",
-        "url": "https://www.grc.org/dna-damage-mutation-and-cancer-conference/2026/",
-        "start_date": "01 Mar 2026",
-        "end_date": "06 Mar 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer01Mar2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Gordon Research Conference: Marine Natural Products",
-        "url": "https://www.grc.org/marine-natural-products-conference/2026/",
-        "start_date": "01 Mar 2026",
-        "end_date": "06 Mar 2026",
-        "locations": [
-            "Ventura, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "gordonresearchconfer01Mar2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Secrets of Batch Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/",
-        "start_date": "02 Mar 2026",
-        "end_date": "06 Mar 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "secretsofbatchproces02Mar2026_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -109,31 +42,6 @@
     },
     {
         "themes": [
-            "automation",
-            "chem bio",
-            "computational/data",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Environmental Molecular Sciences Laboratory EMSL-Joint Genome Institute JGI Joint User Meeting: Empowering automated laboratories",
-        "url": "https://www.emsl.pnnl.gov/events/2026-emsl-jgi-joint-user-meeting",
-        "start_date": "03 Mar 2026",
-        "end_date": "06 Mar 2026",
-        "locations": [
-            "Seattle, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "uid": "environmentalmolecul03Mar2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "process/engineering",
             "synthesis"
@@ -152,89 +60,6 @@
             "Online"
         ],
         "uid": "designofexperimentsf04Mar2026_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Celebrating Women's Careers in Chemistry",
-        "url": "https://www.eventbrite.com/e/2026-march-celebrating-womens-careers-in-chemistry-event-tickets-1979890827763",
-        "start_date": "06 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "celebratingwomenscar06Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "13th UK National Retrosynthesis Competition",
-        "url": "https://www.soci.org/events/young-chemists-panel/2026/13th-sci-rsc-retrosynthesis-competition",
-        "start_date": "06 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "13thuknationalretros06Mar2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Wales"
-        ],
-        "title": "2026 RSC Chemical Biology & Bioorganic Group CBBG Forum",
-        "url": "https://www.rsc.org/events/detail/82568/2026-rsc-chemical-biology-and-bio-organic-group-cbbg-forum",
-        "start_date": "06 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Cardiff, Wales, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "2026rscchemicalbiolo06Mar2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "R&D & Ski (digital transformation)",
-        "url": "https://www.linkedin.com/events/7391159149289693185/",
-        "start_date": "06 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Sugarbush, VT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VT"
-        ],
-        "uid": "rdskidigitaltransfor06Mar2026_0"
     },
     {
         "themes": [
@@ -359,6 +184,30 @@
             "UK"
         ],
         "uid": "ecrnetzeroconference09Mar2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Midwest Society for Environmental Toxicology & Chemistry SETAC Annual Scientific Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/midwest-setac-33rd-annual-scientific-meeting.html",
+        "start_date": "09 Mar 2026",
+        "end_date": "10 Mar 2026",
+        "locations": [
+            "Beloit, WI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WI"
+        ],
+        "uid": "midwestsocietyforenv09Mar2026_0"
     },
     {
         "themes": [
@@ -1531,6 +1380,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Southeast USA Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/southeast-setac-regional-chapter-2026-meeting.html",
+        "start_date": "20 Mar 2026",
+        "end_date": "21 Mar 2026",
+        "locations": [
+            "Statesboro, GA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "GA"
+        ],
+        "uid": "southeastusasocietyf20Mar2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -1923,6 +1796,28 @@
             "Germany"
         ],
         "uid": "dotheyreallyguidegui25Mar2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Carbon capture or carbon fiction? Science, policy, & the UK's methane blind spot",
+        "url": "https://www.rsc.org/events/detail/82590/carbon-capture-or-carbon-fiction-science-policy-and-the-uk-s-methane-blind-spot",
+        "start_date": "26 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "carboncaptureorcarbo26Mar2026_0"
     },
     {
         "themes": [
@@ -2353,6 +2248,54 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Chesapeake Potomac Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://cprcsetac.wildapricot.org/Spring-Meeting-2026",
+        "start_date": "09 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Towson, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "chesapeakepotomacsoc09Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "South-Central USA Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/south-central-setac-regional-chapter-2026-meeting.html",
+        "start_date": "09 Apr 2026",
+        "end_date": "11 Apr 2026",
+        "locations": [
+            "San Marcos, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "southcentralusasocie09Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -2570,6 +2513,30 @@
             "Online"
         ],
         "uid": "applicationsofartifi13Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Carolinas Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.csetac.org/annualmeeting",
+        "start_date": "13 Apr 2026",
+        "end_date": "14 Apr 2026",
+        "locations": [
+            "Raleigh, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "carolinassocietyfore13Apr2026_0"
     },
     {
         "themes": [
@@ -2898,6 +2865,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Rocky Mountain Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://rm.setac.org/annualdetails",
+        "start_date": "15 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Denver, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "rockymountainsociety15Apr2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "process/engineering",
             "synthesis"
@@ -2916,6 +2907,30 @@
             "UK"
         ],
         "uid": "sciprocessdevelopmen15Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Pacific Northwest USA Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/pacific-northwest-chapter-2026-annual-meeting.html",
+        "start_date": "15 Apr 2026",
+        "end_date": "17 Apr 2026",
+        "locations": [
+            "Leavenworth, WA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "WA"
+        ],
+        "uid": "pacificnorthwestusas15Apr2026_0"
     },
     {
         "themes": [
@@ -3734,6 +3749,30 @@
     {
         "themes": [
             "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Southern California Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.socal-setac.org/2026-annual-meeting-save-the-date",
+        "start_date": "27 Apr 2026",
+        "end_date": "28 Apr 2026",
+        "locations": [
+            "San Pedro, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "southerncaliforniaso27Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "formulation/particle science",
             "law/policy",
             "pharma industry"
@@ -3865,7 +3904,7 @@
             "Eastern USA"
         ],
         "title": "Peptide-based therapeutics summit",
-        "url": "hhttps://peptide-based-therapeutics-summit.com/",
+        "url": "https://peptide-based-therapeutics-summit.com/",
         "start_date": "28 Apr 2026",
         "end_date": "30 Apr 2026",
         "locations": [
@@ -3878,6 +3917,26 @@
             "MA"
         ],
         "uid": "peptidebasedtherapeu28Apr2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Mid-Season Sustainable Pharmaceutical Applications MiSuSPharmA Conference",
+        "url": "https://www.misuspharma2.it/",
+        "start_date": "28 Apr 2026",
+        "end_date": "30 Apr 2026",
+        "locations": [
+            "Naples, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "midseasonsustainable28Apr2026_0"
     },
     {
         "themes": [
@@ -3940,6 +3999,27 @@
             "UK"
         ],
         "uid": "biotechbeers29Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Joint British Toxicology Society BTS/Society for Environmental Toxicology & Chemistry SETAC Workshop",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/joint-bts-setac-uk-workshop.html",
+        "start_date": "29 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Solihull, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "jointbritishtoxicolo29Apr2026_0"
     },
     {
         "themes": [
@@ -4401,6 +4481,25 @@
             "Sweden"
         ],
         "uid": "advancesincellbaseds06May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SIMPLAIX Workshop on machine learning for multiscle molecular modelling",
+        "url": "https://simplaix-workshop2026.h-its.org/",
+        "start_date": "06 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Heidelberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "simplaixworkshoponma06May2026_0"
     },
     {
         "themes": [
@@ -5015,6 +5114,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC Europe Annual Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-europe-36th-annual-meeting.html",
+        "start_date": "17 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Maastricht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "societyforenvironmen17May2026_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -5221,6 +5341,28 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Future Labs, Automation, & Technology East USA",
+        "url": "https://www.eventbrite.com/e/pharmarons-4th-chemistry-for-life-science-symposium-tickets-1979984203051",
+        "start_date": "20 May 2026",
+        "end_date": null,
+        "locations": [
+            "Hoddesdon, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "futurelabsautomation20May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -5299,6 +5441,30 @@
             "UK"
         ],
         "uid": "bionowpharmamanufact21May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Philadelphia Organic Chemists' Club POCC 80th Anniversary Symposium",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:13375043-7435718909623697408/",
+        "start_date": "21 May 2026",
+        "end_date": null,
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "philadelphiaorganicc21May2026_0"
     },
     {
         "themes": [
@@ -5419,6 +5585,27 @@
             "Canada"
         ],
         "uid": "scicanadaawards25May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Swedish Neutron Week",
+        "url": "https://snss.se/swedish-neutron-week/?amp=1",
+        "start_date": "25 May 2026",
+        "end_date": "27 May 2026",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "swedishneutronweek25May2026_0"
     },
     {
         "themes": [
@@ -6029,6 +6216,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Saint-Laurent Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://chapitre-saint-laurent.qc.ca/colloque-2026/",
+        "start_date": "03 Jun 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Quebec City, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "saintlaurentsocietyf03Jun2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -6443,6 +6651,30 @@
             "Switzerland"
         ],
         "uid": "scsseminaronflowchem11Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "North Atlantic Society for Environmental Toxicology & Chemistry NACSETAC Regional Chapter Meeting",
+        "url": "https://nacsetac.org/",
+        "start_date": "11 Jun 2026",
+        "end_date": "12 Jun 2026",
+        "locations": [
+            "Waterville, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "northatlanticsociety11Jun2026_0"
     },
     {
         "themes": [
@@ -6897,6 +7129,27 @@
             "IL"
         ],
         "uid": "societyforlaboratory18Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Prairie Northern Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/setac-prairie-northern-chapter-2026-annual-meeting.html",
+        "start_date": "18 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Lethbridge, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "prairienorthernsocie18Jun2026_0"
     },
     {
         "themes": [
@@ -7853,12 +8106,31 @@
         "start_date": "29 Jun 2026",
         "end_date": "01 Jul 2026",
         "locations": [
-            "Cz&ecedilstochowa, Poland"
+            "Czȩstochowa, Poland"
         ],
         "countries": [
             "Poland"
         ],
         "uid": "intlsymposiumontheor29Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Machine Learning Summer School on Reliability & Safety MLSS",
+        "url": "https://mlss2026.mlinpl.org/",
+        "start_date": "29 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Krakow, Poland"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "uid": "machinelearningsumme29Jun2026_0"
     },
     {
         "themes": [
@@ -8916,6 +9188,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Intl Society of Heterocyclic Chemistry ISHC Congress",
+        "url": "https://www.ishc-brazil2026.com/",
+        "start_date": "19 Jul 2026",
+        "end_date": "24 Jul 2026",
+        "locations": [
+            "São Carlos, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "uid": "intlsocietyofheteroc19Jul2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "education"
         ],
@@ -9556,6 +9848,52 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Congresso Brasiliero de Ecotoxicologia ECOTOX",
+        "url": "https://ecotox2026.com.br/",
+        "start_date": "03 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Campo Grande, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "uid": "congressobrasilierod03Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "careers",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC Young Environmental Scientists' Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-14th-young-environmental-scientists-meeting.html",
+        "start_date": "04 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Columbia, SC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "SC"
+        ],
+        "uid": "societyforenvironmen04Aug2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "computational/data",
@@ -10160,6 +10498,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Intl Symposium on Nuclear & Environmental Radiochemical Analysis ERA15",
+        "url": "https://www.rsc.org/events/detail/82847/15th-international-symposium-on-nuclear-and-environmental-radiochemical-analysis-era15",
+        "start_date": "07 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlsymposiumonnucle07Sep2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "education",
@@ -10644,6 +11003,27 @@
             "China"
         ],
         "uid": "natureconferencesnex18Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC Asia-Pacific Biennial Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-asia-pacific-15th-biennial-meeting.html",
+        "start_date": "20 Sep 2026",
+        "end_date": "23 Sep 2026",
+        "locations": [
+            "Tsukuba, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "societyforenvironmen20Sep2026_0"
     },
     {
         "themes": [
@@ -11504,6 +11884,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC Europe Life Cycle Analysis LCA Symposium",
+        "url": "https://www.setac.org/discover-events/topical-events/setac-europe-27th-lca-symposium.html",
+        "start_date": "19 Oct 2026",
+        "end_date": "21 Oct 2026",
+        "locations": [
+            "Bruges, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "societyforenvironmen19Oct2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -11721,6 +12123,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC Argentina Congress",
+        "url": "https://setacargentina.setac.org/congreso2026",
+        "start_date": "27 Oct 2026",
+        "end_date": "30 Oct 2026",
+        "locations": [
+            "Buenos Aires, Argentina"
+        ],
+        "countries": [
+            "Argentina"
+        ],
+        "uid": "societyforenvironmen27Oct2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -11784,6 +12207,27 @@
             "UK"
         ],
         "uid": "faradaydiscussionbri02Nov2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC North America Annual Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-north-america-47th-annual-meeting.html",
+        "start_date": "02 Nov 2026",
+        "end_date": "05 Nov 2026",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "societyforenvironmen02Nov2026_0"
     },
     {
         "themes": [
@@ -12713,6 +13157,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC North America Annual Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-north-america-48th-annual-meeting.html",
+        "start_date": "01 Nov 2027",
+        "end_date": "04 Nov 2027",
+        "locations": [
+            "Long Beach, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "societyforenvironmen01Nov2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry",
             "safety"
@@ -12859,6 +13327,30 @@
             "WA"
         ],
         "uid": "americansocietyforma04Jun2028_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Society for Environmental Toxicology & Chemistry SETAC North America Annual Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-north-america-49th-annual-meeting.html",
+        "start_date": "30 Oct 2028",
+        "end_date": "02 Nov 2028",
+        "locations": [
+            "Phoenix, AZ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "AZ"
+        ],
+        "uid": "societyforenvironmen30Oct2028_0"
     },
     {
         "themes": [
