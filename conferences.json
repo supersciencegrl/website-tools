@@ -105,6 +105,25 @@
     },
     {
         "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SupraChem 2026",
+        "url": "https://sites.google.com/view/suprachem/home",
+        "start_date": "08 Mar 2026",
+        "end_date": "10 Mar 2026",
+        "locations": [
+            "Dortmund, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "suprachem202608Mar2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -2015,6 +2034,26 @@
             "UK"
         ],
         "uid": "simpnmrdataanalysiso30Mar2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Bristol Electrosynthesis Meeting",
+        "url": "https://www.lennoxlab.com/bem26",
+        "start_date": "30 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bristolelectrosynthe30Mar2026_0"
     },
     {
         "themes": [
