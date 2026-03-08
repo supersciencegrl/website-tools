@@ -8339,6 +8339,26 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Europhysical Conference on Defects in Insulating Materials EuroDIM & European School on Defects in Insulating Materials ESDIM",
+        "url": "https://eurodim.ro/",
+        "start_date": "04 Jul 2026",
+        "end_date": "10 Jul 2026",
+        "locations": [
+            "Timisoara, Romania"
+        ],
+        "countries": [
+            "Romania"
+        ],
+        "uid": "europhysicalconferen04Jul2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
