@@ -2247,6 +2247,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Chemical Structure Representations",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=146528&eventID=360&traceRedir=2",
+        "start_date": "08 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemicalstructurerep08Apr2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano"
         ],
@@ -5276,6 +5295,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Integrated modelling & scattering for biomolecules (workshop)",
+        "url": "https://www.ccpbiosim.ac.uk/events/upcoming-events/eventdetail/159/18,19,20/integrated-modelling-and-scattering-for-biomolecules",
+        "start_date": "18 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "integratedmodellings18May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -5317,6 +5358,27 @@
             "UK"
         ],
         "uid": "clinicaltrialstechno19May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Expo Process Analytics User Group Meeting",
+        "url": "https://www.eventbrite.ie/e/expo-user-group-meeting-2026-tickets-1982003215973",
+        "start_date": "19 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Cork, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "uid": "expoprocessanalytics19May2026_0"
     },
     {
         "themes": [
@@ -7213,6 +7275,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "European Symposium on Computer Aided Process Engineering ESCAPE36",
+        "url": "https://sheffield.ac.uk/cmbe/school/events/escape36",
+        "start_date": "21 Jun 2026",
+        "end_date": "24 Jun 2026",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "europeansymposiumonc21Jun2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8542,6 +8624,26 @@
             "South Africa"
         ],
         "uid": "analyticalabafrica06Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "CCPBioSim Annual Conference: Frontiers in Biomolecular Simulations",
+        "url": "https://www.ccpbiosim.ac.uk/events/upcoming-events/eventdetail/166/18,19,20/12th-annual-ccpbiosim-annual-conference-frontiers-in-biomolecular-simulations",
+        "start_date": "06 Jul 2026",
+        "end_date": "08 Jul 2026",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ccpbiosimannualconfe06Jul2026_0"
     },
     {
         "themes": [
