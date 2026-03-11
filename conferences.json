@@ -21,27 +21,6 @@
     },
     {
         "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
-        "start_date": "02 Mar 2026",
-        "end_date": "10 Mar 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "chemicalprocesssafet02Mar2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "process/engineering",
             "synthesis"
@@ -105,25 +84,6 @@
     },
     {
         "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SupraChem 2026",
-        "url": "https://sites.google.com/view/suprachem/home",
-        "start_date": "08 Mar 2026",
-        "end_date": "10 Mar 2026",
-        "locations": [
-            "Dortmund, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "suprachem202608Mar2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -142,175 +102,6 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer08Mar2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
-        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-lyon/",
-        "start_date": "09 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Lyon, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "societyforlaboratory09Mar2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "AI in Drug Discovery",
-        "url": "https://www.smgconferences.com/pharmaceuticals/uk/conference/drug-discovery",
-        "start_date": "09 Mar 2026",
-        "end_date": "10 Mar 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "aiindrugdiscovery09Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "ECR Net Zero Conference",
-        "url": "https://www.eventbrite.co.uk/e/ecr-net-zero-conference-2026-tickets-1975808382058",
-        "start_date": "09 Mar 2026",
-        "end_date": "10 Mar 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ecrnetzeroconference09Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Midwest Society for Environmental Toxicology & Chemistry SETAC Annual Scientific Meeting",
-        "url": "https://www.setac.org/discover-events/ems-event-calendar/midwest-setac-33rd-annual-scientific-meeting.html",
-        "start_date": "09 Mar 2026",
-        "end_date": "10 Mar 2026",
-        "locations": [
-            "Beloit, WI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WI"
-        ],
-        "uid": "midwestsocietyforenv09Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Bionow Life Sciences Online Careers Fair (students from particular UK universities)",
-        "url": "https://bionow.glueup.com/event/bionow-life-sciences-online-careers-fair-163979/",
-        "start_date": "10 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "bionowlifescienceson10Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "EFMC Young Scientists' Network MedChemBioOnline",
-        "url": "https://www.medchembio.online/",
-        "start_date": "10 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "efmcyoungscientistsn10Mar2026_0"
-    },
-    {
-        "themes": [
-            "history/philosophy"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Fifty Years of Chemistry: 50th Anniversary of RSC Historical Group",
-        "url": "https://www.rsc.org/events/detail/82723/fifty-years-of-chemistry-celebrating-the-50th-anniversary-of-the-rsc-historical-group",
-        "start_date": "10 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "fiftyyearsofchemistr10Mar2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "eMolecules Discovery Symposium",
-        "url": "https://www.emolecules.com/discovery-symposium-2026",
-        "start_date": "10 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "emoleculesdiscoverys10Mar2026_0"
     },
     {
         "themes": [
@@ -3264,31 +3055,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "law/policy",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Toxicology for pharmaceutical & regulatory scientists (training course)",
-        "url": "https://www.actox.org/education/training/tprs/2026/about.asp",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "toxicologyforpharmac20Apr2026_0"
-    },
-    {
-        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -3344,6 +3110,54 @@
             "Switzerland"
         ],
         "uid": "fairdatamanagementof20Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Fundamentals of X-ray fluorescence (training course)",
+        "url": "https://www.icdd.com/xrf/",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Newtown Square, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "fundamentalsofxrayfl20Apr2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "law/policy",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Toxicology for pharmaceutical & regulatory scientists (training course)",
+        "url": "https://www.actox.org/education/training/tprs/2026/about.asp",
+        "start_date": "20 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "toxicologyforpharmac20Apr2026_0"
     },
     {
         "themes": [
@@ -3930,6 +3744,29 @@
             "Online"
         ],
         "uid": "qualitybydesigninpha27Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Advanced methods in X-ray fluorescence (training course)",
+        "url": "https://www.icdd.com/xrf/",
+        "start_date": "27 Apr 2026",
+        "end_date": "01 May 2026",
+        "locations": [
+            "Newtown Square, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "advancedmethodsinxra27Apr2026_0"
     },
     {
         "themes": [
@@ -6182,6 +6019,26 @@
             "Sweden"
         ],
         "uid": "nordicbalticconferen02Jun2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Data, Digital, & AI: The future beyond the hype",
+        "url": "https://www.b2match.com/e/fast-forward-data-digital-ai/components/65057",
+        "start_date": "02 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "datadigitalaithefutu02Jun2026_0"
     },
     {
         "themes": [
