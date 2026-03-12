@@ -61,29 +61,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "business"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Pittcon Conference & Expo",
-        "url": "https://pittcon.org/",
-        "start_date": "07 Mar 2026",
-        "end_date": "11 Mar 2026",
-        "locations": [
-            "San Antonio, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "pittconconferenceexp07Mar2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -102,69 +79,6 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer08Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Applied catalysis for the circular economy",
-        "url": "https://www.rsc.org/events/detail/81594/applied-catalysis-for-the-circular-economy-iii",
-        "start_date": "10 Mar 2026",
-        "end_date": "11 Mar 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "appliedcatalysisfort10Mar2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Genedata Partner Symposium (user group meeting)",
-        "url": "https://www.genedata.com/genedata-partner-symposium-2026",
-        "start_date": "10 Mar 2026",
-        "end_date": "11 Mar 2026",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "genedatapartnersympo10Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Forum Labo Lyon (trade fair)",
-        "url": "https://www.forumlabo.fr/",
-        "start_date": "10 Mar 2026",
-        "end_date": "11 Mar 2026",
-        "locations": [
-            "Lyon, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "forumlabolyontradefa10Mar2026_0"
     },
     {
         "themes": [
@@ -308,47 +222,6 @@
             "Germany"
         ],
         "uid": "jungeschemieforumfrü10Mar2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Biotech & Beers networking",
-        "url": "https://bionow.glueup.com/event/biotech-beers-2026-newcastle-upon-tyne-164386/",
-        "start_date": "11 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biotechbeersnetworki11Mar2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "diversity",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Women in Targeted Protein Degradation TPD & Induced Proximity",
-        "url": "https://www.eventbrite.co.uk/e/women-in-tpd-europe-tickets-1982784602120",
-        "start_date": "11 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "womenintargetedprote11Mar2026_0"
     },
     {
         "themes": [
@@ -3199,6 +3072,26 @@
             "UK"
         ],
         "uid": "ukqsarcheminformatic21Apr2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "SCI Advanced Medicinal Chemistry Workshop",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2026/sci-advanced-medicinal-chemistry-workshop-online-webinar",
+        "start_date": "21 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "sciadvancedmedicinal21Apr2026_0"
     },
     {
         "themes": [
