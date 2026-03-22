@@ -54,7 +54,7 @@ def scrape_conference_list() -> bs4.ResultSet:
         bs4.ResultSet: A sequence of conference details extracted from the webpage.
     """
     url = 'https://supersciencegrl.co.uk/conferences'
-    r = requests.get(url, proxies=proxies)
+    r = requests.get(url, proxies=proxies, verify=False)
     r.raise_for_status() # raise HTTPError if status code is not 2xx Success
 
     soup = BeautifulSoup(r.content, 'html.parser')
@@ -284,7 +284,7 @@ region_short_names = {
     }
 
 if __name__ == '__main__':
-    proxies = set_proxy()
-    # proxies = {}
+    # proxies = set_proxy()
+    proxies = {}
     all_conferences = get_conferences()
     export_to_json(all_conferences)
