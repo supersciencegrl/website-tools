@@ -21,30 +21,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Southeast USA Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://www.setac.org/discover-events/ems-event-calendar/southeast-setac-regional-chapter-2026-meeting.html",
-        "start_date": "20 Mar 2026",
-        "end_date": "21 Mar 2026",
-        "locations": [
-            "Statesboro, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "southeastusasocietyf20Mar2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -88,45 +64,6 @@
             "GA"
         ],
         "uid": "acsspringusnationalm22Mar2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "The Costing of Chemical Processes (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/the-costing-of-chemical-processes/",
-        "start_date": "23 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "thecostingofchemical23Mar2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Editors4Chem4DataQuality",
-        "url": "https://nfdi4chem.de/event/editors4chem4dataquality/",
-        "start_date": "23 Mar 2026",
-        "end_date": "24 Mar 2026",
-        "locations": [
-            "Aachen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "editors4chem4dataqua23Mar2026_0"
     },
     {
         "themes": [
@@ -212,88 +149,6 @@
             "Online"
         ],
         "uid": "biocatalysisasatoolf23Mar2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Highway network resilience & impact of low carbon technologies",
-        "url": "https://soci.org/events/construction-materials-group/2026/highway-network-resilience-and-impact-of-low-carbon-technologies",
-        "start_date": "24 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "highwaynetworkresili24Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Workshop on evaluating the reliability & relevance of environmental exposure data",
-        "url": "https://www.rsc.org/events/detail/82266/workshop-on-evaluating-the-reliability-and-relevance-of-environmental-exposure-data",
-        "start_date": "24 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "workshoponevaluating24Mar2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Braunschweiger JungeChemieTagung (PhD student focus)",
-        "url": "https://jcf.io/braunschweig/jungechemietagung/2026",
-        "start_date": "24 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Braunschweig, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "braunschweigerjungec24Mar2026_0"
     },
     {
         "themes": [
@@ -12796,6 +12651,28 @@
             "CA"
         ],
         "uid": "pharmsci36013Nov2027_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Midlands",
+            "Online"
+        ],
+        "title": "STEM, LGBTQ, & You",
+        "url": "https://stemlgbtqyou.gay/",
+        "start_date": "19 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK ",
+            " Online"
+        ],
+        "countries": [
+            "UK ",
+            " Online"
+        ],
+        "uid": "stemlgbtqyou19Nov2026_0"
     },
     {
         "themes": [
