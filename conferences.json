@@ -21,97 +21,6 @@
     },
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA",
-            "Online"
-        ],
-        "title": "ACS Spring US National Meeting",
-        "url": "https://www.acs.org/events/all-events/acs-spring-2026.html",
-        "start_date": "22 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Atlanta, GA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "acsspringusnationalm22Mar2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Intl Battery Seminar",
-        "url": "https://www.internationalbatteryseminar.com/",
-        "start_date": "23 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Orlando, FL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "FL"
-        ],
-        "uid": "intlbatteryseminar23Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "Chem4Energy Annual Conference: Materials & processes for a sustainable energy future",
-        "url": "https://eps.leeds.ac.uk/events-conferences/doc/chem4energy-2026",
-        "start_date": "23 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Johannesburg, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "uid": "chem4energyannualcon23Mar2026_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -152,108 +61,6 @@
     },
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Jahrestreffen der DECHEMA-Fachsektion Energie, Chemie, und Klima",
-        "url": "https://dechema.de/JTR_Energie_2026.html",
-        "start_date": "24 Mar 2026",
-        "end_date": "25 Mar 2026",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "jahrestreffenderdech24Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ceramitec 2026",
-        "url": "https://analytica.de/en/ceramitec/",
-        "start_date": "24 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "ceramitec202624Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Continuous Manufacturing and Advanced Crystallization CMAC Open Days",
-        "url": "https://www.cmac.ac.uk/open-days-2026",
-        "start_date": "24 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "continuousmanufactur24Mar2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "French/German adsorption conference",
-        "url": "https://www.adsorption.eu/conference2026.html",
-        "start_date": "24 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Duisberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "frenchgermanadsorpti24Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "CLF Artemis, Octopus, & ULTRA User Meeting",
-        "url": "https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyJ_jgKzNaNJLuZlBj3xfb0BUQVhQT1k3Mlg3RU9RREUwQk5NMUNLWjQzUS4u",
-        "start_date": "24 Mar 2026",
-        "end_date": "26 Mar 2026",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "clfartemisoctopusult24Mar2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "business",
             "chem bio"
@@ -272,92 +79,6 @@
             "Germany"
         ],
         "uid": "analytica202624Mar2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Do they really guide? Guidelines for the use of LLMs in scholarly publishing (workshop)",
-        "url": "https://indico3-jsc.fz-juelich.de/event/262/",
-        "start_date": "25 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Mannheim, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "dotheyreallyguidegui25Mar2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Carbon capture or carbon fiction? Science, policy, & the UK's methane blind spot",
-        "url": "https://www.rsc.org/events/detail/82590/carbon-capture-or-carbon-fiction-science-policy-and-the-uk-s-methane-blind-spot",
-        "start_date": "26 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "carboncaptureorcarbo26Mar2026_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Society for Canadian Women in Science & Technology SCWIST: Allies in Action Workshop",
-        "url": "https://site.pheedloop.com/event/alliesinaction2026toronto/home",
-        "start_date": "26 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "societyforcanadianwo26Mar2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "MassBio: State of Possible",
-        "url": "https://www.massbio.org/events/state-of-possible-conference/",
-        "start_date": "26 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "massbiostateofpossib26Mar2026_0"
     },
     {
         "themes": [
@@ -3990,6 +3711,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Nagoya Fluorine Days Nagoya-FD",
+        "url": "https://fluorinedays.xsrv.jp/",
+        "start_date": "17 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Nagoya, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "nagoyafluorinedaysna17May2026_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry",
             "process/engineering",
@@ -4678,6 +4421,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl School of Crystallography: From structural biology to structural cell biology with the aid of machine learning",
+        "url": "https://crystalerice.org/2026/",
+        "start_date": "29 May 2026",
+        "end_date": "06 Jun 2026",
+        "locations": [
+            "Erice, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "intlschoolofcrystall29May2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -5153,6 +4918,26 @@
             "Canada"
         ],
         "uid": "saintlaurentsocietyf03Jun2026_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Optics-Photonics Design & Fabrication",
+        "url": "http://www.odf.jp/",
+        "start_date": "03 Jun 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Toyama, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlconferenceonopti03Jun2026_0"
     },
     {
         "themes": [
@@ -7376,6 +7161,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Chemical Research Society of India National Symposium in Chemistry CRSI-NSC-37",
+        "url": "https://iacs.res.in/CRSI2026/index.html",
+        "start_date": "02 Jul 2026",
+        "end_date": "04 Jul 2026",
+        "locations": [
+            "Calcutta, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "chemicalresearchsoci02Jul2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "med chem",
             "synthesis"
@@ -8163,7 +7988,7 @@
         "regions": [
             "Asia"
         ],
-        "title": "Intl Conference on Chemistry Education/European Conference on Research in Chemical Education",
+        "title": "Intl Conference on Chemistry Education/European Conference on Research in Chemical Education ICCECRICE",
         "url": "https://iccecrice2026.org/",
         "start_date": "13 Jul 2026",
         "end_date": "17 Jul 2026",
@@ -9227,6 +9052,27 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on the Physics of Semiconductors ICPS2026",
+        "url": "https://icps2026.jp/",
+        "start_date": "16 Aug 2026",
+        "end_date": "21 Aug 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlconferenceonthep16Aug2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -9661,6 +9507,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "IUPAC Intl Conference on Physical Organic Chemistry ICPOC-27",
+        "url": "https://icpoc27.de/",
+        "start_date": "06 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "iupacintlconferenceo06Sep2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "formulation/particle science",
             "materials/polymers"
@@ -9719,6 +9587,27 @@
             "Czechia"
         ],
         "uid": "intlsymposiumonchrom06Sep2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Meeting on Boron Chemistry IMEBoron-18",
+        "url": "http://www.imeboron18.p.isct.ac.jp/",
+        "start_date": "06 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlmeetingonboronch06Sep2026_0"
     },
     {
         "themes": [
@@ -10296,6 +10185,27 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "RDKit User Group Meeting",
+        "url": "https://www.eventbrite.com/e/15th-rdkit-ugm-2026-tickets-1985889262242",
+        "start_date": "16 Sep 2026",
+        "end_date": "18 Sep 2026",
+        "locations": [
+            "Darmstadt, Germany ",
+            " Online"
+        ],
+        "countries": [
+            "Germany ",
+            " Online"
+        ],
+        "uid": "rdkitusergroupmeetin16Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -10728,6 +10638,29 @@
             "Online"
         ],
         "uid": "applicationsofmachin28Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "IUPAC Intl Conference on Next Horizons in Polymers PSK50",
+        "url": "https://iupac.org/event/next-horizons-in-polymers/",
+        "start_date": "28 Sep 2026",
+        "end_date": "01 Oct 2026",
+        "locations": [
+            "Busan, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "iupacintlconferenceo28Sep2026_0"
     },
     {
         "themes": [
@@ -11671,6 +11604,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "German Conference on Chemoinformatics GCC",
+        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11913&modus=",
+        "start_date": "08 Nov 2026",
+        "end_date": "11 Nov 2026",
+        "locations": [
+            "Bad Soden am Taunus, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "germanconferenceonch08Nov2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -11800,6 +11756,46 @@
             "TX"
         ],
         "uid": "americancollegeoftox15Nov2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "New Zealand Institute of Chemistry NZIC Conference",
+        "url": "https://nzic2026.eventsair.site/",
+        "start_date": "15 Nov 2026",
+        "end_date": "18 Nov 2026",
+        "locations": [
+            "Hamilton, New Zealand"
+        ],
+        "countries": [
+            "New Zealand"
+        ],
+        "uid": "newzealandinstituteo15Nov2026_0"
     },
     {
         "themes": [
@@ -12342,6 +12338,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "IUPAC General Assembly & World Chemistry Congress & Canadian Chemistry Conference & Exhibition",
+        "url": "https://www.cheminst.ca/conference/iupac-csc-2027/",
+        "start_date": "08 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "iupacgeneralassembly08Jul2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "inorganic/nano"
         ],
@@ -12662,7 +12698,7 @@
         ],
         "title": "STEM, LGBTQ, & You",
         "url": "https://stemlgbtqyou.gay/",
-        "start_date": "19 Nov 2026",
+        "start_date": "19 Nov 2027",
         "end_date": null,
         "locations": [
             "Birmingham, UK ",
@@ -12672,7 +12708,7 @@
             "UK ",
             " Online"
         ],
-        "uid": "stemlgbtqyou19Nov2026_0"
+        "uid": "stemlgbtqyou19Nov2027_0"
     },
     {
         "themes": [
