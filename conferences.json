@@ -1,45 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "HERCULES European school (neutrons & synchrotron radiation for science)",
-        "url": "https://hercules-school.eu/",
-        "start_date": "22 Feb 2026",
-        "end_date": "29 Mar 2026",
-        "locations": [
-            "Grenoble, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "herculeseuropeanscho22Feb2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Generative Modelling Spring School GeMSS",
-        "url": "https://aichemy.ac.uk/event/generative-modeling-spring-school-2026/",
-        "start_date": "23 Mar 2026",
-        "end_date": "27 Mar 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "generativemodellings23Mar2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "process/engineering",
             "synthesis"
@@ -58,159 +19,6 @@
             "Online"
         ],
         "uid": "biocatalysisasatoolf23Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "analytica 2026",
-        "url": "https://analytica.de/en/ceramitec/",
-        "start_date": "24 Mar 2026",
-        "end_date": "27 Mar 2026",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "analytica202624Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Structure 2026: Automated interpretation of spectroscopy data",
-        "url": "https://nmrdg.org.uk/structure-2026-automated-interpretation-of-spectroscopy-data/",
-        "start_date": "27 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "structure2026automat27Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Organic Chemisry Community North-East Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/83248/rsc-organic-chemistry-community-north-east-regional-meeting-2026",
-        "start_date": "27 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscorganicchemisryco27Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "AIChE Southwest USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-southwest-regional-conference/2026",
-        "start_date": "27 Mar 2026",
-        "end_date": "28 Mar 2026",
-        "locations": [
-            "Lubbock, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "aichesouthwestusastu27Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "AIChE North Central USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-north-central-student-regional-conference/2026",
-        "start_date": "27 Mar 2026",
-        "end_date": "28 Mar 2026",
-        "locations": [
-            "Lafayette, IN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IN"
-        ],
-        "uid": "aichenorthcentralusa27Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "HERCULES European School 35th Anniversary Workshop (neutrons & synchrotron radiation for science)",
-        "url": "https://hercules-school.eu/news/hercules-celebrates-its-35th-anniversary",
-        "start_date": "27 Mar 2026",
-        "end_date": "28 Mar 2026",
-        "locations": [
-            "Grenoble, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "herculeseuropeanscho27Mar2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "AIChE Mid-Atlantic USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-mid-atlantic-student-regional-conference/2026",
-        "start_date": "28 Mar 2026",
-        "end_date": "29 Mar 2026",
-        "locations": [
-            "Richmond, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "uid": "aichemidatlanticusas28Mar2026_0"
     },
     {
         "themes": [
@@ -357,6 +165,28 @@
             "UK"
         ],
         "uid": "bristolsynthesismeet31Mar2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Fierce Pharma Drug Delivery & Development Day",
+        "url": "https://pharmaforward.fiercelifesciences.com/",
+        "start_date": "31 Mar 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "fiercepharmadrugdeli31Mar2026_0"
     },
     {
         "themes": [
@@ -1968,6 +1798,29 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Fierce Pharma Engage (partnering)",
+        "url": "https://www.fiercepharmaengage.com/",
+        "start_date": "22 Apr 2026",
+        "end_date": "24 Apr 2026",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "fiercepharmaengagepa22Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -2431,6 +2284,26 @@
             "Italy"
         ],
         "uid": "midseasonsustainable28Apr2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Pharma Market Research Conference Europe",
+        "url": "https://europe.pharmamarketresearchconference.com/",
+        "start_date": "28 Apr 2026",
+        "end_date": "30 Apr 2026",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "pharmamarketresearch28Apr2026_0"
     },
     {
         "themes": [
@@ -3473,6 +3346,29 @@
             "UK"
         ],
         "uid": "targetedproteindegra12May2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Fierce Biotech Week",
+        "url": "https://www.fiercebiotechweek.com/",
+        "start_date": "12 May 2026",
+        "end_date": "14 May 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "fiercebiotechweek12May2026_0"
     },
     {
         "themes": [
@@ -9425,6 +9321,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "computational/data",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Chemical Artificial Intelligence in Homogeneous Catalysis Workshop ChemAICat",
+        "url": "https://aichemy.ac.uk/event/chemical-artificial-intelligence-in-homogeneous-catalysis-chemaicat/",
+        "start_date": "01 Sep 2026",
+        "end_date": "03 Sep 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemicalartificialin01Sep2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "med chem"
@@ -11433,6 +11350,30 @@
     },
     {
         "themes": [
+            "business",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Partnering to Advance Drug Delivery PODD",
+        "url": "https://www.poddconference.com/",
+        "start_date": "29 Oct 2026",
+        "end_date": "30 Oct 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "partneringtoadvanced29Oct2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "process/engineering"
         ],
@@ -11618,7 +11559,7 @@
         "start_date": "08 Nov 2026",
         "end_date": "11 Nov 2026",
         "locations": [
-            "Bad Soden am Taunus, Germany"
+            "Bad Soden, Germany"
         ],
         "countries": [
             "Germany"
