@@ -44,69 +44,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Integrating chemistry, engineering, & biology to create the next generation of vaccines",
-        "url": "https://www.rsc.org/events/detail/82380/integrating-chemistry-engineering-and-biology-to-create-the-next-generation-of-vaccines",
-        "start_date": "30 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "integratingchemistry30Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "computational/data",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "SimpNMR data analysis of paramagnetic metal complexes",
-        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrVnii_uHSBEp8Vlb4wp_09UNk0zT1FWRExJN1BMVEJKQ1lQTFlLMUZSSC4u",
-        "start_date": "30 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "simpnmrdataanalysiso30Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Bristol Electrosynthesis Meeting",
-        "url": "https://www.lennoxlab.com/bem26",
-        "start_date": "30 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bristolelectrosynthe30Mar2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "catalysis",
             "chem bio"
@@ -3629,6 +3566,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Postdoctoral Symposium of the RSC Heterocyclic & Synthesis Group",
+        "url": "https://www.rsc.org/events/detail/83650/3rd-postdoctoral-symposium-virtual-heterocyclic-and-synthesis-group",
+        "start_date": "18 May 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "postdoctoralsymposiu18May2026_0"
+    },
+    {
+        "themes": [
             "med chem",
             "pharma industry",
             "process/engineering",
@@ -5137,7 +5097,7 @@
         "regions": [
             "Midlands"
         ],
-        "title": "RSC Porous Materials Interest Group Annual Conference",
+        "title": "RSC Porous Materials Interest Group Annual Conference UKPorMat",
         "url": "https://www.ukpormat.com/",
         "start_date": "09 Jun 2026",
         "end_date": "10 Jun 2026",
@@ -5751,6 +5711,27 @@
             "MD"
         ],
         "uid": "artificialintelligen16Jun2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "history/philosophy"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "XXII Congresso Nazionale della Divisione di Chimica dell'Ambiente e dei Beni Culturali",
+        "url": "https://www.congressodabc.it/",
+        "start_date": "16 Jun 2026",
+        "end_date": "19 Jun 2026",
+        "locations": [
+            "Palermo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "xxiicongressonaziona16Jun2026_0"
     },
     {
         "themes": [
@@ -6449,6 +6430,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "PANACEA NMR annual user meeting",
+        "url": "https://panacea-nmr.eu/events/eventdetail/60/-/fourth-annual-user-meeting-in-goeteborg",
+        "start_date": "27 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "panaceanmrannualuser27Jun2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6489,6 +6491,26 @@
             "ID"
         ],
         "uid": "acsnorthwestregional28Jun2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "European Magnetic Resonance Congress EUROMAR",
+        "url": "https://euromar2026.mkon.se/",
+        "start_date": "28 Jun 2026",
+        "end_date": "02 Jul 2026",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "europeanmagneticreso28Jun2026_0"
     },
     {
         "themes": [
@@ -8793,6 +8815,29 @@
     {
         "themes": [
             "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Denver X-ray conference",
+        "url": "https://www.dxcicdd.com/",
+        "start_date": "03 Aug 2026",
+        "end_date": "07 Aug 2026",
+        "locations": [
+            "Lombard, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "denverxrayconference03Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "careers",
             "environment/fuels",
             "safety"
@@ -9066,7 +9111,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Intl Congress on Biocatalysis",
+        "title": "Intl Congress on Biocatalysis biocat2026",
         "url": "https://biocat-congress.de/",
         "start_date": "23 Aug 2026",
         "end_date": "27 Aug 2026",
@@ -10645,6 +10690,25 @@
     },
     {
         "themes": [
+            "automation"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Gathering for Open Science Hardware GOSH",
+        "url": "https://openhardware.science/gosh-2026-kathmandu-nepal/",
+        "start_date": "04 Oct 2026",
+        "end_date": "06 Oct 2026",
+        "locations": [
+            "Kathmandu, Nepal"
+        ],
+        "countries": [
+            "Nepal"
+        ],
+        "uid": "gatheringforopenscie04Oct2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "environment/fuels",
@@ -12211,6 +12275,26 @@
             "Germany"
         ],
         "uid": "societyforlaboratory25May2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Activity-based protein profiling meeting ABPP",
+        "url": "https://www.universiteitleiden.nl/en/science/led3/abpp2027",
+        "start_date": "02 Jun 2027",
+        "end_date": "02 Jun 2027",
+        "locations": [
+            "Leiden, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "activitybasedprotein02Jun2027_0"
     },
     {
         "themes": [
