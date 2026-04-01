@@ -2,27 +2,6 @@
     {
         "themes": [
             "catalysis",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Biocatalysis as a Tool for the Synthetic Chemist (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/biocatalysis-as-a-tool-for-the-synthetic-chemist/",
-        "start_date": "23 Mar 2026",
-        "end_date": "31 Mar 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "biocatalysisasatoolf23Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
             "chem bio",
             "process/engineering",
             "synthesis"
@@ -41,89 +20,6 @@
             "Italy"
         ],
         "uid": "multistepenzymecatal29Mar2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Symposium on High-Throughput Catalyst Design HTCD",
-        "url": "https://htcd2026.sciencesconf.org/",
-        "start_date": "30 Mar 2026",
-        "end_date": "31 Mar 2026",
-        "locations": [
-            "Lille, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "intlsymposiumonhight30Mar2026_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Analítica 2026: Meeting of the Analytical Division of the Portuguese Chemical Society",
-        "url": "https://analitica2026.events.chemistry.pt/",
-        "start_date": "30 Mar 2026",
-        "end_date": "31 Mar 2026",
-        "locations": [
-            "Aveiro, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "analítica2026meeting30Mar2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Bristol Synthesis Meeting",
-        "url": "https://www.bristol.ac.uk/chemistry/research/bristol-synthesis-meeting/",
-        "start_date": "31 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bristolsynthesismeet31Mar2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Fierce Pharma Drug Delivery & Development Day",
-        "url": "https://pharmaforward.fiercelifesciences.com/",
-        "start_date": "31 Mar 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "fiercepharmadrugdeli31Mar2026_0"
     },
     {
         "themes": [
@@ -1625,6 +1521,27 @@
             "Germany"
         ],
         "uid": "agilentlabproductivi21Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Hamilton robotics user group meeting",
+        "url": "https://www.linkedin.com/feed/update/urn:li:share:7444314625996685312/",
+        "start_date": "21 Apr 2026",
+        "end_date": "22 Apr 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "hamiltonroboticsuser21Apr2026_0"
     },
     {
         "themes": [
