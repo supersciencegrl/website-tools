@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "chem bio",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Multistep enzyme-catalysed processes MECP",
-        "url": "https://www.mecp2026.eu/",
-        "start_date": "29 Mar 2026",
-        "end_date": "01 Apr 2026",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "multistepenzymecatal29Mar2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels"
         ],
         "regions": [
