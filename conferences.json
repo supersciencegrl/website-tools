@@ -1,91 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Offshore Technology Conference OTC Asia",
-        "url": "https://www.otcasia.org/",
-        "start_date": "31 Mar 2026",
-        "end_date": "02 Apr 2026",
-        "locations": [
-            "Kuala Lumpur, Malaysia"
-        ],
-        "countries": [
-            "Malaysia"
-        ],
-        "uid": "offshoretechnologyco31Mar2026_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "RSC Fluorine Group Postgraduate Meeting",
-        "url": "https://www.rsc.org/events/detail/83151/24th-rsc-fluorine-interest-group-postgraduate-meeting",
-        "start_date": "01 Apr 2026",
-        "end_date": "02 Apr 2026",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscfluorinegrouppost01Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Machine learning for experimental materials data",
-        "url": "https://aichemy.ac.uk/event/machine-learning-for-experimental-materials-data/",
-        "start_date": "02 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "machinelearningforex02Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Applied Pharmaceutical Chemistry APC",
-        "url": "https://www.bostonsociety.org/APC/",
-        "start_date": "02 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "appliedpharmaceutica02Apr2026_0"
-    },
-    {
-        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -6303,6 +6218,26 @@
             "UK"
         ],
         "uid": "rscanalyticalbioscie25Jun2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Early Career Colloid meeting ECCo",
+        "url": "https://eccolloid.co.uk/ecco-2026/",
+        "start_date": "25 Jun 2026",
+        "end_date": "26 Jun 2026",
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "earlycareercolloidme25Jun2026_0"
     },
     {
         "themes": [
