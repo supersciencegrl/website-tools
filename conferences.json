@@ -104,6 +104,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Spring Meeting of the Polymer Society of Korea",
+        "url": "https://www.polymer.or.kr/conference/2026S/index.php",
+        "start_date": "08 Apr 2026",
+        "end_date": "10 Apr 2026",
+        "locations": [
+            "Daejeon, Korea"
+        ],
+        "countries": [
+            "Korea"
+        ],
+        "uid": "springmeetingofthepo08Apr2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "safety"
@@ -679,6 +699,46 @@
             "Germany"
         ],
         "uid": "kraftwerkbatterieadv14Apr2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Critical Materials Council CMC Conference: Driving the roadmap for semiconductor materials",
+        "url": "https://www.techinsights.com/2026-cmc-conference",
+        "start_date": "14 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Münster, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "criticalmaterialscou14Apr2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "In-Cosmetics Global",
+        "url": "https://www.in-cosmetics.com/global/en-gb.html",
+        "start_date": "14 Apr 2026",
+        "end_date": "16 Apr 2026",
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "incosmeticsglobal14Apr2026_0"
     },
     {
         "themes": [
@@ -1461,6 +1521,26 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "CPHI Japan",
+        "url": "https://www.cphi.com/japan/",
+        "start_date": "21 Apr 2026",
+        "end_date": "23 Apr 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "cphijapan21Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry",
             "safety"
@@ -1625,6 +1705,29 @@
             "UK"
         ],
         "uid": "empoweringwomeninbio23Apr2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "New York Society of Cosmetic Chemists NYSCC Sustainability Symposium",
+        "url": "https://nyscc.org/events/sustainability-symposium/",
+        "start_date": "23 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Jersey City, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "newyorksocietyofcosm23Apr2026_0"
     },
     {
         "themes": [
@@ -3017,6 +3120,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Protein & Antibody Engineering Summit PEGS Boston",
+        "url": "https://www.pegsummit.com/",
+        "start_date": "11 May 2026",
+        "end_date": "15 May 2026",
+        "locations": [
+            "Boston, MA, USA ",
+            " Online"
+        ],
+        "countries": [
+            "USA ",
+            " Online"
+        ],
+        "uid": "proteinantibodyengin11May2026_0"
+    },
+    {
+        "themes": [
             "law/policy",
             "pharma industry"
         ],
@@ -3200,6 +3328,29 @@
             "MI"
         ],
         "uid": "surfaceroughnesstext13May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Peter Stahl Advanced Design Forum (AI/ML in chemistry & materials)",
+        "url": "https://sites.google.com/umn.edu/stahlforum/home",
+        "start_date": "14 May 2026",
+        "end_date": "15 May 2026",
+        "locations": [
+            "Wayzata, MN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MN"
+        ],
+        "uid": "peterstahladvancedde14May2026_0"
     },
     {
         "themes": [
@@ -3482,6 +3633,26 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug delivery & formulation DDF Summit",
+        "url": "https://ddfevent.com/live/en/page/home",
+        "start_date": "18 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "drugdeliveryformulat18May2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org",
             "process/engineering",
@@ -3569,6 +3740,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "New York Society of Cosmetic Chemists Suppliers' Day",
+        "url": "https://nyscc.org/suppliers-day/",
+        "start_date": "19 May 2026",
+        "end_date": "20 May 2026",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "uid": "newyorksocietyofcosm19May2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -3625,6 +3818,34 @@
             "Netherlands"
         ],
         "uid": "cdmoliveeurope19May2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Bio-IT World",
+        "url": "https://www.bio-itworldexpo.com/",
+        "start_date": "19 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "bioitworld19May2026_0"
     },
     {
         "themes": [
@@ -4921,6 +5142,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Frontiers in Digital Chemistry (materials)",
+        "url": "https://www.schrodinger.com/materials-science/resources/event/frontiers-in-digital-chemistry-industry-summit/",
+        "start_date": "09 Jun 2026",
+        "end_date": "10 Jun 2026",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "uid": "frontiersindigitalch09Jun2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -5474,6 +5718,30 @@
             "Germany"
         ],
         "uid": "elriggermanforumtarg16Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Schrödinger Medicinal Chemistry Symposium",
+        "url": "https://www.schrodinger.com/life-science/resources/event/schrodinger-medicinal-chemistry-symposium-2026/",
+        "start_date": "16 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "schrödingermedicinal16Jun2026_0"
     },
     {
         "themes": [
@@ -7239,6 +7507,26 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Controlled Release Society CRS Annual Meeting",
+        "url": "https://crs2026annualmeeting.eventscribe.net/",
+        "start_date": "06 Jul 2026",
+        "end_date": "09 Jul 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "controlledreleasesoc06Jul2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels"
         ],
@@ -7790,6 +8078,29 @@
             "Online"
         ],
         "uid": "chemicaldevelopments13Jul2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Battery Seminar",
+        "url": "https://plugvolt.com/seminars/",
+        "start_date": "14 Jul 2026",
+        "end_date": "16 Jul 2026",
+        "locations": [
+            "San Jose, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "batteryseminar14Jul2026_0"
     },
     {
         "themes": [
@@ -11547,6 +11858,28 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "New York Society of Cosmetic Chemists NYSCC Innovation Event",
+        "url": "https://nyscc.org/events/innovation-event/",
+        "start_date": "12 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NY"
+        ],
+        "uid": "newyorksocietyofcosm12Nov2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -12658,6 +12991,58 @@
             "WA"
         ],
         "uid": "americansocietyforma04Jun2028_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "ELRIG Drug Discovery",
+        "url": "https://elrig.org/portfolio/drug-discovery-2028/",
+        "start_date": "11 Oct 2028",
+        "end_date": "12 Oct 2028",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigdrugdiscovery11Oct2028_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "careers",
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "law/policy",
+            "med chem",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "PharmSci 360",
+        "url": "https://www.aaps.org/pharmsci/future-annual-events",
+        "start_date": "22 Oct 2028",
+        "end_date": "25 Oct 2028",
+        "locations": [
+            "Charlotte, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "pharmsci36022Oct2028_0"
     },
     {
         "themes": [
