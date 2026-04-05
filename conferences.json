@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "AIChE Southern USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-southern-regional-conference/2026",
-        "start_date": "03 Apr 2026",
-        "end_date": "04 Apr 2026",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "aichesouthernusastud03Apr2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "materials/polymers",
             "physical/phys org"
@@ -3591,6 +3568,28 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Texas Chemical Biology Conference",
+        "url": "https://www.txchembio.org/",
+        "start_date": "18 May 2026",
+        "end_date": "19 May 2026",
+        "locations": [
+            "Dallas, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "texaschemicalbiology18May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -5262,6 +5261,29 @@
             "Germany"
         ],
         "uid": "fhiaimsdeveloperuser10Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Annual Symposium on Applied Synthesis",
+        "url": "https://www.cvs-acs.org/event-details/8th-annual-symposium-on-applied-synthesis",
+        "start_date": "11 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "New London, CT, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CT"
+        ],
+        "uid": "annualsymposiumonapp11Jun2026_0"
     },
     {
         "themes": [
