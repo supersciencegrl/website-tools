@@ -303,6 +303,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Pharma Software User Group PharmaSUG India",
+        "url": "https://pharmasug.org/sde/pharmasug-sde-india-2026/",
+        "start_date": "11 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Karnataka, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "pharmasoftwareusergr11Apr2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "physical/phys org"
@@ -2344,6 +2364,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Society for Clinical Data Management Live EMEA",
+        "url": "https://scdmlive.org/emea-conference-2026/",
+        "start_date": "03 May 2026",
+        "end_date": "06 May 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "societyforclinicalda03May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -2754,6 +2794,29 @@
             "Spain"
         ],
         "uid": "openmolecularsoftwar07May2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Certara Biotech Forum: Workshop on Developing Investor-Ready Strategies",
+        "url": "https://www.certara.com/live-events/certara-biotech-forum-workshop-on-developing-investor-ready-strategies-san-deigo-ca-2026/",
+        "start_date": "07 May 2026",
+        "end_date": null,
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "certarabiotechforumw07May2026_0"
     },
     {
         "themes": [
@@ -3331,6 +3394,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Certara Phoenix user meeting (PK/PD)",
+        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-cambridge/",
+        "start_date": "15 May 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "certaraphoenixuserme15May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers"
@@ -3671,6 +3755,26 @@
             "UK"
         ],
         "uid": "intlsymposiumonhalog18May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Clinical Data Standards & Implementation CDISC EU",
+        "url": "https://www.certara.com/conference/cdisc-tmf-europe-interchange/",
+        "start_date": "18 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "clinicaldatastandard18May2026_0"
     },
     {
         "themes": [
@@ -4388,6 +4492,31 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Society of Nuclear Medicine & Molecular Imaging SNMMI meeting",
+        "url": "https://snmmi.org/AM/AM/Home.aspx",
+        "start_date": "31 May 2026",
+        "end_date": "02 Jun 2026",
+        "locations": [
+            "Los Angeles, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "societyofnuclearmedi31May2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4409,6 +4538,29 @@
             "GA"
         ],
         "uid": "acsusnationalmedicin31May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Pharma Software User Group PharmaSUG",
+        "url": "https://pharmasug.org/",
+        "start_date": "31 May 2026",
+        "end_date": "03 Jun 2026",
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "pharmasoftwareusergr31May2026_0"
     },
     {
         "themes": [
@@ -5549,13 +5701,15 @@
         "themes": [
             "chem bio",
             "computational/data",
+            "formulation/particle science",
             "med chem",
-            "pharma industry"
+            "pharma industry",
+            "process/engineering"
         ],
         "regions": [
             "Western Europe"
         ],
-        "title": "Drug Discovery Europe",
+        "title": "Drug Discovery & Development Europe",
         "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe/",
         "start_date": "15 Jun 2026",
         "end_date": "16 Jun 2026",
@@ -5565,7 +5719,7 @@
         "countries": [
             "Germany"
         ],
-        "uid": "drugdiscoveryeurope15Jun2026_0"
+        "uid": "drugdiscoverydevelop15Jun2026_0"
     },
     {
         "themes": [
@@ -5767,6 +5921,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Certara Phoenix user meeting (PK/PD)",
+        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-philadelphia/",
+        "start_date": "16 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Radnor, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "certaraphoenixuserme16Jun2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -5919,6 +6096,50 @@
             "IL"
         ],
         "uid": "societyforlaboratory18Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Certara Phoenix user meeting (PK/PD)",
+        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-durham/",
+        "start_date": "18 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Durham, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "certaraphoenixuserme18Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Certara Certainty (pharma modelling & simulation)",
+        "url": "https://www.certara.com/live-events/certainty-korea-2026/",
+        "start_date": "18 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Seoul, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "certaracertaintyphar18Jun2026_0"
     },
     {
         "themes": [
@@ -6385,6 +6606,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Certara Certainty (pharma modelling & simulation)",
+        "url": "https://www.certara.com/live-events/certainty-japan-2026/",
+        "start_date": "23 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "certaracertaintyphar23Jun2026_0"
+    },
+    {
+        "themes": [
             "history/philosophy"
         ],
         "regions": [
@@ -6460,6 +6702,27 @@
             "UK"
         ],
         "uid": "rscnmrdiscussiongrou24Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Certara Certainty (pharma modelling & simulation)",
+        "url": "https://www.certara.com/live-events/certainty-china-2026/",
+        "start_date": "25 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "certaracertaintyphar25Jun2026_0"
     },
     {
         "themes": [
@@ -10162,6 +10425,29 @@
     {
         "themes": [
             "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Society for Clinical Data Management Live USA",
+        "url": "https://scdmlive.org/scdm-annual-conference/",
+        "start_date": "14 Sep 2026",
+        "end_date": "17 Sep 2026",
+        "locations": [
+            "Raleigh, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "societyforclinicalda14Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
             "materials/polymers"
         ],
         "regions": [
@@ -10938,6 +11224,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Clinical Data Standards & Implementation CDISC USA",
+        "url": "https://www.certara.com/conference/cdisc-us/",
+        "start_date": "05 Oct 2026",
+        "end_date": "07 Oct 2026",
+        "locations": [
+            "Denver, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "clinicaldatastandard05Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -11036,6 +11345,29 @@
             "UK"
         ],
         "uid": "intlconferenceongree09Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Society for the Study of Xenobiotics ISSX",
+        "url": "https://issxmeetings.org/2026-na/home",
+        "start_date": "11 Oct 2026",
+        "end_date": "14 Oct 2026",
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlsocietyforthestu11Oct2026_0"
     },
     {
         "themes": [
@@ -11577,6 +11909,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Pharma Software User GroupPharmaSUG Japan 2026",
+        "url": "https://pharmasug.org/conferences/japan2026/",
+        "start_date": "28 Oct 2026",
+        "end_date": "29 Oct 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "pharmasoftwareusergr28Oct2026_0"
+    },
+    {
+        "themes": [
             "business",
             "formulation/particle science",
             "pharma industry"
@@ -11986,6 +12338,26 @@
             "New Zealand"
         ],
         "uid": "newzealandinstituteo15Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Pharmaceutical Users Software Exchange EU",
+        "url": "https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=74357&eventID=114",
+        "start_date": "15 Nov 2026",
+        "end_date": "18 Nov 2026",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pharmaceuticaluserss15Nov2026_0"
     },
     {
         "themes": [
