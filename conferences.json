@@ -1560,6 +1560,30 @@
     {
         "themes": [
             "chem bio",
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Southern England",
+            "Online"
+        ],
+        "title": "Cambridge Chemoinformatics Meeting",
+        "url": "https://www.linkedin.com/posts/andreasbender_cambridge-cheminformatics-meeting-22-april-share-7447217054060843008-0b7m/",
+        "start_date": "22 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "uid": "cambridgechemoinform22Apr2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "med chem",
             "pharma industry"
         ],
@@ -11579,6 +11603,28 @@
             "India"
         ],
         "uid": "natureconferencesmee14Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Coarse-graining in the age of machine learning and molecular design",
+        "url": "https://cg-ml-2026.sciencesconf.org/",
+        "start_date": "14 Oct 2026",
+        "end_date": "16 Oct 2026",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "coarsegraininginthea14Oct2026_0"
     },
     {
         "themes": [
