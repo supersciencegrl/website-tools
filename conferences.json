@@ -1,46 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Rideal Lecture & Symposium: Polymer colloids",
-        "url": "https://soci.org/events/colloid-and-surface-chemistry-group/2026/rideal-lecture-and-symposium-polymer-colloids-from-engineering-to-biology",
-        "start_date": "08 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rideallecturesymposi08Apr2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Chemical Structure Representations",
-        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=146528&eventID=360&traceRedir=2",
-        "start_date": "08 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemicalstructurerep08Apr2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "inorganic/nano"
         ],
@@ -409,6 +369,25 @@
             "NY"
         ],
         "uid": "awslifesciencessympo13Apr2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Molecular and ion scale flows through angstrom-scale channels",
+        "url": "https://www.rsc.org/events/find-an-event/molecular-and-ion-flows-through-angstrom-scale-channels-faraday-discussion",
+        "start_date": "13 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "molecularandionscale13Apr2026_0"
     },
     {
         "themes": [
@@ -5337,6 +5316,26 @@
             "NY"
         ],
         "uid": "frontiersindigitalch09Jun2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Surfex (Surface, paint, & coating technology)",
+        "url": "https://www.surfex.co.uk/",
+        "start_date": "09 Jun 2026",
+        "end_date": "10 Jun 2026",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "surfexsurfacepaintco09Jun2026_0"
     },
     {
         "themes": [
