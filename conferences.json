@@ -1,114 +1,6 @@
 [
     {
         "themes": [
-            "catalysis",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Main Group Interest Group Annual Meeting",
-        "url": "https://www.rsc.org/events/detail/82872/rsc-main-group-interest-group-annual-meeting-and-agm",
-        "start_date": "08 Apr 2026",
-        "end_date": "09 Apr 2026",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscmaingroupinterest08Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Faraday Discussion: Vibrations at interfaces",
-        "url": "https://www.rsc.org/events/detail/80614/?utm_campaign=m_events_fd_vibrations_at_interfaces",
-        "start_date": "08 Apr 2026",
-        "end_date": "10 Apr 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussionvib08Apr2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Spring Meeting of the Polymer Society of Korea",
-        "url": "https://www.polymer.or.kr/conference/2026S/index.php",
-        "start_date": "08 Apr 2026",
-        "end_date": "10 Apr 2026",
-        "locations": [
-            "Daejeon, Korea"
-        ],
-        "countries": [
-            "Korea"
-        ],
-        "uid": "springmeetingofthepo08Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Chesapeake Potomac Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://cprcsetac.wildapricot.org/Spring-Meeting-2026",
-        "start_date": "09 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Towson, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "chesapeakepotomacsoc09Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "South-Central USA Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://www.setac.org/discover-events/ems-event-calendar/south-central-setac-regional-chapter-2026-meeting.html",
-        "start_date": "09 Apr 2026",
-        "end_date": "11 Apr 2026",
-        "locations": [
-            "San Marcos, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "southcentralusasocie09Apr2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "materials/polymers"
         ],
@@ -126,117 +18,6 @@
             "China"
         ],
         "uid": "intlconferenceonbiom09Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "UK Catalysis Hub X-ray spectroscopy simulation for understanding catalysts",
-        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-x-ray-spectroscopy-simulation-for-understanding-catalysts-tickets-1983248444485",
-        "start_date": "10 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Harwell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ukcatalysishubxraysp10Apr2026_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Irish Variety in Chemistry Education 2026",
-        "url": "https://www.maynoothuniversity.ie/chemistry/irish-variety-chemistry-education-meeting-2026",
-        "start_date": "10 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "uid": "irishvarietyinchemis10Apr2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "SCI Young Chemists' Panel Undergraduate Research Symposium & Careers Fair",
-        "url": "https://www.soci.org/events/young-chemists-panel/2026/ycp-undergraduate-research-symposium-and-careers-fair-2026",
-        "start_date": "10 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciyoungchemistspane10Apr2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "AIChE Rocky Mountain USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-rocky-mountain-regional-conference/2026",
-        "start_date": "10 Apr 2026",
-        "end_date": "11 Apr 2026",
-        "locations": [
-            "Salt Lake City, UT, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "UT"
-        ],
-        "uid": "aicherockymountainus10Apr2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "AIChE Mid-America USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-mid-america-student-regional-conference/2026",
-        "start_date": "10 Apr 2026",
-        "end_date": "11 Apr 2026",
-        "locations": [
-            "Iowa City, IA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IA"
-        ],
-        "uid": "aichemidamericausast10Apr2026_0"
     },
     {
         "themes": [
@@ -260,26 +41,6 @@
             "WA"
         ],
         "uid": "aichepacificnorthwes10Apr2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Pharma Software User Group PharmaSUG India",
-        "url": "https://pharmasug.org/sde/pharmasug-sde-india-2026/",
-        "start_date": "11 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Karnataka, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "pharmasoftwareusergr11Apr2026_0"
     },
     {
         "themes": [
@@ -1184,6 +945,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Chemistry in the oil industry",
+        "url": "https://www.rsc.org/events/find-an-event/chemistry-in-the-oil-industry-xix-shaping-the-future-of-energy",
+        "start_date": "20 Apr 2026",
+        "end_date": "22 Apr 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemistryintheoilind20Apr2026_0"
+    },
+    {
+        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -1389,25 +1170,6 @@
             "Germany"
         ],
         "uid": "germanbiotechdaysinp21Apr2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemistry in the Oil Industry: Shaping the future of energy",
-        "url": "https://www.rsc.org/events/detail/81746/chemistry-in-the-oil-industry-xix-shaping-the-future-of-energy",
-        "start_date": "21 Apr 2026",
-        "end_date": "22 Apr 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemistryintheoilind21Apr2026_0"
     },
     {
         "themes": [
@@ -1770,6 +1532,26 @@
             "France"
         ],
         "uid": "frenchindustrialchem24Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Advances in chemical analysis of food",
+        "url": "https://www.rsc.org/events/find-an-event/advances-in-chemical-analysis-of-food-v",
+        "start_date": "24 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "advancesinchemicalan24Apr2026_0"
     },
     {
         "themes": [
@@ -2237,6 +2019,28 @@
             "UK"
         ],
         "uid": "jointbritishtoxicolo29Apr2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "environment/fuels",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Consultancy Group Networking Day & Social",
+        "url": "https://www.rsc.org/events/find-an-event/spring-social-and-networking-day-and-agm",
+        "start_date": "29 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscconsultancygroupn29Apr2026_0"
     },
     {
         "themes": [
@@ -4001,6 +3805,25 @@
             "environment/fuels"
         ],
         "regions": [
+            "UK"
+        ],
+        "title": "Carbon science & technology for a sustainable future",
+        "url": "https://britishcarbongroup.org/",
+        "start_date": "20 May 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "carbonsciencetechnol20May2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
             "Scotland"
         ],
         "title": "UK Energy Research Centre Annual Assembly",
@@ -5347,7 +5170,7 @@
             "Western Europe"
         ],
         "title": "Bombannes: European summer school on scattering methods applied to soft condensed matter",
-        "url": "https://www.ukpormat.com/",
+        "url": "https://workshops.ill.fr/event/522/",
         "start_date": "09 Jun 2026",
         "end_date": "16 Jun 2026",
         "locations": [
@@ -5524,6 +5347,29 @@
             "China"
         ],
         "uid": "intlsymposiumfrontie11Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "RSC Organic Chemistry Community Ireland Regional Meeting",
+        "url": "https://www.rsc.org/events/find-an-event/rsc-organic-chemistry-community-ireland-regional-meeting-2026",
+        "start_date": "12 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Cork, Ireland"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "uid": "rscorganicchemistryc12Jun2026_0"
     },
     {
         "themes": [
@@ -6055,6 +5901,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Digital analytics in analytical science",
+        "url": "https://www.rsc.org/events/find-an-event/digital-analytics-in-analytical-science",
+        "start_date": "17 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "digitalanalyticsinan17Jun2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -6546,6 +6412,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "North West Cancer Research Scientific Symposium",
+        "url": "https://www.eventbrite.co.uk/e/north-west-cancer-research-scientific-symposium-2026-tickets-1981702120388",
+        "start_date": "22 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Ormskirk, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "northwestcancerresea22Jun2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6749,6 +6635,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "chem bio"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Analytical Bioscience Group Early Career Researcher Meeting ECRM",
+        "url": "https://www.rsc.org/events/find-an-event/13th-early-career-researcher-meeting",
+        "start_date": "25 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Wilmslow, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscanalyticalbioscie25Jun2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "diversity",
             "materials/polymers",
@@ -6833,6 +6740,46 @@
             "UK"
         ],
         "uid": "scotchempolymerssoft26Jun2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Chemical Sciences Research Symposium",
+        "url": "https://www.rsc.org/events/find-an-event/chemical-sciences-research-symposium",
+        "start_date": "26 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemicalsciencesrese26Jun2026_0"
     },
     {
         "themes": [
@@ -7361,6 +7308,47 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Faraday Discussion: Emerging materials for optoelectronic applications",
+        "url": "https://www.rsc.org/events/detail/80738/emerging-materials-for-optoelectronics-applications-faraday-discussion",
+        "start_date": "01 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussioneme01Jul2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Protein & peptide science group PPSG early stage researcher meeting",
+        "url": "https://www.rsc.org/events/find-an-event/protein-and-peptide-science-group-(ppsg)-early-stage-researcher-meeting-2026",
+        "start_date": "01 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Bath, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscproteinpeptidesci01Jul2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "formulation/particle science",
             "pharma industry",
@@ -7381,26 +7369,6 @@
             "Japan"
         ],
         "uid": "japanesesocietyforpr01Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Faraday Discussion: Emerging materials for optoelectronic applications",
-        "url": "https://www.rsc.org/events/detail/80738/emerging-materials-for-optoelectronics-applications-faraday-discussion",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussioneme01Jul2026_0"
     },
     {
         "themes": [
@@ -7445,6 +7413,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Inorganic Reaction Mechanism Group Symposium",
+        "url": "https://www.rsc.org/events/find-an-event/inorganic-reaction-mechanisms-group-symposium-2026",
+        "start_date": "01 Jul 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "inorganicreactionmec01Jul2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "education"
         ],
@@ -7462,6 +7452,26 @@
             "UK"
         ],
         "uid": "industrialplacementa02Jul2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Electrochemistry Northwest",
+        "url": "https://www.eventbrite.co.uk/e/electrochemistry-northwest-tickets-1985394461279",
+        "start_date": "02 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "electrochemistrynort02Jul2026_0"
     },
     {
         "themes": [
@@ -7543,6 +7553,25 @@
             "UK"
         ],
         "uid": "rscorganicchemistryc03Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "RSC Chemical Biology & Bioorganic Group CBBG Firbush Conference",
+        "url": "https://www.rsc.org/events/find-an-event/21st-rsc-chemical-biology-and-bioorganic-group-(cbbg)-firbush-conference",
+        "start_date": "03 Jul 2026",
+        "end_date": "05 Jul 2026",
+        "locations": [
+            "Killin, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscchemicalbiologybi03Jul2026_0"
     },
     {
         "themes": [
@@ -7832,6 +7861,25 @@
             "Portugal"
         ],
         "uid": "controlledreleasesoc06Jul2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC Secondary & Further Education Group SaFE Conference",
+        "url": "https://rscsafegroup.wordpress.com/page/",
+        "start_date": "07 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscsecondaryfurthere07Jul2026_0"
     },
     {
         "themes": [
@@ -9614,6 +9662,27 @@
     },
     {
         "themes": [
+            "careers",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Porous Materials Interest Group UKPorMat Early Career Research Conference",
+        "url": "https://www.ukpormat.com/ecr-event",
+        "start_date": "24 Aug 2026",
+        "end_date": "25 Aug 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscporousmaterialsin24Aug2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -9857,6 +9926,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Photophysics & Photochemistry Group Early Career Meeting",
+        "url": "https://www.rsc.org/events/find-an-event/rsc-photophysics-and-photochemistry-group-early-career-meeting-2026",
+        "start_date": "03 Sep 2026",
+        "end_date": "04 Sep 2026",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscphotophysicsphoto03Sep2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem"
         ],
@@ -10022,6 +10113,67 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on Gas Kinetics & related phenomena",
+        "url": "https://ge.iitm.ac.in/gk-2026",
+        "start_date": "06 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Chennai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "intlsymposiumongaski06Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Intl Conference on Molluscan Shellfish Safety ICMSS",
+        "url": "https://www.icmss.net/",
+        "start_date": "06 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlconferenceonmoll06Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Recent Appointees in Physical Chemistry RAPC (academia only)",
+        "url": "https://rapc-rsc2026.github.io/",
+        "start_date": "07 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "recentappointeesinph07Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "safety"
@@ -10122,6 +10274,31 @@
             "Italy"
         ],
         "uid": "chemistrythroughthee07Sep2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Faraday Discussion: Digital chemical discovery",
+        "url": "https://www.rsc.org/events/find-an-event/digital-chemistry-discovery-faraday-discussion",
+        "start_date": "08 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussiondig08Sep2026_0"
     },
     {
         "themes": [
@@ -10254,6 +10431,26 @@
             "Switzerland"
         ],
         "uid": "europeanfederationfo10Sep2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Powder Flow 2026",
+        "url": "https://www.formulation.org.uk/index.php?view=article&id=1040:powder-home&catid=58:meetings",
+        "start_date": "11 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "powderflow202611Sep2026_0"
     },
     {
         "themes": [
@@ -10637,6 +10834,27 @@
             " Online"
         ],
         "uid": "rdkitusergroupmeetin16Sep2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Dalton Community Northern Regional Meeting",
+        "url": "https://www.rsc.org/events/find-an-event/rsc-dalton-community-northern-regional-meeting-2026",
+        "start_date": "17 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscdaltoncommunityno17Sep2026_0"
     },
     {
         "themes": [
@@ -12490,6 +12708,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "RSC CICAG Quantum Computing in Chemistry",
+        "url": "https://www.rsc.org/events/find-an-event/rsc-cicag-quantum-computing-in-chemistry",
+        "start_date": "17 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rsccicagquantumcompu17Nov2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data"
         ],
@@ -12548,6 +12786,28 @@
             "Australia"
         ],
         "uid": "societyofcrystallogr29Nov2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Faraday Community poster symposium (early career)",
+        "url": "https://www.rsc.org/events/find-an-event/faraday-community-poster-symposium",
+        "start_date": "30 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscfaradaycommunityp30Nov2026_0"
     },
     {
         "themes": [
@@ -12636,6 +12896,98 @@
             "Australia"
         ],
         "uid": "australiajapanflowch04Dec2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Organic Chemistry Poster Symposium",
+        "url": "https://www.rsc.org/events/find-an-event/organic-chemistry-poster-symposium-2026",
+        "start_date": "07 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscorganicchemistryp07Dec2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Organic Chemistry Community Scottish Regional Meeting",
+        "url": "https://www.rsc.org/events/find-an-event/royal-society-of-chemistry-organic-chemistry-community-scottish-regional-meeting-2026",
+        "start_date": "11 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscorganicchemistryc11Dec2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Materials chemistry poster symposium",
+        "url": "https://www.rsc.org/events/find-an-event/materials-chemistry-poster-symposium",
+        "start_date": "14 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscmaterialschemistr14Dec2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "environment/fuels",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "RSC Protein & Peptide Science Group PPSG interdisciplinary meeting",
+        "url": "https://www.rsc.org/events/find-an-event/ppsg-interdisciplinary-meeting",
+        "start_date": "16 Dec 2026",
+        "end_date": "17 Dec 2026",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscproteinpeptidesci16Dec2026_0"
     },
     {
         "themes": [
@@ -12802,7 +13154,7 @@
         "regions": [
             "London"
         ],
-        "title": "Faraday Discussion: Surface-enhanced Raman scattering",
+        "title": "Faraday Discussion: Surface-enhanced Raman scattering SERS",
         "url": "https://www.rsc.org/events/detail/82371/surface-enhanced-raman-scattering-faraday-discussion",
         "start_date": "14 Apr 2027",
         "end_date": "16 Apr 2027",
@@ -12962,6 +13314,46 @@
             "UK"
         ],
         "uid": "faradaydiscussionund21Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Faraday Discussion: Indoor-outdoor continuum of aerosols",
+        "url": "https://www.rsc.org/events/find-an-event/indoor-outdoor-continuum-of-aerosols-faraday-discussion",
+        "start_date": "28 Jun 2027",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussionind28Jun2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Wales"
+        ],
+        "title": "Intl Conference on Materials Chemistry MC18",
+        "url": "https://www.rsc.org/events/find-an-event/18th-international-conference-on-materials-chemistry-(mc18)",
+        "start_date": "05 Jul 2027",
+        "end_date": "08 Jul 2027",
+        "locations": [
+            "Cardiff, Wales, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlconferenceonmate05Jul2027_0"
     },
     {
         "themes": [
@@ -13314,6 +13706,30 @@
             "CA"
         ],
         "uid": "pharmsci36013Nov2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "physical/phys org",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Faraday Discussion: Designing catalysts for a sustainable future",
+        "url": "https://www.rsc.org/events/find-an-event/designing-catalysts-for-a-sustainable-future-faraday-discussion",
+        "start_date": "15 Nov 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussiondes15Nov2027_0"
     },
     {
         "themes": [
