@@ -1,70 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Biomaterials",
-        "url": "https://www.elsevier.com/events/conferences/all/international-conference-on-biomaterials",
-        "start_date": "09 Apr 2026",
-        "end_date": "12 Apr 2026",
-        "locations": [
-            "Shenzhen, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "intlconferenceonbiom09Apr2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "AIChE Pacific Northwest USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-pacific-northwest-regional-conference/2026",
-        "start_date": "10 Apr 2026",
-        "end_date": "12 Apr 2026",
-        "locations": [
-            "Pullman, WA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WA"
-        ],
-        "uid": "aichepacificnorthwes10Apr2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "JACS Symposium: Functional materials for sustainable development",
-        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/CCS-Congress",
-        "start_date": "12 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Chongqing, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "jacssymposiumfunctio12Apr2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "process/engineering",
             "safety"
@@ -2250,6 +2186,26 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Swiss Biotech Day (trade fair)",
+        "url": "https://swissbiotechday.ch/",
+        "start_date": "04 May 2026",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "swissbiotechdaytrade04May2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -2585,6 +2541,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Australian Centre for Innovation in Peptide & Protein Science CIPPS Annual Retreat",
+        "url": "https://cipps.org.au/archives/rushmore_event/cipps-annual-retreat",
+        "start_date": "06 May 2026",
+        "end_date": "08 May 2026",
+        "locations": [
+            "Blue Mountains, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "australiancentrefori06May2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -2875,6 +2853,26 @@
             "Germany"
         ],
         "uid": "himmelfahrtstagungon11May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Electron Crystallography workshop",
+        "url": "https://instruct-eric.org/events/electron-crystallography-workshop-2026-/",
+        "start_date": "11 May 2026",
+        "end_date": "13 May 2026",
+        "locations": [
+            "Venice, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "electroncrystallogra11May2026_0"
     },
     {
         "themes": [
@@ -3759,6 +3757,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "British Nuclear Medicine Society BNMS Spring Meeting",
+        "url": "https://www.bnms.org.uk/mpage/Spring2025Homepage",
+        "start_date": "19 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "britishnuclearmedici19May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers"
@@ -3777,6 +3795,26 @@
             "Italy"
         ],
         "uid": "italiannationalcongr19May2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Grenoble Cryo-EM Course on Sample Preparation",
+        "url": "https://instruct-eric.org/events/8th-instruct--frisbi--psb-grenoble-cryo-em-course-on-sample-preparation/",
+        "start_date": "19 May 2026",
+        "end_date": "22 May 2026",
+        "locations": [
+            "Grenobole, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "grenoblecryoemcourse19May2026_0"
     },
     {
         "themes": [
@@ -4571,6 +4609,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "HPC-CONEXS Summer School & Conference (X-ray spectrsocopy, high-performance computing, machine learning)",
+        "url": "https://research.ncl.ac.uk/conexs/eventsandtraining/conferences/",
+        "start_date": "01 Jun 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "hpcconexssummerschoo01Jun2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "med chem"
@@ -4869,6 +4927,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Dutch Peptide Symposium",
+        "url": "https://www.dutchpeptidesymposium.com/",
+        "start_date": "05 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Maastricht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "dutchpeptidesymposiu05Jun2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "physical/phys org",
             "synthesis"
@@ -5099,6 +5179,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Modern NMR for biomolecular interactions: From solution & solid state to hyperpolarization & AI (workshop)",
+        "url": "https://mrlatvia.osi.lv/events/eventdetail/32/9,11,12,13/registration-to-the-instruct-eric-course-and-mr-latvia-workshop-modern-nmr-for-biomolecular-interactions-from-solution-and-solid-state-to-hyperpolariz",
+        "start_date": "08 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Riga, Latvia"
+        ],
+        "countries": [
+            "Latvia"
+        ],
+        "uid": "modernnmrforbiomolec08Jun2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -5159,6 +5260,28 @@
             "UK"
         ],
         "uid": "surfexsurfacepaintco09Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Oligonucleotide & Peptide Conference",
+        "url": "https://www.iopc-tks.com/",
+        "start_date": "09 Jun 2026",
+        "end_date": "11 Jun 2026",
+        "locations": [
+            "Athens, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "uid": "intloligonucleotidep09Jun2026_0"
     },
     {
         "themes": [
@@ -5370,6 +5493,30 @@
             "Ireland"
         ],
         "uid": "rscorganicchemistryc12Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "New England Glycochemistry Meeting",
+        "url": "https://negcmu.sites.northeastern.edu/",
+        "start_date": "13 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "newenglandglycochemi13Jun2026_0"
     },
     {
         "themes": [
@@ -6724,6 +6871,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Naples workshop on bioactive peptides",
+        "url": "https://www.peptidesnaplesworkshop2026.it/",
+        "start_date": "25 Jun 2026",
+        "end_date": "27 Jun 2026",
+        "locations": [
+            "Naples, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "naplesworkshoponbioa25Jun2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -7864,6 +8033,28 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Postgraduate Summer School on Green Chemistry",
+        "url": "https://www.greenchemistry.school/",
+        "start_date": "06 Jul 2026",
+        "end_date": "10 Jul 2026",
+        "locations": [
+            "Venice, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "intlpostgraduatesumm06Jul2026_0"
+    },
+    {
+        "themes": [
             "education"
         ],
         "regions": [
@@ -8264,6 +8455,30 @@
             "Spain"
         ],
         "uid": "gordonresearchconfer12Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Summer School in Peptide Science & Intl Conference on Cyclic Peptides",
+        "url": "https://cipps.org.au/summer-school",
+        "start_date": "12 Jul 2026",
+        "end_date": "19 Jul 2026",
+        "locations": [
+            "Heron Island, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "summerschoolinpeptid12Jul2026_0"
     },
     {
         "themes": [
@@ -9108,6 +9323,26 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Early career researchers Macrocyclic & Supramolecular Group ECR MASC Meeting",
+        "url": "https://mascgroup.co.uk/ecr-masc-2026/",
+        "start_date": "28 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "earlycareerresearche28Jul2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers"
         ],
@@ -9404,6 +9639,25 @@
             "NH"
         ],
         "uid": "gordonresearchconfer09Aug2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "SURFCAT summer school: The science of sustainable fuels & chemicals",
+        "url": "https://physics.dtu.dk/research/sections/surfcat/summerschool2026",
+        "start_date": "09 Aug 2026",
+        "end_date": "14 Aug 2026",
+        "locations": [
+            "Skælskør, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "surfcatsummerschoolt09Aug2026_0"
     },
     {
         "themes": [
@@ -9905,6 +10159,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Metal-Binding Peptides",
+        "url": "https://mbp2026.hzdr.de/",
+        "start_date": "01 Sep 2026",
+        "end_date": "04 Sep 2026",
+        "locations": [
+            "Dresden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "intlconferenceonmeta01Sep2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "med chem"
@@ -10153,6 +10431,29 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Peptide Symposium EPS",
+        "url": "https://univie.eventsair.com/eps2026/",
+        "start_date": "06 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "europeanpeptidesympo06Sep2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "education",
             "physical/phys org"
@@ -10274,6 +10575,26 @@
             "Italy"
         ],
         "uid": "chemistrythroughthee07Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Workshop on calorimetric & spectroscopic characterization of biomolecules",
+        "url": "https://www.ceitec.eu/instruct-course-on-calorimetric-and-spectroscopic-characterization-of-biomolecules/a5545",
+        "start_date": "07 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Bohunice, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "workshoponcalorimetr07Sep2026_0"
     },
     {
         "themes": [
@@ -12965,6 +13286,29 @@
             "UK"
         ],
         "uid": "rscmaterialschemistr14Dec2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "environment/fuels",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Conference on Advances in Catalysis for Energy & Environment CACEE",
+        "url": "https://www.cacee.org/",
+        "start_date": "15 Dec 2026",
+        "end_date": "18 Dec 2026",
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "conferenceonadvances15Dec2026_0"
     },
     {
         "themes": [
