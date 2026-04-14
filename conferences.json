@@ -26,69 +26,6 @@
     {
         "themes": [
             "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Nature Forum: The Future of Sensing Technologies",
-        "url": "https://natureconferences.streamgo.live/sensing-technologies/lobby",
-        "start_date": "13 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Seoul, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "natureforumthefuture13Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "AWS Life Sciences Symposium Hackathon",
-        "url": "https://awslssymposiumhackathon.splashthat.com/",
-        "start_date": "13 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "uid": "awslifesciencessympo13Apr2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Molecular and ion scale flows through angstrom-scale channels",
-        "url": "https://www.rsc.org/events/find-an-event/molecular-and-ion-flows-through-angstrom-scale-channels-faraday-discussion",
-        "start_date": "13 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "molecularandionscale13Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "computational/data",
             "physical/phys org"
         ],
@@ -4690,6 +4627,31 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "BioTalk US: Biological Manufacturing",
+        "url": "https://biotalk.us/",
+        "start_date": "02 Jun 2026",
+        "end_date": "03 Jun 2026",
+        "locations": [
+            "Framingham, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "biotalkusbiologicalm02Jun2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -6758,6 +6720,27 @@
             "UK"
         ],
         "uid": "rscnmrdiscussiongrou24Jun2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PharmaTalk (pharmaceutical manufacturing)",
+        "url": "https://pharmatalk.eu/",
+        "start_date": "24 Jun 2026",
+        "end_date": "25 Jun 2026",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "pharmatalkpharmaceut24Jun2026_0"
     },
     {
         "themes": [
@@ -11137,6 +11120,28 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BioTalk EU (biological manufacturing)",
+        "url": "https://biotalk.eu/",
+        "start_date": "16 Sep 2026",
+        "end_date": "17 Sep 2026",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "biotalkeubiologicalm16Sep2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -13585,7 +13590,7 @@
         "title": "Activity-based protein profiling meeting ABPP",
         "url": "https://www.universiteitleiden.nl/en/science/led3/abpp2027",
         "start_date": "02 Jun 2027",
-        "end_date": "02 Jun 2027",
+        "end_date": "04 Jun 2027",
         "locations": [
             "Leiden, Netherlands"
         ],
