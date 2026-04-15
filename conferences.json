@@ -25,74 +25,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Machine learning for X-ray & neutron scattering MLXN",
-        "url": "https://www.nist.gov/news-events/events/2026/04/mlxn-machine-learning-x-ray-and-neutron-scattering",
-        "start_date": "13 Apr 2026",
-        "end_date": "14 Apr 2026",
-        "locations": [
-            "Washington, DC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "uid": "machinelearningforxr13Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Carolinas Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://www.csetac.org/annualmeeting",
-        "start_date": "13 Apr 2026",
-        "end_date": "14 Apr 2026",
-        "locations": [
-            "Raleigh, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "uid": "carolinassocietyfore13Apr2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Artificial Intelligence to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/",
-        "start_date": "13 Apr 2026",
-        "end_date": "14 Apr 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "applicationsofartifi13Apr2026_0"
-    },
-    {
-        "themes": [
             "physical/phys org"
         ],
         "regions": [
@@ -216,52 +148,6 @@
             "UK"
         ],
         "uid": "chemicalandmaterials13Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "AWS Life Sciences Symposium: Accelerating life science transformation with agentic AI",
-        "url": "https://aws.amazon.com/health/aws-life-sciences-symposium-2026/",
-        "start_date": "14 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "New York, NY, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NY"
-        ],
-        "uid": "awslifesciencessympo14Apr2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "RSC Organic Chemistry Community Midlands Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/83237/2026-organic-chemistry-community-regional-meeting",
-        "start_date": "14 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscorganicchemistryc14Apr2026_0"
     },
     {
         "themes": [
@@ -11980,6 +11866,29 @@
             "NJ"
         ],
         "uid": "biopharmaroundtableb13Oct2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "PhysChem Forum: PhysChem innovation & predictive analytics for new modalities",
+        "url": "http://www.physchem.org.uk/index.html",
+        "start_date": "13 Oct 2026",
+        "end_date": "14 Oct 2026",
+        "locations": [
+            "Antwerp, Belgium",
+            "Beerse, Belgium"
+        ],
+        "countries": [
+            "Belgium",
+            "Belgium"
+        ],
+        "uid": "physchemforumphysche13Oct2026_0"
     },
     {
         "themes": [
