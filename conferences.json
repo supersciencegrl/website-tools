@@ -25,44 +25,6 @@
     },
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Faraday Discussion: Molecular & ion flows through angstrom-scale channels",
-        "url": "https://www.rsc.org/events/detail/80872/molecular-and-ion-flows-through-angstrom-scale-channels-faraday-discussion",
-        "start_date": "13 Apr 2026",
-        "end_date": "15 Apr 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussionmol13Apr2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Annual Intl Conference on Material Science & Nanoscience",
-        "url": "https://aicmsn2026.synergiasummits.com/",
-        "start_date": "13 Apr 2026",
-        "end_date": "15 Apr 2026",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "annualintlconference13Apr2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -151,32 +113,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Certainty US (modelling & biosimulation at scale)",
-        "url": "https://certainty.certara.com/us/",
-        "start_date": "14 Apr 2026",
-        "end_date": "15 Apr 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "certaintyusmodelling14Apr2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -235,51 +171,6 @@
             "France"
         ],
         "uid": "incosmeticsglobal14Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers",
-            "chem bio",
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Biotechnology for Sustainability: From discovery to deployment",
-        "url": "https://www.rsc.org/events/detail/82569/biotechnology-for-sustainability-from-discovery-to-deployment",
-        "start_date": "15 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biotechnologyforsust15Apr2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "JACS Symposium: Transformative chemistry for a sustainable & smart future",
-        "url": "https://pubs.acs.org/JACS-SymposiumSeries/events/KCS-General-Meeting",
-        "start_date": "15 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Jeju, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "jacssymposiumtransfo15Apr2026_0"
     },
     {
         "themes": [
@@ -601,6 +492,30 @@
     },
     {
         "themes": [
+            "careers",
+            "diversity",
+            "education"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Quebrando Barreras: Breaking barriers in STEM (academia only)",
+        "url": "https://bsky.app/profile/momedinamunoz.bsky.social/post/3mjkl5o4o322u",
+        "start_date": "17 Apr 2026",
+        "end_date": "18 Apr 2026",
+        "locations": [
+            "Los Angeles, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "quebrandobarrerasbre17Apr2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -678,6 +593,25 @@
             "UK"
         ],
         "uid": "targettopatientt2p2020Apr2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Gothenburg Artificial Intelligence Alliance GAIA",
+        "url": "https://www.gaia.fish/2026",
+        "start_date": "20 Apr 2026",
+        "end_date": "21 Apr 2026",
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "gothenburgartificial20Apr2026_0"
     },
     {
         "themes": [
@@ -2892,6 +2826,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Drug Discovery Innovation Forum DDIF (invitation only)",
+        "url": "https://www.ddif.ai/",
+        "start_date": "12 May 2026",
+        "end_date": "13 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "drugdiscoveryinnovat12May2026_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -3682,6 +3637,29 @@
     },
     {
         "themes": [
+            "automation",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Pharmaron Symposium: Chemistry for life science",
+        "url": "https://www.eventbrite.com/e/pharmarons-4th-chemistry-for-life-science-symposium-tickets-1979984203051",
+        "start_date": "20 May 2026",
+        "end_date": null,
+        "locations": [
+            "Hoddesdon, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pharmaronsymposiumch20May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -4095,6 +4073,29 @@
             "UK"
         ],
         "uid": "womeninchemistry202629May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "TexSyn: A symposium on synthesis & catalysis",
+        "url": "https://texsyn.org/",
+        "start_date": "29 May 2026",
+        "end_date": "30 May 2026",
+        "locations": [
+            "Dallas, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "texsynasymposiumonsy29May2026_0"
     },
     {
         "themes": [
@@ -11780,6 +11781,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SiLA Conference: Training young scientsits to digitalize research & embrace automated labs",
+        "url": "https://us13.campaign-archive.com/?u=f1ca2677ee9852cdf3748e80d&id=198442027a#Registration-open-for-SiLA-Conference-2026",
+        "start_date": "08 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "silaconferencetraini08Oct2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "process/engineering"
@@ -12303,26 +12324,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ArabLab Live",
-        "url": "https://www.terrapinn.com/exhibition/arablab-live/?",
-        "start_date": "26 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "Dubai, UAE"
-        ],
-        "countries": [
-            "UAE"
-        ],
-        "uid": "arablablive26Oct2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "law/policy",
             "process/engineering"
@@ -12448,6 +12449,27 @@
             "MA"
         ],
         "uid": "partneringtoadvanced29Oct2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Analytiktag: Self-driving labs, automation, & data processing",
+        "url": "https://www.iuta.de/aktuelles/10-iuta-analytiktag-2026/",
+        "start_date": "02 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Duisberg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "analytiktagselfdrivi02Nov2026_0"
     },
     {
         "themes": [
@@ -12963,6 +12985,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "RSC FIRST: Future Innovation Research Summit on AI in Chemistry",
+        "url": "https://rscfirst.org.cn/en/web/index/36624",
+        "start_date": "19 Nov 2026",
+        "end_date": "21 Nov 2026",
+        "locations": [
+            "Xiamen, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "rscfirstfutureinnova19Nov2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data"
         ],
@@ -13200,6 +13241,26 @@
             "UK"
         ],
         "uid": "rscmaterialschemistr14Dec2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ArabLab Live",
+        "url": "https://www.terrapinn.com/exhibition/arablab-live/?",
+        "start_date": "14 Dec 2026",
+        "end_date": "15 Dec 2026",
+        "locations": [
+            "Dubai, UAE"
+        ],
+        "countries": [
+            "UAE"
+        ],
+        "uid": "arablablive14Dec2026_0"
     },
     {
         "themes": [
