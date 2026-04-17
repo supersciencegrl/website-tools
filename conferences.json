@@ -1,98 +1,6 @@
 [
     {
         "themes": [
-            "environment/fuels",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "AIChE Spring Meeting & Global Congress on Process Safety",
-        "url": "https://www.aiche.org/conferences/aiche-spring-meeting-and-global-congress-on-process-safety/2026",
-        "start_date": "12 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Houston, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "aichespringmeetinggl12Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA",
-            "Online"
-        ],
-        "title": "Drug Discovery Chemistry",
-        "url": "https://www.drugdiscoverychemistry.com/",
-        "start_date": "13 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "San Diego, CA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "drugdiscoverychemist13Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Intl Meeting of the RSC ESR Spectroscopy Group",
-        "url": "https://www.esr-group.org/conferences/2026-conference-colchester/",
-        "start_date": "13 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Colchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlmeetingofthersce13Apr2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applied Mixing Technology for Process Development: Scaling Down to Scale Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applied-mixing-technology-for-process-development-scaling-down-to-scale-up/",
-        "start_date": "13 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "appliedmixingtechnol13Apr2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "materials/polymers"
         ],
@@ -110,152 +18,6 @@
             "UK"
         ],
         "uid": "chemicalandmaterials13Apr2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Kraftwerk Batterie: Advanced battery power",
-        "url": "https://www.uni-muenster.de/de/veranstaltungskalender/prod/ausgabe/termine.php?layout=toptermin-detail&id=30742&einrichtungsid=148",
-        "start_date": "14 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "kraftwerkbatterieadv14Apr2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Critical Materials Council CMC Conference: Driving the roadmap for semiconductor materials",
-        "url": "https://www.techinsights.com/2026-cmc-conference",
-        "start_date": "14 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "criticalmaterialscou14Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "In-Cosmetics Global",
-        "url": "https://www.in-cosmetics.com/global/en-gb.html",
-        "start_date": "14 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "incosmeticsglobal14Apr2026_0"
-    },
-    {
-        "themes": [
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Nordic Conference on Clinical Trials",
-        "url": "https://www.lakemedelsakademin.se/kursomraden/kliniska-studier/nordic-conference-on-clinical-trials-2026/",
-        "start_date": "15 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "nordicconferenceoncl15Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Annual Intl Meeting of the RSC ESR Spectroscopy Group",
-        "url": "https://www.rsc.org/events/detail/82900/the-59th-annual-international-meeting-of-the-esr-spectroscopy-group-of-the-royal-society-of-chemistry",
-        "start_date": "15 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Colchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "annualintlmeetingoft15Apr2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Digital Labs Summit Europe",
-        "url": "https://tbmgroup.eu/etn/digital-labs-summit-europe-2026",
-        "start_date": "15 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "digitallabssummiteur15Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Rocky Mountain Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://rm.setac.org/annualdetails",
-        "start_date": "15 Apr 2026",
-        "end_date": "16 Apr 2026",
-        "locations": [
-            "Denver, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "uid": "rockymountainsociety15Apr2026_0"
     },
     {
         "themes": [
@@ -301,27 +63,6 @@
             "WA"
         ],
         "uid": "pacificnorthwestusas15Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Mass spectrometry MS of therapeutic oligonucleotides",
-        "url": "https://www.bmss.org.uk/bmss-therapeutic-oligonucleotides-meeting-2026/",
-        "start_date": "16 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "massspectrometrymsof16Apr2026_0"
     },
     {
         "themes": [
@@ -1564,6 +1305,26 @@
             "Online"
         ],
         "uid": "germanbiotechdaysonl28Apr2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Symposium in memoriam to Professors Jianbo Wang & Michael Doyle (short webinar; ask Huw Davies for direct link)",
+        "url": "https://airtable.com/appshDt8N1dn5SiYO/pag7yQMiqefSTqN5w/form",
+        "start_date": "28 Apr 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "symposiuminmemoriamt28Apr2026_0"
     },
     {
         "themes": [
@@ -7631,6 +7392,28 @@
             "Romania"
         ],
         "uid": "europhysicalconferen04Jul2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European School of Medicinal Chemistry ESMEC",
+        "url": "https://eventi.uniurb.it/esmec/",
+        "start_date": "05 Jul 2026",
+        "end_date": "09 Jul 2026",
+        "locations": [
+            "Urbino, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "europeanschoolofmedi05Jul2026_0"
     },
     {
         "themes": [
