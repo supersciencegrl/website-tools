@@ -1,112 +1,6 @@
 [
     {
         "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Nanoscale & Microscale Heat Transfer",
-        "url": "https://premc.org/nmht2026/",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "nanoscalemicroscaleh20Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Isolated biomolecules & biomolecular interactions IBBI",
-        "url": "https://www.eventsforce.net/standrews/frontend/reg/thome.csp?pageID=173140&eventID=266",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Inverness, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "isolatedbiomolecules20Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "FAIR data management of theoretical spectroscopy & Green's Function methods",
-        "url": "https://www.cecam.org/workshop-details/fair-data-management-of-theoretical-spectroscopy-and-greens-function-methods-1377",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Lausanne, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "fairdatamanagementof20Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Fundamentals of X-ray fluorescence (training course)",
-        "url": "https://www.icdd.com/xrf/",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Newtown Square, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "fundamentalsofxrayfl20Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "law/policy",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Toxicology for pharmaceutical & regulatory scientists (training course)",
-        "url": "https://www.actox.org/education/training/tprs/2026/about.asp",
-        "start_date": "20 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "toxicologyforpharmac20Apr2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -128,71 +22,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "analytica Vietnam",
-        "url": "https://analytica.de/de/vietnam/",
-        "start_date": "22 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Hanoi, Vietnam"
-        ],
-        "countries": [
-            "Vietnam"
-        ],
-        "uid": "analyticavietnam22Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "analytica India",
-        "url": "https://analytica.de/de/india/",
-        "start_date": "22 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "Mumbai, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "analyticaindia22Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Fierce Pharma Engage (partnering)",
-        "url": "https://www.fiercepharmaengage.com/",
-        "start_date": "22 Apr 2026",
-        "end_date": "24 Apr 2026",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "fiercepharmaengagepa22Apr2026_0"
-    },
-    {
-        "themes": [
             "business",
             "pharma industry"
         ],
@@ -210,48 +39,6 @@
             "India"
         ],
         "uid": "indiapharmaexpo202623Apr2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "med chem",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "French Industrial Chemistry Symposium FICS",
-        "url": "https://fics2026.sciencesconf.org/?lang=en",
-        "start_date": "24 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "frenchindustrialchem24Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Advances in chemical analysis of food",
-        "url": "https://www.rsc.org/events/find-an-event/advances-in-chemical-analysis-of-food-v",
-        "start_date": "24 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "advancesinchemicalan24Apr2026_0"
     },
     {
         "themes": [
@@ -803,6 +590,29 @@
             "UK"
         ],
         "uid": "emblebiindustryprogr29Apr2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "rEVOLUTION 2026 (pharma/biotech heads of R&D)",
+        "url": "https://revolution.wsgrevents.com/",
+        "start_date": "29 Apr 2026",
+        "end_date": "01 May 2026",
+        "locations": [
+            "Washington, DC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "DC"
+        ],
+        "uid": "revolution2026pharma29Apr2026_0"
     },
     {
         "themes": [
@@ -2706,6 +2516,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Python in Chemistry Meeting (chem education)",
+        "url": "https://pythoninchemistry.org/2026-meeting.html",
+        "start_date": "20 May 2026",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pythoninchemistrymee20May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -2969,6 +2799,26 @@
             "France"
         ],
         "uid": "europeanmaterialsres25May2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "No boundaries (interdisciplinary engineering)",
+        "url": "https://www.notion.so/No-Boundaries-A-Festival-of-Cross-Disciplinary-Collaboration-334252ab97fa8006bbb9e7c80948869a",
+        "start_date": "26 May 2026",
+        "end_date": null,
+        "locations": [
+            "Würzburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "noboundariesinterdis26May2026_0"
     },
     {
         "themes": [
@@ -4412,6 +4262,28 @@
     },
     {
         "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Graduate Women in Science GWIS US National Conference",
+        "url": "https://www.gwis.org/news/723903/2026-GWIS-National-Conference-Announcement.htm",
+        "start_date": "11 Jun 2026",
+        "end_date": "13 Jun 2026",
+        "locations": [
+            "Black Hills, SD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "SD"
+        ],
+        "uid": "graduatewomeninscien11Jun2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -4670,6 +4542,30 @@
             "UK"
         ],
         "uid": "biobasedpolymers15Jun2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "diversity",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Bristol Myers Squibb BMS Women in Chemical Engineering Seminar (students)",
+        "url": "https://www.linkedin.com/feed/update/urn:li:share:7452756270224257024/",
+        "start_date": "15 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "New Brunswick, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "bristolmyerssquibbbm15Jun2026_0"
     },
     {
         "themes": [
