@@ -8,70 +8,6 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EMBO Hack your microscope (workshop)",
-        "url": "https://coming-soon.embo.org/pc26-26",
-        "start_date": "20 Apr 2026",
-        "end_date": "25 Apr 2026",
-        "locations": [
-            "Oeiras, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "embohackyourmicrosco20Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "India Pharma Expo 2026",
-        "url": "https://indiapharmaexpo.com/index.html",
-        "start_date": "23 Apr 2026",
-        "end_date": "25 Apr 2026",
-        "locations": [
-            "Hyderabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "indiapharmaexpo202623Apr2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "AIChE Western USA Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/students-western-regional-conference/2026",
-        "start_date": "25 Apr 2026",
-        "end_date": "26 Apr 2026",
-        "locations": [
-            "Santa Barbara, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "aichewesternusastude25Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
         "title": "Gordon Research Conference: Image Science",
         "url": "https://www.grc.org/image-science-conference/2026/",
         "start_date": "26 Apr 2026",
@@ -103,26 +39,6 @@
             "Spain"
         ],
         "uid": "gordonresearchconfer26Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Next generation fluorescent probes to image complex biological systems",
-        "url": "https://www.rms.org.uk/rms-event-calendar/2026-events/next-generation-fluorescent-probes.html",
-        "start_date": "27 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "nextgenerationfluore27Apr2026_0"
     },
     {
         "themes": [
@@ -1218,6 +1134,25 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "CLEAR Symposium (chemical education)",
+        "url": "https://clearsymposium.weebly.com/",
+        "start_date": "07 May 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "clearsymposiumchemic07May2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -1425,6 +1360,25 @@
             "Saudi Arabia"
         ],
         "uid": "arablablive11May2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Technical seminar on solubility enhancement: From screening to downstreaming",
+        "url": "https://www.metolose.jp/en/pdf/Newsletter%2003-2023.pdf",
+        "start_date": "11 May 2026",
+        "end_date": "12 May 2026",
+        "locations": [
+            "Wiesbaden, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "technicalseminaronso11May2026_0"
     },
     {
         "themes": [
@@ -10157,6 +10111,26 @@
             " Online"
         ],
         "uid": "rdkitusergroupmeetin16Sep2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Intl Conference on Leadership & AI in Research CLAIR",
+        "url": "https://www.clair-conf.com/",
+        "start_date": "16 Sep 2026",
+        "end_date": "18 Sep 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "intlconferenceonlead16Sep2026_0"
     },
     {
         "themes": [
