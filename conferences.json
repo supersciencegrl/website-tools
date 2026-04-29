@@ -43,95 +43,6 @@
     {
         "themes": [
             "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Materials Research Society MRS Annual Meeting",
-        "url": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit",
-        "start_date": "27 Apr 2026",
-        "end_date": "28 Apr 2026",
-        "locations": [
-            "Honolulu, HI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "HI"
-        ],
-        "uid": "materialsresearchsoc27Apr2026_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Stanford Drug Discovery Symposium",
-        "url": "https://med.stanford.edu/cvi/events/sdds2026-stanford-drug-discovery-symposium.html",
-        "start_date": "27 Apr 2026",
-        "end_date": "28 Apr 2026",
-        "locations": [
-            "Stanford, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "stanforddrugdiscover27Apr2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Annual Meeting of the Belgian Polymer Group BPG",
-        "url": "https://www.bpg2026.org/",
-        "start_date": "27 Apr 2026",
-        "end_date": "28 Apr 2026",
-        "locations": [
-            "Blankenberge, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "uid": "annualmeetingofthebe27Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Southern California Society for Environmental Toxicology & Chemistry SETAC Regional Chapter Meeting",
-        "url": "https://www.socal-setac.org/2026-annual-meeting-save-the-date",
-        "start_date": "27 Apr 2026",
-        "end_date": "28 Apr 2026",
-        "locations": [
-            "San Pedro, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "southerncaliforniaso27Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "formulation/particle science",
             "law/policy",
             "pharma industry"
@@ -254,46 +165,6 @@
             "PA"
         ],
         "uid": "advancedmethodsinxra27Apr2026_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "German Biotech Days (online section)",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2026/sci-advanced-medicinal-chemistry-workshop-online-webinar",
-        "start_date": "28 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "germanbiotechdaysonl28Apr2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Symposium in memoriam to Professors Jianbo Wang & Michael Doyle (short webinar; ask Huw Davies for direct link)",
-        "url": "https://airtable.com/appshDt8N1dn5SiYO/pag7yQMiqefSTqN5w/form",
-        "start_date": "28 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "symposiuminmemoriamt28Apr2026_0"
     },
     {
         "themes": [
@@ -8507,6 +8378,31 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Short course on experimental models of human cancer",
+        "url": "https://www.jax.org/education-and-learning/education-calendar/2026/08-august/34th-annual-cancer-short-course",
+        "start_date": "06 Aug 2026",
+        "end_date": "14 Aug 2026",
+        "locations": [
+            "Bar Harbor, ME, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "shortcourseonexperim06Aug2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "computational/data",
@@ -8529,6 +8425,29 @@
             "NH"
         ],
         "uid": "merckinnovationcupst08Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on Nano & Supramolecular Chemistry ISNSC",
+        "url": "https://isnsc2026.uksw.edu/",
+        "start_date": "09 Aug 2026",
+        "end_date": "12 Aug 2026",
+        "locations": [
+            "Bali, Indonesia"
+        ],
+        "countries": [
+            "Indonesia"
+        ],
+        "uid": "intlsymposiumonnanos09Aug2026_0"
     },
     {
         "themes": [
@@ -9157,26 +9076,6 @@
             "UK"
         ],
         "uid": "rscphotophysicsphoto03Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "EFMC-ISMC Intl Symposium on Medicinal Chemistry",
-        "url": "https://scg.ch/component/eventbooking/efmc-ismc-2026",
-        "start_date": "06 Sep 2026",
-        "end_date": "09 Sep 2026",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "efmcismcintlsymposiu06Sep2026_0"
     },
     {
         "themes": [
