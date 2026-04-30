@@ -42,87 +42,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "formulation/particle science",
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Science of Stability SOS Conference",
-        "url": "https://www.stabilityconference.com/sos-conference/",
-        "start_date": "27 Apr 2026",
-        "end_date": "29 Apr 2026",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "scienceofstabilityso27Apr2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Filtration & Drying (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/filtration-and-drying-course/",
-        "start_date": "27 Apr 2026",
-        "end_date": "29 Apr 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "filtrationdryingtrai27Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "BioProcess International Europe",
-        "url": "https://informaconnect.com/bpieurope/",
-        "start_date": "27 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "bioprocessinternatio27Apr2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "OLEX2 A2Z (crystallography platform training course)",
-        "url": "https://hrvatska-udruga-kristalografa.hr/olex2026/",
-        "start_date": "27 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Dubrovnik, Croatia"
-        ],
-        "countries": [
-            "Croatia"
-        ],
-        "uid": "olex2a2zcrystallogra27Apr2026_0"
-    },
-    {
-        "themes": [
             "formulation/particle science",
             "pharma industry",
             "process/engineering",
@@ -168,218 +87,6 @@
     },
     {
         "themes": [
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Peptide-based therapeutics summit",
-        "url": "https://peptide-based-therapeutics-summit.com/",
-        "start_date": "28 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "peptidebasedtherapeu28Apr2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Mid-Season Sustainable Pharmaceutical Applications MiSuSPharmA Conference",
-        "url": "https://www.misuspharma2.it/",
-        "start_date": "28 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Naples, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "midseasonsustainable28Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Pharma Market Research Conference Europe",
-        "url": "https://europe.pharmamarketresearchconference.com/",
-        "start_date": "28 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Frankfurt, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "pharmamarketresearch28Apr2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260428/",
-        "start_date": "28 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Nice, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "chemicaldevelopments28Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "BioAI Summit",
-        "url": "https://bionow.glueup.com/event/bionow-bioai-summit-2026-163641/",
-        "start_date": "29 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Alderley Park, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bioaisummit29Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Biotech & Beers",
-        "url": "https://bionow.glueup.com/event/biotech-beers-2026-alderley-park-170611/",
-        "start_date": "29 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Alderley Park, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biotechbeers29Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Joint British Toxicology Society BTS/Society for Environmental Toxicology & Chemistry SETAC Workshop",
-        "url": "https://www.setac.org/discover-events/ems-event-calendar/joint-bts-setac-uk-workshop.html",
-        "start_date": "29 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Solihull, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "jointbritishtoxicolo29Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "environment/fuels",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "RSC Consultancy Group Networking Day & Social",
-        "url": "https://www.rsc.org/events/find-an-event/spring-social-and-networking-day-and-agm",
-        "start_date": "29 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscconsultancygroupn29Apr2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Enabling Technologies for Organic Chemistry ETOC",
-        "url": "https://www.noelresearchgroup.com/etoc/#",
-        "start_date": "29 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "enablingtechnologies29Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "EMBL-EBI industry programme: From de novo designed mini-proteins & peptides to the clinic (members only)",
-        "url": "https://www.ebi.ac.uk/industry/private/industry-workshop/2026/04/from-de-novo-designed-mini-proteins-and-peptides-to-the-clinic/",
-        "start_date": "29 Apr 2026",
-        "end_date": "30 Apr 2026",
-        "locations": [
-            "Hinxton, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "emblebiindustryprogr29Apr2026_0"
-    },
-    {
-        "themes": [
             "business",
             "pharma industry"
         ],
@@ -400,45 +107,6 @@
             "DC"
         ],
         "uid": "revolution2026pharma29Apr2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
-        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-basel/",
-        "start_date": "30 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "societyforlaboratory30Apr2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Thomas Young Centre recently-appointed academic talks",
-        "url": "https://thomasyoungcentre.org/event/tyc-recently-appointed-academic-talks-angela-casarella-imperial-francisco-martin-martinez-kings-ricardo-grau-crespo-qmul-2/",
-        "start_date": "30 Apr 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "thomasyoungcentrerec30Apr2026_0"
     },
     {
         "themes": [
@@ -3067,6 +2735,29 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Congress on Quantum Chemistry ICQC",
+        "url": "https://www.icqc2026.org/",
+        "start_date": "31 May 2026",
+        "end_date": "05 Jun 2026",
+        "locations": [
+            "Berkeley, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlcongressonquantu31May2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "inorganic/nano",
             "materials/polymers"
@@ -4391,6 +4082,29 @@
             "NJ"
         ],
         "uid": "bristolmyerssquibbbm15Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science",
+            "materials/polymers",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Physics Meets Pharmacy",
+        "url": "https://iop.eventsair.com/pmp2026/",
+        "start_date": "15 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "physicsmeetspharmacy15Jun2026_0"
     },
     {
         "themes": [
@@ -12380,6 +12094,25 @@
             "CA"
         ],
         "uid": "societyforlaboratory30Jan2027_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Digital Curation Conference KDCC",
+        "url": "https://dcc.ac.uk/events/idcc27",
+        "start_date": "09 Feb 2027",
+        "end_date": "12 Feb 2027",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "intldigitalcurationc09Feb2027_0"
     },
     {
         "themes": [
