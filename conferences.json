@@ -1,180 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Image Science",
-        "url": "https://www.grc.org/image-science-conference/2026/",
-        "start_date": "26 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "gordonresearchconfer26Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Neutron Scattering",
-        "url": "https://www.grc.org/neutron-scattering-conference/2026/",
-        "start_date": "26 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "gordonresearchconfer26Apr2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Quality by Design in Pharmaceutical Development (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/quality-by-design-in-pharmaceutical-development/",
-        "start_date": "27 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "qualitybydesigninpha27Apr2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Advanced methods in X-ray fluorescence (training course)",
-        "url": "https://www.icdd.com/xrf/",
-        "start_date": "27 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Newtown Square, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "advancedmethodsinxra27Apr2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "rEVOLUTION 2026 (pharma/biotech heads of R&D)",
-        "url": "https://revolution.wsgrevents.com/",
-        "start_date": "29 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Washington, DC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "DC"
-        ],
-        "uid": "revolution2026pharma29Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Canadian Metabolomics Conference CanMetCon",
-        "url": "https://metabolomicscentre.ca/canadian-metabolomics-conference/",
-        "start_date": "30 Apr 2026",
-        "end_date": "01 May 2026",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "canadianmetabolomics30Apr2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Industrial Biotechnology Innovation Catalysis IBIC: Animal-free in-vitro models for tox testing",
-        "url": "https://elrig.org/portfolio/ibic-innovation-lab-animal-free-in-vitro-models-for-tox-testing/",
-        "start_date": "01 May 2026",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "industrialbiotechnol01May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Young Investigator Forum at the Intl Symposium on the Characterization of Porous Solids YIF-COPS",
-        "url": "https://tu-dresden.de/mn/chemie/ac/ac1/die-professur/young-investigator-forum-at-cops-xii",
-        "start_date": "02 May 2026",
-        "end_date": "03 May 2026",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "younginvestigatorfor02May2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "pharma industry"
         ],
@@ -251,26 +77,6 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer03May2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Biotech Day (trade fair)",
-        "url": "https://swissbiotechday.ch/",
-        "start_date": "04 May 2026",
-        "end_date": null,
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "swissbiotechdaytrade04May2026_0"
     },
     {
         "themes": [
@@ -9809,6 +9615,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Enamine Drug Discovery Conference",
+        "url": "https://www.enamine-conferences.org/",
+        "start_date": "20 Sep 2026",
+        "end_date": "23 Sep 2026",
+        "locations": [
+            "Riga, Latvia"
+        ],
+        "countries": [
+            "Latvia"
+        ],
+        "uid": "enaminedrugdiscovery20Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -10414,6 +10243,44 @@
             "France"
         ],
         "uid": "intlcongressonstrigo05Oct2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "AI 4 Science AI4Sci",
+        "url": "https://ai4sci.eu/",
+        "start_date": "05 Oct 2026",
+        "end_date": "09 Oct 2026",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "ai4scienceai4sci05Oct2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Discovery Science 2026 (AI & data for science)",
+        "url": "https://discovery-science.org/",
+        "start_date": "05 Oct 2026",
+        "end_date": "09 Oct 2026",
+        "locations": [
+            "Mainz, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "discoveryscience202605Oct2026_0"
     },
     {
         "themes": [
@@ -11491,6 +11358,27 @@
             "UK"
         ],
         "uid": "horizonssymposiumnan12Nov2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ChemAI 2026",
+        "url": "https://www.acnetwork.nl/chemai",
+        "start_date": "13 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "chemai202613Nov2026_0"
     },
     {
         "themes": [
