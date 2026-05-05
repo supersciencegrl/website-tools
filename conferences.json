@@ -941,6 +941,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Bio-beauty: The future of engineering biology",
+        "url": "https://www.soci.org/events/engineering-biology/2026/bio-beauty--the-future-of-engineering-biology",
+        "start_date": "12 May 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biobeautythefutureof12May2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -6999,6 +7019,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Formulation Forum 10th anniversary event",
+        "url": "https://www.soci.org/events/formulation-forum/2026/formulation-forum-10th-anniversary-event",
+        "start_date": "15 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciformulationforum115Jul2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "materials/polymers",
             "synthesis"
@@ -8976,6 +9015,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "From vision to practice: Data, Digitalization, & AI in Industry",
+        "url": "https://www.soci.org/events/ai-and-digitalisation/2026/from-vision-to-practice-data-digitalisation--ai-in-industry",
+        "start_date": "08 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "London"
+        ],
+        "countries": [
+            "London"
+        ],
+        "uid": "fromvisiontopractice08Sep2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -10430,6 +10489,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Innovations in road & bridge infrastructure",
+        "url": "https://www.soci.org/events/construction-materials-group/2026/innovations-in-road-and-bridge-infrastructure",
+        "start_date": "13 Oct 2026",
+        "end_date": "14 Oct 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "innovationsinroadbri13Oct2026_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data",
             "pharma industry"
@@ -11556,8 +11634,8 @@
         "regions": [
             "London"
         ],
-        "title": "RSC CICAG Quantum Computing in Chemistry",
-        "url": "https://www.rsc.org/events/find-an-event/rsc-cicag-quantum-computing-in-chemistry",
+        "title": "RSC CICAG Quantum Computing in Chemistry: Current capabilities & the road to utility",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=148219&ef_sel_menu=2770&eventID=363",
         "start_date": "17 Nov 2026",
         "end_date": null,
         "locations": [
@@ -11627,6 +11705,26 @@
             "UK"
         ],
         "uid": "winterschoolrobotics23Nov2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Winter School: Robotics & AI for Materials Chemistry",
+        "url": "https://www.soci.org/events/young-chemists-panel/2026/automated-intelligent-chemistry-2026",
+        "start_date": "24 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "winterschoolrobotics24Nov2026_0"
     },
     {
         "themes": [
@@ -11962,6 +12060,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "SCI Formulation Forum: Culture, process, strategy, delivery",
+        "url": "https://www.soci.org/events/formulation-forum/2027/sci-formulation-forum-8th-annual-event-innovation-culture-process-strategy-delivery",
+        "start_date": "20 Jan 2027",
+        "end_date": "21 Jan 2027",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciformulationforumc20Jan2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "chem bio"
         ],
@@ -12001,6 +12118,32 @@
             "Portugal"
         ],
         "uid": "intldigitalcurationc09Feb2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Chemist in Industry",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2027/chemist-in-industry-iii",
+        "start_date": "25 Feb 2027",
+        "end_date": null,
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemistinindustry25Feb2027_0"
     },
     {
         "themes": [
@@ -12110,6 +12253,27 @@
             "UK"
         ],
         "uid": "faradaydiscussionsur14Apr2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "SCI Process Development Symposium",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2027/43rd-sci-process-development-symposium",
+        "start_date": "14 Apr 2027",
+        "end_date": "16 Apr 2027",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciprocessdevelopmen14Apr2027_0"
     },
     {
         "themes": [
@@ -12791,6 +12955,48 @@
             "WA"
         ],
         "uid": "americansocietyforma04Jun2028_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Ion Exchange IEX: Industrial water treatment/advanced design of ion exchange plants (training course)",
+        "url": "https://www.soci.org/events/separation-science-and-technology-group/2028/iex-2028-technical-training-advanced-course",
+        "start_date": "10 Jul 2028",
+        "end_date": "11 Jul 2028",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ionexchangeiexindust10Jul2028_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Ion Exchange IEX: Ion exchange in a changing world",
+        "url": "https://www.soci.org/events/separation-science-and-technology-group/2028/iex-2028-ion-exchange-in-a-changing-world",
+        "start_date": "12 Jul 2028",
+        "end_date": "14 Jul 2028",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ionexchangeiexionexc12Jul2028_0"
     },
     {
         "themes": [
