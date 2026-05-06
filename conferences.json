@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Society for Clinical Data Management Live EMEA",
-        "url": "https://scdmlive.org/emea-conference-2026/",
-        "start_date": "03 May 2026",
-        "end_date": "06 May 2026",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "societyforclinicalda03May2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -77,89 +57,6 @@
             "Italy"
         ],
         "uid": "gordonresearchconfer03May2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "GDCh Seniorexperten Chemie Jahrestreffen 2026",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11746&modus=",
-        "start_date": "04 May 2026",
-        "end_date": "06 May 2026",
-        "locations": [
-            "Bayreuth, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "gdchseniorexpertench04May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "12th Intl Symposium on the Characterization of Porous Solids",
-        "url": "https://cops-xii.org/",
-        "start_date": "04 May 2026",
-        "end_date": "06 May 2026",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "12thintlsymposiumont04May2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Ceramics Expo USA",
-        "url": "https://www.ceramicsexpousa.com/",
-        "start_date": "04 May 2026",
-        "end_date": "06 May 2026",
-        "locations": [
-            "Cleveland, OH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OH"
-        ],
-        "uid": "ceramicsexpousa04May2026_0"
     },
     {
         "themes": [
@@ -270,30 +167,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pharmaceutical Discovery, Development, & Manufacturing Forum PD2M: AI for Pharma",
-        "url": "https://www.aiche.org/conferences/pd2m-ai-pharma/2026",
-        "start_date": "05 May 2026",
-        "end_date": "06 May 2026",
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "pharmaceuticaldiscov05May2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "materials/polymers",
@@ -313,46 +186,6 @@
             "Germany"
         ],
         "uid": "designingdynamicmatt05May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCT Theme Meeting: Perspectives in medicinal chemistry & chemical biology",
-        "url": "https://www.sct-asso.fr/thematic-meeting",
-        "start_date": "06 May 2026",
-        "end_date": null,
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "sctthememeetingpersp06May2026_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "RSC BMCS Hot Topics: Peptides in drug discovery",
-        "url": "https://www.rscbmcs.org/events/hottopicspeptides26/",
-        "start_date": "06 May 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "rscbmcshottopicspept06May2026_0"
     },
     {
         "themes": [
@@ -583,6 +416,31 @@
             "UK"
         ],
         "uid": "computationaladvance07May2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Annual advances in chemical sciences (med chem, synthesis, methodology)",
+        "url": "https://nemedchem.org/conference/",
+        "start_date": "08 May 2026",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "annualadvancesinchem08May2026_0"
     },
     {
         "themes": [
