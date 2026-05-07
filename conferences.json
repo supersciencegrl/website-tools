@@ -2890,6 +2890,25 @@
     },
     {
         "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "OUTbio networking: LGBTQ+ representation & access across health",
+        "url": "https://www.outbio.uk/event-details/at-the-intersection-lgbtq-representation-and-access-across-health-2",
+        "start_date": "04 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "outbionetworkinglgbt04Jun2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data"
@@ -8471,6 +8490,28 @@
             "UK"
         ],
         "uid": "artificialintelligen02Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Edelris Annual Symposium on Affinity Selection Mass Spectrometry AS-MS in Drug Discovery",
+        "url": "",
+        "start_date": "03 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "edelrisannualsymposi03Sep2026_0"
     },
     {
         "themes": [
