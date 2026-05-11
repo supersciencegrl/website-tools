@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Computational advances in drug discovery",
-        "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/G12026",
-        "start_date": "07 May 2026",
-        "end_date": "10 May 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "computationaladvance07May2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -84,25 +62,6 @@
             "Netherlands"
         ],
         "uid": "groningenmolecularch10May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Chemical Biology Symposium",
-        "url": "https://www.rsc.org/events/detail/82207/chemical-biology-symposium-2026",
-        "start_date": "11 May 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemicalbiologysympo11May2026_0"
     },
     {
         "themes": [
@@ -3852,6 +3811,25 @@
             "S Korea"
         ],
         "uid": "certaracertaintyphar18Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Science in the city: An evening of AI",
+        "url": "https://aichemy.ac.uk/event/science-in-the-city-an-evening-of-ai/",
+        "start_date": "18 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scienceinthecityanev18Jun2026_0"
     },
     {
         "themes": [
@@ -7864,6 +7842,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "environment/fuels",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Congress & Annual Meeting of the Society for Medicinal Plant & Natural Product Research GA2026",
+        "url": "https://gareims2026.org/",
+        "start_date": "30 Aug 2026",
+        "end_date": "02 Sep 2026",
+        "locations": [
+            "Reims, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlcongressannualme30Aug2026_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety"
         ],
@@ -9128,6 +9128,26 @@
             "China"
         ],
         "uid": "natureconferencesnex18Sep2026_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Doctoral Nanochemistry Camp",
+        "url": "https://www.istiseo.org/courses/nanochemistry-camp-2026",
+        "start_date": "19 Sep 2026",
+        "end_date": "26 Sep 2026",
+        "locations": [
+            "Iseo, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "doctoralnanochemistr19Sep2026_0"
     },
     {
         "themes": [
