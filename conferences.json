@@ -502,6 +502,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Chemistry Get-Together (networking)",
+        "url": "https://www.linkedin.com/posts/andreas-orthaber-8061b16a_chemistryinuppsala-share-7458123644758597632-KkDg/",
+        "start_date": "13 May 2026",
+        "end_date": null,
+        "locations": [
+            "Uppsala, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "chemistrygettogether13May2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -1167,28 +1207,6 @@
     },
     {
         "themes": [
-            "business",
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Future Labs, Automation, & Technology East USA",
-        "url": "https://www.eventbrite.com/e/pharmarons-4th-chemistry-for-life-science-symposium-tickets-1979984203051",
-        "start_date": "20 May 2026",
-        "end_date": null,
-        "locations": [
-            "Hoddesdon, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "futurelabsautomation20May2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels"
         ],
         "regions": [
@@ -1623,6 +1641,25 @@
             "Switzerland"
         ],
         "uid": "futurelabslive27May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Digi-Tech Pharma & AI",
+        "url": "https://corvusglobalevents.com/conference/digi-tech-pharma-ai",
+        "start_date": "27 May 2026",
+        "end_date": "28 May 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "digitechpharmaai27May2026_0"
     },
     {
         "themes": [
@@ -3392,6 +3429,29 @@
             "Germany"
         ],
         "uid": "formulationdeliverye15Jun2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "safety"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Copenhagen School on Explainable AI in (Bio)chemistry",
+        "url": "https://www.linkedin.com/posts/jan-h-jensen-8960265_i-am-organising-a-2-day-workshop-on-explainable-share-7458413496670674944-ChJT/",
+        "start_date": "15 Jun 2026",
+        "end_date": "16 Jun 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "copenhagenschoolonex15Jun2026_0"
     },
     {
         "themes": [
@@ -7302,6 +7362,28 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers",
+            "med chem",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "ML4Chem: Modern machine learning in chemistry",
+        "url": "https://ml4chem2026.github.io/",
+        "start_date": "03 Aug 2026",
+        "end_date": "05 Aug 2026",
+        "locations": [
+            "Leipzig, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "ml4chemmodernmachine03Aug2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "safety"
@@ -9987,6 +10069,29 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Paperless Lab Academy USA",
+        "url": "https://www.paperlesslabacademy.com/usa-2026/",
+        "start_date": "12 Oct 2026",
+        "end_date": "14 Oct 2026",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "paperlesslabacademyu12Oct2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -10781,6 +10886,25 @@
             "UK"
         ],
         "uid": "sciyoungchemistinind05Nov2026_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "LGBTQ+ STEMinar",
+        "url": "https://sites.google.com/view/lgbtqsteminar2026/home",
+        "start_date": "06 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "lgbtqsteminar06Nov2026_0"
     },
     {
         "themes": [
