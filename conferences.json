@@ -65,85 +65,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Eurachem & Cooperation on Intl Traceability in Analytical Chemistry CITAC",
-        "url": "https://eurachem2026.events.chemistry.pt/",
-        "start_date": "11 May 2026",
-        "end_date": "12 May 2026",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "eurachemcooperationo11May2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ArabLab Live",
-        "url": "https://www.terrapinn.com/exhibition/arablabksa/index.stm",
-        "start_date": "11 May 2026",
-        "end_date": "12 May 2026",
-        "locations": [
-            "Riyadh, Saudi Arabia"
-        ],
-        "countries": [
-            "Saudi Arabia"
-        ],
-        "uid": "arablablive11May2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Technical seminar on solubility enhancement: From screening to downstreaming",
-        "url": "https://www.metolose.jp/en/pdf/Newsletter%2003-2023.pdf",
-        "start_date": "11 May 2026",
-        "end_date": "12 May 2026",
-        "locations": [
-            "Wiesbaden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "technicalseminaronso11May2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/20260511/",
-        "start_date": "11 May 2026",
-        "end_date": "12 May 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "chemicalprocesssafet11May2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -295,65 +216,6 @@
             " Online"
         ],
         "uid": "proteinantibodyengin11May2026_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Joint Professional Bodies' Qualified Person QP Symposium",
-        "url": "https://events.rpharms.com/ereg/newreg.php?eventid=200292457",
-        "start_date": "12 May 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "jointprofessionalbod12May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Nationale ForschungsDatenInfrastruktur NFDI4Chem Consortium Meeting",
-        "url": "https://nfdi4chem.de/event/consortium-meeting-7-0/",
-        "start_date": "12 May 2026",
-        "end_date": null,
-        "locations": [
-            "Jena, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "nationaleforschungsd12May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Bio-beauty: The future of engineering biology",
-        "url": "https://www.soci.org/events/engineering-biology/2026/bio-beauty--the-future-of-engineering-biology",
-        "start_date": "12 May 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biobeautythefutureof12May2026_0"
     },
     {
         "themes": [
@@ -1285,6 +1147,46 @@
             "UK"
         ],
         "uid": "ukenergyresearchcent20May2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "CHEMUK expo",
+        "url": "https://www.chemicalukexpo.com/en/",
+        "start_date": "20 May 2026",
+        "end_date": "21 May 2026",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemukexpo20May2026_0"
     },
     {
         "themes": [
@@ -2873,7 +2775,7 @@
         "regions": [
             "Eastern Europe"
         ],
-        "title": "Intl Oligonucleotide & Peptide Conference",
+        "title": "Intl Oligonucleotide & Peptide Conference IOPC",
         "url": "https://www.iopc-tks.com/",
         "start_date": "09 Jun 2026",
         "end_date": "11 Jun 2026",
@@ -3007,6 +2909,28 @@
             "CT"
         ],
         "uid": "annualsymposiumonapp11Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Midlands"
+        ],
+        "title": "Scale Up Conference",
+        "url": "https://sites.google.com/view/scale-up-workshop/2026-conference?authuser=1",
+        "start_date": "11 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scaleupconference11Jun2026_0"
     },
     {
         "themes": [
