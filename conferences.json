@@ -2,99 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Protein & Antibody Engineering Summit PEGS Boston",
-        "url": "https://www.pegsummit.com/",
-        "start_date": "11 May 2026",
-        "end_date": "15 May 2026",
-        "locations": [
-            "Boston, MA, USA ",
-            " Online"
-        ],
-        "countries": [
-            "USA ",
-            " Online"
-        ],
-        "uid": "proteinantibodyengin11May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Peter Stahl Advanced Design Forum (AI/ML in chemistry & materials)",
-        "url": "https://sites.google.com/umn.edu/stahlforum/home",
-        "start_date": "14 May 2026",
-        "end_date": "15 May 2026",
-        "locations": [
-            "Wayzata, MN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MN"
-        ],
-        "uid": "peterstahladvancedde14May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Certara Phoenix user meeting (PK/PD)",
-        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-cambridge/",
-        "start_date": "15 May 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "certaraphoenixuserme15May2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Metal-Organic Framework MOF 2026",
-        "url": "https://na.eventscloud.com/website/86715/home/",
-        "start_date": "16 May 2026",
-        "end_date": "17 May 2026",
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "uid": "metalorganicframewor16May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "environment/fuels"
         ],
         "regions": [
@@ -240,29 +147,6 @@
             "Japan"
         ],
         "uid": "nagoyafluorinedaysna17May2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Postdoctoral Symposium of the RSC Heterocyclic & Synthesis Group",
-        "url": "https://www.rsc.org/events/detail/83650/3rd-postdoctoral-symposium-virtual-heterocyclic-and-synthesis-group",
-        "start_date": "18 May 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "postdoctoralsymposiu18May2026_0"
     },
     {
         "themes": [
@@ -6163,6 +6047,25 @@
             "computational/data"
         ],
         "regions": [
+            "UK"
+        ],
+        "title": "Transitioning from FAIR to AI-ready data in the physical sciences (workshop)",
+        "url": "https://www.psdi.ac.uk/event/ai-ready-data/",
+        "start_date": "16 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "transitioningfromfai16Jul2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
             "Western Europe"
         ],
         "title": "Gordon Research Conference: Computational Chemistry",
@@ -8518,6 +8421,25 @@
             "Slovenia"
         ],
         "uid": "mss2026genetherapyva14Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "AIchemy Data Intensive Science School",
+        "url": "https://aichemy.ac.uk/event/data-intensive-science-school/",
+        "start_date": "14 Sep 2026",
+        "end_date": "16 Sep 2026",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "aichemydataintensive14Sep2026_0"
     },
     {
         "themes": [
