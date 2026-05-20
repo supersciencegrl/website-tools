@@ -150,69 +150,6 @@
     },
     {
         "themes": [
-            "med chem",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Synthesis in Drug Discovery & Development SDDD",
-        "url": "https://www.rscbmcs.org/events/sddd26/",
-        "start_date": "18 May 2026",
-        "end_date": "19 May 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "synthesisindrugdisco18May2026_0"
-    },
-    {
-        "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "The Chromatographic (Analytical) Method Life Cycle & ChromSoc Spring Symposium",
-        "url": "https://www.rscbmcs.org/events/sddd26/",
-        "start_date": "18 May 2026",
-        "end_date": "19 May 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "thechromatographican18May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Texas Chemical Biology Conference",
-        "url": "https://www.txchembio.org/",
-        "start_date": "18 May 2026",
-        "end_date": "19 May 2026",
-        "locations": [
-            "Dallas, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "texaschemicalbiology18May2026_0"
-    },
-    {
-        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -314,30 +251,6 @@
             "Italy"
         ],
         "uid": "clinicaldatastandard18May2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs, Automation, & Technology East USA",
-        "url": "https://www.amg-world.co.uk/future-labs-automation-technology/",
-        "start_date": "19 May 2026",
-        "end_date": null,
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "futurelabsautomation19May2026_0"
     },
     {
         "themes": [
