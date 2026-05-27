@@ -1,27 +1,6 @@
 [
     {
         "themes": [
-            "education",
-            "environment/fuels",
-            "law/policy"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Stockholm Declaration one-year anniversary (environment chemistry)",
-        "url": "https://www.su.se/english/divisions/stockholm-university-center-for-circular-and-sustainable-systems---success/calendar/events/2026-04-23-stockholm-declaration-one-year-anniversary",
-        "start_date": "22 May 2026",
-        "end_date": "23 May 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "stockholmdeclaration22May2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -81,46 +60,6 @@
     },
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCI Canada Awards",
-        "url": "https://www.soci.org/events/canada-group/2026/sci-canada-awards",
-        "start_date": "25 May 2026",
-        "end_date": null,
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "scicanadaawards25May2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "materials/polymers",
             "physical/phys org"
@@ -159,26 +98,6 @@
             "France"
         ],
         "uid": "europeanmaterialsres25May2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "No boundaries (interdisciplinary engineering)",
-        "url": "https://www.notion.so/No-Boundaries-A-Festival-of-Cross-Disciplinary-Collaboration-334252ab97fa8006bbb9e7c80948869a",
-        "start_date": "26 May 2026",
-        "end_date": null,
-        "locations": [
-            "Würzburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "noboundariesinterdis26May2026_0"
     },
     {
         "themes": [
