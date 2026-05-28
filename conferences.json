@@ -61,27 +61,6 @@
     {
         "themes": [
             "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Swedish Neutron Week",
-        "url": "https://snss.se/swedish-neutron-week/?amp=1",
-        "start_date": "25 May 2026",
-        "end_date": "27 May 2026",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "swedishneutronweek25May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "materials/polymers"
         ],
         "regions": [
@@ -266,6 +245,26 @@
             "UK"
         ],
         "uid": "missioninnovationgre28May2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Big Chemistry Signature Event (data-driven formulation)",
+        "url": "https://bigchemistry.nl/signature-event/",
+        "start_date": "28 May 2026",
+        "end_date": null,
+        "locations": [
+            "Eindhoven, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "bigchemistrysignatur28May2026_0"
     },
     {
         "themes": [
@@ -6918,7 +6917,7 @@
             "UK"
         ],
         "title": "Edelris Annual Symposium on Affinity Selection Mass Spectrometry AS-MS in Drug Discovery",
-        "url": "",
+        "url": "https://www.edelris.com/edelris-symposium-on-as-ms-screening-in-drug-discovery",
         "start_date": "03 Sep 2026",
         "end_date": null,
         "locations": [
@@ -6950,6 +6949,28 @@
             "UK"
         ],
         "uid": "rscphotophysicsphoto03Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Society for Medicine Research SMR Radiopharmaceuticals",
+        "url": "https://www.smr.org.uk/Meetings/20260904/",
+        "start_date": "04 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "societyformedicinere04Sep2026_0"
     },
     {
         "themes": [
@@ -8339,6 +8360,25 @@
             "Austria"
         ],
         "uid": "societyforlaboratory23Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Demystifying Agentic AI & AI agents workshop",
+        "url": "https://aichemy.ac.uk/event/demystifying-agentic-ai-ai-agents-workshop/",
+        "start_date": "23 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "demystifyingagentica23Sep2026_0"
     },
     {
         "themes": [
@@ -9802,6 +9842,26 @@
             "UK"
         ],
         "uid": "sciyoungchemistinind05Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Society of Medicine Research SMR RAS meeting",
+        "url": "https://www.smr.org.uk/Meetings/20261105/",
+        "start_date": "05 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "societyofmedicineres05Nov2026_0"
     },
     {
         "themes": [
