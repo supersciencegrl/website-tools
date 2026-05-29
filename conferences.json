@@ -1,46 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Canadian Societies for Chemistry & Chemical Engineering x2026",
-        "url": "https://www.cheminst.ca/conference/x2026/",
-        "start_date": "24 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "canadiansocietiesfor24May2026_0"
-    },
-    {
-        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -77,114 +37,6 @@
             "France"
         ],
         "uid": "europeanmaterialsres25May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "environment/fuels",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Annual meeting on reaction engineering",
-        "url": "https://dechema.de/en/ReactEng2026.html",
-        "start_date": "26 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "Würzburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "annualmeetingonreact26May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern Europe",
-            "Online"
-        ],
-        "title": "Drug development (training course)",
-        "url": "https://www.lakemedelsakademin.se/en/courses-and-trainings/lakemedelsutveckling/drug-development-3-day-course/",
-        "start_date": "26 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "Stockholm, Sweden",
-            "Online"
-        ],
-        "countries": [
-            "Sweden",
-            "Online"
-        ],
-        "uid": "drugdevelopmenttrain26May2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Laboratory automation & AI/ML certificate (training course)",
-        "url": "https://forms.illinois.edu/sec/1412629363",
-        "start_date": "26 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "Urbana, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "laboratoryautomation26May2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Future Labs Live",
-        "url": "https://www.terrapinn.com/conference/future-labs-live/index.stm",
-        "start_date": "27 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "Basel, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "futurelabslive27May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Digi-Tech Pharma & AI",
-        "url": "https://corvusglobalevents.com/conference/digi-tech-pharma-ai",
-        "start_date": "27 May 2026",
-        "end_date": "28 May 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "digitechpharmaai27May2026_0"
     },
     {
         "themes": [
@@ -226,45 +78,6 @@
             "Canada"
         ],
         "uid": "secretsofbatchproces27May2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Mission Innovation Green Power Innovation Conference GPIC",
-        "url": "https://www.mi-gpfm.org/information/detail",
-        "start_date": "28 May 2026",
-        "end_date": null,
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "missioninnovationgre28May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Big Chemistry Signature Event (data-driven formulation)",
-        "url": "https://bigchemistry.nl/signature-event/",
-        "start_date": "28 May 2026",
-        "end_date": null,
-        "locations": [
-            "Eindhoven, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "bigchemistrysignatur28May2026_0"
     },
     {
         "themes": [
@@ -7200,6 +7013,26 @@
             "UK"
         ],
         "uid": "recentappointeesinph07Sep2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "PharmSci International Conference: Future medicines",
+        "url": "https://apsgb.co.uk/event/pharmsci-2026-save-the-dates/",
+        "start_date": "07 Sep 2026",
+        "end_date": "09 Sep 2026",
+        "locations": [
+            "Newcastle, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pharmsciinternationa07Sep2026_0"
     },
     {
         "themes": [
