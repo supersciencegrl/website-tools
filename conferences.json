@@ -1,129 +1,6 @@
 [
     {
         "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Geochemistry of Mineral Deposits",
-        "url": "https://www.grc.org/geochemistry-of-mineral-deposits-conference/2026/",
-        "start_date": "24 May 2026",
-        "end_date": "29 May 2026",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "gordonresearchconfer24May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Materials Research Society EMRS Spring Meeting",
-        "url": "https://www.european-mrs.com/meetings/2026-spring-meeting-exhibit",
-        "start_date": "25 May 2026",
-        "end_date": "29 May 2026",
-        "locations": [
-            "Strasbourg, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "europeanmaterialsres25May2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Symposium on Bioorganic Chemistry ESBOC: The chemical biology of enzymes & beyond",
-        "url": "https://eveeno.com/esboc2026",
-        "start_date": "27 May 2026",
-        "end_date": "29 May 2026",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "europeansymposiumonb27May2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Secrets of Batch Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20260527/",
-        "start_date": "27 May 2026",
-        "end_date": "29 May 2026",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "secretsofbatchproces27May2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Women in Chemistry 2026",
-        "url": "https://wichem.blogs.bristol.ac.uk/",
-        "start_date": "29 May 2026",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "womeninchemistry202629May2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "TexSyn: A symposium on synthesis & catalysis",
-        "url": "https://texsyn.org/",
-        "start_date": "29 May 2026",
-        "end_date": "30 May 2026",
-        "locations": [
-            "Dallas, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "texsynasymposiumonsy29May2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "computational/data",
@@ -143,44 +20,6 @@
             "Italy"
         ],
         "uid": "intlschoolofcrystall29May2026_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Association for Science Education Scotland Conference",
-        "url": "https://www.ase.org.uk/events/ase-scotland-conference-2026-practical-science-spark-curiosity-ignite-understanding",
-        "start_date": "30 May 2026",
-        "end_date": null,
-        "locations": [
-            "Kinross, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "associationforscienc30May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Symposium on protein engineering",
-        "url": "https://www.linkedin.com/posts/norman-metanis-49062757_save-the-date-symposium-on-protein-engineering-activity-7404804233109270528-G3FX/",
-        "start_date": "30 May 2026",
-        "end_date": "31 May 2026",
-        "locations": [
-            "Zurich, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "symposiumonproteinen30May2026_0"
     },
     {
         "themes": [
@@ -391,27 +230,6 @@
             "CA"
         ],
         "uid": "intlcongressonquantu31May2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Energy Materials workshop: From electron & phonon interactions to net zero",
-        "url": "https://thomasyoungcentre.org/event/tyc-8th-energy-materials-workshop/",
-        "start_date": "01 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "energymaterialsworks01Jun2026_0"
     },
     {
         "themes": [
@@ -945,6 +763,25 @@
             "Netherlands"
         ],
         "uid": "dutchpeptidesymposiu05Jun2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Great Exhibition Road Festival (outreach)",
+        "url": "https://www.eventbrite.com/e/great-exhibition-road-festival-2026-tickets-1985057931710",
+        "start_date": "06 Jun 2026",
+        "end_date": "07 Jun 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "greatexhibitionroadf06Jun2026_0"
     },
     {
         "themes": [
@@ -2092,6 +1929,26 @@
             "PA"
         ],
         "uid": "certaraphoenixuserme16Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "education"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Industry roundtable: Equipping the Next Generation: AI Skills for Chemistry",
+        "url": "https://aichemy.ac.uk/our-events/",
+        "start_date": "16 Jun 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "industryroundtableeq16Jun2026_0"
     },
     {
         "themes": [
@@ -5681,6 +5538,26 @@
             "UK"
         ],
         "uid": "earlycareerresearche28Jul2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Physical Science Data Infrastructure & Royce Materials Data Summit",
+        "url": "https://www.psdi.ac.uk/event/psdi_royce_materials_data_summit/",
+        "start_date": "29 Jul 2026",
+        "end_date": "31 Jul 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "physicalsciencedatai29Jul2026_0"
     },
     {
         "themes": [
