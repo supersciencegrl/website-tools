@@ -28,52 +28,6 @@
             "pharma industry"
         ],
         "regions": [
-            "Western Europe"
-        ],
-        "title": "Marbach Castle Drug-Drug Interaction DDI Workshop",
-        "url": "https://www.ddi-workshop-marbach.org/english/registration/workshop.html",
-        "start_date": "31 May 2026",
-        "end_date": "02 Jun 2026",
-        "locations": [
-            "Öhningen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "marbachcastledrugdru31May2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Society of Nuclear Medicine & Molecular Imaging SNMMI meeting",
-        "url": "https://snmmi.org/AM/AM/Home.aspx",
-        "start_date": "31 May 2026",
-        "end_date": "02 Jun 2026",
-        "locations": [
-            "Los Angeles, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "societyofnuclearmedi31May2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
             "Southern USA"
         ],
         "title": "ACS US National Medicinal Chemistry Symposium",
@@ -233,53 +187,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Symposium on anti-infective drug discovery",
-        "url": "https://www.rscbmcs.org/events/antiinfectives/",
-        "start_date": "01 Jun 2026",
-        "end_date": "02 Jun 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "symposiumonantiinfec01Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org",
-            "process/engineering"
-        ],
-        "regions": [
-            "London",
-            "Online"
-        ],
-        "title": "Light-driven chemistry for a sustainable future",
-        "url": "https://royalsociety.org/science-events-and-lectures/2026/06/light-driven-chemistry/",
-        "start_date": "01 Jun 2026",
-        "end_date": "02 Jun 2026",
-        "locations": [
-            "London, UK ",
-            " Online"
-        ],
-        "countries": [
-            "UK ",
-            " Online"
-        ],
-        "uid": "lightdrivenchemistry01Jun2026_0"
-    },
-    {
-        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -337,87 +244,6 @@
             "UK"
         ],
         "uid": "hpcconexssummerschoo01Jun2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Drug Metabolism Discussion Group DMDG Early Career Meeting",
-        "url": "https://www.dmdg.org/events/",
-        "start_date": "02 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "drugmetabolismdiscus02Jun2026_0"
-    },
-    {
-        "themes": [
-            "law/policy",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Nordic-Baltic Conference in Pharmacovigilance",
-        "url": "https://www.lakemedelsakademin.se/en/courses-and-trainings/pharmacovigilance/nordic-pharmacovigilance-2026/",
-        "start_date": "02 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "nordicbalticconferen02Jun2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Data, Digital, & AI: The future beyond the hype",
-        "url": "https://www.b2match.com/e/fast-forward-data-digital-ai/components/65057",
-        "start_date": "02 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "datadigitalaithefutu02Jun2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "AIChemy early career researcher exchange Scotland (academia)",
-        "url": "https://aichemy.ac.uk/event/ecr-exchange-scotland-2026/",
-        "start_date": "02 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "aichemyearlycareerre02Jun2026_0"
     },
     {
         "themes": [
@@ -2692,6 +2518,26 @@
             "Japan"
         ],
         "uid": "certaracertaintyphar23Jun2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "law/policy"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "UK Government Chemist Conference: Safe food for tomorrow's world",
+        "url": "https://www.eventbrite.com/e/the-government-chemist-conference-2026-safe-food-for-tomorrows-world-tickets-1985505771210",
+        "start_date": "23 Jun 2026",
+        "end_date": "24 Jun 2026",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukgovernmentchemistc23Jun2026_0"
     },
     {
         "themes": [
