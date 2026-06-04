@@ -23,53 +23,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "ACS US National Medicinal Chemistry Symposium",
-        "url": "https://www.nmcsmedi.org/",
-        "start_date": "31 May 2026",
-        "end_date": "03 Jun 2026",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "acsusnationalmedicin31May2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Pharma Software User Group PharmaSUG",
-        "url": "https://pharmasug.org/",
-        "start_date": "31 May 2026",
-        "end_date": "03 Jun 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "pharmasoftwareusergr31May2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -187,46 +140,6 @@
     },
     {
         "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AIChE Lebanon Student Regional Conference",
-        "url": "https://www.aiche.org/conferences/lebanon-student-regional-conference/2026",
-        "start_date": "01 Jun 2026",
-        "end_date": "03 Jun 2026",
-        "locations": [
-            "Beirut, Lebanon"
-        ],
-        "countries": [
-            "Lebanon"
-        ],
-        "uid": "aichelebanonstudentr01Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Synthetic Organic Electrochemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/synthetic-organic-electrochemistry-short-course/",
-        "start_date": "01 Jun 2026",
-        "end_date": "03 Jun 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "syntheticorganicelec01Jun2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "computational/data"
         ],
@@ -244,31 +157,6 @@
             "UK"
         ],
         "uid": "hpcconexssummerschoo01Jun2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "BioTalk US: Biological Manufacturing",
-        "url": "https://biotalk.us/",
-        "start_date": "02 Jun 2026",
-        "end_date": "03 Jun 2026",
-        "locations": [
-            "Framingham, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "biotalkusbiologicalm02Jun2026_0"
     },
     {
         "themes": [
@@ -6970,6 +6858,26 @@
             "Online"
         ],
         "uid": "chemicalbiology202608Sep2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Symposium on Chemical Bonding CBOND2026",
+        "url": "https://www.eurchembond.com/cbond2026/",
+        "start_date": "08 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "europeansymposiumonc08Sep2026_0"
     },
     {
         "themes": [
