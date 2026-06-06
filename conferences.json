@@ -8727,6 +8727,26 @@
     },
     {
         "themes": [
+            "history/philosophy",
+            "law/policy"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Chemists as politicians",
+        "url": "https://www.rsc.org/events/find-an-event/chemists-as-politicians",
+        "start_date": "16 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemistsaspolitician16Oct2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "materials/polymers"
