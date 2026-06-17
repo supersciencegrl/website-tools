@@ -26,50 +26,6 @@
     {
         "themes": [
             "analytical",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Bombannes: European summer school on scattering methods applied to soft condensed matter",
-        "url": "https://workshops.ill.fr/event/522/",
-        "start_date": "09 Jun 2026",
-        "end_date": "16 Jun 2026",
-        "locations": [
-            "Carcans, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "bombanneseuropeansum09Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "French-American Chemical Symposium FACS",
-        "url": "https://facs2026.sciencesconf.org/",
-        "start_date": "13 Jun 2026",
-        "end_date": "16 Jun 2026",
-        "locations": [
-            "Ottawa, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "frenchamericanchemic13Jun2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "environment/fuels"
         ],
         "regions": [
@@ -182,162 +138,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Analytical Research Forum ARF26",
-        "url": "https://www.rsc.org/events/detail/82587/analytical-research-forum-2026-arf26",
-        "start_date": "15 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "analyticalresearchfo15Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Biobased polymers",
-        "url": "https://www.rsc.org/events/detail/82967/biobased-polymers-2026",
-        "start_date": "15 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Loughborough, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biobasedpolymers15Jun2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Bristol Myers Squibb BMS Women in Chemical Engineering Seminar (students)",
-        "url": "https://www.linkedin.com/feed/update/urn:li:share:7452756270224257024/",
-        "start_date": "15 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "New Brunswick, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "bristolmyerssquibbbm15Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "materials/polymers",
-            "pharma industry",
-            "physical/phys org"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Physics Meets Pharmacy",
-        "url": "https://iop.eventsair.com/pmp2026/",
-        "start_date": "15 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "physicsmeetspharmacy15Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Drug Discovery & Development Europe",
-        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe/",
-        "start_date": "15 Jun 2026",
-        "end_date": "16 Jun 2026",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "drugdiscoverydevelop15Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "formulation/particle science",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Formulation & Delivery Europe",
-        "url": "https://oxfordglobal.com/discovery-development/events/discovery-development-europe/formulation-delivery-europe",
-        "start_date": "15 Jun 2026",
-        "end_date": "16 Jun 2026",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "formulationdeliverye15Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "safety"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Copenhagen School on Explainable AI in (Bio)chemistry",
-        "url": "https://www.linkedin.com/posts/jan-h-jensen-8960265_i-am-organising-a-2-day-workshop-on-explainable-share-7458413496670674944-ChJT/",
-        "start_date": "15 Jun 2026",
-        "end_date": "16 Jun 2026",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "copenhagenschoolonex15Jun2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "process/engineering"
         ],
@@ -447,113 +247,6 @@
             "UK"
         ],
         "uid": "netdrivesummerschool15Jun2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "New innovations in polymeric coatings",
-        "url": "https://soci.org/events/materials-chemistry-group/2026/new-innovations-in-polymeric-coatings",
-        "start_date": "16 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "newinnovationsinpoly16Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ELRIG German Forum: Target innovation & novel screening technologies",
-        "url": "https://elrig.org/portfolio/target-innovation-novel-screening-technologies-elrigs-german-forum/",
-        "start_date": "16 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "elriggermanforumtarg16Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Schrödinger Medicinal Chemistry Symposium",
-        "url": "https://www.schrodinger.com/life-science/resources/event/schrodinger-medicinal-chemistry-symposium-2026/",
-        "start_date": "16 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "schrödingermedicinal16Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Certara Phoenix user meeting (PK/PD)",
-        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-philadelphia/",
-        "start_date": "16 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Radnor, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "certaraphoenixuserme16Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Industry roundtable: Equipping the Next Generation: AI Skills for Chemistry",
-        "url": "https://aichemy.ac.uk/our-events/",
-        "start_date": "16 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "industryroundtableeq16Jun2026_0"
     },
     {
         "themes": [
@@ -8887,6 +8580,25 @@
             "UK"
         ],
         "uid": "winterschoolrobotics24Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "UK AI Research Symposium UKAIRS",
+        "url": "https://www.ukairs.ac.uk/Home/Welcome",
+        "start_date": "24 Nov 2026",
+        "end_date": "25 Nov 2026",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukairesearchsymposiu24Nov2026_0"
     },
     {
         "themes": [
