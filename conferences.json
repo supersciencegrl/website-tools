@@ -250,53 +250,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Drug Discovery USA",
-        "url": "https://elrig.org/portfolio/drug-discovery-usa-2026/",
-        "start_date": "16 Jun 2026",
-        "end_date": "17 Jun 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "drugdiscoveryusa16Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Artificial Intelligence for Materials Science",
-        "url": "https://www.nist.gov/news-events/events/2026/06/artificial-intelligence-materials-science-aims-2026",
-        "start_date": "16 Jun 2026",
-        "end_date": "17 Jun 2026",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "artificialintelligen16Jun2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "environment/fuels",
             "history/philosophy"
@@ -315,46 +268,6 @@
             "Italy"
         ],
         "uid": "xxiicongressonaziona16Jun2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Bionow Biofocus Conference: Bringing together industry, academia, & experts in life sciences",
-        "url": "https://bionow.glueup.com/event/bionow-biofocus-2026-conference-160539/",
-        "start_date": "17 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bionowbiofocusconfer17Jun2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Digital analytics in analytical science",
-        "url": "https://www.rsc.org/events/find-an-event/digital-analytics-in-analytical-science",
-        "start_date": "17 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Newcastle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "digitalanalyticsinan17Jun2026_0"
     },
     {
         "themes": [
@@ -946,6 +859,28 @@
             "Norway"
         ],
         "uid": "insidequantumtechnol22Jun2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Spanish workshop on phosphorus chemistry SWPC",
+        "url": "https://www.phoschem-spain.com/SWPC",
+        "start_date": "22 Jun 2026",
+        "end_date": "24 Jun 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "spanishworkshoponpho22Jun2026_0"
     },
     {
         "themes": [
@@ -4990,7 +4925,7 @@
             "UK"
         ],
         "title": "Edelris Annual Symposium on Affinity Selection Mass Spectrometry AS-MS in Drug Discovery",
-        "url": "https://www.edelris.com/edelris-symposium-on-as-ms-screening-in-drug-discovery",
+        "url": "https://edelrissymposium.zohobackstage.eu/Edelris-ASMS-Symposium-2026#/",
         "start_date": "03 Sep 2026",
         "end_date": null,
         "locations": [
