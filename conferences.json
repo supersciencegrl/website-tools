@@ -2,30 +2,6 @@
     {
         "themes": [
             "analytical",
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Deep learning for microscopy image analysis (workshop)",
-        "url": "https://www.janelia.org/you-janelia/conferences/bootcamp-course-on-deep-learning-for-microscopy-image-analysis",
-        "start_date": "04 Jun 2026",
-        "end_date": "18 Jun 2026",
-        "locations": [
-            "Ashburn, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "uid": "deeplearningformicro04Jun2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
             "environment/fuels"
         ],
         "regions": [
@@ -138,77 +114,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Synthetic Biology: Engineering, Evolution, & Design SEED",
-        "url": "https://synbioconference.org/2026",
-        "start_date": "15 Jun 2026",
-        "end_date": "18 Jun 2026",
-        "locations": [
-            "Denver, CO, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CO"
-        ],
-        "uid": "syntheticbiologyengi15Jun2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Green Chemistry & Engineering GC&E conference",
-        "url": "https://www.gcande.org/",
-        "start_date": "15 Jun 2026",
-        "end_date": "18 Jun 2026",
-        "locations": [
-            "San Antonio, TX, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TX"
-        ],
-        "uid": "greenchemistryengine15Jun2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Society of Quantum Biology & Pharmacology ISQBP President's Meeting",
-        "url": "https://isqbp2026.com/",
-        "start_date": "15 Jun 2026",
-        "end_date": "18 Jun 2026",
-        "locations": [
-            "Cluj-Napoca, Romania"
-        ],
-        "countries": [
-            "Romania"
-        ],
-        "uid": "intlsocietyofquantum15Jun2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data",
             "materials/polymers"
@@ -271,28 +176,6 @@
     },
     {
         "themes": [
-            "catalysis",
-            "computational/data",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "UK Catalysis Hub Summer Conference",
-        "url": "https://www.eventbrite.com/e/uk-catalysis-hub-summer-2026-conference-tickets-1975613586419",
-        "start_date": "17 Jun 2026",
-        "end_date": "18 Jun 2026",
-        "locations": [
-            "Harwell, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ukcatalysishubsummer17Jun2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data",
             "materials/polymers",
@@ -313,92 +196,6 @@
             "Sweden"
         ],
         "uid": "machinelearningforma17Jun2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
-        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-chicago/",
-        "start_date": "18 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "societyforlaboratory18Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Certara Phoenix user meeting (PK/PD)",
-        "url": "https://www.certara.com/live-events/phoenix-roadshow-2026-durham/",
-        "start_date": "18 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Durham, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "uid": "certaraphoenixuserme18Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Certara Certainty (pharma modelling & simulation)",
-        "url": "https://www.certara.com/live-events/certainty-korea-2026/",
-        "start_date": "18 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Seoul, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "certaracertaintyphar18Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Science in the city: An evening of AI",
-        "url": "https://aichemy.ac.uk/event/science-in-the-city-an-evening-of-ai/",
-        "start_date": "18 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "scienceinthecityanev18Jun2026_0"
     },
     {
         "themes": [
@@ -902,6 +699,31 @@
             "Ireland"
         ],
         "uid": "medicinalchemistryfr22Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "BIO International Convention",
+        "url": "https://convention.bio.org/landing",
+        "start_date": "22 Jun 2026",
+        "end_date": "25 Jun 2026",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "biointernationalconv22Jun2026_0"
     },
     {
         "themes": [
@@ -6949,6 +6771,30 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Computational Medicinal Chemistry School",
+        "url": "https://www.compmedchem.org/",
+        "start_date": "07 Oct 2026",
+        "end_date": "09 Oct 2026",
+        "locations": [
+            "Cambridge, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "computationalmedicin07Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8498,13 +8344,12 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data"
+            "automation"
         ],
         "regions": [
             "London"
         ],
-        "title": "Winter School: Robotics & AI for Materials Chemistry",
+        "title": "Automated Intelligent Chemistry",
         "url": "https://www.soci.org/events/young-chemists-panel/2026/automated-intelligent-chemistry-2026",
         "start_date": "24 Nov 2026",
         "end_date": null,
@@ -8514,7 +8359,7 @@
         "countries": [
             "UK"
         ],
-        "uid": "winterschoolrobotics24Nov2026_0"
+        "uid": "automatedintelligent24Nov2026_0"
     },
     {
         "themes": [
@@ -9254,6 +9099,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "BIO International Convention",
+        "url": "https://convention.bio.org/future-dates",
+        "start_date": "07 Jun 2027",
+        "end_date": "10 Jun 2027",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "biointernationalconv07Jun2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -9825,6 +9695,31 @@
             "WA"
         ],
         "uid": "americansocietyforma04Jun2028_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "BIO International Convention",
+        "url": "https://convention.bio.org/future-dates",
+        "start_date": "12 Jun 2028",
+        "end_date": "15 Jun 2028",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "biointernationalconv12Jun2028_0"
     },
     {
         "themes": [
