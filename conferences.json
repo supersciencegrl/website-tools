@@ -360,69 +360,6 @@
     },
     {
         "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "University of Bath CDT in Sustainable Chemical Technologies Summer Showcase",
-        "url": "https://www.eventbrite.com/e/cdt-in-sustainable-chemical-technologies-summer-showcase-2026-tickets-1982780270163",
-        "start_date": "29 Jun 2026",
-        "end_date": null,
-        "locations": [
-            "Bath, England"
-        ],
-        "countries": [
-            "England"
-        ],
-        "uid": "universityofbathcdti29Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "diversity",
-            "materials/polymers",
-            "med chem",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Empowering Women in Organic Chemistry EWOC Europe",
-        "url": "https://www.scientificupdate.com/conference_events/empowering-women-in-organic-chemistry/",
-        "start_date": "29 Jun 2026",
-        "end_date": "30 Jun 2026",
-        "locations": [
-            "Tarragona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "empoweringwomeninorg29Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "AIchemy Hub & Leverhulme Research Centre Conference (AI for materials)",
-        "url": "https://aichemy.ac.uk/event/aichemy-and-leverhulme-research-centre-conference-2026/",
-        "start_date": "29 Jun 2026",
-        "end_date": "30 Jun 2026",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "aichemyhubleverhulme29Jun2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "synthesis"
@@ -481,6 +418,26 @@
             "Poland"
         ],
         "uid": "machinelearningsumme29Jun2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Exploring soft materials: From molecules to biomaterials",
+        "url": "https://site.unibo.it/una-europa/en/summer-and-winter-school/exploring-soft-materials-from-molecules-to-biomaterials",
+        "start_date": "29 Jun 2026",
+        "end_date": "03 Jul 2026",
+        "locations": [
+            "Bologna, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "exploringsoftmateria29Jun2026_0"
     },
     {
         "themes": [
@@ -639,7 +596,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Medicinal chemistry & chemical biology in drug discovery: The pharma perspective (summer school)",
+        "title": "Medicinal chemistry & chemical biology in drug discovery: The pharma perspective SEQT (summer school)",
         "url": "https://www.eumedchemschoolseqt.org/",
         "start_date": "01 Jul 2026",
         "end_date": "03 Jul 2026",
@@ -1885,6 +1842,27 @@
             "UK"
         ],
         "uid": "transitioningfromfai16Jul2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Workshop on benchmarking solid state properties",
+        "url": "https://ccdc-info.com/4fqVJD8",
+        "start_date": "16 Jul 2026",
+        "end_date": "17 Jul 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "workshoponbenchmarki16Jul2026_0"
     },
     {
         "themes": [
@@ -3471,6 +3449,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Summer School on Electrocatalysis & Organic Electrosynthesis",
+        "url": "https://electrocat26.scg.ch/",
+        "start_date": "30 Aug 2026",
+        "end_date": "03 Sep 2026",
+        "locations": [
+            "Stoos, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "intlsummerschoolonel30Aug2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -3996,6 +3996,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Artificial Intelligence for Catalysis (summer school)",
+        "url": "https://ai4cat.events.chemistry.pt/",
+        "start_date": "07 Sep 2026",
+        "end_date": "10 Sep 2026",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "artificialintelligen07Sep2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "chem bio",
             "education",
@@ -4322,7 +4342,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "Italian National Meeting on Medicinal Chemistry & Young Medicinal Chemists' Symposium",
+        "title": "Italian National Meeting on Medicinal Chemistry NMMC & Young Medicinal Chemists' Symposium NPCF17",
         "url": "https://nmmc2026.unime.it/",
         "start_date": "13 Sep 2026",
         "end_date": "16 Sep 2026",
@@ -4959,7 +4979,7 @@
         "start_date": "21 Sep 2026",
         "end_date": "23 Sep 2026",
         "locations": [
-            "Bologna, Italy"
+            "Rimini, Italy"
         ],
         "countries": [
             "Italy"
@@ -5325,7 +5345,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "EuroQSAR",
+        "title": "European Symposium on Quantitative Structure-Activity Relationships EuroQSAR",
         "url": "https://www.euroqsar.org/",
         "start_date": "27 Sep 2026",
         "end_date": "01 Oct 2026",
@@ -5335,7 +5355,7 @@
         "countries": [
             "Italy"
         ],
-        "uid": "euroqsar27Sep2026_0"
+        "uid": "europeansymposiumonq27Sep2026_0"
     },
     {
         "themes": [
@@ -5380,6 +5400,25 @@
             "S Korea"
         ],
         "uid": "iupacintlconferenceo28Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Virtual ChemBioTalks",
+        "url": "https://www.universiteitleiden.nl/en/science/led3/chembiotalks",
+        "start_date": "29 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "virtualchembiotalks29Sep2026_0"
     },
     {
         "themes": [
@@ -8362,6 +8401,27 @@
             "CA"
         ],
         "uid": "acsfallusnationalmee22Aug2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "European Congress on Catalysis: Multiscale catalysis EuropaCat",
+        "url": "https://europacat2027.com/",
+        "start_date": "29 Aug 2027",
+        "end_date": "03 Sep 2027",
+        "locations": [
+            "Ljubljana, Slovenia"
+        ],
+        "countries": [
+            "Slovenia"
+        ],
+        "uid": "europeancongressonca29Aug2027_0"
     },
     {
         "themes": [
