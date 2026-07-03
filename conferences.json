@@ -1,344 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "ACS Northwest Regional Meeting NORM",
-        "url": "https://norm2026.org/",
-        "start_date": "28 Jun 2026",
-        "end_date": "01 Jul 2026",
-        "locations": [
-            "Boise, ID, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ID"
-        ],
-        "uid": "acsnorthwestregional28Jun2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "European Magnetic Resonance Congress EUROMAR",
-        "url": "https://euromar2026.mkon.se/",
-        "start_date": "28 Jun 2026",
-        "end_date": "02 Jul 2026",
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "europeanmagneticreso28Jun2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Intl Conference on Coordination Chemistry ICCC",
-        "url": "https://iccc2026.com/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Odense, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "intlconferenceoncoor28Jun2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nanoscale Science & Engineering for Agriculture & Food Systems",
-        "url": "https://www.grc.org/nanoscale-science-and-engineering-for-agriculture-and-food-systems-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Single Molecule Approaches to Biology",
-        "url": "https://www.grc.org/single-molecule-approaches-to-biology-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Biointerface Science",
-        "url": "https://www.grc.org/biointerface-science-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Correlated Electron Systems",
-        "url": "https://www.grc.org/correlated-electron-systems-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Environmental Endocrine Disruptors",
-        "url": "https://www.grc.org/environmental-endocrine-disruptors-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Molecular Interactions & Dynamics",
-        "url": "https://www.grc.org/molecular-interactions-and-dynamics-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Nanoscale Science & Engineering for Agriculture & Food Systems",
-        "url": "https://www.grc.org/nanoscale-science-and-engineering-for-agriculture-and-food-systems-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Proteoglycans",
-        "url": "https://www.grc.org/proteoglycans-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Andover, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Single Molecule Approaches to Biology",
-        "url": "https://www.grc.org/single-molecule-approaches-to-biology-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Les Diablerets, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Tribology",
-        "url": "https://www.grc.org/tribology-conference/2026/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer28Jun2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lindau Nobel Laureate Meeting",
-        "url": "https://royalsociety.org/science-events-and-lectures/scientific/lindau-meeting/",
-        "start_date": "28 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Lindau, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "lindaunobellaureatem28Jun2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "formulation/particle science",
             "physical/phys org"
@@ -357,316 +19,6 @@
             "Sweden"
         ],
         "uid": "europeancrystallogra28Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Directing Biosynthesis",
-        "url": "https://www.rsc.org/events/detail/81633/",
-        "start_date": "29 Jun 2026",
-        "end_date": "01 Jul 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "directingbiosynthesi29Jun2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Symposium on the Organic Chemistry of Sulfur",
-        "url": "https://isocs-31.pl/",
-        "start_date": "29 Jun 2026",
-        "end_date": "01 Jul 2026",
-        "locations": [
-            "Czȩstochowa, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "uid": "intlsymposiumontheor29Jun2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Machine Learning Summer School on Reliability & Safety MLSS",
-        "url": "https://mlss2026.mlinpl.org/",
-        "start_date": "29 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Krakow, Poland"
-        ],
-        "countries": [
-            "Poland"
-        ],
-        "uid": "machinelearningsumme29Jun2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Exploring soft materials: From molecules to biomaterials",
-        "url": "https://site.unibo.it/una-europa/en/summer-and-winter-school/exploring-soft-materials-from-molecules-to-biomaterials",
-        "start_date": "29 Jun 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Bologna, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "exploringsoftmateria29Jun2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "careers",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "ELRIG Summer social (invitation only)",
-        "url": "https://elrig.org/portfolio/elrig-summer-social-2026/",
-        "start_date": "01 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "elrigsummersocialinv01Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Faraday Discussion: Emerging materials for optoelectronic applications",
-        "url": "https://www.rsc.org/events/detail/80738/emerging-materials-for-optoelectronics-applications-faraday-discussion",
-        "start_date": "01 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussioneme01Jul2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "RSC Protein & peptide science group PPSG early stage researcher meeting",
-        "url": "https://www.rsc.org/events/find-an-event/protein-and-peptide-science-group-(ppsg)-early-stage-researcher-meeting-2026",
-        "start_date": "01 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Bath, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscproteinpeptidesci01Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Japanese Society for Process Chemistry JSPC Summer Symposium",
-        "url": "https://jspc-home.com/wordpress/?page_id=877",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Shizuoka, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "japanesesocietyforpr01Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Biennial UK National Atomic Spectroscopy Symposium BNASS",
-        "url": "https://www.rsc.org/events/detail/82041/bnass-2026-the-22nd-biennial-national-atomic-spectroscopy-symposium",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "biennialuknationalat01Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Medicinal Chemistry RICT",
-        "url": "https://www.rict2026.org/",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Paris, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "intlconferenceonmedi01Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Inorganic Reaction Mechanism Group Symposium",
-        "url": "https://www.rsc.org/events/find-an-event/inorganic-reaction-mechanisms-group-symposium-2026",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "inorganicreactionmec01Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Medicinal chemistry & chemical biology in drug discovery: The pharma perspective SEQT (summer school)",
-        "url": "https://www.eumedchemschoolseqt.org/",
-        "start_date": "01 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Alcobendas, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "medicinalchemistrych01Jul2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Industrial placement & apprenticeship symposium",
-        "url": "https://www.soci.org/events/young-chemists-panel/2026/ycp-industrial-placement-and-apprenticeship-symposium-2026",
-        "start_date": "02 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "industrialplacementa02Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Electrochemistry Northwest",
-        "url": "https://www.eventbrite.co.uk/e/electrochemistry-northwest-tickets-1985394461279",
-        "start_date": "02 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "electrochemistrynort02Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "#EnvChem2026 Chemistry of the Whole Environment",
-        "url": "https://www.rsc.org/events/detail/83006/envchem2026-chemistry-of-the-whole-environment",
-        "start_date": "02 Jul 2026",
-        "end_date": "03 Jul 2026",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "envchem2026chemistry02Jul2026_0"
     },
     {
         "themes": [
@@ -707,27 +59,6 @@
             "India"
         ],
         "uid": "chemicalresearchsoci02Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "RSC Organic Chemistry Community North West UK Regional Meeting",
-        "url": "https://www.rsc.org/events/detail/82850/rsc-organic-chemistry-community-north-west-regional-meeting-2026",
-        "start_date": "03 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Lancaster, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscorganicchemistryc03Jul2026_0"
     },
     {
         "themes": [
@@ -3020,7 +2351,7 @@
             "Eastern USA"
         ],
         "title": "R&D & Sea (networking & fishing)",
-        "url": "https://www.eventbrite.com/e/rd-sea-tickets-1989330372696?aff=oddtdtcreator",
+        "url": "https://www.eventbrite.com/e/rd-sea-tickets-1989330372696",
         "start_date": "14 Aug 2026",
         "end_date": null,
         "locations": [
@@ -3033,6 +2364,27 @@
             "NJ"
         ],
         "uid": "rdseanetworkingfishi14Aug2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Applied Process Analytical Technology (PAT) Programme Review Workshop",
+        "url": "https://cpact.com/Events/Event?eid=491",
+        "start_date": "14 Aug 2026",
+        "end_date": null,
+        "locations": [
+            "Singapore, Singapore"
+        ],
+        "countries": [
+            "Singapore"
+        ],
+        "uid": "appliedprocessanalyt14Aug2026_0"
     },
     {
         "themes": [
@@ -8211,6 +7563,46 @@
             "UK"
         ],
         "uid": "intlsymposiumonhomog13Jun2027_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Swedish Chemical Society SCS National Meeting",
+        "url": "https://scs2027.se/",
+        "start_date": "15 Jun 2027",
+        "end_date": "17 Jun 2027",
+        "locations": [
+            "Uppsala, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "swedishchemicalsocie15Jun2027_0"
     },
     {
         "themes": [
