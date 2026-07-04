@@ -600,6 +600,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Industry drug discovery & development: Strategic learning with a focus on neurodegeneration (training course)",
+        "url": "https://www.ucl.ac.uk/brain-sciences/events/2026/jul/industry-drug-discovery-and-development-strategic-learning-focus-neurodegeneration",
+        "start_date": "10 Jul 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "industrydrugdiscover10Jul2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "catalysis",
             "materials/polymers"
@@ -2640,6 +2661,26 @@
     {
         "themes": [
             "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Molecular data engineering from ChEMBL to ML-ready libraries (training course)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSelAvFeCHkjTPcAfHQp8TlNZHeVf5LMXDTl5pOHgHD-AQEb8w/viewform",
+        "start_date": "24 Aug 2026",
+        "end_date": "26 Aug 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "moleculardataenginee24Aug2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "med chem"
         ],
         "regions": [
@@ -2990,6 +3031,27 @@
             "UK"
         ],
         "uid": "edelrisannualsymposi03Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "ELRIG Irish Forum: Discovering precision medicines",
+        "url": "https://elrig.org/portfolio/precision-medicine-biomarker-discovery-elrigs-irish-forum/",
+        "start_date": "03 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigirishforumdisco03Sep2026_0"
     },
     {
         "themes": [
@@ -3999,6 +4061,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "ELRIG Scottish Forum: Advancing drug discovery in women's health research",
+        "url": "https://elrig.org/portfolio/translational-medicine-for-womens-health-elrigs-scottish-forum/",
+        "start_date": "15 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "elrigscottishforumad15Sep2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -4695,6 +4778,28 @@
             "pharma industry"
         ],
         "regions": [
+            "Online"
+        ],
+        "title": "Predict before you synthesize: Machine learning for molecular properties & ADMET (training course)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSelAvFeCHkjTPcAfHQp8TlNZHeVf5LMXDTl5pOHgHD-AQEb8w/viewform",
+        "start_date": "26 Sep 2026",
+        "end_date": "28 Sep 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "predictbeforeyousynt26Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
             "Western Europe"
         ],
         "title": "European Symposium on Quantitative Structure-Activity Relationships EuroQSAR",
@@ -4794,6 +4899,27 @@
             "MA"
         ],
         "uid": "biotechxusa29Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Drug Discovery Innovation Programme",
+        "url": "https://www.bioindustry.org/events/our-events/drug-discovery-innovation-programme.html",
+        "start_date": "29 Sep 2026",
+        "end_date": "30 Sep 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "drugdiscoveryinnovat29Sep2026_0"
     },
     {
         "themes": [
@@ -5594,6 +5720,30 @@
     {
         "themes": [
             "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "JMP Discovery Summit USA",
+        "url": "https://community.jmp.com/t5/Discovery-Summits/2026/ev-p/916270?profile.language=en",
+        "start_date": "19 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Baltimore, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "jmpdiscoverysummitus19Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
             "chem bio"
         ],
         "regions": [
@@ -5770,6 +5920,26 @@
             "LA"
         ],
         "uid": "pharmsci36025Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "The AI-augmented chemist: Building LLM workflows for drug discovery (training course)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSelAvFeCHkjTPcAfHQp8TlNZHeVf5LMXDTl5pOHgHD-AQEb8w/viewform",
+        "start_date": "26 Oct 2026",
+        "end_date": "28 Oct 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "theaiaugmentedchemis26Oct2026_0"
     },
     {
         "themes": [
@@ -6354,8 +6524,8 @@
         ],
         "title": "American College of Toxicology ACT Annual Meeting",
         "url": "https://www.actox.org/am/am2026/index.asp",
-        "start_date": "15 Nov 2026",
-        "end_date": "18 Nov 2026",
+        "start_date": "13 Nov 2026",
+        "end_date": null,
         "locations": [
             "San Antonio, TX, USA"
         ],
@@ -6365,7 +6535,28 @@
         "US_state": [
             "TX"
         ],
-        "uid": "americancollegeoftox15Nov2026_0"
+        "uid": "americancollegeoftox13Nov2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "JMP Discovery Summit Japan",
+        "url": "https://community.jmp.com/t5/Discovery-Summits/Japan-2026/ev-p/916275?profile.language=ja",
+        "start_date": "13 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "jmpdiscoverysummitja13Nov2026_0"
     },
     {
         "themes": [
@@ -6766,7 +6957,7 @@
         "regions": [
             "UK"
         ],
-        "title": "RSC Faraday Community poster symposium (early career)",
+        "title": "RSC Faraday Community poster symposium (early career physical chemists)",
         "url": "https://www.rsc.org/events/find-an-event/faraday-community-poster-symposium",
         "start_date": "30 Nov 2026",
         "end_date": null,
@@ -7180,6 +7371,27 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "JMP Discovery Summit Europe",
+        "url": "https://community.jmp.com/t5/Discovery-Summits/Europe-2027/ev-p/944649?profile.language=en",
+        "start_date": "09 Mar 2027",
+        "end_date": "11 Mar 2027",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "jmpdiscoverysummiteu09Mar2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -7545,6 +7757,27 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "UK JMP User Group",
+        "url": "https://www.jmp.com/en/events/europe/users-groups/2027/uk",
+        "start_date": "09 Jun 2027",
+        "end_date": null,
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "ukjmpusergroup09Jun2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "inorganic/nano",
             "synthesis"
@@ -7627,6 +7860,25 @@
     },
     {
         "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "North of England Chemoinformatics Meeting",
+        "url": "https://www.leachresearchgroup.net/home/chemoinformatics-conference-2027",
+        "start_date": "21 Jun 2027",
+        "end_date": "23 Jun 2027",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "northofenglandchemoi21Jun2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "physical/phys org"
@@ -7645,6 +7897,26 @@
             "UK"
         ],
         "uid": "faradaydiscussionind28Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Joint European Magnetic Resonance Congress & Intl Society of Magnetic Resonance Conference EUROMAR-ISMAR",
+        "url": "https://www.euroismar2027.org/",
+        "start_date": "04 Jul 2027",
+        "end_date": "08 Jul 2027",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "jointeuropeanmagneti04Jul2027_0"
     },
     {
         "themes": [
