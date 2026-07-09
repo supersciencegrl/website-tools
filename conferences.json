@@ -1,127 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "formulation/particle science",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "European Crystallography School",
-        "url": "https://www.ecs11.org/",
-        "start_date": "28 Jun 2026",
-        "end_date": "04 Jul 2026",
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "europeancrystallogra28Jun2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Chemical Research Society of India National Symposium in Chemistry CRSI-NSC-37",
-        "url": "https://iacs.res.in/CRSI2026/index.html",
-        "start_date": "02 Jul 2026",
-        "end_date": "04 Jul 2026",
-        "locations": [
-            "Calcutta, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "chemicalresearchsoci02Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Chemical Biology & Bioorganic Group CBBG Firbush Conference",
-        "url": "https://www.rsc.org/events/find-an-event/21st-rsc-chemical-biology-and-bioorganic-group-(cbbg)-firbush-conference",
-        "start_date": "03 Jul 2026",
-        "end_date": "05 Jul 2026",
-        "locations": [
-            "Killin, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscchemicalbiologybi03Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Europhysical Conference on Defects in Insulating Materials EuroDIM & European School on Defects in Insulating Materials ESDIM",
-        "url": "https://eurodim.ro/",
-        "start_date": "04 Jul 2026",
-        "end_date": "10 Jul 2026",
-        "locations": [
-            "Timisoara, Romania"
-        ],
-        "countries": [
-            "Romania"
-        ],
-        "uid": "europhysicalconferen04Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "environment/fuels",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Metals of life: Transforming health, energy, & environment",
-        "url": "https://warwick.ac.uk/fac/sci/chemistry/chemevents/sadler-symposium-and-outreach-2026/",
-        "start_date": "05 Jul 2026",
-        "end_date": "07 Jul 2026",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "metalsoflifetransfor05Jul2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry",
@@ -246,132 +125,6 @@
     },
     {
         "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Foundation medicinal chemistry workshop",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2026/sci-foundation-medicinal-chemistry-workshop-online-webinar",
-        "start_date": "06 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "foundationmedicinalc06Jul2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data",
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "The next generation of AI chemists (penultimate-year undergrads)",
-        "url": "https://aichemy.ac.uk/next-generation-ai-chemists-programme/",
-        "start_date": "06 Jul 2026",
-        "end_date": "07 Jul 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "thenextgenerationofa06Jul2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Machine Learning & AI in (Bio)chemical Engineering Conference MABC",
-        "url": "https://www.mabc-cambridge.ai/",
-        "start_date": "06 Jul 2026",
-        "end_date": "07 Jul 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "machinelearningaiinb06Jul2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "catalysis",
-            "computational/data",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SynTech: Synthesis Technology Summer School",
-        "url": "https://www.gre.ac.uk/events/current-events/faculty-of-engineering-and-science/SynTech-Synthesis-Technology-Summer-School",
-        "start_date": "06 Jul 2026",
-        "end_date": "08 Jul 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "syntechsynthesistech06Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Africa"
-        ],
-        "title": "analytica Lab Africa",
-        "url": "https://analytica.de/de/south-africa/",
-        "start_date": "06 Jul 2026",
-        "end_date": "08 Jul 2026",
-        "locations": [
-            "Johannesberg, South Africa"
-        ],
-        "countries": [
-            "South Africa"
-        ],
-        "uid": "analyticalabafrica06Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "CCPBioSim Annual Conference: Frontiers in Biomolecular Simulations",
-        "url": "https://www.ccpbiosim.ac.uk/events/upcoming-events/eventdetail/166/18,19,20/12th-annual-ccpbiosim-annual-conference-frontiers-in-biomolecular-simulations",
-        "start_date": "06 Jul 2026",
-        "end_date": "08 Jul 2026",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "ccpbiosimannualconfe06Jul2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "pharma industry"
@@ -435,45 +188,6 @@
     },
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Secondary & Further Education Group SaFE Conference",
-        "url": "https://rscsafegroup.wordpress.com/page/",
-        "start_date": "07 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscsecondaryfurthere07Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Introduction to ion exchange design & operation for industrial water treatment IEX (training course)",
-        "url": "https://www.soci.org/events/separation-science-and-technology-group/2025/iex-2026-technical-training-introductory-course-introduction-to-ion-exchange-design-and-operation-fo",
-        "start_date": "07 Jul 2026",
-        "end_date": "08 Jul 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "introductiontoionexc07Jul2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "environment/fuels",
             "inorganic/nano",
@@ -515,26 +229,6 @@
             "Czechia"
         ],
         "uid": "annualnanotechnology07Jul2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Derisking early phase development: Getting it right the first time",
-        "url": "https://www.linkedin.com/events/paneldiscussion-networkingevent7474841726688501760/",
-        "start_date": "08 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "deriskingearlyphased08Jul2026_0"
     },
     {
         "themes": [
@@ -6215,6 +5909,26 @@
     {
         "themes": [
             "business",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Green Lab Symposium",
+        "url": "https://www.greenlab.ch/en/6-symposium",
+        "start_date": "03 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Allschwil, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "greenlabsymposium03Nov2026_0"
+    },
+    {
+        "themes": [
+            "business",
             "chem bio",
             "pharma industry"
         ],
@@ -7563,23 +7277,45 @@
     {
         "themes": [
             "catalysis",
-            "process/engineering",
             "synthesis"
         ],
         "regions": [
-            "Southern England"
+            "Western Europe"
         ],
-        "title": "SCI Process Development Symposium",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2027/43rd-sci-process-development-symposium",
-        "start_date": "14 Apr 2027",
-        "end_date": "16 Apr 2027",
+        "title": "\"Bürgenstock\" Conference on Stereochemistry",
+        "url": "https://scg.ch/component/eventbooking/bc27",
+        "start_date": "25 Apr 2027",
+        "end_date": "29 Apr 2027",
         "locations": [
-            "Cambridge, UK"
+            "Brunnen, Switzerland"
         ],
         "countries": [
-            "UK"
+            "Switzerland"
         ],
-        "uid": "sciprocessdevelopmen14Apr2027_0"
+        "uid": "bürgenstockconferenc25Apr2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Advances in Process Analytics & Control Technologies APACT USA",
+        "url": "https://cpact.com/Events/Event?eid=477",
+        "start_date": "26 Apr 2027",
+        "end_date": "29 Apr 2027",
+        "locations": [
+            "Pittsburgh, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "advancesinprocessana26Apr2027_0"
     },
     {
         "themes": [
