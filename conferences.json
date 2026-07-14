@@ -305,68 +305,6 @@
     },
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Imperial CDT Chemical Biology Conference",
-        "url": "https://www.eventbrite.co.uk/e/icb-cdt-chemical-biology-conference-2026-tickets-1982969364750",
-        "start_date": "13 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "imperialcdtchemicalb13Jul2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Leadership for scientists, by scientists",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2026/leadership-for-scientists-by-scientists",
-        "start_date": "13 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "leadershipforscienti13Jul2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Synchrotron Electrochemistry Workshop",
-        "url": "https://www.diamond.ac.uk/Home/Events/2026/Synchrotron-Electrochemistry-Workshop-2025.html",
-        "start_date": "13 Jul 2026",
-        "end_date": "14 Jul 2026",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "synchrotronelectroch13Jul2026_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -1561,6 +1499,25 @@
             "SC"
         ],
         "uid": "societyforenvironmen04Aug2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemotion & LabImotion ELN hands-on workshop",
+        "url": "https://nfdi4chem.de/event/chemotionlabimotion-eln-hands-on-workshop-two-day-event-wurzburg",
+        "start_date": "05 Aug 2026",
+        "end_date": "06 Aug 2026",
+        "locations": [
+            "Würzburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "chemotionlabimotione05Aug2026_0"
     },
     {
         "themes": [
@@ -4320,6 +4277,27 @@
             "Netherlands"
         ],
         "uid": "societyforlaboratory30Sep2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lab of the Future Europe",
+        "url": "https://www.lab-of-the-future.com/europe/",
+        "start_date": "30 Sep 2026",
+        "end_date": "01 Oct 2026",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "labofthefutureeurope30Sep2026_0"
     },
     {
         "themes": [
