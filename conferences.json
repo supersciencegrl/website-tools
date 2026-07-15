@@ -4322,6 +4322,29 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data",
+            "law/policy",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Lab Tech Europe",
+        "url": "https://www.we-conect.com/events/labtech-europe-2026",
+        "start_date": "01 Oct 2026",
+        "end_date": "02 Oct 2026",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "labtecheurope01Oct2026_0"
+    },
+    {
+        "themes": [
             "automation"
         ],
         "regions": [
