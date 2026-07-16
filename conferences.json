@@ -1,27 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "catalysis",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Confrence on Molecular Imprinting",
-        "url": "https://univie.eventsair.com/mip2026/",
-        "start_date": "12 Jul 2026",
-        "end_date": "15 Jul 2026",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "intlconfrenceonmolec12Jul2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -305,26 +284,6 @@
     },
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Faraday discussion: Solid electrolyte interphases in next-gen batteries",
-        "url": "https://www.rsc.org/events/detail/80737/",
-        "start_date": "13 Jul 2026",
-        "end_date": "15 Jul 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "faradaydiscussionsol13Jul2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio",
             "law/policy",
@@ -453,25 +412,6 @@
             "Ireland"
         ],
         "uid": "intlconferenceonmeta14Jul2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Formulation Forum 10th anniversary event",
-        "url": "https://www.soci.org/events/formulation-forum/2026/formulation-forum-10th-anniversary-event",
-        "start_date": "15 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciformulationforum115Jul2026_0"
     },
     {
         "themes": [
