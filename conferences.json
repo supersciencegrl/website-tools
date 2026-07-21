@@ -1900,6 +1900,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "FoldNetUK Symposium (foldamers)",
+        "url": "https://www.eventbrite.com/e/foldnetuk-symposium-tickets-1986990906289",
+        "start_date": "02 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "foldnetuksymposiumfo02Sep2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "materials/polymers",
             "med chem"
