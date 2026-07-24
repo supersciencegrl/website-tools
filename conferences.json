@@ -1,27 +1,6 @@
 [
     {
         "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20260713/",
-        "start_date": "13 Jul 2026",
-        "end_date": "22 Jul 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "chemicaldevelopments13Jul2026_0"
-    },
-    {
-        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -191,64 +170,6 @@
             "MD"
         ],
         "uid": "introtomachinelearni20Jul2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "GenAI in Chemistry Education Symposium",
-        "url": "https://aichemy.ac.uk/event/gen-ai-in-chemistry-education/",
-        "start_date": "21 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "genaiinchemistryeduc21Jul2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "From molecules to mobility: The future of sustainable fuels",
-        "url": "https://soci.org/events/materials-ecc/2026/from-molecules-to-mobility-the-future-of-sustainable-fuels",
-        "start_date": "23 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "frommoleculestomobil23Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC Applied Symposium: Interfaces & polymers for a sustainable future",
-        "url": "https://www.rsc.org/events/detail/82841/rsc-applied-symposium-interfaces-and-polymers-for-a-sustainable-future",
-        "start_date": "23 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscappliedsymposiumi23Jul2026_0"
     },
     {
         "themes": [
