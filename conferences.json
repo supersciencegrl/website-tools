@@ -1,225 +1,6 @@
 [
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Computational Chemistry",
-        "url": "https://www.grc.org/computational-chemistry-conference/2026/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "gordonresearchconfer19Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Intl Society of Heterocyclic Chemistry Conference ISHC",
-        "url": "https://ishc-brazil2026.com/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "São Carlos, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "uid": "intlsocietyofheteroc19Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Additive Manufacturing of Soft Materials",
-        "url": "https://www.grc.org/additive-manufacturing-of-soft-materials-conference/2026/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer19Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Plasmonics & Nanophotonics",
-        "url": "https://www.grc.org/plasmonics-and-nanophotonics-conference/2026/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer19Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Research at High Pressure",
-        "url": "https://www.grc.org/research-at-high-pressure-conference/2026/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer19Jul2026_0"
-    },
-    {
-        "themes": [
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Stereochemistry",
-        "url": "https://www.grc.org/stereochemistry-conference/2026/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer19Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Intl Society of Heterocyclic Chemistry ISHC Congress",
-        "url": "https://www.ishc-brazil2026.com/",
-        "start_date": "19 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "São Carlos, Brazil"
-        ],
-        "countries": [
-            "Brazil"
-        ],
-        "uid": "intlsocietyofheteroc19Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Intro to machine learning & Rosetta (biomolecule design) bootcamp",
-        "url": "https://sites.google.com/omsf.io/ml-bootcamp",
-        "start_date": "20 Jul 2026",
-        "end_date": "24 Jul 2026",
-        "locations": [
-            "Baltimore, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "introtomachinelearni20Jul2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "ACS Division of Organic Chemistry DOC Graduate Research Symposium GRS",
-        "url": "https://www.organicdivision.org/graduate-research-symposium/",
-        "start_date": "23 Jul 2026",
-        "end_date": "26 Jul 2026",
-        "locations": [
-            "Atlanta, GA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "GA"
-        ],
-        "uid": "acsdivisionoforganic23Jul2026_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Methods in Chemistry Education Research MICER",
-        "url": "https://conferences.union.wisc.edu/bcce2026/micer/",
-        "start_date": "25 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Madison, WI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WI"
-        ],
-        "uid": "methodsinchemistryed25Jul2026_0"
-    },
-    {
-        "themes": [
             "education"
         ],
         "regions": [
@@ -6868,6 +6649,27 @@
             "UK"
         ],
         "uid": "faradaydiscussioncor07Apr2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EuroLab Live",
+        "url": "https://www.terrapinn.com/exhibition/eurolab-live/index.stm",
+        "start_date": "13 Apr 2027",
+        "end_date": "14 Apr 2027",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "eurolablive13Apr2027_0"
     },
     {
         "themes": [
