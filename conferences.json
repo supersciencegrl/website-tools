@@ -354,26 +354,6 @@
     },
     {
         "themes": [
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Early career researchers Macrocyclic & Supramolecular Group ECR MASC Meeting",
-        "url": "https://mascgroup.co.uk/ecr-masc-2026/",
-        "start_date": "28 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "earlycareerresearche28Jul2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "materials/polymers"
         ],
@@ -1708,6 +1688,7 @@
     },
     {
         "themes": [
+            "careers",
             "catalysis",
             "inorganic/nano",
             "physical/phys org",
@@ -1727,6 +1708,27 @@
             "UK"
         ],
         "uid": "rscphotophysicsphoto03Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Recent Appointees in Material Science RAMS2026 (academics only)",
+        "url": "https://eng.ed.ac.uk/rams2026",
+        "start_date": "03 Sep 2026",
+        "end_date": "04 Sep 2026",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "recentappointeesinma03Sep2026_0"
     },
     {
         "themes": [
@@ -3588,6 +3590,28 @@
             "UK"
         ],
         "uid": "miniadvancesinproces24Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Western Canadian Medicinal Chemistry Workshop WCMCW",
+        "url": "https://wcmcw.ca/",
+        "start_date": "25 Sep 2026",
+        "end_date": "27 Sep 2026",
+        "locations": [
+            "Saskatoon, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "westerncanadianmedic25Sep2026_0"
     },
     {
         "themes": [
@@ -5545,6 +5569,28 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "SCI Material Translation Accelerator: Battery materials",
+        "url": "https://www.harwellxps.uk/mta-event-challenge-input",
+        "start_date": "13 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Harwell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scimaterialtranslati13Nov2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "pharma industry"
         ],
@@ -7264,6 +7310,30 @@
             "Slovenia"
         ],
         "uid": "europeancongressonca29Aug2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Faraday Discussion: Digital chemistry discovery",
+        "url": "https://www.rsc.org/events/find-an-event/digital-chemistry-discovery-faraday-discussion",
+        "start_date": "08 Sep 2027",
+        "end_date": "10 Sep 2027",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "faradaydiscussiondig08Sep2027_0"
     },
     {
         "themes": [
