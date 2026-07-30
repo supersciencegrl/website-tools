@@ -917,27 +917,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Applied Process Analytical Technology (PAT) Programme Review Workshop",
-        "url": "https://cpact.com/Events/Event?eid=491",
-        "start_date": "14 Aug 2026",
-        "end_date": null,
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "uid": "appliedprocessanalyt14Aug2026_0"
-    },
-    {
-        "themes": [
             "analytical"
         ],
         "regions": [
@@ -3680,6 +3659,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "PyLabRobot workshop",
+        "url": "https://www.linkedin.com/posts/pylabrobot-hands-on-workshops-in-copenhagen-ugcPost-7472947001022820352-sfET/",
+        "start_date": "28 Sep 2026",
+        "end_date": "29 Sep 2026",
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "pylabrobotworkshop28Sep2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "computational/data",
             "environment/fuels",
@@ -4707,6 +4706,41 @@
             "UK"
         ],
         "uid": "bionowbioigniteconfe20Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "North America",
+            "UK",
+            "Midwest USA",
+            "Online"
+        ],
+        "title": "Device integration hackathon",
+        "url": "https://airtable.com/appYBjHgttvBuz3XR/paga3fOK3rkLzXhYc/form",
+        "start_date": "20 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Toronto, Canada",
+            "Liverpool, UK",
+            "Dayton, OH, USA",
+            "Chicago, IL, USA",
+            "Online"
+        ],
+        "countries": [
+            "Canada",
+            "UK",
+            "USA",
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "OH",
+            "IL"
+        ],
+        "uid": "deviceintegrationhac20Oct2026_0"
     },
     {
         "themes": [
@@ -6064,6 +6098,26 @@
     {
         "themes": [
             "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Future Labs, Automation, & Technology Europe",
+        "url": "https://www.amg-world.co.uk/future-labs-europe/",
+        "start_date": "01 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "futurelabsautomation01Dec2026_0"
+    },
+    {
+        "themes": [
+            "automation",
             "computational/data",
             "med chem",
             "pharma industry"
@@ -6675,6 +6729,28 @@
             "WA"
         ],
         "uid": "materialsresearchsoc05Apr2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "SCI-RSC Workshop on Computational Tools for Drug Discovery",
+        "url": "https://rsccicag.org/forthcoming%20meetings.htm",
+        "start_date": "07 Apr 2027",
+        "end_date": null,
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scirscworkshoponcomp07Apr2027_0"
     },
     {
         "themes": [
