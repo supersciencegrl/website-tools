@@ -1,399 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Biennial Conference on Chemistry Education BCCE",
-        "url": "https://conferences.union.wisc.edu/bcce2026/micer/",
-        "start_date": "26 Jul 2026",
-        "end_date": "30 Jul 2026",
-        "locations": [
-            "Madison, WI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "WI"
-        ],
-        "uid": "biennialconferenceon26Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Midlands"
-        ],
-        "title": "Intl Conference on Hydrogenase & Other Redox Metalloenzymes 2026",
-        "url": "https://le.ac.uk/chemistry/research/hydrogenase-2026",
-        "start_date": "26 Jul 2026",
-        "end_date": "30 Jul 2026",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlconferenceonhydr26Jul2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Unconventional Semiconductors & Their Applications",
-        "url": "https://www.grc.org/unconventional-semiconductors-and-their-applications-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Portland, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "EUChemS Conference on Molten Salts & Ionic Liquids EUCHEMSIL",
-        "url": "https://euchemsil2026.msildg.org/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "euchemsconferenceonm26Jul2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Biomineralization",
-        "url": "https://www.grc.org/biomineralization-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Lucca, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Defects in Semiconductors",
-        "url": "https://www.grc.org/defects-in-semiconductors-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Electron Donor-Acceptor Interactions",
-        "url": "https://www.grc.org/electron-donor-acceptor-interactions-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Newport, RI, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "RI"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Enzymes, Coenzymes & Metabolic Pathways",
-        "url": "https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Newry, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Fuel Cells",
-        "url": "https://www.grc.org/fuel-cells-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Manchester, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Gordon Research Conference: Green Chemistry",
-        "url": "https://www.grc.org/green-chemistry-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Barcelona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Multiscale Mechanochemistry & Mechanobiology",
-        "url": "https://www.grc.org/multiscale-mechanochemistry-and-mechanobiology-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Lewiston, ME, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Polymer Physics",
-        "url": "https://www.grc.org/polymer-physics-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "South Hadley, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Quantum Science",
-        "url": "https://www.grc.org/quantum-science-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Easton, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Solid State Chemistry",
-        "url": "https://www.grc.org/solid-state-chemistry-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Water & Aqueous Solutions",
-        "url": "https://www.grc.org/water-and-aqueous-solutions-conference/2026/",
-        "start_date": "26 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Holderness, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer26Jul2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Mid-career faculty development workshop",
-        "url": "https://www.aiche.org/conferences/mid-career-faculty-development-workshop/2026",
-        "start_date": "27 Jul 2026",
-        "end_date": "30 Jul 2026",
-        "locations": [
-            "Philadelphia, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "midcareerfacultydeve27Jul2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Physical Science Data Infrastructure & Royce Materials Data Summit",
-        "url": "https://www.psdi.ac.uk/event/psdi_royce_materials_data_summit/",
-        "start_date": "29 Jul 2026",
-        "end_date": "31 Jul 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "physicalsciencedatai29Jul2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "materials/polymers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "From molecules to mobility: The future of sustainable fuels",
-        "url": "https://www.soci.org/events/materials-ecc/2026/from-molecules-to-mobility-the-future-of-sustainable-fuels",
-        "start_date": "30 Jul 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "frommoleculestomobil30Jul2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "chem bio"
         ],
@@ -6400,6 +6007,47 @@
             "UK"
         ],
         "uid": "celebrationofthethom14Dec2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Southern USA",
+            "Western Europe",
+            "Asia",
+            "UK",
+            "Online"
+        ],
+        "title": "Machine Learning for Microscopy Hackathon",
+        "url": "https://kaliningroup.github.io/mic_hackathon_3/",
+        "start_date": "15 Dec 2026",
+        "end_date": "17 Dec 2026",
+        "locations": [
+            "Manchester, UK ",
+            " Berlin, Germany ",
+            " Stuttgart, Germany ",
+            " Genoa, Italy ",
+            " Suwon, S Korea ",
+            " Kanazawa, Japan ",
+            " Raleigh, NC, USA ",
+            " Knoxville, TN, USA ",
+            " Online"
+        ],
+        "countries": [
+            "UK ",
+            "Germany ",
+            "Germany ",
+            "Italy ",
+            "S Korea ",
+            "Japan ",
+            "USA ",
+            "USA ",
+            " Online"
+        ],
+        "uid": "machinelearningformi15Dec2026_0"
     },
     {
         "themes": [
