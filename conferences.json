@@ -187,28 +187,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "materials/polymers",
-            "med chem",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ML4Chem: Modern machine learning in chemistry",
-        "url": "https://ml4chem2026.github.io/",
-        "start_date": "03 Aug 2026",
-        "end_date": "05 Aug 2026",
-        "locations": [
-            "Leipzig, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "ml4chemmodernmachine03Aug2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "environment/fuels",
             "safety"
@@ -6924,6 +6902,29 @@
             "Canada"
         ],
         "uid": "iupacgeneralassembly08Jul2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "US National Organic Symposium",
+        "url": "https://www.nationalorganicsymposium.org/",
+        "start_date": "25 Jul 2027",
+        "end_date": "29 Jul 2027",
+        "locations": [
+            "Minneapolis, MN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MN"
+        ],
+        "uid": "usnationalorganicsym25Jul2027_0"
     },
     {
         "themes": [
