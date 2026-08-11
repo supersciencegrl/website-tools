@@ -26,26 +26,6 @@
     },
     {
         "themes": [
-            "analytical",
-            "physical/phys org"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "IUCr Electron Crystallography School ECS",
-        "url": "https://sites.google.com/view/iucr-satellite-school/home",
-        "start_date": "08 Aug 2026",
-        "end_date": "10 Aug 2026",
-        "locations": [
-            "Calgary, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "iucrelectroncrystall08Aug2026_0"
-    },
-    {
-        "themes": [
             "careers",
             "chem bio",
             "computational/data",
@@ -3908,6 +3888,28 @@
             "Mexico"
         ],
         "uid": "intlconferenceonpoly18Oct2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "US National Chemistry Week",
+        "url": "https://www.acs.org/education/national-chemistry-week.html",
+        "start_date": "18 Oct 2026",
+        "end_date": "24 Oct 2026",
+        "locations": [
+            "USA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "USA"
+        ],
+        "uid": "usnationalchemistryw18Oct2026_0"
     },
     {
         "themes": [
