@@ -3169,7 +3169,7 @@
             "Western Europe"
         ],
         "title": "Swiss course on medicinal chemistry",
-        "url": "https://scg.ch/component/pages/page-medicinal-chemistry",
+        "url": "https://scmc26.scg.ch/",
         "start_date": "04 Oct 2026",
         "end_date": "09 Oct 2026",
         "locations": [
@@ -3593,6 +3593,30 @@
             "MA"
         ],
         "uid": "paperlesslabacademyu12Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Chemical Biology Society meeting ICBS2026",
+        "url": "https://www.chemical-biology.org/page/ICBS2026",
+        "start_date": "12 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "San Francisco, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlchemicalbiologys12Oct2026_0"
     },
     {
         "themes": [
@@ -5651,6 +5675,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SRC & KVCV MedChem 2026",
+        "url": "https://www.medchem.be/",
+        "start_date": "14 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "srckvcvmedchem202614Dec2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -6864,6 +6909,27 @@
             "Switzerland"
         ],
         "uid": "ilmactradefair21Sep2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Environmental Catalysis ICEC",
+        "url": "https://www.icec2027.kit.edu/",
+        "start_date": "12 Oct 2027",
+        "end_date": "15 Oct 2027",
+        "locations": [
+            "Karlsruhe, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "intlconferenceonenvi12Oct2027_0"
     },
     {
         "themes": [
