@@ -1,146 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Short course on experimental models of human cancer",
-        "url": "https://www.jax.org/education-and-learning/education-calendar/2026/08-august/34th-annual-cancer-short-course",
-        "start_date": "06 Aug 2026",
-        "end_date": "14 Aug 2026",
-        "locations": [
-            "Bar Harbor, ME, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "ME"
-        ],
-        "uid": "shortcourseonexperim06Aug2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Merck Innovation Cup (students & postdocs)",
-        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
-        "start_date": "08 Aug 2026",
-        "end_date": "14 Aug 2026",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "merckinnovationcupst08Aug2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "catalysis",
-            "computational/data",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Symposium on Nano & Supramolecular Chemistry ISNSC",
-        "url": "https://isnsc2026.uksw.edu/",
-        "start_date": "09 Aug 2026",
-        "end_date": "12 Aug 2026",
-        "locations": [
-            "Bali, Indonesia"
-        ],
-        "countries": [
-            "Indonesia"
-        ],
-        "uid": "intlsymposiumonnanos09Aug2026_0"
-    },
-    {
-        "themes": [
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Gordon Research Conference: Medicinal Chemistry",
-        "url": "https://www.grc.org/medicinal-chemistry-conference/2026/",
-        "start_date": "09 Aug 2026",
-        "end_date": "14 Aug 2026",
-        "locations": [
-            "New London, NH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NH"
-        ],
-        "uid": "gordonresearchconfer09Aug2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "SURFCAT summer school: The science of sustainable fuels & chemicals",
-        "url": "https://physics.dtu.dk/research/sections/surfcat/summerschool2026",
-        "start_date": "09 Aug 2026",
-        "end_date": "14 Aug 2026",
-        "locations": [
-            "Skælskør, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "surfcatsummerschoolt09Aug2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "law/policy",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Advanced comprehensive toxicology (training course)",
-        "url": "https://www.actox.org/education/training/courses.asp",
-        "start_date": "10 Aug 2026",
-        "end_date": "14 Aug 2026",
-        "locations": [
-            "Gaithersburg, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "advancedcomprehensiv10Aug2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "formulation/particle science"
         ],
@@ -158,30 +18,6 @@
             "Canada"
         ],
         "uid": "intlunionofcrystallo11Aug2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "R&D & Sea (networking & fishing)",
-        "url": "https://www.eventbrite.com/e/rd-sea-tickets-1989330372696",
-        "start_date": "14 Aug 2026",
-        "end_date": null,
-        "locations": [
-            "Belmar, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "rdseanetworkingfishi14Aug2026_0"
     },
     {
         "themes": [
@@ -261,6 +97,28 @@
             "Germany"
         ],
         "uid": "leipzigrosettaworksh17Aug2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "InChI User Meeting",
+        "url": "https://www.eventbrite.com/e/inchi-user-meeting-tickets-1995331514272",
+        "start_date": "21 Aug 2026",
+        "end_date": null,
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "IL"
+        ],
+        "uid": "inchiusermeeting21Aug2026_0"
     },
     {
         "themes": [
@@ -1630,6 +1488,28 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Industrial Flow Chemistry Bootcamp: From microreactor fundamentals to advanced chemistries & smart process control",
+        "url": "https://glostem.in/conference/industrial-flow-chemistry-bootcamp",
+        "start_date": "09 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "industrialflowchemis09Sep2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -1709,6 +1589,29 @@
             "Switzerland"
         ],
         "uid": "europeanfederationfo10Sep2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Flow Chemistry India FCI",
+        "url": "https://glostem.in/conference/fci-2026",
+        "start_date": "10 Sep 2026",
+        "end_date": "11 Sep 2026",
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "flowchemistryindiafc10Sep2026_0"
     },
     {
         "themes": [
@@ -2105,6 +2008,26 @@
     },
     {
         "themes": [
+            "automation",
+            "chem bio"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "London Lab Automation Community: Automated enzymology",
+        "url": "https://luma.com/pd1nb1df",
+        "start_date": "15 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "londonlabautomationc15Sep2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "materials/polymers",
@@ -2234,6 +2157,25 @@
             "Belgium"
         ],
         "uid": "biotalkeubiologicalm16Sep2026_0"
+    },
+    {
+        "themes": [
+            "education"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Future Chemistry Hub (outreach)",
+        "url": "https://labnews.co.uk/future-chemistry-hub-from-bench-to-ai/",
+        "start_date": "16 Sep 2026",
+        "end_date": "17 Sep 2026",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "futurechemistryhubou16Sep2026_0"
     },
     {
         "themes": [
@@ -2948,6 +2890,27 @@
     {
         "themes": [
             "analytical",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Pan-European Science Conference on Quality by Design QbD & Process Analytical Technology PAT EuPAT & Centre of Excellence in Sustainable Pharmaceutical Engineering & Manufacturing CESPE",
+        "url": "https://cespe.be/eupat13-cespe-conference-2026/",
+        "start_date": "28 Sep 2026",
+        "end_date": "30 Sep 2026",
+        "locations": [
+            "Ghent, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "paneuropeanscienceco28Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "computational/data",
             "environment/fuels",
             "materials/polymers",
@@ -3092,6 +3055,26 @@
             "Italy"
         ],
         "uid": "gpcrsinmedicinalchem30Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC plant tour: GMP Manufacturing Ltd",
+        "url": "https://www.rsc.org/events/find-an-event/gmp-manufacturing-ltd-tour",
+        "start_date": "01 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Hull, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscplanttourgmpmanuf01Oct2026_0"
     },
     {
         "themes": [
@@ -3444,6 +3427,29 @@
             "MA"
         ],
         "uid": "computationalmedicin07Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Anglo-Italian Nucleic Acid Symposium",
+        "url": "https://www.rsc.org/events/find-an-event/1st-anglo-italian-nucleic-acids-symposium",
+        "start_date": "07 Oct 2026",
+        "end_date": "20 Oct 2026",
+        "locations": [
+            "Cantanzaro, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "angloitaliannucleica07Oct2026_0"
     },
     {
         "themes": [
@@ -4829,6 +4835,29 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "ChemSci 2026: Leaders in the Field Symposium",
+        "url": "https://www.rsc.org/events/find-an-event/chemsci-2026-leaders-in-the-field-symposium,-iiser-bhopal-2026-11-12",
+        "start_date": "12 Nov 2026",
+        "end_date": "14 Nov 2026",
+        "locations": [
+            "Bhopal, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "chemsci2026leadersin12Nov2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "materials/polymers"
@@ -5211,6 +5240,26 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Speciality & complex generics for highly regulated markets",
+        "url": "https://glostem.in/conference/complex-generics-2026",
+        "start_date": "19 Nov 2026",
+        "end_date": "20 Nov 2026",
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "specialitycomplexgen19Nov2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -5366,6 +5415,48 @@
             "UK"
         ],
         "uid": "biotechoutsourcingso24Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Physical Sciences Data Infrastructure PSDI Showcase",
+        "url": "https://www.psdi.ac.uk/event/showcase-2026/",
+        "start_date": "25 Nov 2026",
+        "end_date": "26 Nov 2026",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "physicalsciencesdata25Nov2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "education",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "RSC Meet the Editors (materials chemistry, energy, electrocatalysis focus)",
+        "url": "https://www.rsc.org/events/find-an-event/rsc-meet-the-editors-2026-11-26",
+        "start_date": "26 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Tamil Nadu, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "rscmeettheeditorsmat26Nov2026_0"
     },
     {
         "themes": [
@@ -5912,6 +6003,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Big Data: Breakthroughs in drug discovery with AI",
+        "url": "https://www.soci.org/events/fine-chemicals-group/2027/big-data-iv-breakthroughs-in-drug-discovery-with-ai",
+        "start_date": "09 Feb 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bigdatabreakthroughs09Feb2027_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -6191,6 +6304,29 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "materials/polymers",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "BioCatUK",
+        "url": "https://www.rsc.org/events/find-an-event/biocatuk-2027-uk-meeting-in-biocatalysis",
+        "start_date": "21 Apr 2027",
+        "end_date": "22 Apr 2027",
+        "locations": [
+            "Durham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "biocatuk21Apr2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "business",
@@ -6279,6 +6415,27 @@
             "PA"
         ],
         "uid": "advancesinprocessana26Apr2027_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Chemical Process Engineering, Intensification, & Safety CPEIS",
+        "url": "https://glostem.in/conference/cpeis-2027",
+        "start_date": "06 May 2027",
+        "end_date": "07 May 2027",
+        "locations": [
+            "Ahmedabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "chemicalprocessengin06May2027_0"
     },
     {
         "themes": [
@@ -6451,6 +6608,47 @@
             "UK"
         ],
         "uid": "ukjmpusergroup09Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Catalyst & solvent strategies for efficient & scalable industrial chemistry",
+        "url": "https://glostem.in/conference/catalysts-and-solvent-strategies",
+        "start_date": "10 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "catalystsolventstrat10Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Microfluidics & lab-on-a-chip India",
+        "url": "https://glostem.in/conference/mloac-2027",
+        "start_date": "10 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Hyderabad, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "microfluidicslabonac10Jun2027_0"
     },
     {
         "themes": [
@@ -6909,6 +7107,49 @@
             "Switzerland"
         ],
         "uid": "ilmactradefair21Sep2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Industrial flow chemistry bootcamp: From microreactor fundamentals to advanced chemistries & smart process control",
+        "url": "https://glostem.in/conference/flow-training",
+        "start_date": "22 Sep 2027",
+        "end_date": null,
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "industrialflowchemis22Sep2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Flow Chemistry India FCI",
+        "url": "https://glostem.in/conference/flow-chemistry-india-27",
+        "start_date": "23 Sep 2027",
+        "end_date": "24 Sep 2027",
+        "locations": [
+            "Mumbai, India"
+        ],
+        "countries": [
+            "India"
+        ],
+        "uid": "flowchemistryindiafc23Sep2027_0"
     },
     {
         "themes": [
