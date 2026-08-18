@@ -21,25 +21,6 @@
     },
     {
         "themes": [
-            "analytical"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Grass Roots: Fundamentals of Liquid Chromatography",
-        "url": "https://sasevents.eventsair.com/grass-roots-8/gr8reg",
-        "start_date": "14 Aug 2026",
-        "end_date": "17 Aug 2026",
-        "locations": [
-            "Carlisle, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "grassrootsfundamenta14Aug2026_0"
-    },
-    {
-        "themes": [
             "education"
         ],
         "regions": [
@@ -250,6 +231,26 @@
             "Germany"
         ],
         "uid": "intlcongressonbiocat23Aug2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Density Functional Theory & its Applications DFT 2026",
+        "url": "https://dft2026.com/",
+        "start_date": "23 Aug 2026",
+        "end_date": "27 Aug 2026",
+        "locations": [
+            "Donostia-San Sebastián, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "intlconferenceondens23Aug2026_0"
     },
     {
         "themes": [
