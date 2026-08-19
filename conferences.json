@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "analytical",
-            "formulation/particle science"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Intl Union of Crystallography IUCr Conference",
-        "url": "https://www.iucr2026.org/",
-        "start_date": "11 Aug 2026",
-        "end_date": "18 Aug 2026",
-        "locations": [
-            "Calgary, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "intlunionofcrystallo11Aug2026_0"
-    },
-    {
-        "themes": [
             "education"
         ],
         "regions": [
