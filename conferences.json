@@ -1,25 +1,6 @@
 [
     {
         "themes": [
-            "education"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Chemistry Tournament (high school students)",
-        "url": "https://ichto2026.com/",
-        "start_date": "15 Aug 2026",
-        "end_date": "19 Aug 2026",
-        "locations": [
-            "Hoengseong, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "intlchemistrytournam15Aug2026_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers",
             "physical/phys org"
@@ -3040,6 +3021,26 @@
     {
         "themes": [
             "careers",
+            "diversity"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Women in Science Symposium",
+        "url": "https://www.w4w.nat.fau.eu/wis-2026/",
+        "start_date": "30 Sep 2026",
+        "end_date": "02 Oct 2026",
+        "locations": [
+            "Erlangen, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "womeninsciencesympos30Sep2026_0"
+    },
+    {
+        "themes": [
+            "careers",
             "process/engineering"
         ],
         "regions": [
@@ -4171,6 +4172,25 @@
             "NM"
         ],
         "uid": "annualostemconferenc22Oct2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "FAIR data in chemistry: Current trends",
+        "url": "https://fairchemistry.iciq.es/",
+        "start_date": "23 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Tarragona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "fairdatainchemistryc23Oct2026_0"
     },
     {
         "themes": [
