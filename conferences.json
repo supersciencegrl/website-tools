@@ -1,69 +1,6 @@
 [
     {
         "themes": [
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on the Physics of Semiconductors ICPS2026",
-        "url": "https://icps2026.jp/",
-        "start_date": "16 Aug 2026",
-        "end_date": "21 Aug 2026",
-        "locations": [
-            "Tokyo, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "intlconferenceonthep16Aug2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Leipzig Rosetta Workshop: Methods of computational protein design",
-        "url": "https://meilerlab.org/leipzig-workshop-2026/",
-        "start_date": "17 Aug 2026",
-        "end_date": "21 Aug 2026",
-        "locations": [
-            "Leipzig, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "leipzigrosettaworksh17Aug2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "InChI User Meeting",
-        "url": "https://www.eventbrite.com/e/inchi-user-meeting-tickets-1995331514272",
-        "start_date": "21 Aug 2026",
-        "end_date": null,
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "inchiusermeeting21Aug2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -3453,6 +3390,30 @@
             "UK"
         ],
         "uid": "highlightsinmedicina08Oct2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "business",
+            "chem bio",
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "ENGINE Summit: Advanced R&D for competitive advantage",
+        "url": "https://www.harwell-ic.co.uk/event/engine-summit/",
+        "start_date": "08 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Harwell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "enginesummitadvanced08Oct2026_0"
     },
     {
         "themes": [
