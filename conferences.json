@@ -5096,26 +5096,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "RSC CICAG Quantum Computing in Chemistry: Current capabilities & the road to utility",
-        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=148219&ef_sel_menu=2770&eventID=363",
-        "start_date": "17 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rsccicagquantumcompu17Nov2026_0"
-    },
-    {
-        "themes": [
             "business",
             "computational/data",
             "pharma industry"
@@ -5199,6 +5179,26 @@
             "New Zealand"
         ],
         "uid": "chemedbiolive18Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Quantum Computing in Chemistry",
+        "url": "https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=148219&eventID=363",
+        "start_date": "19 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "quantumcomputinginch19Nov2026_0"
     },
     {
         "themes": [
