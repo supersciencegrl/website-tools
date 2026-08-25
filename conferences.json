@@ -4690,6 +4690,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "careers",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "JPAG Pharmaceutical Analysis Research & Career Fair",
+        "url": "https://www.jpag.org/?p=meetings&r=195",
+        "start_date": "10 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "jpagpharmaceuticalan10Nov2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
