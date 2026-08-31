@@ -1383,6 +1383,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Q2B The Roadmap to Quantum Value",
+        "url": "https://q2b.qcware.com/conference/2026-copenhagen",
+        "start_date": "09 Sep 2026",
+        "end_date": null,
+        "locations": [
+            "Copenhagen, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "q2btheroadmaptoquant09Sep2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering"
         ],
@@ -1614,6 +1634,26 @@
             "Italy"
         ],
         "uid": "italiannationalmeeti13Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "safety"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EUROTOX (toxicology)",
+        "url": "https://www.eurotox2026.com/",
+        "start_date": "13 Sep 2026",
+        "end_date": "16 Sep 2026",
+        "locations": [
+            "Vienna, Austria"
+        ],
+        "countries": [
+            "Austria"
+        ],
+        "uid": "eurotoxtoxicology13Sep2026_0"
     },
     {
         "themes": [
@@ -2310,7 +2350,7 @@
             "formulation/particle science"
         ],
         "regions": [
-            "Northern Europe"
+            "Western Europe"
         ],
         "title": "GDCh-Tagung Farben & Lacke",
         "url": "https://gdch.app/event/lacktagung-2026",
@@ -2323,6 +2363,28 @@
             "Germany"
         ],
         "uid": "gdchtagungfarbenlack16Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "RNA Horizons Conference",
+        "url": "https://rnahorizons.com/",
+        "start_date": "16 Sep 2026",
+        "end_date": "18 Sep 2026",
+        "locations": [
+            "Munich, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "rnahorizonsconferenc16Sep2026_0"
     },
     {
         "themes": [
@@ -3297,6 +3359,34 @@
     },
     {
         "themes": [
+            "business",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Discovery on Target",
+        "url": "https://www.discoveryontarget.com/",
+        "start_date": "28 Sep 2026",
+        "end_date": "01 Oct 2026",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "discoveryontarget28Sep2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -3950,6 +4040,27 @@
             "UK"
         ],
         "uid": "renewablesondemandca07Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Covalent modulation in drug discovery",
+        "url": "https://my.bps.ac.uk/events/details/?id=888092aa-2cd0-f011-8544-7c1e5204bf3d",
+        "start_date": "07 Oct 2026",
+        "end_date": "08 Oct 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "covalentmodulationin07Oct2026_0"
     },
     {
         "themes": [
@@ -4888,6 +4999,27 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "From bench to beyond: Exploring career pathways in pharmacology",
+        "url": "https://www.bps.ac.uk/events/event/from-bench-to-beyond-exploring-career-pathways-in-pharmacology/",
+        "start_date": "21 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "frombenchtobeyondexp21Oct2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation"
         ],
@@ -5044,7 +5176,7 @@
         ],
         "title": "Valrose Chemical Biology Exchange",
         "url": "https://valcbx2026.wordpress.com/",
-        "start_date": "21 Oct 2026",
+        "start_date": "23 Oct 2026",
         "end_date": null,
         "locations": [
             "Nice, France"
@@ -5052,7 +5184,7 @@
         "countries": [
             "France"
         ],
-        "uid": "valrosechemicalbiolo21Oct2026_0"
+        "uid": "valrosechemicalbiolo23Oct2026_0"
     },
     {
         "themes": [
@@ -5149,6 +5281,30 @@
             "Spain"
         ],
         "uid": "cleanerproductioncon26Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Society for Cellular & Computational Toxicology ASCCT & Society for Advancement of Adverse Outcome Pathways SAAOP Annual Meetings",
+        "url": "https://www.ascctox.org/annual-meeting",
+        "start_date": "26 Oct 2026",
+        "end_date": "29 Oct 2026",
+        "locations": [
+            "Durham, NC, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NC"
+        ],
+        "uid": "americansocietyforce26Oct2026_0"
     },
     {
         "themes": [
@@ -5719,6 +5875,26 @@
     {
         "themes": [
             "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Irish Associatoin of Pharmacologists IAP Annual Meeting",
+        "url": "https://www.pharmacology.ie/2026-annual-meeting/",
+        "start_date": "06 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "irishassociatoinofph06Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "computational/data",
             "materials/polymers",
             "med chem",
@@ -5829,6 +6005,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Genomics & Precision Medicine Congress",
+        "url": "https://live.publicpolicyprojects.com/GenomicsandPrecisionMedicinesCongress2026",
+        "start_date": "10 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "genomicsprecisionmed10Nov2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -5909,6 +6105,26 @@
             "S Korea"
         ],
         "uid": "worldrnabasedtherape10Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Training course on pharmacogenomics",
+        "url": "https://www.mrcc.org.uk/events/eshg-pharmacogenetics-course-2026-in-person-manchester-uk/",
+        "start_date": "11 Nov 2026",
+        "end_date": "13 Nov 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "trainingcourseonphar11Nov2026_0"
     },
     {
         "themes": [
@@ -7328,6 +7544,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Pharmacology 2026",
+        "url": "https://www.miceconciergeme.com/pharmacology-2026/",
+        "start_date": "08 Dec 2026",
+        "end_date": "10 Dec 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "pharmacology202608Dec2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -8087,6 +8323,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Congress of Pharmacology",
+        "url": "https://ephar2027.org/",
+        "start_date": "09 Mar 2027",
+        "end_date": "11 Mar 2027",
+        "locations": [
+            "Frankfurt, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "europeancongressofph09Mar2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -8216,6 +8472,29 @@
             "CA"
         ],
         "uid": "organicprocessresear22Mar2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Society of Toxicology Annual Meeting & ToxExpo",
+        "url": "https://www.toxicology.org/events/am/AM2027/index.asp",
+        "start_date": "22 Mar 2027",
+        "end_date": "25 Mar 2027",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "societyoftoxicologya22Mar2027_0"
     },
     {
         "themes": [
@@ -8813,6 +9092,33 @@
             "UK"
         ],
         "uid": "digitechpharmaai11May2027_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA",
+            "Online"
+        ],
+        "title": "Oligonucleotide Therapeutics & Delivery Conference",
+        "url": "https://oligo-nucleotide.com/",
+        "start_date": "11 May 2027",
+        "end_date": "12 May 2027",
+        "locations": [
+            "Boston, MA, USA",
+            "Online"
+        ],
+        "countries": [
+            "USA",
+            "Online"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "oligonucleotidethera11May2027_0"
     },
     {
         "themes": [
@@ -10007,6 +10313,29 @@
             "MA"
         ],
         "uid": "societyforlaboratory05Feb2028_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "safety"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Society of Toxicology Annual Meeting & ToxExpo",
+        "url": "https://www.toxicology.org/about/history/annualmeeting.asp",
+        "start_date": "19 Mar 2028",
+        "end_date": "22 Mar 2028",
+        "locations": [
+            "Nashville, TN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TN"
+        ],
+        "uid": "societyoftoxicologya19Mar2028_0"
     },
     {
         "themes": [
