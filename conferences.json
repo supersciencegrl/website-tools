@@ -1,635 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "environment/fuels",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Congress & Annual Meeting of the Society for Medicinal Plant & Natural Product Research GA2026",
-        "url": "https://gareims2026.org/",
-        "start_date": "30 Aug 2026",
-        "end_date": "02 Sep 2026",
-        "locations": [
-            "Reims, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "intlcongressannualme30Aug2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Safety in Ammonia Plants & Related Facilities Symposium",
-        "url": "https://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2026",
-        "start_date": "30 Aug 2026",
-        "end_date": "03 Sep 2026",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "safetyinammoniaplant30Aug2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Diamond & Carbon Materials",
-        "url": "https://www.elsevier.com/events/conferences/all/international-conference-on-diamond-and-carbon-materials",
-        "start_date": "30 Aug 2026",
-        "end_date": "03 Sep 2026",
-        "locations": [
-            "Donostia-San Sebastián, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "intlconferenceondiam30Aug2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SMARTER 9: Structure elucidation by combining magnetic resonance, computational modelling, & diffraction",
-        "url": "https://www.smarter9.uni-bayreuth.de/en/index.html",
-        "start_date": "30 Aug 2026",
-        "end_date": "03 Sep 2026",
-        "locations": [
-            "Bayreuth, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "smarter9structureelu30Aug2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "inorganic/nano",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Summer School on Electrocatalysis & Organic Electrosynthesis",
-        "url": "https://electrocat26.scg.ch/",
-        "start_date": "30 Aug 2026",
-        "end_date": "03 Sep 2026",
-        "locations": [
-            "Stoos, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "intlsummerschoolonel30Aug2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Conference on COmputational Biology ECCB2026",
-        "url": "https://eccb2026.org/",
-        "start_date": "31 Aug 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Geneva, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "europeanconferenceon31Aug2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "materials/polymers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Intl Conference on Chemical Looping ICCL",
-        "url": "https://www.iccl2026.com/welcome-iccl2026/",
-        "start_date": "31 Aug 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intlconferenceonchem31Aug2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Forum for Engineering & Catalysis towards Sustainability (effects)",
-        "url": "https://www.iccl2026.com/welcome-iccl2026/",
-        "start_date": "31 Aug 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Milan, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "europeanforumforengi31Aug2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "RNA Leaders APAC",
-        "url": "https://informaconnect.com/rna-leaders-apac/",
-        "start_date": "01 Sep 2026",
-        "end_date": "02 Sep 2026",
-        "locations": [
-            "Singapore, Singapore"
-        ],
-        "countries": [
-            "Singapore"
-        ],
-        "uid": "rnaleadersapac01Sep2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "RSC Dalton Community Scotland & Universities of Scotland Inorganic Conference USIC",
-        "url": "https://www.rsc.org/events/find-an-event/rsc-dalton-community-scotland-and-universities-of-scotland-inorganic-conference-(usic)-2026",
-        "start_date": "01 Sep 2026",
-        "end_date": "02 Sep 2026",
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscdaltoncommunitysc01Sep2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Society of Chemical Industry/Chinese Society of Chemical Science & Technology SCI-CSCST Conference",
-        "url": "https://www.soci.org/events/chinese-uk-group/2026/33rd-sci-cscst-conference-2026",
-        "start_date": "01 Sep 2026",
-        "end_date": "02 Sep 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "societyofchemicalind01Sep2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "computational/data",
-            "inorganic/nano"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "Chemical Artificial Intelligence in Homogeneous Catalysis Workshop ChemAICat",
-        "url": "https://aichemy.ac.uk/event/chemical-artificial-intelligence-in-homogeneous-catalysis-chemaicat/",
-        "start_date": "01 Sep 2026",
-        "end_date": "03 Sep 2026",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemicalartificialin01Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Intl Conference on Metal-Binding Peptides",
-        "url": "https://mbp2026.hzdr.de/",
-        "start_date": "01 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Dresden, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "intlconferenceonmeta01Sep2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Swiss Green Economy Symposium (mostly German language)",
-        "url": "https://sges.ch/",
-        "start_date": "01 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Zürich, Switerland"
-        ],
-        "countries": [
-            "Switerland"
-        ],
-        "uid": "swissgreeneconomysym01Sep2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "NanoteC26",
-        "url": "https://www.rsc.org/events/find-an-event/nanotec26",
-        "start_date": "01 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "nanotec2601Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "materials/polymers",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "FoldNetUK Symposium (foldamers)",
-        "url": "https://www.eventbrite.com/e/foldnetuk-symposium-tickets-1986990906289",
-        "start_date": "02 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "foldnetuksymposiumfo02Sep2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "education"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "UK National Conference for Science Technicians",
-        "url": "https://www.rsc.org/events/find-an-event/national-conference-for-science-technicians-2026",
-        "start_date": "02 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Bristol, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "uknationalconference02Sep2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers",
-            "med chem"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Artificial Intelligence AI in Chemistry",
-        "url": "https://www.rscbmcs.org/events/aichem9/",
-        "start_date": "02 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "artificialintelligen02Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Umwelt 2026: Jahrestagung der GDCh Fachgruppe Umweltchemie & Ökotoxikolgie",
-        "url": "https://www.setac-glb.de/umwelt-2026",
-        "start_date": "02 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Essen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "umwelt2026jahrestagu02Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Meeting on Antimicrobial Peptides IMAP",
-        "url": "https://peptideconferences.org/imap-2026/home",
-        "start_date": "02 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Split, Croatia"
-        ],
-        "countries": [
-            "Croatia"
-        ],
-        "uid": "intlmeetingonantimic02Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Edelris Annual Symposium on Affinity Selection Mass Spectrometry AS-MS in Drug Discovery",
-        "url": "https://edelrissymposium.zohobackstage.eu/Edelris-ASMS-Symposium-2026#/",
-        "start_date": "03 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "edelrisannualsymposi03Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Northern Ireland"
-        ],
-        "title": "ELRIG Irish Forum: Discovering precision medicines",
-        "url": "https://elrig.org/portfolio/precision-medicine-biomarker-discovery-elrigs-irish-forum/",
-        "start_date": "03 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "elrigirishforumdisco03Sep2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Towards a sustainable future: Dream reactions",
-        "url": "https://indico.uni-muenster.de/event/4276/",
-        "start_date": "03 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Münster, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "towardsasustainablef03Sep2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Redox flow batteries for long duration energy storage?",
-        "url": "https://www.eventbrite.co.uk/e/redox-flow-batteries-for-long-duration-energy-storage-tickets-1990470248094?aff=oddtdtcreator&keep_tld=true",
-        "start_date": "03 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Teddington, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "redoxflowbatteriesfo03Sep2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "inorganic/nano",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "RSC Photophysics & Photochemistry Group Early Career Meeting",
-        "url": "https://www.rsc.org/events/find-an-event/rsc-photophysics-and-photochemistry-group-early-career-meeting-2026",
-        "start_date": "03 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Durham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscphotophysicsphoto03Sep2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Recent Appointees in Material Science RAMS2026 (academics only)",
-        "url": "https://eng.ed.ac.uk/rams2026",
-        "start_date": "03 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Durham, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "recentappointeesinma03Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Symposium on Analytical Chemistry: Computational techniques in analytical chemistry",
-        "url": "https://www.jaima.or.jp/ic/rsc-jaima/",
-        "start_date": "03 Sep 2026",
-        "end_date": "04 Sep 2026",
-        "locations": [
-            "Chiba-city, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "symposiumonanalytica03Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Society for Medicine Research SMR Radiopharmaceuticals",
-        "url": "https://www.smr.org.uk/Meetings/20260904/",
-        "start_date": "04 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "societyformedicinere04Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "physical/phys org",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Young Chemists' Symposium: Electrifying chemistry (electrochemistry)",
-        "url": "https://gdch.app/event/14-young-chemists-symposium-ruhr-2026",
-        "start_date": "04 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Wuppertal, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "youngchemistssymposi04Sep2026_0"
-    },
-    {
-        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -2430,6 +1801,26 @@
     {
         "themes": [
             "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Molecular Nodes Workshop (Blender add-on)",
+        "url": "https://luma.com/qh88ds0x",
+        "start_date": "17 Sep 2026",
+        "end_date": "18 Sep 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "molecularnodesworksh17Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
             "med chem",
             "pharma industry"
         ],
@@ -3294,27 +2685,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Machine Learning to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/20260928/",
-        "start_date": "28 Sep 2026",
-        "end_date": "29 Sep 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "applicationsofmachin28Sep2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "environment/fuels",
             "process/engineering"
@@ -3571,6 +2941,29 @@
             "Netherlands"
         ],
         "uid": "labofthefutureeurope30Sep2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "law/policy",
+            "pharma industry",
+            "safety"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Peptide Therapeutics CMC: Impurities Management & Control Strategy (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/peptide-therapeutics-cmc-impurities-management-and-control-strategy/",
+        "start_date": "30 Sep 2026",
+        "end_date": "01 Oct 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "peptidetherapeuticsc30Sep2026_0"
     },
     {
         "themes": [
@@ -3960,6 +3353,29 @@
             "Germany"
         ],
         "uid": "standardizationinlab06Oct2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "law/policy",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Practical Management of Impurities & Development of Effective & Comprehensive Control Strategies (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/practical-management-of-impurities-and-development-of-effective-and-comprehensive-control-strategies/",
+        "start_date": "06 Oct 2026",
+        "end_date": "07 Oct 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "practicalmanagemento06Oct2026_0"
     },
     {
         "themes": [
@@ -4793,6 +4209,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Machine Learning to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
+        "start_date": "19 Oct 2026",
+        "end_date": "20 Oct 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofmachin19Oct2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "process/engineering",
@@ -4879,6 +4316,27 @@
             "MD"
         ],
         "uid": "jmpdiscoverysummitus19Oct2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applied Mixing Technology for Process Development: Scaling Down to Scale Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applied-mixing-technology-for-process-development-scaling-down-to-scale-up/",
+        "start_date": "19 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "appliedmixingtechnol19Oct2026_0"
     },
     {
         "themes": [
@@ -5216,6 +4674,27 @@
             "LA"
         ],
         "uid": "pharmsci36025Oct2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scale-Up: What Goes Wrong? (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/",
+        "start_date": "26 Oct 2026",
+        "end_date": "27 Oct 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "scaleupwhatgoeswrong26Oct2026_0"
     },
     {
         "themes": [
@@ -5984,6 +5463,26 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Flow Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/flow-chemistry/",
+        "start_date": "09 Nov 2026",
+        "end_date": "12 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "flowchemistrytrainin09Nov2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "careers",
             "pharma industry"
@@ -6147,6 +5646,26 @@
             "NY"
         ],
         "uid": "newyorksocietyofcosm12Nov2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "The Costing of Chemical Processes (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/the-costing-of-chemical-processes/",
+        "start_date": "12 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "thecostingofchemical12Nov2026_0"
     },
     {
         "themes": [
@@ -6402,6 +5921,46 @@
             "New Zealand"
         ],
         "uid": "newzealandinstituteo15Nov2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical & Process Safety for Development Chemists (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
+        "start_date": "16 Nov 2026",
+        "end_date": "17 Nov 2026",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "chemicalprocesssafet16Nov2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Understanding Solid Form (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/understanding-solid-form/",
+        "start_date": "16 Nov 2026",
+        "end_date": "17 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "understandingsolidfo16Nov2026_0"
     },
     {
         "themes": [
@@ -6683,6 +6242,29 @@
             "Online"
         ],
         "uid": "foodscience2026globa18Nov2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "law/policy",
+            "pharma industry",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Effective Impurity Management within Antibody Drug Conjugates (ADCs) (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/effective-impurity-management-within-antibody-drug-conjugates-adcs/",
+        "start_date": "18 Nov 2026",
+        "end_date": "19 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "effectiveimpurityman18Nov2026_0"
     },
     {
         "themes": [
@@ -7865,6 +7447,72 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Carotenoids",
+        "url": "https://www.grc.org/carotenoids-conference/2027/",
+        "start_date": "10 Jan 2027",
+        "end_date": "15 Jan 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer10Jan2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: RNA Nanotechnology",
+        "url": "https://www.grc.org/rna-nanotechnology-conference/2027/",
+        "start_date": "10 Jan 2027",
+        "end_date": "15 Jan 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer10Jan2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Micro & Nanoscale Phase Change Phenomena",
+        "url": "https://www.grc.org/micro-and-nanoscale-phase-change-phenomena-conference/2027/",
+        "start_date": "10 Jan 2027",
+        "end_date": "15 Jan 2027",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer10Jan2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -7926,6 +7574,53 @@
             "Japan"
         ],
         "uid": "intlconferenceonbios15Jan2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Peptide Materials",
+        "url": "https://www.grc.org/peptide-materials-conference/2027/",
+        "start_date": "17 Jan 2027",
+        "end_date": "22 Jan 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer17Jan2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "computational/data",
+            "law/policy",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Fast to Phase 1: A Chemists' Guide to Pre-Clinical Development (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/fast-to-phase-1-a-chemists-guide-to-pre-clinical-development/",
+        "start_date": "18 Jan 2027",
+        "end_date": "19 Jan 2027",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "fasttophase1achemist18Jan2027_0"
     },
     {
         "themes": [
@@ -8069,6 +7764,53 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Metals in Biology",
+        "url": "https://www.grc.org/metals-in-biology-conference/2027/",
+        "start_date": "24 Jan 2027",
+        "end_date": "29 Jan 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer24Jan2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Plant Lipids &ndash; Structure, Metabolism & Function",
+        "url": "https://www.grc.org/plant-lipids-structure-metabolism-and-function-conference/2027/",
+        "start_date": "24 Jan 2027",
+        "end_date": "29 Jan 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer24Jan2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -8113,6 +7855,31 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Winter Conference on Medicinal & Bioorganic Chemistry",
+        "url": "https://mbcfconference.com/",
+        "start_date": "31 Jan 2027",
+        "end_date": "04 Feb 2027",
+        "locations": [
+            "Steamboat Springs, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "winterconferenceonme31Jan2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -8130,6 +7897,93 @@
             "Italy"
         ],
         "uid": "europeanwinterschool31Jan2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "formulation/particle science",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Foundations of Process Chemistry Technical Transfer & Outsourcing (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/foundations-of-process-chemistry-technical-transfer-and-outsourcing/",
+        "start_date": "02 Feb 2027",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "foundationsofprocess02Feb2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Advances in Cellulose Materials",
+        "url": "https://www.grc.org/advances-in-cellulose-materials-conference/2027/",
+        "start_date": "07 Feb 2027",
+        "end_date": "12 Feb 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer07Feb2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Chemical Reactions & Dynamics at Surfaces",
+        "url": "https://www.grc.org/chemical-reactions-and-dynamics-at-surfaces-conference/2027/",
+        "start_date": "07 Feb 2027",
+        "end_date": "12 Feb 2027",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer07Feb2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Physical Science of Cancer",
+        "url": "https://www.grc.org/physical-science-of-cancer-conference/2027/",
+        "start_date": "07 Feb 2027",
+        "end_date": "12 Feb 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer07Feb2027_0"
     },
     {
         "themes": [
@@ -8193,6 +8047,119 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Nanomaterials for Applications in Energy Technology",
+        "url": "https://www.grc.org/nanomaterials-for-applications-in-energy-technology-conference/2027/",
+        "start_date": "14 Feb 2027",
+        "end_date": "19 Feb 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer14Feb2027_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Physiology, Biology & Pathology of Phosphate",
+        "url": "https://www.grc.org/physiology-biology-and-pathology-of-phosphate-conference/2027/",
+        "start_date": "14 Feb 2027",
+        "end_date": "19 Feb 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer14Feb2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Fundamental to Applied Chemical Reactivity Across Interfaces & Droplets",
+        "url": "https://www.grc.org/fundamental-to-applied-chemical-reactivity-across-interfaces-and-droplets-conference/2027/",
+        "start_date": "21 Feb 2027",
+        "end_date": "26 Feb 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer21Feb2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Gas Sensing & Artificial Olfaction",
+        "url": "https://www.grc.org/gas-sensing-and-artificial-olfaction-conference/2027/",
+        "start_date": "21 Feb 2027",
+        "end_date": "26 Feb 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer21Feb2027_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Machine Learning to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/20270222/",
+        "start_date": "22 Feb 2027",
+        "end_date": "23 Feb 2027",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofmachin22Feb2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data",
@@ -8242,6 +8209,120 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Chemical & Biological Defense",
+        "url": "https://www.grc.org/chemical-and-biological-defense-conference/2027/",
+        "start_date": "28 Feb 2027",
+        "end_date": "05 Mar 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer28Feb2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: IGF & Insulin System in Physiology & Disease",
+        "url": "https://www.grc.org/igf-and-insulin-system-in-physiology-and-disease-conference/2027/",
+        "start_date": "28 Feb 2027",
+        "end_date": "05 Mar 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer28Feb2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: IGF & Insulin System in Physiology & Disease",
+        "url": "https://www.grc.org/igf-and-insulin-system-in-physiology-and-disease-conference/2027/",
+        "start_date": "28 Feb 2027",
+        "end_date": "05 Mar 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer28Feb2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Inorganic Reaction Mechanisms",
+        "url": "https://www.grc.org/inorganic-reaction-mechanisms-conference/2027/",
+        "start_date": "28 Feb 2027",
+        "end_date": "05 Mar 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer28Feb2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Metabolomics & Human Health",
+        "url": "https://www.grc.org/metabolomics-and-human-health-conference/2027/",
+        "start_date": "28 Feb 2027",
+        "end_date": "05 Mar 2027",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer28Feb2027_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data"
         ],
@@ -8259,6 +8340,54 @@
             "UK"
         ],
         "uid": "fromvisiontopractice02Mar2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Quantum Biology",
+        "url": "https://www.grc.org/quantum-biology-conference/2027/",
+        "start_date": "07 Mar 2027",
+        "end_date": "12 Mar 2027",
+        "locations": [
+            "Oxnard, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer07Mar2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: RNA Editing",
+        "url": "https://www.grc.org/rna-editing-conference/2027/",
+        "start_date": "07 Mar 2027",
+        "end_date": "12 Mar 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer07Mar2027_0"
     },
     {
         "themes": [
@@ -8401,6 +8530,30 @@
             "Spain"
         ],
         "uid": "paperlesslabacademye16Mar2027_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20270317/",
+        "start_date": "17 Mar 2027",
+        "end_date": "20 Mar 2027",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "chemicaldevelopments17Mar2027_0"
     },
     {
         "themes": [
@@ -8603,6 +8756,68 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Green Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/green-chemistry/",
+        "start_date": "05 Apr 2027",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "greenchemistrytraini05Apr2027_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Work-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/work-up-and-product-isolation/",
+        "start_date": "05 Apr 2027",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "workuptrainingcourse05Apr2027_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Scale-Up: What Goes Wrong? (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/20270405/",
+        "start_date": "05 Apr 2027",
+        "end_date": "06 Apr 2027",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "scaleupwhatgoeswrong05Apr2027_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -8727,6 +8942,30 @@
     },
     {
         "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20270412/",
+        "start_date": "12 Apr 2027",
+        "end_date": "14 Apr 2027",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "secretsofbatchproces12Apr2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "computational/data"
@@ -8745,6 +8984,27 @@
             "Netherlands"
         ],
         "uid": "eurolablive13Apr2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Filtration & Drying (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/filtration-and-drying-course/",
+        "start_date": "13 Apr 2027",
+        "end_date": "15 Apr 2027",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "filtrationdryingtrai13Apr2027_0"
     },
     {
         "themes": [
@@ -8829,6 +9089,28 @@
             "UK"
         ],
         "uid": "scirscsymposiumonion19Apr2027_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20270420/",
+        "start_date": "20 Apr 2027",
+        "end_date": "22 Apr 2027",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "chemicaldevelopments20Apr2027_0"
     },
     {
         "themes": [
@@ -8988,6 +9270,26 @@
     },
     {
         "themes": [
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Superconductivity",
+        "url": "https://www.grc.org/superconductivity-conference/2027/",
+        "start_date": "02 May 2027",
+        "end_date": "07 May 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer02May2027_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "process/engineering",
             "safety"
@@ -9026,6 +9328,26 @@
             "UK"
         ],
         "uid": "grahamawardsymposium07May2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Self-Assembly & Supramolecular Chemistry",
+        "url": "https://www.grc.org/self-assembly-and-supramolecular-chemistry-conference/2027/",
+        "start_date": "09 May 2027",
+        "end_date": "14 May 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer09May2027_0"
     },
     {
         "themes": [
@@ -9122,6 +9444,26 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Topological & Correlated Matter",
+        "url": "https://www.grc.org/topological-and-correlated-matter-conference/2027/",
+        "start_date": "16 May 2027",
+        "end_date": "21 May 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer16May2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "materials/polymers"
         ],
@@ -9202,6 +9544,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Carbon Capture, Utilization & Storage",
+        "url": "https://www.grc.org/carbon-capture-utilization-and-storage-conference/2027/",
+        "start_date": "30 May 2027",
+        "end_date": "04 Jun 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer30May2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -9263,6 +9625,120 @@
             "Spain"
         ],
         "uid": "intleuropeanconferen06Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Biomass to Biobased Chemicals & Materials",
+        "url": "https://www.grc.org/biomass-to-biobased-chemicals-and-materials-conference/2027/",
+        "start_date": "06 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer06Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Carbohydrates",
+        "url": "https://www.grc.org/carbohydrates-conference/2027/",
+        "start_date": "06 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer06Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Label-Free Single Molecule Sensing",
+        "url": "https://www.grc.org/label-free-single-molecule-sensing-conference/2027/",
+        "start_date": "06 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer06Jun2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Physics & Chemistry of Microfluidics",
+        "url": "https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2027/",
+        "start_date": "06 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer06Jun2027_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Gordon Research Conference: Plasmonically Powered Processes",
+        "url": "https://www.grc.org/plasmonically-powered-processes-conference/2027/",
+        "start_date": "06 Jun 2027",
+        "end_date": "11 Jun 2027",
+        "locations": [
+            "Ventura, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "gordonresearchconfer06Jun2027_0"
     },
     {
         "themes": [
@@ -9374,6 +9850,183 @@
     },
     {
         "themes": [
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Bioorganic Chemistry",
+        "url": "https://www.grc.org/bioorganic-chemistry-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Hybrid Superconductor-Semiconductor Devices",
+        "url": "https://www.grc.org/hybrid-superconductor-semiconductor-devices-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Laser Diagnostics in Energy & Reacting Flows",
+        "url": "https://www.grc.org/laser-diagnostics-in-energy-and-reacting-flows-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Molecular Pharmacology",
+        "url": "https://www.grc.org/molecular-pharmacology-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "safety"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Mycotoxins & Phycotoxins",
+        "url": "https://www.grc.org/mycotoxins-and-phycotoxins-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Origins of Solar Systems",
+        "url": "https://www.grc.org/origins-of-solar-systems-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "environment/fuels"
+        ],
+        "regions": [],
+        "title": "Gordon Research Conference: Plant Metabolic Engineering",
+        "url": "https://www.grc.org/plant-metabolic-engineering-conference/2027/",
+        "start_date": "13 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer13Jun2027_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20270614/",
+        "start_date": "14 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "secretsofbatchproces14Jun2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -9411,6 +10064,213 @@
             "Sweden"
         ],
         "uid": "swedishchemicalsocie15Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Cancer Nanotechnology",
+        "url": "https://www.grc.org/cancer-nanotechnology-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Crystal Growth & Assembly",
+        "url": "https://www.grc.org/crystal-growth-and-assembly-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Heterocyclic Compounds",
+        "url": "https://www.grc.org/heterocyclic-compounds-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Hormone-Dependent Cancers",
+        "url": "https://www.grc.org/hormone-dependent-cancers-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Noordwijkerhout, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Hydrogen-Metal Systems",
+        "url": "https://www.grc.org/hydrogen-metal-systems-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Interior of the Earth",
+        "url": "https://www.grc.org/interior-of-the-earth-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organic Reactions & Processes",
+        "url": "https://www.grc.org/organic-reactions-and-processes-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Physical Organic Chemistry",
+        "url": "https://www.grc.org/physical-organic-chemistry-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "formulation/particle science",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Preclinical Form & Formulation for Drug Discovery",
+        "url": "https://www.grc.org/preclinical-form-and-formulation-for-drug-discovery-conference/2027/",
+        "start_date": "20 Jun 2027",
+        "end_date": "25 Jun 2027",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer20Jun2027_0"
     },
     {
         "themes": [
@@ -9498,6 +10358,256 @@
     },
     {
         "themes": [
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry Education Research & Practice",
+        "url": "https://www.grc.org/chemistry-education-research-and-practice-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Drug Metabolism",
+        "url": "https://www.grc.org/drug-metabolism-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Liquid Crystals",
+        "url": "https://www.grc.org/liquid-crystals-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Membrane Protein Folding",
+        "url": "https://www.grc.org/membrane-protein-folding-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Metamaterials",
+        "url": "https://www.grc.org/metamaterials-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Neurotrophic Mechanisms in Health & Disease",
+        "url": "https://www.grc.org/neurotrophic-mechanisms-in-health-and-disease-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Noordwijkerhout, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nucleic Acids",
+        "url": "https://www.grc.org/nucleic-acids-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nucleosides, Nucleotides & Oligonucleotides",
+        "url": "https://www.grc.org/nucleosides-nucleotides-and-oligonucleotides-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Silk Proteins & the Transition to Biotechnologies",
+        "url": "https://www.grc.org/silk-proteins-and-the-transition-to-biotechnologies-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Spin Dynamics in Nanostructures",
+        "url": "https://www.grc.org/spin-dynamics-in-nanostructures-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Water Electrolysis",
+        "url": "https://www.grc.org/water-electrolysis-conference/2027/",
+        "start_date": "27 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer27Jun2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels",
             "physical/phys org"
@@ -9536,6 +10646,25 @@
             "France"
         ],
         "uid": "jointeuropeanmagneti04Jul2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Heterogeneous Materials",
+        "url": "https://www.grc.org/heterogeneous-materials-conference/2027/",
+        "start_date": "04 Jul 2027",
+        "end_date": "09 Jul 2027",
+        "locations": [
+            "Lucca, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "gordonresearchconfer04Jul2027_0"
     },
     {
         "themes": [
@@ -9618,6 +10747,209 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Advances in Nanoferroic Phenomena",
+        "url": "https://www.grc.org/advances-in-nanoferroic-phenomena-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Artificial Molecular Switches & Motors",
+        "url": "https://www.grc.org/artificial-molecular-switches-and-motors-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Cannabinoid Function in the CNS",
+        "url": "https://www.grc.org/cannabinoid-function-in-the-cns-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemical Separations",
+        "url": "https://www.grc.org/chemical-separations-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Connected Matter",
+        "url": "https://www.grc.org/connected-matter-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Organometallic Chemistry",
+        "url": "https://www.grc.org/organometallic-chemistry-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Physical Metallurgy",
+        "url": "https://www.grc.org/physical-metallurgy-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Quantum Sensing",
+        "url": "https://www.grc.org/quantum-sensing-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Self-Driving Labs",
+        "url": "https://www.grc.org/self-driving-labs-conference/2027/",
+        "start_date": "11 Jul 2027",
+        "end_date": "16 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer11Jul2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "materials/polymers"
@@ -9636,6 +10968,141 @@
             "UK"
         ],
         "uid": "intlconferenceonmate12Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Neurobiology of Psychedelics",
+        "url": "https://www.grc.org/neurobiology-of-psychedelics-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Plastics Recycling & Upcycling",
+        "url": "https://www.grc.org/plastics-recycling-and-upcycling-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Noordwijkerhout, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Polyamines",
+        "url": "https://www.grc.org/polyamines-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Waterville Valley, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Synthetic Biology",
+        "url": "https://www.grc.org/synthetic-biology-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Tuberculosis Drug Discovery & Development",
+        "url": "https://www.grc.org/tuberculosis-drug-discovery-and-development-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: X-Ray Science",
+        "url": "https://www.grc.org/x-ray-science-conference/2027/",
+        "start_date": "18 Jul 2027",
+        "end_date": "23 Jul 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer18Jul2027_0"
     },
     {
         "themes": [
@@ -9709,6 +11176,329 @@
         "regions": [
             "Eastern USA"
         ],
+        "title": "Gordon Research Conference: Chemical Imaging",
+        "url": "https://www.grc.org/chemical-imaging-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Easton, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Chemistry & Physics of Liquids",
+        "url": "https://www.grc.org/chemistry-and-physics-of-liquids-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Holderness, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Enzymes, Coenzymes & Metabolic Pathways",
+        "url": "https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: High Temperature Corrosion",
+        "url": "https://www.grc.org/high-temperature-corrosion-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Natural Products & Bioactive Compounds",
+        "url": "https://www.grc.org/natural-products-and-bioactive-compounds-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Protein Engineering",
+        "url": "https://www.grc.org/protein-engineering-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Science of Adhesion",
+        "url": "https://www.grc.org/science-of-adhesion-conference/2027/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer25Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Catecholamines",
+        "url": "https://www.grc.org/catecholamines-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Cell Biology of Metals",
+        "url": "https://www.grc.org/cell-biology-of-metals-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Portland, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Electron Spin Interactions with Chiral Molecules & Materials",
+        "url": "https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Manchester, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Nanoporous Materials & Their Applications",
+        "url": "https://www.grc.org/nanoporous-materials-and-their-applications-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Andover, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Photochemistry",
+        "url": "https://www.grc.org/photochemistry-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Lewiston, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Quantum Control of Light & Matter",
+        "url": "https://www.grc.org/quantum-control-of-light-and-matter-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "Newport, RI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "RI"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Water Disinfection, Byproducts & Health",
+        "url": "https://www.grc.org/water-disinfection-byproducts-and-health-conference/2027/",
+        "start_date": "01 Aug 2027",
+        "end_date": "06 Aug 2027",
+        "locations": [
+            "South Hadley, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "gordonresearchconfer01Aug2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
         "title": "Microscopy & Microanalysis M&M",
         "url": "https://microscopy.org/Events",
         "start_date": "02 Aug 2027",
@@ -9723,6 +11513,99 @@
             "PA"
         ],
         "uid": "microscopymicroanaly02Aug2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "chem bio",
+            "computational/data",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: High Throughput Chemistry & Chemical Biology",
+        "url": "https://www.grc.org/high-throughput-chemistry-and-chemical-biology-conference/2027/",
+        "start_date": "08 Aug 2027",
+        "end_date": "13 Aug 2027",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer08Aug2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Gordon Research Conference: Photosynthesis",
+        "url": "https://www.grc.org/photosynthesis-conference/2027/",
+        "start_date": "08 Aug 2027",
+        "end_date": "13 Aug 2027",
+        "locations": [
+            "Noordwijkerhout, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "gordonresearchconfer08Aug2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Geochronology",
+        "url": "https://www.grc.org/geochronology-conference/2027/",
+        "start_date": "15 Aug 2027",
+        "end_date": "20 Aug 2027",
+        "locations": [
+            "Newry, ME, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "ME"
+        ],
+        "uid": "gordonresearchconfer15Aug2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Gordon Research Conference: Soft Condensed Matter Physics",
+        "url": "https://www.grc.org/soft-condensed-matter-physics-conference/2027/",
+        "start_date": "15 Aug 2027",
+        "end_date": "20 Aug 2027",
+        "locations": [
+            "New London, NH, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NH"
+        ],
+        "uid": "gordonresearchconfer15Aug2027_0"
     },
     {
         "themes": [
@@ -10078,6 +11961,27 @@
             "India"
         ],
         "uid": "industrialflowchemis22Sep2027_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Secrets of Batch Process Scale-Up (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20270922/",
+        "start_date": "22 Sep 2027",
+        "end_date": "24 Sep 2027",
+        "locations": [
+            "Madrid, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "secretsofbatchproces22Sep2027_0"
     },
     {
         "themes": [
