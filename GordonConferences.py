@@ -41,7 +41,10 @@ def format_url(url):
     else:
         return url
 
-def get_selenide(url: str, driver: WebDriver, cookies: list[dict[str, Any]]) -> tuple[bytes, list[dict[str, Any]]] | None:
+def get_selenide(url: str, 
+                 driver: WebDriver, 
+                 cookies: list[dict[str, Any]]
+                 ) -> tuple[bytes | None, list[dict[str, Any]]]:
     """
     Retrieve the page source of the specified URL as bytes using Selenium.
 
@@ -54,10 +57,10 @@ def get_selenide(url: str, driver: WebDriver, cookies: list[dict[str, Any]]) -> 
         tuple: A tuple containing:
             bytes: The page source of the URL as bytes.
             list[dict[str, Any]]: The cookies from the web session.
-        None: If no URL was specified. 
+        tuple[None, None]: If no URL was specified. 
     """
     if not url:
-        return None
+        return (None, [])
 
     # Connect to the page and retrieve content
     driver.get(url)
@@ -195,10 +198,10 @@ def extract_dates(date_range: str) -> tuple[str, str]:
         
         start_date_text = date_range.partition(' -')[0] + ('').join(date_range.partition(',')[1:])
         start_date_parsed = dateparser.parse(start_date_text)
-        start_date = start_date_parsed.strftime('%d %b %Y')
+        start_date = start_date_parsed.strftime(DATE_FORMAT)
 
         end_date_parsed = dateparser.parse(end_date_text)
-        end_date = end_date_parsed.strftime('%d %b %Y')
+        end_date = end_date_parsed.strftime(DATE_FORMAT)
 
     else:
         start_date = dateparser.parse(date_range)
@@ -290,8 +293,8 @@ def scrape_page(page: bytes, url: str, print_output=True) -> tuple[dict, list]:
     meeting_name = title_div.find('h3').text.strip()
     meeting_type = title_div.find('span', class_='grcLabel').text.strip()
     event['title'] = format_title(meeting_type, meeting_name)
-    meeting_title = soup.find('h1', class_='meetingTitle') # Not currently used
-    subtitle = meeting_title.text.strip() # Not currently used
+    # meeting_title = soup.find('h1', class_='meetingTitle')
+    # subtitle = meeting_title.text.strip()
 
     # Scrape location
     title_labels = soup.find_all('span', class_='titleLabel')
@@ -330,10 +333,6 @@ def scrape_page(page: bytes, url: str, print_output=True) -> tuple[dict, list]:
     html_out.append('\t' * 13 + \
                     
                     f'<td class="column4">{event["location"]}</td>')
-    html_out.append('\t' * 13 + \
-                    f'<td class="column5">{event["price_string"]}</td>')
-    html_out.append('\t' * 13 + \
-                    f'<td class="column6">{event["price_string"]}</td>')
     html_out.append('\t' * 12 + '</tr>')
 
     if print_output:
@@ -418,7 +417,7 @@ def check_meetings(meetings: dict):
     """
     for meeting in meetings:
         # Move onto next meeting if this one has passed
-        end_date = datetime.strptime(meeting['event']['end_date'], '%d %b %Y')
+        end_date = datetime.strptime(meeting['event']['end_date'], DATE_FORMAT)
         if end_date < datetime.today():
             continue
         
@@ -447,24 +446,30 @@ def run():
           before fetching the page.
 
     Returns:
-        None: This function runs indefinitely until interrupted by the user (e.g., via Ctrl+C).
+        None: This function runs indefinitely until interrupted by the user (e.g., via Ctrl+C, or 
+            by typing 'exit', 'quit', or 'q' when prompted for a URL).
     """
     # Create local web driver
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(options = options)
-    cookies = None
+    cookies = []
 
     while True:
         if Debug:
             url = r'https://www.grc.org/biomass-to-biobased-chemicals-and-materials-conference/2025/' # Test
         else:
             url = input('url: ')
+            if url in ['exit', 'quit', 'q']:
+                break
+            elif not url:
+                continue
 
         url = format_url(url)
 
         page, cookies = get_selenide(url, driver, cookies)
         if page:
-            event, html_out = scrape_page(page, url)
+            _ = scrape_page(page, url, print_output=True)
+            time.sleep(0.4)
         else:
             print('Not found. ')
         print('\n')
@@ -564,12 +569,15 @@ US_states = {
 location_replacements = {
                              'Castelldefels, Barcelona': 'Barcelona',
                              'Les Diablerets, Vaud (fr)': 'Les Diablerets',
+                             'Noordwijkerhout, Zuid-Holland, The Netherlands': 'Noordwijkerhout, Netherlands',
                              'Lucca (Barga), Lucca': 'Lucca',
                              'United Kingdom': 'UK'
                              }
 
 ''' Debug mode '''
 Debug = False
+
+DATE_FORMAT = R'%d %b %Y'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
