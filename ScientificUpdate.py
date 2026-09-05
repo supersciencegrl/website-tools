@@ -136,7 +136,7 @@ def scrape_dates(soup) -> dict[str, str]:
     """
     date_title = soup.find('div', class_='dates')
     date_spans = date_title.find_all('span')
-    end_date_std = '&mdash;' # Default
+    end_date_std = '—' # Em-dash; default if no end date is found
 
     try:
         start_date, end_date = (date.text for date in date_spans)
