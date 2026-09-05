@@ -4394,22 +4394,18 @@
         "start_date": "20 Oct 2026",
         "end_date": "22 Oct 2026",
         "locations": [
-            "Toronto, Canada",
-            "Liverpool, UK",
-            "Dayton, OH, USA",
-            "Chicago, IL, USA",
+            "Toronto, Canada",
+            "Liverpool, UK",
+            "Dayton, OH, USA",
+            "Chicago, IL, USA",
             "Online"
         ],
         "countries": [
-            "Canada",
-            "UK",
-            "USA",
-            "USA",
+            "Toronto, Canada",
+            "Liverpool, UK",
+            "Dayton, OH, USA",
+            "Chicago, IL, USA",
             "Online"
-        ],
-        "US_state": [
-            "OH",
-            "IL"
         ],
         "uid": "deviceintegrationhac20Oct2026_0"
     },
