@@ -242,21 +242,21 @@ def get_prices(prices: list[bs4.element.Tag]) -> dict[str, str]:
                         
     return result
 
-def scrape_page(page: bytes, url: str):
+def scrape_page(page: bytes, url: str, show_prices: bool = False):
     """
-    Now deprecated
     Scrapes information from a web page and organizes it into an event dictionary.
 
     This function takes a web page content and its URL and performs the following tasks:
     - Extracts and standardizes the event title and location.
     - Extracts and formats event dates, including handling date ranges.
-    - Retrieves and categorizes event prices.
+    - Retrieves and categorizes event prices, if show_prices is True.
     - Encodes dictionary values to HTML entities.
     - Creates an output HTML representation of the event.
 
     Args:
         page (bytes): The HTML content of the web page to scrape.
         url (str): The URL of the web page.
+        show_prices (bool, optional): Whether to scrape and include event prices. Defaults to False.
 
     Side-effects:
         Creates an output HTML representation of the event.
@@ -271,13 +271,14 @@ def scrape_page(page: bytes, url: str):
     dates = scrape_dates(soup)
     event.update(dates)
 
-    # I no longer publish prices online - these will all be blank
-    # prices = soup.find_all('div', class_='fees')
-    # if prices:
-    #     price_result = get_prices(prices)
-    #     event.update(price_result)
-    event['currency'] = ''
-    event['price_all'] = ''
+    # Scrape prices if show_prices is True
+    if show_prices:
+        prices = soup.find_all('div', class_='fees')
+        if prices:
+            price_result = get_prices(prices)
+            event.update(price_result)
+        event['currency'] = ''
+        event['price_all'] = ''
 
     # html encode dictionary
     for k in event:
@@ -314,20 +315,20 @@ def create_output_html(event):
             'price_academic': 900
         }
     """
-    if 'price_all' in event:
-        # Print prices with thousands separation using f'{number:,}'
-        price_html_member = '\t' * 13 + \
-                    f'<td class="column5">{event["currency"]}{event["price_all"]}</td>'
-        price_html_nonmember = price_html_member.replace('column5', 'column6')
-    else:
-        price_html_member = '\t' * 13 + \
-                             f'<td class="column5 standard">{event["currency"]}{event["price_standard"]}</td>' + \
-                             f'<td class="column5 student">{event["currency"]}{event["price_student"]}</td>' + \
-                             f'<td class="column5 academic">{event["currency"]}{event["price_academic"]}</td>'
-        price_html_nonmember = price_html_member.replace('column5', 'column6')
+    # if 'price_all' in event:
+    #     # Print prices with thousands separation using f'{number:,}'
+    #     price_html_member = '\t' * 13 + \
+    #                 f'<td class="column5">{event["currency"]}{event["price_all"]}</td>'
+    #     price_html_nonmember = price_html_member.replace('column5', 'column6')
+    # else:
+    #     price_html_member = '\t' * 13 + \
+    #                          f'<td class="column5 standard">{event["currency"]}{event["price_standard"]}</td>' + \
+    #                          f'<td class="column5 student">{event["currency"]}{event["price_student"]}</td>' + \
+    #                          f'<td class="column5 academic">{event["currency"]}{event["price_academic"]}</td>'
+    #     price_html_nonmember = price_html_member.replace('column5', 'column6')
     
-    price_html_member = price_html_member.replace('€', '&euro;')
-    price_html_nonmember = price_html_nonmember.replace('€', '&euro;')
+    # price_html_member = price_html_member.replace('€', '&euro;')
+    # price_html_nonmember = price_html_nonmember.replace('€', '&euro;')
 
     event['title'] = event['title'].replace(' - ', ' &ndash; ')
     event['title'] = event['title'].replace('  ', ' ') # Remove double spaces
@@ -345,8 +346,8 @@ def create_output_html(event):
     html_out.append('\t' * 13 + \
                     
                     f'<td class="column4">{event["location"]}</td>')
-    html_out.append(price_html_member)
-    html_out.append(price_html_nonmember)
+    # html_out.append(price_html_member)
+    # html_out.append(price_html_nonmember)
     html_out.append('\t' * 12 + '</tr>')
 
     # Print output html and copy to Windows clipboard
@@ -365,12 +366,16 @@ def run():
 
     Note:
         - In debug mode (when 'Debug' is set to True), a test URL is used automatically.
+        - If the user types 'exit', 'quit', or 'q', the function will terminate.
     """
     while True:
         if Debug:
             url = r'https://www.scientificupdate.com/training_courses/work-up-and-product-isolation/' # Test
         else:
             url = input('url: ')
+
+        if url in ['exit', 'quit', 'q']: 
+            break
 
         page = get_selenide(url)
         if page:
