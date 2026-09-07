@@ -6382,6 +6382,28 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Scale-up innovations for new classes of chemical products",
+        "url": "hhttps://events.rsc.org/rsc/frontend/reg/thome.csp?pageID=1276069&eventID=3430",
+        "start_date": "20 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "scaleupinnovationsfo20Nov2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
