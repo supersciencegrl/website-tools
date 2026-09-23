@@ -126,25 +126,6 @@
     },
     {
         "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Fellowship of the data: International research data management community meeting",
-        "url": "https://datafellows.univie.ac.at/",
-        "start_date": "21 Sep 2026",
-        "end_date": "22 Sep 2026",
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "fellowshipofthedatai21Sep2026_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -287,29 +268,6 @@
             "Spain"
         ],
         "uid": "schoolofphotochemist21Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Sustainability in Life Science",
-        "url": "https://www.apotekarsocieteten.se/kalendarium/sustainability-in-life-science/",
-        "start_date": "22 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Stockholm, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "sustainabilityinlife22Sep2026_0"
     },
     {
         "themes": [
@@ -874,6 +832,28 @@
             "MA"
         ],
         "uid": "discoveryontarget28Sep2026_0"
+    },
+    {
+        "themes": [
+            "law/policy",
+            "pharma industry",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "Practical Application of Toxicology in Drug Development",
+        "url": "https://www.ats.cam.ac.uk/practical-application-toxicology-drug-development",
+        "start_date": "28 Sep 2026",
+        "end_date": "02 Oct 2026",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "practicalapplication28Sep2026_0"
     },
     {
         "themes": [
@@ -4725,6 +4705,32 @@
             "UK"
         ],
         "uid": "biotechoutsourcingso24Nov2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "chem bio",
+            "formulation/particle science",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "InSPIREmed Grand Challenge End User Consultation Workshop (process analytical technology)",
+        "url": "https://www.eventbrite.co.uk/e/inspiremed-grand-challenge-end-user-consultation-workshop-tickets-1994014258324",
+        "start_date": "25 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Glasgow, Scotland, UK",
+            "Online"
+        ],
+        "countries": [
+            "UK",
+            "Online"
+        ],
+        "uid": "inspiremedgrandchall25Nov2026_0"
     },
     {
         "themes": [
