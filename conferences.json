@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Intl Conference of Molecular Electronic Structure MES",
-        "url": "https://www.mes2026.com/",
-        "start_date": "19 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Kamena Vourla, Greece"
-        ],
-        "countries": [
-            "Greece"
-        ],
-        "uid": "intlconferenceofmole19Sep2026_0"
-    },
-    {
-        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -38,70 +18,6 @@
             "Italy"
         ],
         "uid": "doctoralnanochemistr19Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Society for Environmental Toxicology & Chemistry SETAC Asia-Pacific Biennial Meeting",
-        "url": "https://www.setac.org/discover-events/global-meetings/setac-asia-pacific-15th-biennial-meeting.html",
-        "start_date": "20 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Tsukuba, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "societyforenvironmen20Sep2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Enamine Drug Discovery Conference",
-        "url": "https://www.enamine-conferences.org/",
-        "start_date": "20 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Riga, Latvia"
-        ],
-        "countries": [
-            "Latvia"
-        ],
-        "uid": "enaminedrugdiscovery20Sep2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chirality@TheNanoscale",
-        "url": "https://nanoscale.sciencesconf.org/?lang=en",
-        "start_date": "20 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Lipari, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "chiralitythenanoscal20Sep2026_0"
     },
     {
         "themes": [
@@ -126,129 +42,6 @@
     },
     {
         "themes": [
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Scientific Update: 56th Organic Process Research & Development Conference OPRD",
-        "url": "https://www.scientificupdate.com/conference_events/organic-process-research-and-development/20260921/",
-        "start_date": "21 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Copenhagen, Denmark"
-        ],
-        "countries": [
-            "Denmark"
-        ],
-        "uid": "scientificupdate56th21Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Summer school on pharmaceutical analysis SSPA",
-        "url": "https://www.sspaweb.com/",
-        "start_date": "21 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Rimini, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "summerschoolonpharma21Sep2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Makro 2026: The transition of polymer chemistry",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11916&modus=",
-        "start_date": "21 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Konstanz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "makro2026thetransiti21Sep2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Secrets of Batch Process Scale-Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/secrets-of-batch-process-scale-up/20260921/",
-        "start_date": "21 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Dublin, Ireland"
-        ],
-        "countries": [
-            "Ireland"
-        ],
-        "uid": "secretsofbatchproces21Sep2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "NuMat2026: Nuclear Materials Conference",
-        "url": "https://www.elsevier.com/events/conferences/all/the-nuclear-materials-conference",
-        "start_date": "21 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Halifax, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "numat2026nuclearmate21Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "DPhG-Jahrestagung: From targets to therapies",
-        "url": "https://www.dphg.de/vortraege-und-tagungen/dphg-jahrestagung-2026-annual-meeting",
-        "start_date": "21 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Regensburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "dphgjahrestagungfrom21Sep2026_0"
-    },
-    {
-        "themes": [
             "catalysis",
             "chem bio",
             "environment/fuels",
@@ -268,110 +61,6 @@
             "Spain"
         ],
         "uid": "schoolofphotochemist21Sep2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "synthesis"
-        ],
-        "regions": [
-            "Northern England"
-        ],
-        "title": "A Celebration of Organic Chemistry 2026",
-        "url": "https://soci.org/events/fine-chemicals-group/2026/a-celebration-of-organic-chemistry-2026",
-        "start_date": "22 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Macclesfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "acelebrationoforgani22Sep2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Queer in STEM Workshop",
-        "url": "https://outsavvy.com/event/35459",
-        "start_date": "22 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "queerinstemworkshop22Sep2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab of the Future Europe",
-        "url": "https://www.lab-of-the-future.com/europe/",
-        "start_date": "22 Sep 2026",
-        "end_date": "23 Sep 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "labofthefutureeurope22Sep2026_0"
-    },
-    {
-        "themes": [
-            "physical/phys org"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Nuklearchemie 2026",
-        "url": "https://veranstaltungen.gdch.de/microsite/index.cfm?l=11855&sp_id=1",
-        "start_date": "22 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Mainz, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "nuklearchemie202622Sep2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "environment/fuels",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "Commercializing industrial biotechnology",
-        "url": "https://www.aiche.org/sbe/conferences/commercializing-industrial-biotechnology/2026",
-        "start_date": "22 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "IL"
-        ],
-        "uid": "commercializingindus22Sep2026_0"
     },
     {
         "themes": [
@@ -413,124 +102,6 @@
             "Germany"
         ],
         "uid": "gdchelectrochemistry22Sep2026_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS Regional Meetup Vienna",
-        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-vienna/",
-        "start_date": "23 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Vienna, Austria"
-        ],
-        "countries": [
-            "Austria"
-        ],
-        "uid": "societyforlaboratory23Sep2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Demystifying Agentic AI & AI agents workshop",
-        "url": "https://aichemy.ac.uk/event/demystifying-agentic-ai-ai-agents-workshop/",
-        "start_date": "23 Sep 2026",
-        "end_date": null,
-        "locations": [
-            "Leeds, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "demystifyingagentica23Sep2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "ILMAC (trade fair)",
-        "url": "https://scg.ch/component/eventbooking/ilmac26",
-        "start_date": "23 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Lausanne, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "ilmactradefair23Sep2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Journées Annuelles de l'Association Francophone de la Chimie Accélérée et Digitalisée AFCAD",
-        "url": "https://www.afcad.org/page/3199248-actualites",
-        "start_date": "23 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Lausanne, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "journéesannuellesdel23Sep2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lipid Nanoparticles Development Summit Europe",
-        "url": "https://lipid-nanoparticle-development-europe.com/",
-        "start_date": "23 Sep 2026",
-        "end_date": "24 Sep 2026",
-        "locations": [
-            "Berlin, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "lipidnanoparticlesde23Sep2026_0"
     },
     {
         "themes": [
@@ -613,6 +184,27 @@
             "UK"
         ],
         "uid": "miniadvancesinproces24Sep2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Annual meeting of the German Pharmaceutical Society DPhG",
+        "url": "https://www.dphg.de/vortraege-und-tagungen/dphg-jahrestagung-2026-annual-meeting",
+        "start_date": "24 Sep 2026",
+        "end_date": "26 Sep 2026",
+        "locations": [
+            "Regensburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "annualmeetingofthege24Sep2026_0"
     },
     {
         "themes": [
@@ -940,6 +532,25 @@
             "MA"
         ],
         "uid": "genomeeditingtherape29Sep2026_0"
+    },
+    {
+        "themes": [
+            "environment/fuels"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "My Green Lab Global Summit",
+        "url": "https://mygreenlab.org/get-involved/events/my-green-lab-global-summit-2026/",
+        "start_date": "29 Sep 2026",
+        "end_date": "30 Sep 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "mygreenlabglobalsumm29Sep2026_0"
     },
     {
         "themes": [
@@ -1273,6 +884,25 @@
             "UK"
         ],
         "uid": "intellectualproperty05Oct2026_0"
+    },
+    {
+        "themes": [
+            "law/policy"
+        ],
+        "regions": [
+            "Northern Ireland"
+        ],
+        "title": "Science & Stormont",
+        "url": "https://www.rsc.org/events/find-an-event/science-and-stormont-2026",
+        "start_date": "05 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Belfast, NI, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "sciencestormont05Oct2026_0"
     },
     {
         "themes": [
@@ -1777,6 +1407,46 @@
     },
     {
         "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Conference of Young Chemists of Serbia",
+        "url": "https://www.shd.org.rs/",
+        "start_date": "09 Oct 2026",
+        "end_date": "10 Oct 2026",
+        "locations": [
+            "Zagreb, Serbia"
+        ],
+        "countries": [
+            "Serbia"
+        ],
+        "uid": "conferenceofyoungche09Oct2026_0"
+    },
+    {
+        "themes": [
             "environment/fuels",
             "materials/polymers",
             "process/engineering"
@@ -2056,6 +1726,32 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intrauniversity course on advanced light microscopy iCALM",
+        "url": "https://www.flandersbioimaging.org/icalm26",
+        "start_date": "13 Oct 2026",
+        "end_date": "16 Oct 2026",
+        "locations": [
+            "Leuven, Belgium",
+            "Antwerp, Belgium",
+            "Ghent, Belgium",
+            "Hasselt, Belgium"
+        ],
+        "countries": [
+            "Leuven, Belgium",
+            "Antwerp, Belgium",
+            "Ghent, Belgium",
+            "Hasselt, Belgium"
+        ],
+        "uid": "intrauniversitycours13Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -2072,6 +1768,28 @@
             "UK"
         ],
         "uid": "innovationsincroppro14Oct2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "business",
+            "computational/data",
+            "environment/fuels"
+        ],
+        "regions": [
+            "Southern England"
+        ],
+        "title": "The Lab of the Future & Green Chemistry Innovation",
+        "url": "https://www.eventbrite.co.uk/e/the-lab-of-the-future-green-chemistry-innovation-tickets-1992127939293",
+        "start_date": "14 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Sandwich, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "thelabofthefuturegre14Oct2026_0"
     },
     {
         "themes": [
@@ -2728,6 +2446,28 @@
     },
     {
         "themes": [
+            "careers",
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Sea to Sky Summit on Organic & Bioorganic Chemistry S3OBC",
+        "url": "https://conference.ostem.org/",
+        "start_date": "22 Oct 2026",
+        "end_date": "25 Oct 2026",
+        "locations": [
+            "Squamish, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "seatoskysummitonorga22Oct2026_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -3133,6 +2873,67 @@
             "UK"
         ],
         "uid": "longactinggatheringf29Oct2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Oxford Women in Chemistry OxWiChem",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkR96t0g4kdZHrnrkxNA5aElUQlBRNTg0STJBQkpGUDMzSks1VDJLUlg3UCQlQCN0PWcu&route=shorturl",
+        "start_date": "29 Oct 2026",
+        "end_date": "30 Oct 2026",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "oxfordwomeninchemist29Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Pharmaceutical Chemistry Congress",
+        "url": "https://ufmkk2026.erciyes.edu.tr/",
+        "start_date": "29 Oct 2026",
+        "end_date": "31 Oct 2026",
+        "locations": [
+            "Kayseri, Türkiye"
+        ],
+        "countries": [
+            "Türkiye"
+        ],
+        "uid": "pharmaceuticalchemis29Oct2026_0"
     },
     {
         "themes": [
@@ -4515,7 +4316,7 @@
             "UK"
         ],
         "title": "Scale-up innovations for new classes of chemical products",
-        "url": "hhttps://events.rsc.org/rsc/frontend/reg/thome.csp?pageID=1276069&eventID=3430",
+        "url": "https://events.rsc.org/rsc/frontend/reg/thome.csp?pageID=1276069&eventID=3430",
         "start_date": "20 Nov 2026",
         "end_date": null,
         "locations": [
@@ -4525,6 +4326,27 @@
             "UK"
         ],
         "uid": "scaleupinnovationsfo20Nov2026_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Young Modellers' Forum 2026 (computational molecular science)",
+        "url": "https://www.mgms.org/WordPress/conferences/ymf-2026/",
+        "start_date": "20 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "youngmodellersforum220Nov2026_0"
     },
     {
         "themes": [
@@ -4626,6 +4448,27 @@
             "Online"
         ],
         "uid": "sustainnaturalsafesu23Nov2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Digital Congress of the European Society of Applied Biocatalysis",
+        "url": "https://www.ntnu.edu/esab-2026/",
+        "start_date": "23 Nov 2026",
+        "end_date": "25 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "digitalcongressofthe23Nov2026_0"
     },
     {
         "themes": [
@@ -4794,6 +4637,28 @@
             "India"
         ],
         "uid": "rscmeettheeditorsmat26Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "formulation/particle science",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Symposium on Therapeutic Oligonucleotides",
+        "url": "https://www.sct-asso.fr/thematic-meeting-oligos",
+        "start_date": "26 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "symposiumontherapeut26Nov2026_0"
     },
     {
         "themes": [
@@ -5162,6 +5027,46 @@
             "Singapore"
         ],
         "uid": "intlconferenceoncata06Dec2026_0"
+    },
+    {
+        "themes": [
+            "agrochemistry",
+            "analytical",
+            "automation",
+            "business",
+            "careers",
+            "catalysis",
+            "chem bio",
+            "computational/data",
+            "diversity",
+            "education",
+            "environment/fuels",
+            "formulation/particle science",
+            "history/philosophy",
+            "inorganic/nano",
+            "law/policy",
+            "materials/polymers",
+            "med chem",
+            "pharma industry",
+            "physical/phys org",
+            "process/engineering",
+            "safety",
+            "synthesis"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Atlantic Basin Conference on Chemistry ABCChem",
+        "url": "https://abcchem.org/",
+        "start_date": "06 Dec 2026",
+        "end_date": "09 Dec 2026",
+        "locations": [
+            "Rio de Janeiro, Brazil"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "uid": "atlanticbasinconfere06Dec2026_0"
     },
     {
         "themes": [
@@ -7654,6 +7559,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Navalix conference: Biophysics in Drug Discovery",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918841&cle_data=1360153800",
+        "start_date": "12 May 2027",
+        "end_date": "14 May 2027",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "navalixconferencebio12May2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -8839,6 +8766,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Medicinal Chemistry RICT",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918853&cle_data=1360153802",
+        "start_date": "30 Jun 2027",
+        "end_date": "02 Jul 2027",
+        "locations": [
+            "Montpellier, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlconferenceonmedi30Jun2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -9929,6 +9878,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "med chem",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "Intl Symposium on Advances in Synthetic & Medicinal Chemisry EFMC-ASMC",
+        "url": "https://www.efmc.info/cust_events.php?langue=english&cle_menus=1187970221",
+        "start_date": "30 Aug 2027",
+        "end_date": "03 Sep 2027",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "intlsymposiumonadvan30Aug2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "synthesis"
         ],
@@ -10074,6 +10045,26 @@
     },
     {
         "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "CPACT Process Spectroscopy (training course)",
+        "url": "https://cpact.com/Portals/5/downloads/repositories/131/430/2594/Process%20Spectroscopy%20Course%202027_flyer.pdf",
+        "start_date": "14 Sep 2027",
+        "end_date": "16 Sep 2027",
+        "locations": [
+            "Northampton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "cpactprocessspectros14Sep2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -10153,6 +10144,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Intl Symposium on Preparative & Process Chromatography PREP",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918808&cle_data=1360153797",
+        "start_date": "21 Sep 2027",
+        "end_date": "24 Sep 2027",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "intlsymposiumonprepa21Sep2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "process/engineering",
             "synthesis"
@@ -10217,6 +10231,28 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "EuroChemBio",
+        "url": "https://www.eurochembio2027.org/",
+        "start_date": "05 Oct 2027",
+        "end_date": "08 Oct 2027",
+        "locations": [
+            "Milan, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "eurochembio05Oct2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "process/engineering"
@@ -10256,6 +10292,26 @@
             "UK"
         ],
         "uid": "elrigdrugdiscovery19Oct2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Intl Symposium on the Separation of Proteins, Peptides, & Polynucleotides",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918769&cle_data=1360153792",
+        "start_date": "24 Oct 2027",
+        "end_date": "27 Oct 2027",
+        "locations": [
+            "Portorož, Slovenia"
+        ],
+        "countries": [
+            "Slovenia"
+        ],
+        "uid": "intlsymposiumonthese24Oct2027_0"
     },
     {
         "themes": [
@@ -10327,6 +10383,28 @@
             "GA"
         ],
         "uid": "americancollegeoftox07Nov2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Multiomics in drug discovery",
+        "url": "https://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238918785&cle_data=1360153794",
+        "start_date": "08 Nov 2027",
+        "end_date": "10 Nov 2027",
+        "locations": [
+            "Nice, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "multiomicsindrugdisc08Nov2027_0"
     },
     {
         "themes": [
