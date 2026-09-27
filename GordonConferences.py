@@ -327,9 +327,9 @@ def scrape_page(page: bytes, url: str, print_output=True) -> tuple[dict, list]:
     html_out.append('\t' * 14 + \
                     f'{event["title"]}</a></td>')
     html_out.append('\t' * 13 + \
-                    f'<td class="column2"><nobr>{event["start_date"]}</nobr></td>')
+                    f'<td class="column2"><span class="no-wrap">{event["start_date"]}</span></td>')
     html_out.append('\t' * 13 + \
-                    f'<td class="column3"><nobr>{event["end_date"]}</nobr></td>')
+                    f'<td class="column3"><span class="no-wrap">{event["end_date"]}</span></td>')
     html_out.append('\t' * 13 + \
                     
                     f'<td class="column4">{event["location"]}</td>')
