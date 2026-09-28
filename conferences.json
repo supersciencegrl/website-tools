@@ -1,28 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Western Canadian Medicinal Chemistry Workshop WCMCW",
-        "url": "https://wcmcw.ca/",
-        "start_date": "25 Sep 2026",
-        "end_date": "27 Sep 2026",
-        "locations": [
-            "Saskatoon, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "westerncanadianmedic25Sep2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -492,6 +470,26 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Latin American Congress on Process Safety",
+        "url": "https://www.aiche.org/ccps/conferences/ccps-latin-american-conference-on-process-safety/2026",
+        "start_date": "30 Sep 2026",
+        "end_date": "02 Oct 2026",
+        "locations": [
+            "Lima, Peru"
+        ],
+        "countries": [
+            "Peru"
+        ],
+        "uid": "latinamericancongres30Sep2026_0"
+    },
+    {
+        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -574,6 +572,48 @@
             "Germany"
         ],
         "uid": "suschem2026sustainab01Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Peptide & Oligonucleotide ADME Workshop POW26",
+        "url": "https://www.dmdg.org/events/20261004/introduction.asp",
+        "start_date": "04 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Prague, Czechia"
+        ],
+        "countries": [
+            "Czechia"
+        ],
+        "uid": "peptideoligonucleoti04Oct2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Health, Safety, Security, Environment HSSE & Loss Prevention Development Conference (chemical industry)",
+        "url": "https://www.aiche.org/ccps/conferences/13th-international-hsse-loss-prevention-professional-development/2026",
+        "start_date": "04 Oct 2026",
+        "end_date": "05 Oct 2026",
+        "locations": [
+            "Salmiya, Kuwait"
+        ],
+        "countries": [
+            "Kuwait"
+        ],
+        "uid": "intlhealthsafetysecu04Oct2026_0"
     },
     {
         "themes": [
@@ -938,6 +978,30 @@
             "UK"
         ],
         "uid": "researchdataalliance06Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "Next Generation Cancer Therapeutics",
+        "url": "https://natureconferences.streamgo.live/next-gen-cancer-ther/lobby",
+        "start_date": "06 Oct 2026",
+        "end_date": "08 Oct 2026",
+        "locations": [
+            "Houston, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "nextgenerationcancer06Oct2026_0"
     },
     {
         "themes": [
@@ -1458,6 +1522,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Reframing precision medicine: Innovation to implementation",
+        "url": "https://precision-medicine.conferences.nature.com/",
+        "start_date": "13 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "reframingprecisionme13Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -1653,6 +1737,29 @@
     },
     {
         "themes": [
+            "business",
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Hydrogen innovation & technology conference",
+        "url": "https://www.icheme.org/training-events/hydrogen-2026/",
+        "start_date": "14 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "hydrogeninnovationte14Oct2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -1776,6 +1883,44 @@
             "UK"
         ],
         "uid": "chemistsaspolitician16Oct2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Food structure & functionality symposium",
+        "url": "https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium",
+        "start_date": "18 Oct 2026",
+        "end_date": "21 Oct 2026",
+        "locations": [
+            "Grado, Italy"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "uid": "foodstructurefunctio18Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Metabolic Engineering Summit",
+        "url": "https://mes2026.scimeeting.cn/",
+        "start_date": "18 Oct 2026",
+        "end_date": "22 Oct 2026",
+        "locations": [
+            "Dalian, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "metabolicengineering18Oct2026_0"
     },
     {
         "themes": [
@@ -1905,6 +2050,30 @@
             "Spain"
         ],
         "uid": "mediterraneanorganic19Oct2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Frontiers in electron & scanning probe microscopy for the physical & life sciences",
+        "url": "https://natureconferences.streamgo.live/4th-frontiers-in-electron-and-scanning-probe-microscopy/lobby",
+        "start_date": "19 Oct 2026",
+        "end_date": "21 Oct 2026",
+        "locations": [
+            "Princeton, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "frontiersinelectrons19Oct2026_0"
     },
     {
         "themes": [
@@ -2352,6 +2521,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Fluorescent proteins & biological sensors",
+        "url": "https://www.janelia.org/you-janelia/conferences/fluorescent-proteins-and-biological-sensors-viii",
+        "start_date": "25 Oct 2026",
+        "end_date": "28 Oct 2026",
+        "locations": [
+            "Ashburn, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "uid": "fluorescentproteinsb25Oct2026_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -2434,6 +2626,26 @@
             "CA"
         ],
         "uid": "rawmaterialsforcellg26Oct2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "World Orphan Drug Congress",
+        "url": "https://www.terrapinn.com/conference/world-orphan-drug-congress/?",
+        "start_date": "26 Oct 2026",
+        "end_date": "28 Oct 2026",
+        "locations": [
+            "Amsterdam, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "worldorphandrugcongr26Oct2026_0"
     },
     {
         "themes": [
@@ -2625,6 +2837,26 @@
             "Japan"
         ],
         "uid": "pharmasoftwareusergr28Oct2026_0"
+    },
+    {
+        "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Global Summit on Process Safety GSPS",
+        "url": "https://www.aiche.org/ccps/conferences/ccps-global-summit-on-process-safety/2026",
+        "start_date": "28 Oct 2026",
+        "end_date": "29 Oct 2026",
+        "locations": [
+            "Qindao, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "globalsummitonproces28Oct2026_0"
     },
     {
         "themes": [
@@ -3192,6 +3424,49 @@
     },
     {
         "themes": [
+            "careers",
+            "process/engineering"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "American Institute of Chemical Engineers AIChE Annual Student Conference",
+        "url": "https://www.aiche.org/conferences/annual-aiche-student-conference/2026",
+        "start_date": "06 Nov 2026",
+        "end_date": "09 Nov 2026",
+        "locations": [
+            "Minneapolis, MN, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MN"
+        ],
+        "uid": "americaninstituteofc06Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "AI for sustainable materials",
+        "url": "https://natureconferences.streamgo.live/ai-for-sustainable-materials/lobby",
+        "start_date": "07 Nov 2026",
+        "end_date": "09 Nov 2026",
+        "locations": [
+            "Xi'an, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "aiforsustainablemate07Nov2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "materials/polymers",
@@ -3212,6 +3487,30 @@
             "Germany"
         ],
         "uid": "germanconferenceonch08Nov2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Spatial multi-omics",
+        "url": "https://www.janelia.org/you-janelia/conferences/spatial-multi-omics",
+        "start_date": "08 Nov 2026",
+        "end_date": "11 Nov 2026",
+        "locations": [
+            "Ashburn, VA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "VA"
+        ],
+        "uid": "spatialmultiomics08Nov2026_0"
     },
     {
         "themes": [
@@ -3743,6 +4042,26 @@
     },
     {
         "themes": [
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Advancing light emitting devices for integrated intelligence",
+        "url": "https://natureconferences.streamgo.live/advancing-light-emitting-device-for-integrated-intelligence/lobby",
+        "start_date": "16 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Foshan, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "advancinglightemitti16Nov2026_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -4248,6 +4567,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Model-informed drug development MIDD in action: Strategy & modelling tools (workshop)",
+        "url": "https://gmp.asso.fr/event/midd-in-action-strategy-modeling-tools/",
+        "start_date": "20 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Paris, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "modelinformeddrugdev20Nov2026_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -4465,6 +4805,27 @@
             "UK"
         ],
         "uid": "biotechoutsourcingso24Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Physiologically Based Pharmacokinetic PBPK Modelling (workshop)",
+        "url": "https://gmp.asso.fr/event/workshop-pbpk-modeling/",
+        "start_date": "24 Nov 2026",
+        "end_date": "26 Nov 2026",
+        "locations": [
+            "Lyon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "physiologicallybased24Nov2026_0"
     },
     {
         "themes": [
@@ -4875,6 +5236,26 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Global"
+        ],
+        "title": "Intl Process Safety Day",
+        "url": "https://www.aiche.org/ccps/conferences/international-process-safety-day/2026",
+        "start_date": "02 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Global"
+        ],
+        "countries": [
+            "Global"
+        ],
+        "uid": "intlprocesssafetyday02Dec2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -5259,6 +5640,29 @@
             "MA"
         ],
         "uid": "oligonucleotidebased08Dec2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "RNA at the bench & bedside",
+        "url": "https://natureconferences.streamgo.live/rna-at-the-bench-and-bedside-v/lobby",
+        "start_date": "08 Dec 2026",
+        "end_date": "10 Dec 2026",
+        "locations": [
+            "La Jolla, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "rnaatthebenchbedside08Dec2026_0"
     },
     {
         "themes": [
@@ -5777,6 +6181,25 @@
             "Online"
         ],
         "uid": "fasttophase1achemist18Jan2027_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Agentic AI for scientific discovery",
+        "url": "https://natureconferences.streamgo.live/agentic-ai-for-scientific-discovery/lobby",
+        "start_date": "18 Jan 2027",
+        "end_date": "20 Jan 2027",
+        "locations": [
+            "Hefei, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "agenticaiforscientif18Jan2027_0"
     },
     {
         "themes": [
@@ -6714,6 +7137,30 @@
     },
     {
         "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Centre for Hydrogen Safety Americas Conference",
+        "url": "https://www.aiche.org/chs/conferences/center-hydrogen-safety-conference/2027",
+        "start_date": "15 Mar 2027",
+        "end_date": "18 Mar 2027",
+        "locations": [
+            "Los Angeles, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "centreforhydrogensaf15Mar2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6798,6 +7245,26 @@
     },
     {
         "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Biennial Conference on Cancer Control in China",
+        "url": "https://thelancetsummit.com/cancer-control-china/index.html",
+        "start_date": "18 Mar 2027",
+        "end_date": "21 Mar 2027",
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "biennialconferenceon18Mar2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6841,6 +7308,30 @@
             "LA"
         ],
         "uid": "acsspringusnationalm21Mar2027_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "American Institute of Chemical Engineers AIChE Spring Meeting & Global Congress on Process Safety",
+        "url": "https://www.aiche.org/conferences/aiche-spring-meeting-and-global-congress-on-process-safety/2027",
+        "start_date": "21 Mar 2027",
+        "end_date": "25 Mar 2027",
+        "locations": [
+            "Oklahoma City, OK, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "OK"
+        ],
+        "uid": "americaninstituteofc21Mar2027_0"
     },
     {
         "themes": [
@@ -7572,6 +8063,27 @@
     },
     {
         "themes": [
+            "automation",
+            "business",
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "London Lab Live",
+        "url": "https://www.terrapinn.com/exhibition/london-lab-live/?",
+        "start_date": "05 May 2027",
+        "end_date": "06 May 2027",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "londonlablive05May2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "chem bio",
             "computational/data",
@@ -7748,6 +8260,26 @@
     },
     {
         "themes": [
+            "law/policy",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Nordic-Baltic Regulatory Affairs Meeting",
+        "url": "https://www.lakemedelsakademin.se/en/evenemang/nordic-baltic-regulatory-affairs-meeting-2027/",
+        "start_date": "12 May 2027",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "nordicbalticregulato12May2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data",
@@ -7807,6 +8339,26 @@
             "France"
         ],
         "uid": "europeanmaterialsres17May2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Biosensors",
+        "url": "https://www.elsevier.com/events/conferences/all/anniversary-world-congress-on-biosensors",
+        "start_date": "18 May 2027",
+        "end_date": "20 May 2027",
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "biosensors18May2027_0"
     },
     {
         "themes": [
@@ -7890,6 +8442,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Future directions in asymmetric synthesis",
+        "url": "https://www.beilstein-institut.de/en/symposia/future-directions-in-asymmetric-synthesis/",
+        "start_date": "01 Jun 2027",
+        "end_date": "03 Jun 2027",
+        "locations": [
+            "Rüdesheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "futuredirectionsinas01Jun2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data"
         ],
@@ -7907,6 +8479,26 @@
             "Netherlands"
         ],
         "uid": "activitybasedprotein02Jun2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Sensing technologies: Biosensors",
+        "url": "https://www.sensor-systems.conferences.nature.com/",
+        "start_date": "02 Jun 2027",
+        "end_date": "04 Jun 2027",
+        "locations": [
+            "Seoul, S Korea"
+        ],
+        "countries": [
+            "S Korea"
+        ],
+        "uid": "sensingtechnologiesb02Jun2027_0"
     },
     {
         "themes": [
@@ -8390,6 +8982,25 @@
             "Sweden"
         ],
         "uid": "swedishchemicalsocie15Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Metabolic Engineering",
+        "url": "https://www.aiche.org/imes/conferences/metabolic-engineering-conference/2027",
+        "start_date": "20 Jun 2027",
+        "end_date": "24 Jun 2027",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "uid": "metabolicengineering20Jun2027_0"
     },
     {
         "themes": [
@@ -8955,6 +9566,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Editing of molecules & materials",
+        "url": "https://www.beilstein-institut.de/en/symposia/editing-of-molecules-and-materials/",
+        "start_date": "29 Jun 2027",
+        "end_date": "01 Jul 2027",
+        "locations": [
+            "Rüdesheim, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "editingofmoleculesma29Jun2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry",
@@ -9317,6 +9949,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Cell Press Symposium: Drugging the Undruggable",
+        "url": "https://cell-press-symposia.com/drugging-the-undruggable-2027/index.html",
+        "start_date": "12 Jul 2027",
+        "end_date": "14 Jul 2027",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "cellpresssymposiumdr12Jul2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "materials/polymers"
@@ -9335,6 +9988,27 @@
             "UK"
         ],
         "uid": "intlconferenceonmate12Jul2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Materials Today Conference",
+        "url": "https://www.elsevier.com/events/conferences/all/materials-today-conference",
+        "start_date": "18 Jul 2027",
+        "end_date": "22 Jul 2027",
+        "locations": [
+            "Montpellier, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "materialstodayconfer18Jul2027_0"
     },
     {
         "themes": [
@@ -10193,6 +10867,29 @@
     },
     {
         "themes": [
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "Annual Safety in Ammonia Plants & Related Facilities Symposium",
+        "url": "https://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2027",
+        "start_date": "12 Sep 2027",
+        "end_date": "16 Sep 2027",
+        "locations": [
+            "Seattle, CO, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CO"
+        ],
+        "uid": "annualsafetyinammoni12Sep2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "synthesis"
         ],
@@ -10313,6 +11010,25 @@
     },
     {
         "themes": [
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Conference on Fracture of Polymers, Composites, & Adhesives",
+        "url": "https://www.elsevier.com/en-in/events/conferences/all/esistc4conference",
+        "start_date": "19 Sep 2027",
+        "end_date": "23 Sep 2027",
+        "locations": [
+            "Les Diablerets, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "intlconferenceonfrac19Sep2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -10369,6 +11085,27 @@
             "UK"
         ],
         "uid": "europeancoatingssymp21Sep2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Interfaces in ultrafine-grained & nanostructured materials",
+        "url": "https://www.beilstein-institut.de/en/symposia/interfaces-in-ultrafine-grained-or-nanostructured-materials/",
+        "start_date": "21 Sep 2027",
+        "end_date": "23 Sep 2027",
+        "locations": [
+            "Limburg, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "interfacesinultrafin21Sep2027_0"
     },
     {
         "themes": [
@@ -10459,6 +11196,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Future Foods Congress",
+        "url": "https://www.elsevier.com/en-in/events/conferences/all/future-foods-congress",
+        "start_date": "27 Sep 2027",
+        "end_date": "29 Sep 2027",
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "futurefoodscongress27Sep2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "chem bio",
             "computational/data",
@@ -10502,6 +11258,25 @@
     },
     {
         "themes": [
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Innovations in Milk Proteins",
+        "url": "https://www.nizodairyconference.com/",
+        "start_date": "12 Oct 2027",
+        "end_date": "15 Oct 2027",
+        "locations": [
+            "Arnhem, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "innovationsinmilkpro12Oct2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -10540,6 +11315,27 @@
             "Slovenia"
         ],
         "uid": "intlsymposiumonthese24Oct2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Cell Press Symposium: Functional RNAs",
+        "url": "https://cell-press-symposia.com/rnas-2027/index.html",
+        "start_date": "25 Oct 2027",
+        "end_date": "27 Oct 2027",
+        "locations": [
+            "Geneva, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "cellpresssymposiumfu25Oct2027_0"
     },
     {
         "themes": [
@@ -10636,6 +11432,25 @@
     },
     {
         "themes": [
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Food Chemistry Conference",
+        "url": "https://www.elsevier.com/events/conferences/all/food-chemistry-conference",
+        "start_date": "08 Nov 2027",
+        "end_date": "11 Nov 2027",
+        "locations": [
+            "Guangzhou, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "foodchemistryconfere08Nov2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "careers",
@@ -10664,6 +11479,27 @@
             "CA"
         ],
         "uid": "pharmsci36013Nov2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "process/engineering"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Conference on Desalination Science & Technology",
+        "url": "https://www.elsevier.com/events/conferences/all/desalination-science-and-technology",
+        "start_date": "14 Nov 2027",
+        "end_date": "18 Nov 2027",
+        "locations": [
+            "Shanghai, China"
+        ],
+        "countries": [
+            "China"
+        ],
+        "uid": "intlconferenceondesa14Nov2027_0"
     },
     {
         "themes": [
@@ -10897,6 +11733,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "catalysis",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Intl Zeolite Conference",
+        "url": "https://www.aiche.org/conferences/international-zeolite-conference/2028",
+        "start_date": "12 Jul 2028",
+        "end_date": "14 Jul 2028",
+        "locations": [
+            "Philadelphia, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "intlzeoliteconferenc12Jul2028_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -11017,5 +11877,29 @@
             "LA"
         ],
         "uid": "americancollegeoftox05Nov2028_0"
+    },
+    {
+        "themes": [
+            "environment/fuels",
+            "process/engineering",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "American Institute of Chemical Engineers AIChE Annual Meeting",
+        "url": "https://www.aiche.org/conferences/aiche-annual-meeting/2028",
+        "start_date": "12 Nov 2028",
+        "end_date": "16 Nov 2028",
+        "locations": [
+            "Phoenix, AZ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "AZ"
+        ],
+        "uid": "americaninstituteofc12Nov2028_0"
     }
 ]
