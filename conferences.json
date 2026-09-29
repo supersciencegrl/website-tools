@@ -2,28 +2,6 @@
     {
         "themes": [
             "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Predict before you synthesize: Machine learning for molecular properties & ADMET (training course)",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSelAvFeCHkjTPcAfHQp8TlNZHeVf5LMXDTl5pOHgHD-AQEb8w/viewform",
-        "start_date": "26 Sep 2026",
-        "end_date": "28 Sep 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "predictbeforeyousynt26Sep2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
             "materials/polymers",
             "med chem",
             "pharma industry"
@@ -3537,6 +3515,26 @@
     },
     {
         "themes": [
+            "automation",
+            "computational/data"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Universal Files: Connecting scientists, instruments, robots, & AI",
+        "url": "https://www.linkedin.com/posts/simon-yates-99569254_are-you-tired-of-re-writing-data-from-one-share-7510335925223075840-z1Z2/",
+        "start_date": "09 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "universalfilesconnec09Nov2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science",
             "process/engineering"
         ],
@@ -5039,6 +5037,26 @@
             "India"
         ],
         "uid": "rscmeettheeditors27Nov2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "chem bio"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Society of Biochemical Engineering Sciences ESBES Symposium",
+        "url": "https://esbes2026.org/",
+        "start_date": "29 Nov 2026",
+        "end_date": "02 Dec 2026",
+        "locations": [
+            "Delft, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "europeansocietyofbio29Nov2026_0"
     },
     {
         "themes": [
