@@ -1,79 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European Symposium on Quantitative Structure-Activity Relationships EuroQSAR",
-        "url": "https://www.euroqsar.org/",
-        "start_date": "27 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Perugia, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "europeansymposiumonq27Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "IUPAC Intl Conference on Next Horizons in Polymers PSK50",
-        "url": "https://iupac.org/event/next-horizons-in-polymers/",
-        "start_date": "28 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Busan, S Korea"
-        ],
-        "countries": [
-            "S Korea"
-        ],
-        "uid": "iupacintlconferenceo28Sep2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA",
-            "Online"
-        ],
-        "title": "Discovery on Target",
-        "url": "https://www.discoveryontarget.com/",
-        "start_date": "28 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Boston, MA, USA",
-            "Online"
-        ],
-        "countries": [
-            "USA",
-            "Online"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "discoveryontarget28Sep2026_0"
-    },
-    {
-        "themes": [
             "law/policy",
             "pharma industry",
             "process/engineering",
@@ -93,90 +20,6 @@
             "UK"
         ],
         "uid": "practicalapplication28Sep2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "education"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "FDM@Campus (research data management for universities)",
-        "url": "https://www.eresearch.uni-goettingen.de/de/fdmcampus-event-information/",
-        "start_date": "29 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Göttingen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "fdmcampusresearchdat29Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "POWTECH Intl Exhibition for Process Operations",
-        "url": "https://www.powtech-technopharm.com/en",
-        "start_date": "29 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Nürnberg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "powtechintlexhibitio29Sep2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "business",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Lab of the Future Europe",
-        "url": "https://www.lab-of-the-future.com/europe/",
-        "start_date": "30 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "labofthefutureeurope30Sep2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "formulation/particle science",
-            "law/policy",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Peptide Therapeutics CMC: Impurities Management & Control Strategy (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/peptide-therapeutics-cmc-impurities-management-and-control-strategy/",
-        "start_date": "30 Sep 2026",
-        "end_date": "01 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "peptidetherapeuticsc30Sep2026_0"
     },
     {
         "themes": [
@@ -238,46 +81,6 @@
             "Peru"
         ],
         "uid": "latinamericancongres30Sep2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "RSC plant tour: GMP Manufacturing Ltd",
-        "url": "https://www.rsc.org/events/find-an-event/gmp-manufacturing-ltd-tour",
-        "start_date": "01 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Hull, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "rscplanttourgmpmanuf01Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Joint Pharmaceutical Analysis Group JPAG: Sampling & sample preparation",
-        "url": "https://jpag.org/?p=meetings&r=194",
-        "start_date": "01 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "jointpharmaceuticala01Oct2026_0"
     },
     {
         "themes": [
@@ -1141,6 +944,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Schrödinger: Accelerating biologics discovery: An end-to-end workflow with BioLuminate & LiveDesign",
+        "url": "https://www.schrodinger.com/life-science/resources/event/accelerating-biologics-discovery-an-end-to-end-workflow-with-bioluminate-and-livedesign/",
+        "start_date": "12 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "schrödingeraccelerat12Oct2026_0"
+    },
+    {
+        "themes": [
             "formulation/particle science"
         ],
         "regions": [
@@ -1224,6 +1048,31 @@
             "CA"
         ],
         "uid": "intlchemicalbiologys12Oct2026_0"
+    },
+    {
+        "themes": [
+            "business",
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano"
+        ],
+        "regions": [
+            "Midwest USA"
+        ],
+        "title": "The Battery Show",
+        "url": "https://www.thebatteryshow.com/",
+        "start_date": "12 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "Detroit, MI, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MI"
+        ],
+        "uid": "thebatteryshow12Oct2026_0"
     },
     {
         "themes": [
@@ -1331,6 +1180,26 @@
             "UK"
         ],
         "uid": "reframingprecisionme13Oct2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Festival of Biologics",
+        "url": "https://www.terrapinn.com/conference/festival-of-biologics/index.stm",
+        "start_date": "13 Oct 2026",
+        "end_date": "15 Oct 2026",
+        "locations": [
+            "Basel, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "festivalofbiologics13Oct2026_0"
     },
     {
         "themes": [
@@ -1594,6 +1463,26 @@
     },
     {
         "themes": [
+            "business",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "SEPAWA Congress (detergent, cosmetics, perfumery industry)",
+        "url": "https://www.sepawa.com/congress/en/",
+        "start_date": "14 Oct 2026",
+        "end_date": "16 Oct 2026",
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "sepawacongressdeterg14Oct2026_0"
+    },
+    {
+        "themes": [
             "inorganic/nano",
             "materials/polymers"
         ],
@@ -1655,6 +1544,25 @@
             "Germany"
         ],
         "uid": "jahrestreffenderchem15Oct2026_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Software carpentry workshop: Core software skills for research",
+        "url": "https://ccpbiosim.github.io/2026-10-15-DRIIMB/",
+        "start_date": "15 Oct 2026",
+        "end_date": "16 Oct 2026",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "softwarecarpentrywor15Oct2026_0"
     },
     {
         "themes": [
@@ -2006,27 +1914,6 @@
     },
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Targeted Protein Degradation TPD",
-        "url": "https://www.rscbmcs.org/events/protdeg26/",
-        "start_date": "21 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Hatfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "targetedproteindegra21Oct2026_0"
-    },
-    {
-        "themes": [
             "careers",
             "chem bio",
             "pharma industry"
@@ -2102,7 +1989,7 @@
         "regions": [
             "Southern England"
         ],
-        "title": "Targeting Protein Degradation",
+        "title": "Targeting Protein Degradation TPD",
         "url": "https://www.rscbmcs.org/events/protdeg26/",
         "start_date": "21 Oct 2026",
         "end_date": "22 Oct 2026",
@@ -2755,6 +2642,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Japanese Peptide Symposium",
+        "url": "https://www.peptide-soc.jp/63jps/en/",
+        "start_date": "28 Oct 2026",
+        "end_date": "30 Oct 2026",
+        "locations": [
+            "Hiroshima, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "japanesepeptidesympo28Oct2026_0"
+    },
+    {
+        "themes": [
             "business"
         ],
         "regions": [
@@ -2901,6 +2809,45 @@
     },
     {
         "themes": [
+            "chem bio",
+            "safety"
+        ],
+        "regions": [
+            "North America"
+        ],
+        "title": "Advanced approaches for species surrogacy in chemical risk assessment",
+        "url": "https://www.setac.org/discover-events/topical-events/advanced-approaches-for-species-surrogacy.html",
+        "start_date": "01 Nov 2026",
+        "end_date": "02 Nov 2026",
+        "locations": [
+            "Montreal, Quebec"
+        ],
+        "countries": [
+            "Quebec"
+        ],
+        "uid": "advancedapproachesfo01Nov2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Okinawa Colloids",
+        "url": "https://okinawacolloids.jp/",
+        "start_date": "01 Nov 2026",
+        "end_date": "06 Nov 2026",
+        "locations": [
+            "Okinawa, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "okinawacolloids01Nov2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "automation",
             "computational/data"
@@ -2919,26 +2866,6 @@
             "Germany"
         ],
         "uid": "analytiktagselfdrivi02Nov2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Artificial Intelligence to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/20261102/",
-        "start_date": "02 Nov 2026",
-        "end_date": "03 Nov 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "applicationsofartifi02Nov2026_0"
     },
     {
         "themes": [
@@ -2962,6 +2889,26 @@
             "India"
         ],
         "uid": "indiannationalconfer02Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Applications of Artificial Intelligence to Process Chemistry (training course)",
+        "url": "https://www.scientificupdate.com/training_courses/applications-of-artificial-intelligence-to-process-chemistry/20261102/",
+        "start_date": "02 Nov 2026",
+        "end_date": "03 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "applicationsofartifi02Nov2026_0"
     },
     {
         "themes": [
@@ -3152,6 +3099,28 @@
             "MA"
         ],
         "uid": "dermatologydrugdevel03Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Advances in computational approaches to antimicrobial resistance AMR",
+        "url": "https://www.brunel.ac.uk/news-and-events/events/2026/Advances-in-Computational-Approaches-to-Antimicrobial-Resistance",
+        "start_date": "04 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "advancesincomputatio04Nov2026_0"
     },
     {
         "themes": [
@@ -3500,6 +3469,27 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "BIO-Europe",
+        "url": "https://informaconnect.com/bioeurope/",
+        "start_date": "09 Nov 2026",
+        "end_date": "11 Nov 2026",
+        "locations": [
+            "Cologne, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "bioeurope09Nov2026_0"
+    },
+    {
+        "themes": [
             "process/engineering",
             "synthesis"
         ],
@@ -3558,6 +3548,28 @@
             "UK"
         ],
         "uid": "genomicsprecisionmed10Nov2026_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "environment/fuels",
+            "inorganic/nano",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Engineering the future of solid state batteries",
+        "url": "https://www.nims.go.jp/nims-award-symposium/",
+        "start_date": "10 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Tsukaba, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "engineeringthefuture10Nov2026_0"
     },
     {
         "themes": [
@@ -3663,13 +3675,55 @@
     },
     {
         "themes": [
+            "careers",
+            "chem bio",
+            "diversity"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "OUTbio UK Networking & mini panel discussion: LGBTQ+ careers across generations",
+        "url": "https://www.outbio.uk/event-details/networking-mini-panel-lgbtq-careers-across-generations",
+        "start_date": "11 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "outbiouknetworkingmi11Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Medicinal chemistry symposium",
+        "url": "https://www.k-gakkai.jp/mcs2026/en/en_index.html",
+        "start_date": "11 Nov 2026",
+        "end_date": "13 Nov 2026",
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "medicinalchemistrysy11Nov2026_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
         "regions": [
             "UK"
         ],
-        "title": "Training course on pharmacogenomics",
+        "title": "Pharmacogenomics (training course)",
         "url": "https://www.mrcc.org.uk/events/eshg-pharmacogenetics-course-2026-in-person-manchester-uk/",
         "start_date": "11 Nov 2026",
         "end_date": "13 Nov 2026",
@@ -3679,7 +3733,7 @@
         "countries": [
             "UK"
         ],
-        "uid": "trainingcourseonphar11Nov2026_0"
+        "uid": "pharmacogenomicstrai11Nov2026_0"
     },
     {
         "themes": [
@@ -3722,6 +3776,27 @@
             "UK"
         ],
         "uid": "biotechbeersnetworki12Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "The Schrödinger Discovery Suite (workshop)",
+        "url": "https://www.schrodinger.com/life-science/resources/event/exploring-the-schrodinger-drug-discovery-suite/#",
+        "start_date": "12 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Fribourg, Switzerland"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "uid": "theschrödingerdiscov12Nov2026_0"
     },
     {
         "themes": [
@@ -4187,6 +4262,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Kyoto Conference on New Aspects of Organic Chemistry IKCOC-16",
+        "url": "https://ikcoc16.org/",
+        "start_date": "16 Nov 2026",
+        "end_date": "19 Nov 2026",
+        "locations": [
+            "Kyoto, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlkyotoconferenceo16Nov2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "catalysis",
             "chem bio"
@@ -4508,6 +4604,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Antimicrobial Peptides AMP",
+        "url": "https://www.sfm-microbiologie.org/evenement/amp-2026/",
+        "start_date": "18 Nov 2026",
+        "end_date": "20 Nov 2026",
+        "locations": [
+            "Besançon, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlsymposiumonantim18Nov2026_0"
+    },
+    {
+        "themes": [
             "computational/data",
             "physical/phys org"
         ],
@@ -4549,6 +4666,27 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Frontiers in Digital Chemistry Tokyo: Next-gen Electronics & Mobility",
+        "url": "https://www.schrodinger.com/materials-science/resources/event/frontiers-in-digital-chemistry-tokyo-next-gen-electronics-mobility/#",
+        "start_date": "19 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "frontiersindigitalch19Nov2026_0"
+    },
+    {
+        "themes": [
             "business",
             "pharma industry"
         ],
@@ -4566,6 +4704,25 @@
             "India"
         ],
         "uid": "specialitycomplexgen19Nov2026_0"
+    },
+    {
+        "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on Dry Process DPS2026",
+        "url": "https://www.dry-process.org/2026/",
+        "start_date": "19 Nov 2026",
+        "end_date": "20 Nov 2026",
+        "locations": [
+            "Tokyo, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlsymposiumondrypr19Nov2026_0"
     },
     {
         "themes": [
@@ -4649,6 +4806,28 @@
             "France"
         ],
         "uid": "modelinformeddrugdev20Nov2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "inorganic/nano",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on the Chemistry & Biological Chemistry of Vanadium V14",
+        "url": "https://vanadium14.sakura.ne.jp/",
+        "start_date": "20 Nov 2026",
+        "end_date": "23 Nov 2026",
+        "locations": [
+            "Osaka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlsymposiumonthech20Nov2026_0"
     },
     {
         "themes": [
@@ -5678,6 +5857,29 @@
     },
     {
         "themes": [
+            "automation",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NIST Volume Metrology Seminar",
+        "url": "https://www.nist.gov/news-events/events/2026/12/nist-owm-volume-metrology-seminar-class-2065-december-2026",
+        "start_date": "07 Dec 2026",
+        "end_date": "11 Dec 2026",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "nistvolumemetrologys07Dec2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "environment/fuels"
         ],
@@ -5871,6 +6073,29 @@
             "UK"
         ],
         "uid": "rscorganicchemistryc11Dec2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Antibody engineering & therapeutics US",
+        "url": "https://informaconnect.com/antibody-engineering-therapeutics/",
+        "start_date": "13 Dec 2026",
+        "end_date": "16 Dec 2026",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "antibodyengineeringt13Dec2026_0"
     },
     {
         "themes": [
@@ -6143,6 +6368,28 @@
             "UK"
         ],
         "uid": "airqualityinthe21stc16Dec2026_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "RSC BMCS Biological & medicinal chemistry symposium for postgraduates",
+        "url": "https://www.rscbmcs.org/events/20thpostgrad/",
+        "start_date": "07 Jan 2027",
+        "end_date": null,
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscbmcsbiologicalmed07Jan2027_0"
     },
     {
         "themes": [
@@ -6615,6 +6862,29 @@
             "Switzerland"
         ],
         "uid": "scsdivisionofmedicin25Jan2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NIST Fundamentals of Metrology Seminar",
+        "url": "https://www.nist.gov/news-events/events/2027/01/nist-owm-fundamentals-metrology-seminar-january-2027",
+        "start_date": "25 Jan 2027",
+        "end_date": "29 Jan 2027",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "nistfundamentalsofme25Jan2027_0"
     },
     {
         "themes": [
@@ -7129,6 +7399,28 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Conformational design in drug discovery",
+        "url": "https://www.rscbmcs.org/events/conformationaldesign27/",
+        "start_date": "01 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "conformationaldesign01Mar2027_0"
+    },
+    {
+        "themes": [
             "business",
             "computational/data"
         ],
@@ -7342,6 +7634,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Hot topics: Epigenetic & epitranscriptomic modulation",
+        "url": "https://www.rscbmcs.org/events/hottopicsepigenetics2027/",
+        "start_date": "10 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "hottopicsepigenetice10Mar2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -7487,6 +7800,27 @@
             "China"
         ],
         "uid": "biennialconferenceon18Mar2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "BMCS Symposium on Mastering Medicinal Chemistry",
+        "url": "https://www.rscbmcs.org/events/mastermedchem27-2/",
+        "start_date": "19 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "bmcssymposiumonmaste19Mar2027_0"
     },
     {
         "themes": [
@@ -7795,6 +8129,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "New approaches to neurodegenerative diseases",
+        "url": "https://www.rscbmcs.org/events/neuro27/",
+        "start_date": "05 Apr 2027",
+        "end_date": "06 Apr 2027",
+        "locations": [
+            "Hinxton, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newapproachestoneuro05Apr2027_0"
+    },
+    {
+        "themes": [
             "analytical"
         ],
         "regions": [
@@ -7837,6 +8192,28 @@
     },
     {
         "themes": [
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NIST Fundamentals of Metrology Seminar",
+        "url": "https://www.nist.gov/news-events/events/2027/04/nist-owm-fundamentals-metrology-seminar-april-2027",
+        "start_date": "05 Apr 2027",
+        "end_date": "09 Apr 2027",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "nistfundamentalsofme05Apr2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -7863,7 +8240,7 @@
         "regions": [
             "Eastern USA"
         ],
-        "title": "Croatian Meeting of Chemists & Chemical Engineers",
+        "title": "Croatian Meeting of Chemists & Chemical Engineers 30HSKIKI",
         "url": "https://30hskiki.org/",
         "start_date": "06 Apr 2027",
         "end_date": "09 Apr 2027",
@@ -7916,6 +8293,30 @@
             "UK"
         ],
         "uid": "faradaydiscussioncor07Apr2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Southern USA"
+        ],
+        "title": "South-Central Society for Environmental Toxicology & Chemistry SETAC Regional Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/south-central-setac-regional-chapter-2027-meeting.html",
+        "start_date": "08 Apr 2027",
+        "end_date": "10 Apr 2027",
+        "locations": [
+            "Port Aransas, TX, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "TX"
+        ],
+        "uid": "southcentralsocietyf08Apr2027_0"
     },
     {
         "themes": [
@@ -8219,6 +8620,26 @@
             "Switzerland"
         ],
         "uid": "societyofenvironment25Apr2027_0"
+    },
+    {
+        "themes": [
+            "inorganic/nano",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Eastern Europe"
+        ],
+        "title": "Annual Intl Conference on Materials Science & Nanoscience AICMSN2027",
+        "url": "https://aicmsn2027.synergiasummits.com/",
+        "start_date": "26 Apr 2027",
+        "end_date": "28 Apr 2027",
+        "locations": [
+            "Athens, Greece"
+        ],
+        "countries": [
+            "Greece"
+        ],
+        "uid": "annualintlconference26Apr2027_0"
     },
     {
         "themes": [
@@ -8610,6 +9031,49 @@
     {
         "themes": [
             "analytical",
+            "materials/polymers"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Workshop on Semiconductor Oxides IWSO12",
+        "url": "https://www.european-mrs.com/meetings/2027-spring-meeting-exhibit",
+        "start_date": "17 May 2027",
+        "end_date": "21 May 2027",
+        "locations": [
+            "Fukuoka, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlworkshoponsemico17May2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NIST Mass Metrology Seminar",
+        "url": "https://www.nist.gov/news-events/events/2027/05/nist-owm-mass-metrology-seminar-may-2027",
+        "start_date": "17 May 2027",
+        "end_date": "28 May 2027",
+        "locations": [
+            "Gaithersburg, MD, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MD"
+        ],
+        "uid": "nistmassmetrologysem17May2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "chem bio"
         ],
         "regions": [
@@ -8952,6 +9416,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "med chem"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Schrödinger User Group Meeting",
+        "url": "https://www.schrodinger.com/life-science/resources/event/european-user-group-meeting-25-brussels/",
+        "start_date": "08 Jun 2027",
+        "end_date": "10 Jun 2027",
+        "locations": [
+            "Brussels, Belgium"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "uid": "schrödingerusergroup08Jun2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data",
             "process/engineering"
@@ -9249,6 +9733,27 @@
             "Sweden"
         ],
         "uid": "swedishchemicalsocie15Jun2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "RSC Anglo-Nordic Medicinal Chemistry Symposium",
+        "url": "https://www.rscbmcs.org/events/anmc-5/",
+        "start_date": "15 Jun 2027",
+        "end_date": "18 Jun 2027",
+        "locations": [
+            "Snekkersten, Denmark"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "uid": "rscanglonordicmedici15Jun2027_0"
     },
     {
         "themes": [
@@ -9894,6 +10399,28 @@
             "Germany"
         ],
         "uid": "editingofmoleculesma29Jun2027_0"
+    },
+    {
+        "themes": [
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Asia"
+        ],
+        "title": "Intl Symposium on Photochemistry & Photophysics of Coordination Compounds ISPPCC",
+        "url": "https://pub.confit.atlas.jp/en/event/isppcc2027",
+        "start_date": "29 Jun 2027",
+        "end_date": "03 Jul 2027",
+        "locations": [
+            "Himeji, Japan"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "uid": "intlsymposiumonphoto29Jun2027_0"
     },
     {
         "themes": [
@@ -10684,6 +11211,30 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "materials/polymers",
+            "med chem",
+            "physical/phys org",
+            "synthesis"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Intl Symposium on Fluorine Chemistry ISFC & Intl Symposium on Fluorous Technologies ISoFT",
+        "url": "https://isfc2027.com/",
+        "start_date": "25 Jul 2027",
+        "end_date": "30 Jul 2027",
+        "locations": [
+            "Strasbourg, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "intlsymposiumonfluor25Jul2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "pharma industry"
         ],
@@ -11049,6 +11600,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "Australasia"
+        ],
+        "title": "Society of Environmental Toxicology & Chemistry SETAC Asia-Pacific Meeting",
+        "url": "https://www.setac.org/discover-events/ems-event-calendar/setac-asia-pacific-16th-meeting.html",
+        "start_date": "23 Aug 2027",
+        "end_date": "27 Aug 2027",
+        "locations": [
+            "Coffs Harbour, NSW, Australia"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "uid": "societyofenvironment23Aug2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "process/engineering"
@@ -11320,6 +11892,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Society of Environmental Toxicology & Chemistry SETAC Latin America Meeting",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-latin-america-17th-biennial-meeting.html",
+        "start_date": "14 Sep 2027",
+        "end_date": "17 Sep 2027",
+        "locations": [
+            "Medellin, Colombia"
+        ],
+        "countries": [
+            "Colombia"
+        ],
+        "uid": "societyofenvironment14Sep2027_0"
+    },
+    {
+        "themes": [
             "materials/polymers",
             "physical/phys org"
         ],
@@ -11523,6 +12116,27 @@
             "India"
         ],
         "uid": "flowchemistryindiafc23Sep2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "environment/fuels",
+            "safety"
+        ],
+        "regions": [
+            "South America"
+        ],
+        "title": "Society of Environmental Toxicology & Chemistry SETAC Africa Conference",
+        "url": "https://www.setac.org/discover-events/global-meetings/setac-africa-13th-biennial-conference.html",
+        "start_date": "26 Sep 2027",
+        "end_date": "30 Sep 2027",
+        "locations": [
+            "Dar es Salaam, Tanzania"
+        ],
+        "countries": [
+            "Tanzania"
+        ],
+        "uid": "societyofenvironment26Sep2027_0"
     },
     {
         "themes": [
@@ -12136,6 +12750,27 @@
             "NC"
         ],
         "uid": "pharmsci36022Oct2028_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Rosetta Workshop: Methods of computational protein design",
+        "url": "https://meilerlab.org/lisbon-workshop-2026/",
+        "start_date": "22 Oct 2028",
+        "end_date": "27 Oct 2028",
+        "locations": [
+            "Lisbon, Portugal"
+        ],
+        "countries": [
+            "Portugal"
+        ],
+        "uid": "europeanrosettaworks22Oct2028_0"
     },
     {
         "themes": [
