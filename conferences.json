@@ -2996,6 +2996,30 @@
     },
     {
         "themes": [
+            "business",
+            "pharma industry",
+            "process/engineering"
+        ],
+        "regions": [
+            "UESA"
+        ],
+        "title": "Navigating the CMC decisions that shape success",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7511456844213727232/",
+        "start_date": "04 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Boston, MA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "MA"
+        ],
+        "uid": "navigatingthecmcdeci04Nov2026_0"
+    },
+    {
+        "themes": [
             "automation",
             "business",
             "environment/fuels"
@@ -5155,6 +5179,26 @@
             "Germany"
         ],
         "uid": "uniteenergyannualcon26Nov2026_0"
+    },
+    {
+        "themes": [
+            "formulation/particle science",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Nanoparticle formulation symposium",
+        "url": "https://www.crodapharma.com/en-gb/nfs",
+        "start_date": "26 Nov 2026",
+        "end_date": "27 Nov 2026",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "nanoparticleformulat26Nov2026_0"
     },
     {
         "themes": [
