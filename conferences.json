@@ -1,27 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "Peptide & Oligonucleotide ADME Workshop POW26",
-        "url": "https://www.dmdg.org/events/20261004/introduction.asp",
-        "start_date": "04 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Prague, Czechia"
-        ],
-        "countries": [
-            "Czechia"
-        ],
-        "uid": "peptideoligonucleoti04Oct2026_0"
-    },
-    {
-        "themes": [
             "business",
             "process/engineering",
             "safety"
@@ -2288,6 +2267,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "computational/data",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Advancements in Vibrational Spectroscopy (workshop)",
+        "url": "https://www.eventbrite.co.uk/e/advancements-in-vibrational-spectroscopy-tickets-1998533195587?aff=oddtdtcreator&keep_tld=true",
+        "start_date": "27 Oct 2026",
+        "end_date": null,
+        "locations": [
+            "Didcot, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "advancementsinvibrat27Oct2026_0"
+    },
+    {
+        "themes": [
             "materials/polymers"
         ],
         "regions": [
@@ -3001,7 +3001,7 @@
             "process/engineering"
         ],
         "regions": [
-            "UESA"
+            "Eastern USA"
         ],
         "title": "Navigating the CMC decisions that shape success",
         "url": "https://www.linkedin.com/feed/update/urn:li:activity:7511456844213727232/",
@@ -4854,7 +4854,7 @@
         "regions": [
             "Online"
         ],
-        "title": "Digital Congress of the European Society of Applied Biocatalysis",
+        "title": "Digital Congress of the European Society of Applied Biocatalysis ESAB",
         "url": "https://www.ntnu.edu/esab-2026/",
         "start_date": "23 Nov 2026",
         "end_date": "25 Nov 2026",
@@ -6284,6 +6284,26 @@
             "UK"
         ],
         "uid": "airqualityinthe21stc16Dec2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Spectroscopy & Dynamics Group Meeting SDGM",
+        "url": "https://www.rsc.org/events/find-an-event/spectroscopy-and-dynamics-group-meeting-(sdgm)",
+        "start_date": "06 Jan 2027",
+        "end_date": "07 Jan 2027",
+        "locations": [
+            "Harwell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscspectroscopydynam06Jan2027_0"
     },
     {
         "themes": [
