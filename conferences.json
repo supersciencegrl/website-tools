@@ -1,46 +1,6 @@
 [
     {
         "themes": [
-            "business",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Health, Safety, Security, Environment HSSE & Loss Prevention Development Conference (chemical industry)",
-        "url": "https://www.aiche.org/ccps/conferences/13th-international-hsse-loss-prevention-professional-development/2026",
-        "start_date": "04 Oct 2026",
-        "end_date": "05 Oct 2026",
-        "locations": [
-            "Salmiya, Kuwait"
-        ],
-        "countries": [
-            "Kuwait"
-        ],
-        "uid": "intlhealthsafetysecu04Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Gathering for Open Science Hardware GOSH",
-        "url": "https://openhardware.science/gosh-2026-kathmandu-nepal/",
-        "start_date": "04 Oct 2026",
-        "end_date": "06 Oct 2026",
-        "locations": [
-            "Kathmandu, Nepal"
-        ],
-        "countries": [
-            "Nepal"
-        ],
-        "uid": "gatheringforopenscie04Oct2026_0"
-    },
-    {
-        "themes": [
             "analytical",
             "careers",
             "environment/fuels",
@@ -83,44 +43,6 @@
             "Switzerland"
         ],
         "uid": "swisscourseonmedicin04Oct2026_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Intellectual Property Law Seminar",
-        "url": "https://www.rsc.org/events/find-an-event/intellectual-property-law-seminar-2026",
-        "start_date": "05 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "intellectualproperty05Oct2026_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Northern Ireland"
-        ],
-        "title": "Science & Stormont",
-        "url": "https://www.rsc.org/events/find-an-event/science-and-stormont-2026",
-        "start_date": "05 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Belfast, NI, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciencestormont05Oct2026_0"
     },
     {
         "themes": [
@@ -631,7 +553,7 @@
         "regions": [
             "Western Europe"
         ],
-        "title": "SiLA Conference: Training young scientsits to digitalize research & embrace automated labs",
+        "title": "SiLA Conference: Training young scientists to digitalize research & embrace automated labs",
         "url": "https://us13.campaign-archive.com/?u=f1ca2677ee9852cdf3748e80d&id=198442027a#Registration-open-for-SiLA-Conference-2026",
         "start_date": "09 Oct 2026",
         "end_date": null,
