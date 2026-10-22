@@ -1,91 +1,6 @@
 [
     {
         "themes": [
-            "chem bio",
-            "computational/data",
-            "med chem",
-            "pharma industry",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Anglo-Italian Nucleic Acid Symposium",
-        "url": "https://www.rsc.org/events/find-an-event/1st-anglo-italian-nucleic-acids-symposium",
-        "start_date": "07 Oct 2026",
-        "end_date": "20 Oct 2026",
-        "locations": [
-            "Cantanzaro, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "angloitaliannucleica07Oct2026_0"
-    },
-    {
-        "themes": [
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Eastern Europe"
-        ],
-        "title": "CAS Intl Semiconductor Conference",
-        "url": "https://www.rsc.org/events/find-an-event/international-semiconductor-conference-%E2%80%93-cas-2026",
-        "start_date": "14 Oct 2026",
-        "end_date": "17 Oct 2026",
-        "locations": [
-            "Sinaia, Romania"
-        ],
-        "countries": [
-            "Romania"
-        ],
-        "uid": "casintlsemiconductor14Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "environment/fuels",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl Conference on Energy Materials & Rechargeable Batteries ICEMRB-2026",
-        "url": "https://www.rsc.org/events/find-an-event/international-conference-on-energy-materials-and-rechargeable-batteries-2026",
-        "start_date": "14 Oct 2026",
-        "end_date": "17 Oct 2026",
-        "locations": [
-            "Faridabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "intlconferenceonener14Oct2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Food structure & functionality symposium",
-        "url": "https://www.elsevier.com/events/conferences/all/food-structure-and-functionality-forum-symposium",
-        "start_date": "18 Oct 2026",
-        "end_date": "21 Oct 2026",
-        "locations": [
-            "Grado, Italy"
-        ],
-        "countries": [
-            "Italy"
-        ],
-        "uid": "foodstructurefunctio18Oct2026_0"
-    },
-    {
-        "themes": [
             "chem bio"
         ],
         "regions": [
@@ -148,116 +63,6 @@
     },
     {
         "themes": [
-            "computational/data",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applications of Machine Learning to Process Chemistry (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applications-of-machine-learning-to-process-chemistry/",
-        "start_date": "19 Oct 2026",
-        "end_date": "20 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "applicationsofmachin19Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Environmental Toxicology & Chemistry SETAC Europe Life Cycle Analysis LCA Symposium",
-        "url": "https://www.setac.org/discover-events/topical-events/setac-europe-27th-lca-symposium.html",
-        "start_date": "19 Oct 2026",
-        "end_date": "21 Oct 2026",
-        "locations": [
-            "Bruges, Belgium"
-        ],
-        "countries": [
-            "Belgium"
-        ],
-        "uid": "societyforenvironmen19Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Operationalise: Early Access Programmes Summit Europe",
-        "url": "https://operationalise-early-access.com/",
-        "start_date": "19 Oct 2026",
-        "end_date": "21 Oct 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "operationaliseearlya19Oct2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "materials/polymers",
-            "med chem",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Mediterranean Organic Chemistry Meeting REQOMED",
-        "url": "https://www.reqomed26.es/",
-        "start_date": "19 Oct 2026",
-        "end_date": "21 Oct 2026",
-        "locations": [
-            "Almería, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "mediterraneanorganic19Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Frontiers in electron & scanning probe microscopy for the physical & life sciences",
-        "url": "https://natureconferences.streamgo.live/4th-frontiers-in-electron-and-scanning-probe-microscopy/lobby",
-        "start_date": "19 Oct 2026",
-        "end_date": "21 Oct 2026",
-        "locations": [
-            "Princeton, NJ, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NJ"
-        ],
-        "uid": "frontiersinelectrons19Oct2026_0"
-    },
-    {
-        "themes": [
             "automation",
             "computational/data",
             "process/engineering"
@@ -300,46 +105,6 @@
             "Online"
         ],
         "uid": "appliedmixingtechnol19Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Society for Laboratory Automation & Screening SLAS regional meetup",
-        "url": "https://www.slas.org/events-calendar/slas-european-regional-meet-up-tuebingen/",
-        "start_date": "20 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Tübingen, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "societyforlaboratory20Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Bionow Bioignite Conference (emerging business)",
-        "url": "https://bionow.glueup.com/event/bionow-bioignite-2026-conference-167195/",
-        "start_date": "20 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Daresbury, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "bionowbioigniteconfe20Oct2026_0"
     },
     {
         "themes": [
@@ -392,51 +157,6 @@
             "Germany"
         ],
         "uid": "chemicaldevelopments20Oct2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "From bench to beyond: Exploring career pathways in pharmacology",
-        "url": "https://www.bps.ac.uk/events/event/from-bench-to-beyond-exploring-career-pathways-in-pharmacology/",
-        "start_date": "21 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "frombenchtobeyondexp21Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Pharma & Biopharma Forum: From discovery to release with high-performance analytics (Bruker/SciY/Chemspeed)",
-        "url": "https://brukercorp.regfox.com/pharma-forum-san-diego",
-        "start_date": "21 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "pharmabiopharmaforum21Oct2026_0"
     },
     {
         "themes": [
@@ -4917,6 +4637,27 @@
     },
     {
         "themes": [
+            "catalysis",
+            "materials/polymers",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Macrocyclic & supramolecular chemistry meeting",
+        "url": "https://www.rsc.org/events/find-an-event/macrocyclic-and-supramolecular-chemistry-meeting-2026",
+        "start_date": "21 Dec 2026",
+        "end_date": "22 Dec 2026",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "macrocyclicsupramole21Dec2026_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -6095,6 +5836,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "med chem",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "RSC Chemical Biology & Bioorganic Chemistry Group CBBG",
+        "url": "https://www.rsc.org/events/find-an-event/2027-rsc-chemical-biology-and-bioorganic-chemistry-group-(cbbg)-forum",
+        "start_date": "08 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "rscchemicalbiologybi08Mar2027_0"
+    },
+    {
+        "themes": [
             "automation",
             "computational/data"
         ],
@@ -6883,6 +6645,29 @@
     {
         "themes": [
             "analytical",
+            "catalysis",
+            "inorganic/nano",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Northern England"
+        ],
+        "title": "Characterization of catalysts",
+        "url": "https://www.rsc.org/events/find-an-event/characterisation-of-catalysts",
+        "start_date": "07 Apr 2027",
+        "end_date": "09 Apr 2027",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "characterizationofca07Apr2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
             "environment/fuels",
             "safety"
         ],
@@ -7293,6 +7078,28 @@
             "PA"
         ],
         "uid": "advancesinprocessana26Apr2027_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "catalysis",
+            "chem bio",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "NextGenBiocat 2027 (early-career researchers)",
+        "url": "https://www.rsc.org/events/find-an-event/nextgenbiocat-2027",
+        "start_date": "28 Apr 2027",
+        "end_date": "29 Apr 2027",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "nextgenbiocat2027ear28Apr2027_0"
     },
     {
         "themes": [
