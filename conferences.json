@@ -1,375 +1,6 @@
 [
     {
         "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Metabolic Engineering Summit",
-        "url": "https://mes2026.scimeeting.cn/",
-        "start_date": "18 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Dalian, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "metabolicengineering18Oct2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Intl Conference on Polymers & Advanced Materials POLYMAT & Latin American Symposium on Coordination & Organometallic Chemistry SILQCOM",
-        "url": "https://polymat.iim.unam.mx/2026/",
-        "start_date": "18 Oct 2026",
-        "end_date": "23 Oct 2026",
-        "locations": [
-            "Oaxaca, Mexico"
-        ],
-        "countries": [
-            "Mexico"
-        ],
-        "uid": "intlconferenceonpoly18Oct2026_0"
-    },
-    {
-        "themes": [
-            "education"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "US National Chemistry Week",
-        "url": "https://www.acs.org/education/national-chemistry-week.html",
-        "start_date": "18 Oct 2026",
-        "end_date": "24 Oct 2026",
-        "locations": [
-            "USA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "USA"
-        ],
-        "uid": "usnationalchemistryw18Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "JMP Discovery Summit USA",
-        "url": "https://community.jmp.com/t5/Discovery-Summits/2026/ev-p/916270?profile.language=en",
-        "start_date": "19 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Baltimore, MD, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MD"
-        ],
-        "uid": "jmpdiscoverysummitus19Oct2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Applied Mixing Technology for Process Development: Scaling Down to Scale Up (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/applied-mixing-technology-for-process-development-scaling-down-to-scale-up/",
-        "start_date": "19 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "appliedmixingtechnol19Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "North America",
-            "UK",
-            "Midwest USA",
-            "Online"
-        ],
-        "title": "Device integration hackathon",
-        "url": "https://airtable.com/appYBjHgttvBuz3XR/paga3fOK3rkLzXhYc/form",
-        "start_date": "20 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Toronto, Canada",
-            "Liverpool, UK",
-            "Dayton, OH, USA",
-            "Chicago, IL, USA",
-            "Online"
-        ],
-        "countries": [
-            "Toronto, Canada",
-            "Liverpool, UK",
-            "Dayton, OH, USA",
-            "Chicago, IL, USA",
-            "Online"
-        ],
-        "uid": "deviceintegrationhac20Oct2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical Development & Scale-Up in the Fine Chemical & Pharmaceutical Industries (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-development-scale-up-in-the-fine-chemical-pharmaceutical-industries/20261020/",
-        "start_date": "20 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Munich, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "chemicaldevelopments20Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Society for Lab Automation & Screening SLAS Sample Management Symposium",
-        "url": "https://www.slas.org/events-calendar/slas-2026-sample-management-symposium/",
-        "start_date": "21 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "San Francisco, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "societyforlabautomat21Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Southern England"
-        ],
-        "title": "Targeting Protein Degradation TPD",
-        "url": "https://www.rscbmcs.org/events/protdeg26/",
-        "start_date": "21 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Hatfield, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "targetingproteindegr21Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Biognosys Group Conference: Multiomics in drug discovery",
-        "url": "https://www.biognosys-conference.org/",
-        "start_date": "21 Oct 2026",
-        "end_date": "22 Oct 2026",
-        "locations": [
-            "Nice, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "biognosysgroupconfer21Oct2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "materials/polymers"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Sustainable polymers in liquid formulations summit",
-        "url": "https://www.rsc.org/events/find-an-event/sustainable-polymers-in-liquid-formulations-summit-2026",
-        "start_date": "22 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sustainablepolymersi22Oct2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "SCS-Syngenta Symposium",
-        "url": "https://scg.ch/component/eventbooking/syngenta26",
-        "start_date": "22 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Stein, Switzerland"
-        ],
-        "countries": [
-            "Switzerland"
-        ],
-        "uid": "scssyngentasymposium22Oct2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "Annual oSTEM Conference (LGBTQ+)",
-        "url": "https://conference.ostem.org/",
-        "start_date": "22 Oct 2026",
-        "end_date": "24 Oct 2026",
-        "locations": [
-            "Albuquerque, NM, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NM"
-        ],
-        "uid": "annualostemconferenc22Oct2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "catalysis",
-            "chem bio",
-            "synthesis"
-        ],
-        "regions": [
-            "North America"
-        ],
-        "title": "Sea to Sky Summit on Organic & Bioorganic Chemistry S3OBC",
-        "url": "https://conference.ostem.org/",
-        "start_date": "22 Oct 2026",
-        "end_date": "25 Oct 2026",
-        "locations": [
-            "Squamish, Canada"
-        ],
-        "countries": [
-            "Canada"
-        ],
-        "uid": "seatoskysummitonorga22Oct2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "FAIR data in chemistry: Current trends",
-        "url": "https://fairchemistry.iciq.es/",
-        "start_date": "23 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Tarragona, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "fairdatainchemistryc23Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Valrose Chemical Biology Exchange",
-        "url": "https://valcbx2026.wordpress.com/",
-        "start_date": "23 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Nice, France"
-        ],
-        "countries": [
-            "France"
-        ],
-        "uid": "valrosechemicalbiolo23Oct2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Innovations in the formulation of amorphous solid dispersions ASDs",
-        "url": "https://formulation.org.uk/amorphous-solid-dispersions-home/",
-        "start_date": "23 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "innovationsintheform23Oct2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -1524,7 +1155,7 @@
         "regions": [
             "UK"
         ],
-        "title": "Irish Associatoin of Pharmacologists IAP Annual Meeting",
+        "title": "Irish Association of Pharmacologists IAP Annual Meeting",
         "url": "https://www.pharmacology.ie/2026-annual-meeting/",
         "start_date": "06 Nov 2026",
         "end_date": null,
@@ -1534,7 +1165,7 @@
         "countries": [
             "UK"
         ],
-        "uid": "irishassociatoinofph06Nov2026_0"
+        "uid": "irishassociationofph06Nov2026_0"
     },
     {
         "themes": [
@@ -2723,6 +2354,25 @@
             "UK"
         ],
         "uid": "sciencethescottishpa18Nov2026_0"
+    },
+    {
+        "themes": [
+            "diversity"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "LGBTQ+ STEM Day (documentary showing)",
+        "url": "https://www.linkedin.com/posts/lgbtqstemday-share-7520532754854240256-dz1s/",
+        "start_date": "18 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "lgbtqstemdaydocument18Nov2026_0"
     },
     {
         "themes": [
@@ -4678,6 +4328,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Computational defect modelling workshop",
+        "url": "https://aichemy.ac.uk/event/computational-methods-for-defects-in-solids-workshop/",
+        "start_date": "06 Jan 2027",
+        "end_date": "08 Jan 2027",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "computationaldefectm06Jan2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -5101,6 +4771,25 @@
             "Switzerland"
         ],
         "uid": "swisssnowsymposium21Jan2027_0"
+    },
+    {
+        "themes": [
+            "computational/data"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Introduction to machine learning for chemists (workshop)",
+        "url": "https://aichemy.ac.uk/event/introduction-to-machine-learning-for-chemists-workshop/",
+        "start_date": "22 Jan 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "introductiontomachin22Jan2027_0"
     },
     {
         "themes": [
@@ -6562,6 +6251,26 @@
     },
     {
         "themes": [
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Chemistry & materials machine learning school CAMMLS",
+        "url": "https://aichemy.ac.uk/event/cammls-chemical-and-materials-machine-learning-school-2026/",
+        "start_date": "05 Apr 2027",
+        "end_date": "09 Apr 2027",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "chemistrymaterialsma05Apr2027_0"
+    },
+    {
+        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -6796,6 +6505,27 @@
             "Online"
         ],
         "uid": "filtrationdryingtrai13Apr2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "computational/data",
+            "materials/polymers"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "AIchemy Annual Conference (chemistry, AI, materials, robotics, etc)",
+        "url": "https://aichemy.ac.uk/event/aichemy-annual-conference-2027/",
+        "start_date": "14 Apr 2027",
+        "end_date": "15 Apr 2027",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "aichemyannualconfere14Apr2027_0"
     },
     {
         "themes": [
