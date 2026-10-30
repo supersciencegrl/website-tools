@@ -1,646 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "ACS Midwest Regional Meeting MWRM",
-        "url": "https://www.k-state.edu/chem/conferences/acs_midwest_2026/untitled.html",
-        "start_date": "25 Oct 2026",
-        "end_date": "27 Oct 2026",
-        "locations": [
-            "Manhattan, KS, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "KS"
-        ],
-        "uid": "acsmidwestregionalme25Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "automation",
-            "careers",
-            "chem bio",
-            "computational/data",
-            "formulation/particle science",
-            "law/policy",
-            "med chem",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "PharmSci 360",
-        "url": "https://www.aaps.org/pharmsci/future-annual-events",
-        "start_date": "25 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "New Orleans, LA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "LA"
-        ],
-        "uid": "pharmsci36025Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "chem bio"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Fluorescent proteins & biological sensors",
-        "url": "https://www.janelia.org/you-janelia/conferences/fluorescent-proteins-and-biological-sensors-viii",
-        "start_date": "25 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "Ashburn, VA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "VA"
-        ],
-        "uid": "fluorescentproteinsb25Oct2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Scale-Up: What Goes Wrong? (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/scale-up-what-goes-wrong-short-course/",
-        "start_date": "26 Oct 2026",
-        "end_date": "27 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "scaleupwhatgoeswrong26Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ArabLab Live",
-        "url": "https://www.terrapinn.com/exhibition/arablab-live/",
-        "start_date": "26 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "Dubai, UAE"
-        ],
-        "countries": [
-            "UAE"
-        ],
-        "uid": "arablablive26Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "The AI-augmented chemist: Building LLM workflows for drug discovery (training course)",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSelAvFeCHkjTPcAfHQp8TlNZHeVf5LMXDTl5pOHgHD-AQEb8w/viewform",
-        "start_date": "26 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "theaiaugmentedchemis26Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western USA"
-        ],
-        "title": "Raw Materials for Cell & Gene Therapy Summit",
-        "url": "https://rawmaterials-cgt.com/",
-        "start_date": "26 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "San Diego, CA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "CA"
-        ],
-        "uid": "rawmaterialsforcellg26Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "World Orphan Drug Congress",
-        "url": "https://www.terrapinn.com/conference/world-orphan-drug-congress/?",
-        "start_date": "26 Oct 2026",
-        "end_date": "28 Oct 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "worldorphandrugcongr26Oct2026_0"
-    },
-    {
-        "themes": [
-            "environment/fuels",
-            "law/policy",
-            "process/engineering"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Cleaner Production Conference",
-        "url": "https://www.elsevier.com/events/conferences/all/global-cleaner-production-conference",
-        "start_date": "26 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Sitges, Spain"
-        ],
-        "countries": [
-            "Spain"
-        ],
-        "uid": "cleanerproductioncon26Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry",
-            "safety"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "American Society for Cellular & Computational Toxicology ASCCT & Society for Advancement of Adverse Outcome Pathways SAAOP Annual Meetings",
-        "url": "https://www.ascctox.org/annual-meeting",
-        "start_date": "26 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Durham, NC, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "NC"
-        ],
-        "uid": "americansocietyforce26Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "computational/data",
-            "physical/phys org"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Advancements in Vibrational Spectroscopy (workshop)",
-        "url": "https://www.eventbrite.co.uk/e/advancements-in-vibrational-spectroscopy-tickets-1998533195587?aff=oddtdtcreator&keep_tld=true",
-        "start_date": "27 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Didcot, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "advancementsinvibrat27Oct2026_0"
-    },
-    {
-        "themes": [
-            "materials/polymers"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Beilstein Symposium: Shaping the future of nanotechnology",
-        "url": "https://www.beilstein-institut.de/en/symposia/shaping-the-future-of-nanotechnology/",
-        "start_date": "27 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Limburg, Germany"
-        ],
-        "countries": [
-            "Germany"
-        ],
-        "uid": "beilsteinsymposiumsh27Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "pharma industry",
-            "process/engineering"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Process monitoring in pharma manufacturing",
-        "url": "https://process-monitoring-pharma.com/",
-        "start_date": "27 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "processmonitoringinp27Oct2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "environment/fuels",
-            "safety"
-        ],
-        "regions": [
-            "South America"
-        ],
-        "title": "Society for Environmental Toxicology & Chemistry SETAC Argentina Congress",
-        "url": "https://setacargentina.setac.org/congreso2026",
-        "start_date": "27 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Buenos Aires, Argentina"
-        ],
-        "countries": [
-            "Argentina"
-        ],
-        "uid": "societyforenvironmen27Oct2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "FAIR research data management: A basic workshop series for chemists",
-        "url": "https://nfdi4chem.de/event/fair-research-data-management-a-basic-workshop-series-for-chemists/",
-        "start_date": "27 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "fairresearchdatamana27Oct2026_0"
-    },
-    {
-        "themes": [
-            "careers"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "SCI Day of Science & Careers (early-career)",
-        "url": "https://www.soci.org/events/hq-events/2026/sci-day-of-science-and-careers-2026",
-        "start_date": "28 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "scidayofsciencecaree28Oct2026_0"
-    },
-    {
-        "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Future Labs Live USA",
-        "url": "https://www.terrapinn.com/conference/future-labs-live-usa/?",
-        "start_date": "28 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Pennsylvania, PA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "PA"
-        ],
-        "uid": "futurelabsliveusa28Oct2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Pharma Software User GroupPharmaSUG Japan 2026",
-        "url": "https://pharmasug.org/conferences/japan2026/",
-        "start_date": "28 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Tokyo, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "pharmasoftwareusergr28Oct2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Global Summit on Process Safety GSPS",
-        "url": "https://www.aiche.org/ccps/conferences/ccps-global-summit-on-process-safety/2026",
-        "start_date": "28 Oct 2026",
-        "end_date": "29 Oct 2026",
-        "locations": [
-            "Qindao, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "globalsummitonproces28Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "computational/data"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "European RosettaCon: Crossing boundaries with protein design",
-        "url": "https://rosettacommons.org/events/erc/",
-        "start_date": "28 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Lisbon, Portugal"
-        ],
-        "countries": [
-            "Portugal"
-        ],
-        "uid": "europeanrosettaconcr28Oct2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Intl & Pakistani National Chemistry Conference: Chemistry for Sustainable Development CHEMCON-2026",
-        "url": "https://scpu.edu.pk/events/chemcon-26/index.html",
-        "start_date": "28 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Lahore, Pakistan"
-        ],
-        "countries": [
-            "Pakistan"
-        ],
-        "uid": "intlpakistaninationa28Oct2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "med chem",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Japanese Peptide Symposium",
-        "url": "https://www.peptide-soc.jp/63jps/en/",
-        "start_date": "28 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Hiroshima, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "japanesepeptidesympo28Oct2026_0"
-    },
-    {
-        "themes": [
-            "business"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Pioneer Connections: Pitching & investment insights with Bionow",
-        "url": "https://bionow.glueup.com/event/pioneer-connections-pitching-investment-insights-with-bionow-189653/",
-        "start_date": "29 Oct 2026",
-        "end_date": null,
-        "locations": [
-            "Glasgow, Scotland, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "Scotland"
-        ],
-        "uid": "pioneerconnectionspi29Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "formulation/particle science",
-            "pharma industry"
-        ],
-        "regions": [
-            "Eastern USA"
-        ],
-        "title": "Partnering to Advance Drug Delivery PODD",
-        "url": "https://www.poddconference.com/",
-        "start_date": "29 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Boston, MA, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MA"
-        ],
-        "uid": "partneringtoadvanced29Oct2026_0"
-    },
-    {
-        "themes": [
-            "computational/data"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Chemical Science symposium 2026: Digital chemistry in the age of AI & machine learning",
-        "url": "https://www.rsc.org/events/find-an-event/chemical-science-symposium-2026-digital-chemistry-in-the-age-of-ai-and-machine-learning",
-        "start_date": "29 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "chemicalsciencesympo29Oct2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Long-Acting Gathering for Learning, Opportunity, Breakthroughs, Access & Leadership LA-GLOBAL (long-acting therapeutics)",
-        "url": "https://www.liverpool.ac.uk/celt-global-health/events/la-global/",
-        "start_date": "29 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "longactinggatheringf29Oct2026_0"
-    },
-    {
-        "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Oxford Women in Chemistry OxWiChem",
-        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkR96t0g4kdZHrnrkxNA5aElUQlBRNTg0STJBQkpGUDMzSks1VDJLUlg3UCQlQCN0PWcu&route=shorturl",
-        "start_date": "29 Oct 2026",
-        "end_date": "30 Oct 2026",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "oxfordwomeninchemist29Oct2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "med chem",
             "pharma industry"
@@ -4221,6 +3581,29 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "formulation/particle science",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Solid State Chemistry Group SSCG Christmas Meeting",
+        "url": "https://sscg.uk/2026-sscg-christmas-meeting",
+        "start_date": "15 Dec 2026",
+        "end_date": "17 Dec 2026",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "solidstatechemistryg15Dec2026_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "computational/data",
             "environment/fuels",
@@ -4305,6 +3688,29 @@
             "UK"
         ],
         "uid": "macrocyclicsupramole21Dec2026_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "chem bio",
+            "history/philosophy",
+            "materials/polymers",
+            "physical/phys org"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "UK Surface Analysis Forum UKSAF: Soft matter: covering bioapplications & heritage science",
+        "url": "https://www.uksaf.net/",
+        "start_date": "06 Jan 2027",
+        "end_date": null,
+        "locations": [
+            "Harwell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "uksurfaceanalysisfor06Jan2027_0"
     },
     {
         "themes": [
@@ -5059,6 +4465,27 @@
     },
     {
         "themes": [
+            "analytical",
+            "chem bio",
+            "physical/phys org"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "European Synchrotron Research Facility ESRF User Meeting",
+        "url": "https://www.esrf.fr/UM2027",
+        "start_date": "08 Feb 2027",
+        "end_date": "10 Feb 2027",
+        "locations": [
+            "Grenoble, France"
+        ],
+        "countries": [
+            "France"
+        ],
+        "uid": "europeansynchrotronr08Feb2027_0"
+    },
+    {
+        "themes": [
             "chem bio",
             "computational/data",
             "med chem",
@@ -5768,7 +5195,7 @@
         "start_date": "16 Mar 2027",
         "end_date": "18 Mar 2027",
         "locations": [
-            "Sant Cugat, Spain"
+            "Barcelona, Spain"
         ],
         "countries": [
             "Spain"
@@ -10018,6 +9445,27 @@
             "France"
         ],
         "uid": "europeanmaterialsres13Sep2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "process/engineering"
+        ],
+        "regions": [
+            "Scotland"
+        ],
+        "title": "European Congress of Chemical Engineering & European Congress of Applied Biotechnology ECCE/ECAB",
+        "url": "https://www.ecce-ecab2027.org/",
+        "start_date": "13 Sep 2027",
+        "end_date": "16 Sep 2027",
+        "locations": [
+            "Edinburgh, Scotland, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "europeancongressofch13Sep2027_0"
     },
     {
         "themes": [
