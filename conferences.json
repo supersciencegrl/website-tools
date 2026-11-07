@@ -1,49 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Southern USA"
-        ],
-        "title": "South East Regional Meeting of the ACS SERMACS",
-        "url": "https://sermacs2026.org/",
-        "start_date": "04 Nov 2026",
-        "end_date": "07 Nov 2026",
-        "locations": [
-            "Memphis, TN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "TN"
-        ],
-        "uid": "southeastregionalmee04Nov2026_0"
-    },
-    {
-        "themes": [
             "careers",
             "process/engineering"
         ],
@@ -445,6 +402,31 @@
             "UK"
         ],
         "uid": "outbiouknetworkingmi11Nov2026_0"
+    },
+    {
+        "themes": [
+            "med chem",
+            "pharma industry",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "NJ-ACS Award for creativity in molecular design & synthesis conference",
+        "url": "https://www.njacs.org/event/2026-nj-acs-award-for-creativity-in-molecular-design-synthesis/",
+        "start_date": "11 Nov 2026",
+        "end_date": null,
+        "locations": [
+            "Somerset, NJ, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "NJ"
+        ],
+        "uid": "njacsawardforcreativ11Nov2026_0"
     },
     {
         "themes": [
@@ -1658,6 +1640,26 @@
             "India"
         ],
         "uid": "rscmeettheeditors23Nov2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "formulation/particle science"
+        ],
+        "regions": [
+            "Online"
+        ],
+        "title": "Olex2 workshop (crystal structure refinement)",
+        "url": "https://www.olexsys.org/blog/online-workshop-nov26/",
+        "start_date": "23 Nov 2026",
+        "end_date": "24 Nov 2026",
+        "locations": [
+            "Online"
+        ],
+        "countries": [
+            "Online"
+        ],
+        "uid": "olex2workshopcrystal23Nov2026_0"
     },
     {
         "themes": [
@@ -4849,6 +4851,28 @@
     },
     {
         "themes": [
+            "catalysis",
+            "chem bio",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Emerging perspectives in organic synthesis",
+        "url": "https://www.soci.org/events/young-chemists-panel/2027/emerging-perspectives-in-organic-synthesis",
+        "start_date": "17 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "emergingperspectives17Mar2027_0"
+    },
+    {
+        "themes": [
             "computational/data"
         ],
         "regions": [
@@ -5340,6 +5364,29 @@
             "UK"
         ],
         "uid": "chemistrymaterialsma05Apr2027_0"
+    },
+    {
+        "themes": [
+            "careers",
+            "education"
+        ],
+        "regions": [
+            "Eastern USA"
+        ],
+        "title": "Institute for Future PUI Faculty",
+        "url": "https://sites.lafayette.edu/puiinstitute/",
+        "start_date": "05 Apr 2027",
+        "end_date": "17 Apr 2027",
+        "locations": [
+            "Easton, PA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "PA"
+        ],
+        "uid": "instituteforfuturepu05Apr2027_0"
     },
     {
         "themes": [
@@ -9692,6 +9739,31 @@
             "China"
         ],
         "uid": "foodchemistryconfere08Nov2027_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "inorganic/nano",
+            "materials/polymers",
+            "process/engineering",
+            "synthesis"
+        ],
+        "regions": [
+            "Africa"
+        ],
+        "title": "Annual Meeting of the Catalysis Society of South Africa CATSA",
+        "url": "https://catsaconference2026.catsa.org.za/",
+        "start_date": "08 Nov 2027",
+        "end_date": "11 Nov 2027",
+        "locations": [
+            "KwaZulu-Natal, South Africa"
+        ],
+        "countries": [
+            "South Africa"
+        ],
+        "uid": "annualmeetingoftheca08Nov2027_0"
     },
     {
         "themes": [
