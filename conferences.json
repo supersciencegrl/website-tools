@@ -1,49 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "process/engineering"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "American Institute of Chemical Engineers AIChE Annual Student Conference",
-        "url": "https://www.aiche.org/conferences/annual-aiche-student-conference/2026",
-        "start_date": "06 Nov 2026",
-        "end_date": "09 Nov 2026",
-        "locations": [
-            "Minneapolis, MN, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "MN"
-        ],
-        "uid": "americaninstituteofc06Nov2026_0"
-    },
-    {
-        "themes": [
-            "computational/data",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "AI for sustainable materials",
-        "url": "https://natureconferences.streamgo.live/ai-for-sustainable-materials/lobby",
-        "start_date": "07 Nov 2026",
-        "end_date": "09 Nov 2026",
-        "locations": [
-            "Xi'an, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "aiforsustainablemate07Nov2026_0"
-    },
-    {
-        "themes": [
             "chem bio",
             "computational/data",
             "materials/polymers",
@@ -114,46 +71,6 @@
     },
     {
         "themes": [
-            "automation",
-            "computational/data"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Universal Files: Connecting scientists, instruments, robots, & AI",
-        "url": "https://www.linkedin.com/posts/simon-yates-99569254_are-you-tired-of-re-writing-data-from-one-share-7510335925223075840-z1Z2/",
-        "start_date": "09 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Gothenburg, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "universalfilesconnec09Nov2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science",
-            "process/engineering"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Practical crystallization (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/practical-crystallisation/",
-        "start_date": "09 Nov 2026",
-        "end_date": "10 Nov 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "practicalcrystalliza09Nov2026_0"
-    },
-    {
-        "themes": [
             "business",
             "chem bio",
             "pharma industry"
@@ -216,69 +133,6 @@
             "Online"
         ],
         "uid": "flowchemistrytrainin09Nov2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "JPAG Pharmaceutical Analysis Research & Career Fair",
-        "url": "https://www.jpag.org/?p=meetings&r=195",
-        "start_date": "10 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "jpagpharmaceuticalan10Nov2026_0"
-    },
-    {
-        "themes": [
-            "chem bio",
-            "pharma industry"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Genomics & Precision Medicine Congress",
-        "url": "https://live.publicpolicyprojects.com/GenomicsandPrecisionMedicinesCongress2026",
-        "start_date": "10 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "genomicsprecisionmed10Nov2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "environment/fuels",
-            "inorganic/nano",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Engineering the future of solid state batteries",
-        "url": "https://www.nims.go.jp/nims-award-symposium/",
-        "start_date": "10 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Tsukaba, Japan"
-        ],
-        "countries": [
-            "Japan"
-        ],
-        "uid": "engineeringthefuture10Nov2026_0"
     },
     {
         "themes": [
@@ -3983,6 +3837,26 @@
     },
     {
         "themes": [
+            "catalysis",
+            "computational/data"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Practical workshop on AI for homogeneous catalysis ChemAICat (academia only)",
+        "url": "https://www.linkedin.com/posts/evgeny-pidko-ab036212_we-are-organizing-a-practical-workshop-on-share-7523751246416203778-_hR7/",
+        "start_date": "01 Feb 2027",
+        "end_date": "03 Feb 2027",
+        "locations": [
+            "Utrecht, Netherlands"
+        ],
+        "countries": [
+            "Netherlands"
+        ],
+        "uid": "practicalworkshopona01Feb2027_0"
+    },
+    {
+        "themes": [
             "business",
             "formulation/particle science",
             "process/engineering"
@@ -4870,6 +4744,28 @@
             "UK"
         ],
         "uid": "emergingperspectives17Mar2027_0"
+    },
+    {
+        "themes": [
+            "analytical",
+            "automation",
+            "computational/data",
+            "process/engineering"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Centre for Process Analysis & Control CPACT Research & Technology Day",
+        "url": "https://www.cpact.com/Events/Event?eid=482",
+        "start_date": "17 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "centreforprocessanal17Mar2027_0"
     },
     {
         "themes": [
