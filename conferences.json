@@ -1,29 +1,6 @@
 [
     {
         "themes": [
-            "careers",
-            "catalysis",
-            "chem bio",
-            "inorganic/nano",
-            "materials/polymers"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "ChemSci 2026: Leaders in the Field Symposium",
-        "url": "https://www.rsc.org/events/find-an-event/chemsci-2026-leaders-in-the-field-symposium,-iiser-bhopal-2026-11-12",
-        "start_date": "12 Nov 2026",
-        "end_date": "14 Nov 2026",
-        "locations": [
-            "Bhopal, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "chemsci2026leadersin12Nov2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -3297,6 +3274,29 @@
     {
         "themes": [
             "automation",
+            "careers",
+            "computational/data",
+            "education",
+            "materials/polymers"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "New starters in AI for chemistry (academia)",
+        "url": "https://aichemy.ac.uk/event/new-starters-in-ai-for-chemistry/",
+        "start_date": "28 Jan 2027",
+        "end_date": null,
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "newstartersinaiforch28Jan2027_0"
+    },
+    {
+        "themes": [
+            "automation",
             "chem bio"
         ],
         "regions": [
@@ -5095,6 +5095,28 @@
     },
     {
         "themes": [
+            "business",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "London"
+        ],
+        "title": "Ace Drug Discovery & Clinical Trials Summits",
+        "url": "https://acxpo.com/",
+        "start_date": "14 Apr 2027",
+        "end_date": "15 Apr 2027",
+        "locations": [
+            "London, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "acedrugdiscoveryclin14Apr2027_0"
+    },
+    {
+        "themes": [
             "analytical",
             "physical/phys org"
         ],
@@ -5454,6 +5476,31 @@
             "UK"
         ],
         "uid": "londonlablive05May2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western USA"
+        ],
+        "title": "Ace Drug Discovery & Clinical Trials Summits",
+        "url": "https://acxpo.com/",
+        "start_date": "05 May 2027",
+        "end_date": "06 May 2027",
+        "locations": [
+            "San Diego, CA, USA"
+        ],
+        "countries": [
+            "USA"
+        ],
+        "US_state": [
+            "CA"
+        ],
+        "uid": "acedrugdiscoveryclin05May2027_0"
     },
     {
         "themes": [
@@ -8744,6 +8791,26 @@
             "Colombia"
         ],
         "uid": "societyofenvironment14Sep2027_0"
+    },
+    {
+        "themes": [
+            "business",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Ace Clinical Trials Summits",
+        "url": "https://acxpo.com/3rd-ace-clinical-trials-supply-summit-barcelona-2027/",
+        "start_date": "15 Sep 2027",
+        "end_date": "16 Sep 2027",
+        "locations": [
+            "Barcelona, Spain"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "uid": "aceclinicaltrialssum15Sep2027_0"
     },
     {
         "themes": [
