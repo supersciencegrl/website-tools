@@ -104,26 +104,6 @@
     },
     {
         "themes": [
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Advancing light emitting devices for integrated intelligence",
-        "url": "https://natureconferences.streamgo.live/advancing-light-emitting-device-for-integrated-intelligence/lobby",
-        "start_date": "16 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Foshan, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "advancinglightemitti16Nov2026_0"
-    },
-    {
-        "themes": [
             "process/engineering",
             "safety",
             "synthesis"
@@ -1622,6 +1602,29 @@
             "Global"
         ],
         "uid": "intlprocesssafetyday02Dec2026_0"
+    },
+    {
+        "themes": [
+            "automation",
+            "catalysis",
+            "computational/data",
+            "pharma industry",
+            "synthesis"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Sigma-Aldrich Christmas Chemistry Symposium",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7527979685767708672/",
+        "start_date": "02 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Gothenburg, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "sigmaaldrichchristma02Dec2026_0"
     },
     {
         "themes": [
