@@ -1,49 +1,6 @@
 [
     {
         "themes": [
-            "agrochemistry",
-            "analytical",
-            "automation",
-            "business",
-            "careers",
-            "catalysis",
-            "chem bio",
-            "computational/data",
-            "diversity",
-            "education",
-            "environment/fuels",
-            "formulation/particle science",
-            "history/philosophy",
-            "inorganic/nano",
-            "law/policy",
-            "materials/polymers",
-            "med chem",
-            "pharma industry",
-            "physical/phys org",
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Midwest USA"
-        ],
-        "title": "ACS Central Regional Meeting CERM",
-        "url": "https://www.acscerm2026.org/",
-        "start_date": "14 Nov 2026",
-        "end_date": "17 Nov 2026",
-        "locations": [
-            "Cincinnati, OH, USA"
-        ],
-        "countries": [
-            "USA"
-        ],
-        "US_state": [
-            "OH"
-        ],
-        "uid": "acscentralregionalme14Nov2026_0"
-    },
-    {
-        "themes": [
             "computational/data",
             "pharma industry"
         ],
@@ -101,46 +58,6 @@
             "New Zealand"
         ],
         "uid": "newzealandinstituteo15Nov2026_0"
-    },
-    {
-        "themes": [
-            "process/engineering",
-            "safety",
-            "synthesis"
-        ],
-        "regions": [
-            "Western Europe"
-        ],
-        "title": "Chemical & Process Safety for Development Chemists (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/chemical-and-process-safety-for-development-chemists/",
-        "start_date": "16 Nov 2026",
-        "end_date": "17 Nov 2026",
-        "locations": [
-            "Amsterdam, Netherlands"
-        ],
-        "countries": [
-            "Netherlands"
-        ],
-        "uid": "chemicalprocesssafet16Nov2026_0"
-    },
-    {
-        "themes": [
-            "formulation/particle science"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "Understanding Solid Form (training course)",
-        "url": "https://www.scientificupdate.com/training_courses/understanding-solid-form/",
-        "start_date": "16 Nov 2026",
-        "end_date": "17 Nov 2026",
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "understandingsolidfo16Nov2026_0"
     },
     {
         "themes": [
@@ -309,28 +226,6 @@
             "Denmark"
         ],
         "uid": "dreamreactionsofco2c16Nov2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "inorganic/nano",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "Challenges in Catalysis",
-        "url": "https://www.soci.org/events/fine-chemicals-group/2026/challenges-in-catalysis-ix",
-        "start_date": "17 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "challengesincatalysi17Nov2026_0"
     },
     {
         "themes": [
@@ -3575,6 +3470,27 @@
     },
     {
         "themes": [
+            "chem bio",
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Western Europe"
+        ],
+        "title": "Expanding the landscape of membrane-bound targets, GPCR's, & beyond",
+        "url": "https://elrig.org/portfolio/expanding-the-landscape-of-membrane-bound-targets-gpcrs-and-beyond/",
+        "start_date": "11 Feb 2027",
+        "end_date": null,
+        "locations": [
+            "Berlin, Germany"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "uid": "expandingthelandscap11Feb2027_0"
+    },
+    {
+        "themes": [
             "catalysis",
             "environment/fuels",
             "inorganic/nano"
@@ -4320,6 +4236,27 @@
             "UK"
         ],
         "uid": "centreforprocessanal17Mar2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "med chem",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Early discovery for next-generation antibody drug conjugates",
+        "url": "https://elrig.org/portfolio/early-discovery-for-next-generation-antibody-drug-conjugates/",
+        "start_date": "17 Mar 2027",
+        "end_date": null,
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "earlydiscoveryfornex17Mar2027_0"
     },
     {
         "themes": [
@@ -5201,6 +5138,26 @@
             "UK"
         ],
         "uid": "scirscsymposiumonion19Apr2027_0"
+    },
+    {
+        "themes": [
+            "chem bio",
+            "pharma industry"
+        ],
+        "regions": [
+            "UK"
+        ],
+        "title": "Reprogramming biology: Engineering the next generation of therapeutics",
+        "url": "https://elrig.org/portfolio/reprogramming-biology-engineering-the-next-generation-of-therapeutics/",
+        "start_date": "20 Apr 2027",
+        "end_date": null,
+        "locations": [
+            "Coventry, UK"
+        ],
+        "countries": [
+            "UK"
+        ],
+        "uid": "reprogrammingbiology20Apr2027_0"
     },
     {
         "themes": [
