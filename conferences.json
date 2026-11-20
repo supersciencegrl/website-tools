@@ -1,26 +1,6 @@
 [
     {
         "themes": [
-            "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Pharmaceutical Users Software Exchange EU",
-        "url": "https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=74357&eventID=114",
-        "start_date": "15 Nov 2026",
-        "end_date": "18 Nov 2026",
-        "locations": [
-            "Glasgow, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "pharmaceuticaluserss15Nov2026_0"
-    },
-    {
-        "themes": [
             "agrochemistry",
             "analytical",
             "automation",
@@ -58,47 +38,6 @@
             "New Zealand"
         ],
         "uid": "newzealandinstituteo15Nov2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "business",
-            "chem bio"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "analytica China",
-        "url": "https://analytica.de/de/china/",
-        "start_date": "16 Nov 2026",
-        "end_date": "18 Nov 2026",
-        "locations": [
-            "Shanghai, China"
-        ],
-        "countries": [
-            "China"
-        ],
-        "uid": "analyticachina16Nov2026_0"
-    },
-    {
-        "themes": [
-            "catalysis",
-            "chem bio"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Redox: The good, the bad, & the unexpected (redox biology)",
-        "url": "https://www.rsc.org/events/find-an-event/redox-the-good,-the-bad-and-the-unexpected",
-        "start_date": "16 Nov 2026",
-        "end_date": "18 Nov 2026",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "redoxthegoodthebadth16Nov2026_0"
     },
     {
         "themes": [
@@ -231,49 +170,6 @@
         "themes": [
             "business",
             "computational/data",
-            "pharma industry"
-        ],
-        "regions": [
-            "Asia"
-        ],
-        "title": "Paperless Lab Academy India",
-        "url": "https://www.paperlesslabacademy.com/india-2026/",
-        "start_date": "17 Nov 2026",
-        "end_date": "18 Nov 2026",
-        "locations": [
-            "Hyderabad, India"
-        ],
-        "countries": [
-            "India"
-        ],
-        "uid": "paperlesslabacademyi17Nov2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "inorganic/nano",
-            "materials/polymers",
-            "physical/phys org"
-        ],
-        "regions": [
-            "Northern Europe"
-        ],
-        "title": "Early Science ESS Diffraction Workshop",
-        "url": "https://indico.ess.eu/event/4043/overview",
-        "start_date": "17 Nov 2026",
-        "end_date": "18 Nov 2026",
-        "locations": [
-            "Lund, Sweden"
-        ],
-        "countries": [
-            "Sweden"
-        ],
-        "uid": "earlyscienceessdiffr17Nov2026_0"
-    },
-    {
-        "themes": [
-            "business",
-            "computational/data",
             "law/policy",
             "med chem",
             "pharma industry"
@@ -295,88 +191,6 @@
             "MA"
         ],
         "uid": "modelinformeddrugdev17Nov2026_0"
-    },
-    {
-        "themes": [
-            "analytical",
-            "careers",
-            "chem bio",
-            "pharma industry",
-            "process/engineering",
-            "synthesis"
-        ],
-        "regions": [
-            "Online"
-        ],
-        "title": "[Big Pharma Company] Chemistry Connect (students & postdocs)",
-        "url": "https://www.pfizerchemistryconnect.com/",
-        "start_date": "18 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Online"
-        ],
-        "countries": [
-            "Online"
-        ],
-        "uid": "bigpharmacompanychem18Nov2026_0"
-    },
-    {
-        "themes": [
-            "law/policy"
-        ],
-        "regions": [
-            "Scotland"
-        ],
-        "title": "Science & the Scottish Parliament",
-        "url": "https://www.rsc.org/events/find-an-event/science-and-the-parliament-2026",
-        "start_date": "18 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Edinburgh, Scotland, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "sciencethescottishpa18Nov2026_0"
-    },
-    {
-        "themes": [
-            "careers",
-            "diversity"
-        ],
-        "regions": [
-            "UK"
-        ],
-        "title": "Black Research Connnections BRC",
-        "url": "https://www.blackresearcherconsortium.org/conf-2026",
-        "start_date": "18 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "blackresearchconnnec18Nov2026_0"
-    },
-    {
-        "themes": [
-            "diversity"
-        ],
-        "regions": [
-            "London"
-        ],
-        "title": "LGBTQ+ STEM Day (documentary showing)",
-        "url": "https://www.linkedin.com/posts/lgbtqstemday-share-7520532754854240256-dz1s/",
-        "start_date": "18 Nov 2026",
-        "end_date": null,
-        "locations": [
-            "London, UK"
-        ],
-        "countries": [
-            "UK"
-        ],
-        "uid": "lgbtqstemdaydocument18Nov2026_0"
     },
     {
         "themes": [
@@ -1409,6 +1223,26 @@
             "UK"
         ],
         "uid": "societyofchemicalind01Dec2026_0"
+    },
+    {
+        "themes": [
+            "computational/data",
+            "pharma industry"
+        ],
+        "regions": [
+            "Northern Europe"
+        ],
+        "title": "Hackathon: AI agents transforming life sciences, medicine, & healthcare",
+        "url": "https://www.scilifelab.se/event/hackathon-ai-agents-transforming-life-sciences-medicine-and-healthcare/",
+        "start_date": "01 Dec 2026",
+        "end_date": null,
+        "locations": [
+            "Stockholm, Sweden"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "uid": "hackathonaiagentstra01Dec2026_0"
     },
     {
         "themes": [
